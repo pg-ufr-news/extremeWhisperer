@@ -389,7 +389,8 @@ def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
         foundKeywords.append(keyWord) 
         data['keyword'] = random.choice(foundKeywords)
         foundArticles.append(data)
-
+      else:    
+        print([keyWord, searchQuote])
     return foundArticles
 
 def filterNewAndArchive(articles, language, keyWord):
