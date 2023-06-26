@@ -384,6 +384,7 @@ def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
          if(allFound):
              foundKeywords.append(keyword) 
              found = True
+      print([data['title'], found])       
       if(found):
         foundKeywords.append(keyWord) 
         data['keyword'] = random.choice(foundKeywords)
