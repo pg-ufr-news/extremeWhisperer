@@ -362,12 +362,13 @@ def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
     for article in articles:
       data = extractData(article, language, keyWord)
       searchQuote = str(data['title']) + " " + str(data['description'])
+      searchQuote = searchQuote.lower()   
       foundKeywords = []
       found = False
       for index2, column2 in keywordsLangDF.iterrows(): 
          keyword = column2['keyword']
          allFound = True
-         keywords = keyword.strip("'").split(" ")
+         keywords = keyword.strip("'").lower().split(" ")
          for keyw in keywords:
             allFound = allFound and (keyw in searchQuote)
          if(allFound):
@@ -377,7 +378,7 @@ def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
       for index2, column2 in seldomDF.iterrows(): 
          keyword = column2['keyword']
          allFound = True
-         keywords = keyword.strip("'").split(" ")
+         keywords = keyword.strip("'").lower().split(" ")
          for keyw in keywords:
             allFound = allFound and (keyw in searchQuote)
          if(allFound):
