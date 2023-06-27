@@ -567,6 +567,8 @@ def inqRandomNews():
     termsDF.loc[termsDF['index'] == crc, 'limit'] = newLimit 
     termsDF.loc[termsDF['index'] == crc, 'counter'] = newCounter 
     termsDF.loc[termsDF['index'] == crc, 'ratio'] = currRatio*0.15+ratioNew*0.85
+    print(['xxx','currRatio',currRatio,'ratioNew',ratioNew,'currPage: ',currPage,' limitPages: ',limitPages,' deltaLimit: ',deltaLimit,' new Limit: ', newLimit])  
+
         
       
 
