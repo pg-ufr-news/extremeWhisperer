@@ -564,7 +564,7 @@ def inqRandomNews():
               # {"status":"error","code":"maximumResultsReached","message":"You have requested too many results. Developer accounts are limited to a max of 100 results. You are trying to request results 100 to 150. Please upgrade to a paid plan if you need more results."}
     #print(rndKey.index)
     #termsDF.at[rndKey.index, 'limitPages'] = newLimit    
-    termsDF.loc[termsDF['index'] == crc, 'limit'] = newLimit 
+    termsDF.loc[termsDF['index'] == crc, 'pages'] = newLimit 
     termsDF.loc[termsDF['index'] == crc, 'counter'] = newCounter 
     termsDF.loc[termsDF['index'] == crc, 'ratio'] = currRatio*0.15+ratioNew*0.85
     print(['xxx','crc',crc,'currRatio',currRatio,'ratioNew',ratioNew,'currPage: ',currPage,' limitPages: ',limitPages,' new Limit: ', newLimit])  
