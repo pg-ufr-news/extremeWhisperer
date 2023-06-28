@@ -9,3 +9,10 @@ if(not os.getenv('NEWSAPI_KEY')):
     os.environ['NEWSAPI_KEY'] = '1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7'
 else:
     print("NEWSAPI_KEY already set.")
+
+# https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+if(not os.getenv('GITHUB_TOKEN')):
+    print("GITHUB_TOKEN not yet set.")
+    os.environ['GITHUB_TOKEN'] = 'ghp_1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f'
+else:
+    print("GITHUB_TOKEN already set.")

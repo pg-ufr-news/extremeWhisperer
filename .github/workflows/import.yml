@@ -1,0 +1,55 @@
+# This is a basic workflow to help you get started with Actions
+
+name: harvest:0.0
+
+on:
+  push:
+    branches:
+      - 'main'
+  workflow_dispatch:
+  schedule:
+    # * is a special character in YAML so you have to quote this string : 
+#    daily,every 5 hours #m h d/m m d/w 
+    - cron:  '15 */8 * * *'
+#    every 2 hour
+#    - cron:  '30 */2 * * *'
+#    every 3.rd of sept
+#    - cron:  '* * 2 9 *' 
+  
+jobs:
+  docker-run-action:
+    runs-on: ubuntu-latest
+    container:
+      image: credocker/crecoding:2020.0
+      env:
+        NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      volumes:
+        - ${{ github.workspace }}:/cre/python
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set ownership
+        run: |
+          # this is to fix GIT not liking owner of the checkout dir
+          chown -R $(id -u):$(id -g) $PWD
+#        with:
+#          ref: master
+      - name: install aiohttp
+        run: (pip3 install aiohttp)
+      - name: install asyncio
+        run: (pip3 install asyncio)
+      - name: cd /cre/python/
+        run: (cd /cre/python/)
+      - name: cp mysecrets.py
+        run: (cp mysecrets.orig.py mysecrets.py)
+      - name: Run newsapi
+        env:
+            NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+            GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: (python3 import.py)
+      - name: Submit changes       
+        uses: EndBug/add-and-commit@v9
+        with:
+#          pull: '--rebase --autostash ...'
+          add: 'terms.csv'
+          tag_push: '--force'
