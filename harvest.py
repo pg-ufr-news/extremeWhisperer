@@ -445,7 +445,7 @@ def inqRandomNews():
     rndKey = termsDF.sample()
     randomNumber = random.random()
    
-    randomNumber = 0.05
+    ## randomNumber = 0.05
 
     print(['randomNumber: ',randomNumber])
     if(not keywordsNewsDF2.empty):
