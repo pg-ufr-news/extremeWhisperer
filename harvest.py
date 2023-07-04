@@ -56,8 +56,15 @@ def getAge(dateString):
 termsFields = ["index","module", "topic", "color", "feed", "term", "created", "country", "ratio", "counter", "pages", "language"]
 termsDF = pd.read_csv(DATA_PATH / 'terms.csv', delimiter=',')  #,index_col='keyword'
 termsDF = termsDF.sort_values(by=['ratio'], ascending=False)  
+
+
+unsearchedTerms = termsDF
+unsearchedTerms['unsearched'] = termsDF['ratio'] - termsDF['counter']
+unsearchedTerms = unsearchedTerms.sort_values(by=['unsearched'], ascending=False) 
+rows20 = int(math.ceil(unsearchedTerms.shape[0]/5))
+unsearchedTerms = unsearchedTerms.head(rows20)
 print('11111111111111111111111111111')
-print(termsDF)
+print(unsearchedTerms)
 
 def getNewsFiles():
     fileName = './cxsv/news_????_??.csv'
@@ -444,24 +451,32 @@ def inqRandomNews():
 
     rndKey = termsDF.sample()
     randomNumber = random.random()
-   
-    ## randomNumber = 0.05
+  
+    #randomNumber = 0.1
+    #randomNumber = 0.55
 
     print(['randomNumber: ',randomNumber])
     if(not keywordsNewsDF2.empty):
-      if(randomNumber>0.8):
+      if(randomNumber>0.9):
         print("DF2 seldoms")
         rndKey = keywordsNewsDF2.sample()
-      if(randomNumber>0.9):
+      if(randomNumber>0.95):
         print("DF2 last")
         rndKey = keywordsNewsDF2.head(1).sample()
     if(not termsDF3.empty):
-      if(randomNumber<0.4): 
+      if(randomNumber<0.85): 
         print("DF3 successors")
         rndKey = termsDF3.sample()
-      if(randomNumber<0.1):
+      if(randomNumber<0.65):
         print("DF3 first")
         rndKey = termsDF3.head(1).sample()
+    if(not termsDF3.empty):
+      if(randomNumber<0.5):
+        print("unsearched")
+        rndKey = unsearchedTerms.sample()
+      if(randomNumber<0.2):
+        print("unsearched first")
+        rndKey = unsearchedTerms.head(1).sample()
     #if FoundAny: newLimit = minimum(currPage+1,limitPage)
     #if foundNothing:  newLimit = maximum(1,random.choice(range(currPage-1,limitPage-1)))
 
