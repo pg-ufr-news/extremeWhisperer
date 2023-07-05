@@ -59,7 +59,7 @@ termsDF = termsDF.sort_values(by=['ratio'], ascending=False)
 
 
 unsearchedTerms = termsDF
-unsearchedTerms['unsearched'] = termsDF['ratio'] - termsDF['counter']
+unsearchedTerms['unsearched'] = termsDF['ratio'] - termsDF['counter'] - 0.25*termsDF['pages']
 unsearchedTerms = unsearchedTerms.sort_values(by=['unsearched'], ascending=False) 
 rows20 = int(math.ceil(unsearchedTerms.shape[0]/5))
 unsearchedTerms = unsearchedTerms.head(rows20)
@@ -369,6 +369,7 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
       searchQuote = str(data['title']) + " " + str(data['description'])
       searchQuote = searchQuote.lower()
       foundKeywords = []
+      foundColumns = []
       found = False
       for index2, column2 in keywordsLangDF.iterrows(): 
          keyword = column2['term']
@@ -377,7 +378,8 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
          for keyw in keywords:
             allFound = allFound and (keyw in searchQuote)
          if(allFound):
-             foundKeywords.append(keyword) 
+             foundKeywords.append(keyword)
+             foundColumns.append(column2) 
              found = True
       # add seldom keywords twice if
       for index2, column2 in seldomDF.iterrows(): 
@@ -388,12 +390,18 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
             allFound = allFound and (keyw in searchQuote)
          if(allFound):
              foundKeywords.append(keyword) 
+             foundColumns.append(column2)
              found = True
       print([data['title'], found])  
       if(found):
         foundKeywords.append(keyWord) 
         print(foundKeywords) 
-        data['term'] = random.choice(foundKeywords)
+        anyColumn = random.choice(foundColumns)
+        #data['term'] = random.choice(foundKeywords)
+        data['term'] = anyColumn['term']
+        data['country'] = anyColumn['country']
+        data['feed'] = anyColumn['feed']
+        data['topic'] = anyColumn['topic']
         foundArticles.append(data)
       else:    
         print([keyWord, searchQuote])
@@ -453,7 +461,7 @@ def inqRandomNews():
     randomNumber = random.random()
   
     #randomNumber = 0.1
-    #randomNumber = 0.55
+    #randomNumber = 0.75
 
     print(['randomNumber: ',randomNumber])
     if(not keywordsNewsDF2.empty):
