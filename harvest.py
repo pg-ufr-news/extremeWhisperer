@@ -512,7 +512,7 @@ def inqRandomNews():
     newCounter = 1+rndKey['counter'].iloc[0]
     currRatio = ratioNew
           
-    print([keyWord, language])
+    print([keyWord, language, 'P:' ,limitPages, 'R:' ,ratioNew, 'C:' ,newCounter])
     if(not 'xx'==language):
         sort = random.choice(['relevancy', 'popularity', 'publishedAt'])
         pageSize = 33
