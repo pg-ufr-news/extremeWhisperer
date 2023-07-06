@@ -417,8 +417,8 @@ def filterNewAndArchive(articles):
             pubDate = parser.parse(data['published'])
             fileDate = 'news_'+pubDate.strftime('%Y_%m')+'.csv'
             if(not fileDate in collectedNews):
-                if(os.path.isfile(DATA_PATH / 'csv' / fileDate)):
-                    df = pd.read_csv(DATA_PATH / 'csv' / fileDate, delimiter=',',index_col='index')
+                if(os.path.isfile(DATA_PATH / 'cxsv' / fileDate)):
+                    df = pd.read_csv(DATA_PATH / 'cxsv' / fileDate, delimiter=',',index_col='index')
                     collectedNews[fileDate] = df.to_dict('index')
                 else:
                     collectedNews[fileDate] = {}
@@ -431,9 +431,9 @@ def filterNewAndArchive(articles):
     return newArticles
 
 def getNewsFiles(state='harvest'):
-    fileName = './csv/news_????_??.csv'
+    fileName = './cxsv/news_????_??.csv'
     if(state):
-        fileName = './csv/news_'+state+'_????_??.csv'
+        fileName = './cxsv/news_'+state+'_????_??.csv'
     files = glob.glob(fileName)
     return files  
 
