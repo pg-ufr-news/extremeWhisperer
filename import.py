@@ -19,7 +19,7 @@ topicColors = {'Thunderstorm':'#53785a', 'Flood':'#030ba1', 'Storm':'#b3b2b1', '
 
 topicsFields = ["module", "topic", "feed", "term", "created", "added", "language", "ratio", "location", "latitude", "longitude"]
 keywordsFields = ["keyword","language","topic","topicColor","keywordColor","limitPages","ratioNew"]
-termsFields = ["index","module", "topic", "color", "feed", "term", "created", "country", "ratio", "counter", "pages", "language"]
+termsFields = ["index","module", "topic", "color", "feed", "term", "created", "country", "ratio", "counter", "pages", "language", "ipcc", "continent"]
 topicsDict = {}
 
 def importTerms():
