@@ -53,7 +53,7 @@ def getAge(dateString):
     return timeDate
 
 ##keywordsFields = ["keyword","language","topic","topicColor","keywordColor","limitPages","ratioNew"]
-termsFields = ["index","module", "topic", "color", "feed", "term", "created", "country", "ratio", "counter", "pages", "language"]
+termsFields = ["index","module", "topic", "color", "feed", "term", "created", "country", "ratio", "counter", "pages", "language", "ipcc", "continent"]
 termsDF = pd.read_csv(DATA_PATH / 'terms.csv', delimiter=',')  #,index_col='keyword'
 termsDF = termsDF.sort_values(by=['ratio'], ascending=False)  
 
@@ -100,7 +100,7 @@ if(not newsDf.empty):
 keywordsNewsDF = pd.DataFrame(None) 
 if(not newsDf.empty):
   keywordsNewsDF = newsDf.groupby('term').count()
-  keywordsNewsDF = keywordsNewsDF.drop(columns = ['language','index','topic','feed','country'])
+  keywordsNewsDF = keywordsNewsDF.drop(columns = ['language','index','topic','feed','country', 'ipcc', 'continent'])
   print(keywordsNewsDF)
 
 
@@ -170,7 +170,7 @@ def addNewsToCollection(data):
 def storeCollection():
     global collectedNews
     print("Inside store")
-    cols = ['url', 'valid', 'domain', 'title', 'description', 'image', 'published', 'archive', 'content', 'quote', 'language','term', 'topic', 'feed', 'country']
+    cols = ['url', 'valid', 'domain', 'title', 'description', 'image', 'published', 'archive', 'content', 'quote', 'language','term', 'topic', 'feed', 'country', 'ipcc', 'continent']
     for dateFile in collectedNews:
         df = pd.DataFrame.from_dict(collectedNews[dateFile], orient='index', columns=cols)
         df = removeDuplicates(df)
@@ -339,7 +339,7 @@ def archiveUrl(data):
         '''    
     return data 
 
-def extractData(article, language, keyWord, topic, feed, country):
+def extractData(article, language, keyWord, topic, feed, country, ipcc, continent):
     title = article['title']
     description = article['description']
     url = article['url']
@@ -357,15 +357,15 @@ def extractData(article, language, keyWord, topic, feed, country):
         published = article['publishedAt']
     content = article['content']
     data = {'url':url, 'valid':0, 'domain':domain,'published':published, 'description':description, 'title':title, 
-            'image':image, 'content':content, 'quote':'', 'language': language, 'keyword':keyWord, 'topic':topic, 'feed':feed, 'country':country}
+            'image':image, 'content':content, 'quote':'', 'language': language, 'keyword':keyWord, 'topic':topic, 'feed':feed, 'country':country, 'ipcc':ipcc, 'continent':continent}
     return data  
 
-def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, topic, feed, country):
+def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, topic, feed, country, ipcc, continent):
     ## keywordsLangDF = termsDF[termsDF['language']==language]
     keywordsLangDF = termsDF[termsDF['term']==keyWord]
     foundArticles = []
     for article in articles:
-      data = extractData(article, language, keyWord, topic, feed, country)
+      data = extractData(article, language, keyWord, topic, feed, country, ipcc, continent)
       searchQuote = str(data['title']) + " " + str(data['description'])
       searchQuote = searchQuote.lower()
       foundKeywords = []
@@ -400,6 +400,8 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
         #data['term'] = random.choice(foundKeywords)
         data['term'] = anyColumn['term']
         data['country'] = anyColumn['country']
+        data['ipcc'] = anyColumn['ipcc']
+        data['continent'] = anyColumn['continent']
         data['feed'] = anyColumn['feed']
         data['topic'] = anyColumn['topic']
         foundArticles.append(data)
@@ -504,6 +506,8 @@ def inqRandomNews():
     feed = rndKey['feed'].iloc[0]
     topic = rndKey['topic'].iloc[0]
     country = rndKey['country'].iloc[0]
+    ipcc = rndKey['ipcc'].iloc[0]
+    continent = rndKey['continent'].iloc[0]
     language = rndKey['language'].iloc[0]
     limitPages = int(round(rndKey['pages'].iloc[0]))
     ratioNew = rndKey['ratio'].iloc[0]
@@ -548,7 +552,7 @@ def inqRandomNews():
                   deltaLimit += 1  
                   #newLimit = max(currPage+1,limitPages)                
                 print('#found Articles: '+str(len(jsonData['articles'])))
-                checkedArticles = checkArticlesForKeywords(jsonData['articles'], termsDF, keywordsNewsDF2,language, keyWord, topic, feed, country)
+                checkedArticles = checkArticlesForKeywords(jsonData['articles'], termsDF, keywordsNewsDF2,language, keyWord, topic, feed, country, ipcc, continent)
                 print('#checked Articles: '+str(len(checkedArticles)))
                 print("archive first")
                 newArticles = filterNewAndArchive(checkedArticles)
