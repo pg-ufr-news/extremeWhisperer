@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2d5d61925f',extremes,Heat Wave,#c40202,meteo,Austria Heat Wave,2023-07-17T20:17:00+00:00,Austria,0.8512059573497778,0.0,2.0,en,WCE,Europe
 'b0895be51e',extremes,Heat Wave,#c40202,meteo,Serbia High Temperature,2023-07-17T20:17:00+00:00,Serbia,0.8195883814495089,0.0,2.0,en,MED,Europe
 '3a1dac3943',extremes,Heat Wave,#c40202,meteo,Austria High Temperature,2023-07-17T20:17:00+00:00,Austria,0.7977073266047627,1.0,2.0,en,WCE,Europe
 '5388080cdb',extremes,Thunderstorm,#53785a,meteo,Slovakia Thunderstorm,2023-07-17T20:17:00+00:00,Slovakia,0.7905368923235766,0.0,2.0,en,WCE,Europe
@@ -13,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '51d59124ca',extremes,Heat Wave,#c40202,meteo,Heat Wave Slovakia,2023-07-17T20:25:00+00:00,Slovakia,0.7386221246403882,0.0,2.0,en,WCE,Europe
 'bdc5d94bdc',extremes,Thunderstorm,#53785a,meteo,Thunderstorm Switzerland,2023-07-18T17:43:00+00:00,Switzerland,0.7325543358077921,0.0,2.0,en,WCE,Europe
 'ce20c91890',extremes,Heat Wave,#c40202,meteo,High Temperature Austria,2023-07-17T20:25:00+00:00,Austria,0.7320915414657837,1.0,2.0,en,WCE,Europe
+'2d5d61925f',extremes,Heat Wave,#c40202,meteo,Austria Heat Wave,2023-07-17T20:17:00+00:00,Austria,0.726225333747311,1.0,2.0,en,WCE,Europe
 '962dd3758d',extremes,Wildfire,#d60d2b,meteo,Forest Fire Czechia,2023-07-17T20:25:00+00:00,Czechia,0.7203664319464803,0.0,2.0,en,WCE,Europe
 '2f3930de98',extremes,Wildfire,#d60d2b,meteo,Wildfire Czechia,2023-07-17T20:25:00+00:00,Czechia,0.7158091694550118,0.0,2.0,en,WCE,Europe
 'f099291c76',extremes,Wildfire,#d60d2b,meteo,Czechia Wildfire,2023-07-17T20:17:00+00:00,Czechia,0.7137315831741765,0.0,2.0,en,WCE,Europe
@@ -1855,7 +1855,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'efdd29ea3f',extremes,Precipitation,#d60d2b,meteo,Rain Hungary,2023-07-18T17:43:00+00:00,Hungary,0.4651849555294885,0.0,2.0,en,WCE,Europe
 '411d16ffce',extremes,Precipitation,#d60d2b,meteo,Rain Italy,2023-07-21T02:49:00+00:00,Italy,0.4616686600899539,0.0,2.0,en,MED,Europe
 '5480e7d366',extremes,Heat Wave,#c40202,wmo,Heat Wave Sol y Guadalhorce,2023-07-20T16:05:00+00:00,Spain,0.4525803978836903,0.0,2.0,en,MED,Europe
-'b2f2a5ed4c',extremes,Earthquake,#870007,usgs,Earthquake northern Mid-Atlantic Ridge,2023-06-23T21:48:00+00:00,,0.45009952422262695,1.0,1.0,en,NAO,Atlantic Ocean
+'b2f2a5ed4c',extremes,Earthquake,#870007,usgs,Earthquake northern Mid-Atlantic Ridge,2023-06-23T21:48:00+00:00,,0.4500995242226269,1.0,1.0,en,NAO,Atlantic Ocean
 'd76494938f',extremes,Storm,#b3b2b1,wmo,Storm Uruguay,2023-07-21T16:15:00+00:00,Uruguay,0.4444370816327899,0.0,2.0,en,SES,South-America
 'de8cbb2a44',extremes,Storm,#b3b2b1,meteo,Wind Finland,2023-07-17T20:25:00+00:00,Finland,0.4440383825640098,0.0,2.0,en,NEU,Europe
 '3a9f4e2c4a',extremes,Storm,#b3b2b1,meteo,Estonia Wind,2023-07-17T20:17:00+00:00,Estonia,0.4426647738033887,0.0,2.0,en,NEU,Europe
