@@ -628,9 +628,20 @@ if(age>60*60*5*0):
 '''
 inqRandomNews()
 
+
+
+termsDF['age'] = termsDF['created'].apply(
+  lambda x: 
+      getAge(x)
+)
+
+termsDF['magick'] = (20-termsDF['age'])/60+termsDF['ratio']/3+(8-termsDF['counter'])/24+termsDF['pages']/10
+termsDF = termsDF[(termsDF.magick>0.25)]
+
 #termsDF = termsDF.sort_values(by=['topic','keyword'])
 termsDF = termsDF.sort_values(by=['ratio'], ascending=False)
 print('9999999999999999999999999999')
+
 print(termsDF)
 termsDF.to_csv(DATA_PATH / 'terms.csv', columns=termsFields,index=False)  
 
