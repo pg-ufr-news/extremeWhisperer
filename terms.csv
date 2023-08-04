@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b90a36bfbd',extremes,Heat Wave,#c40202,meteo,Spain High Temperature,2023-07-17T20:17:00+00:00,Spain,0.6147208632381521,1.0,2.0,en,MED,
 '28a8f6fc64',extremes,Heat Wave,#c40202,meteo,Heat Wave Spain,2023-07-18T02:25:00+00:00,Spain,0.6110016731177857,1.0,3.0,en,MED,
 'b38d88b901',extremes,Wildfire,#d60d2b,effis,Wildfire Kemer,2023-07-24T02:00:00Z,Turkey,0.6093287551935842,1.0,3.0,en,MED,Asia
 '2f3930de98',extremes,Wildfire,#d60d2b,meteo,Wildfire Czechia,2023-07-17T20:25:00+00:00,Czechia,0.60873782403676,1.0,2.0,en,WCE,Europe
@@ -1593,6 +1592,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '729670aadf',extremes,Wildfire,#d60d2b,effis,"Wildfire Pigna/Santa Reparata, Haute-Corse",2023-07-26T08:59:44Z,France,0.5277807287919876,1.0,1.0,en,MED,Europe
 '971e2c8791',extremes,Storm,#b3b2b1,fema,Storm Vermont,2023-07-14T00:00:00Z,United States,0.5277665625004764,1.0,3.0,en,ENA,North-America
 '2756641f1f',extremes,Thunderstorm,#53785a,eswd,Heavy Rain Germany,2023-07-29T20:40:00+00:00,Germany,0.527737397491505,1.0,2.0,en,WCE,Europe
+'b90a36bfbd',extremes,Heat Wave,#c40202,meteo,Spain High Temperature,2023-07-17T20:17:00+00:00,Spain,0.5274721987524292,2.0,3.0,en,MED,
 '2973d15ff1',extremes,Earthquake,#870007,usgs,Earthquake Central Turkey,2023-07-25T05:44:00+00:00,Turkey,0.5273434708276228,0.0,2.0,en,MED,Asia
 '70175b03fb',extremes,Flood,#030ba1,relief,Flood Sudan,2023-07-14T00:00:00+00:00,Sudan,0.5272320046855833,1.0,2.0,en,SAH,Africa
 'd41779fe89',extremes,Flood,#030ba1,relief,Flooding Cameroon,2023-07-06T00:00:00+00:00,Cameroon,0.5270997101187671,1.0,2.0,en,CAF,Africa
@@ -2096,7 +2096,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e5a9b29cea',extremes,Wildfire,#d60d2b,effis,Wildfire Tekirdağ,2023-07-18T09:36:00Z,Turkey,0.4996302328948134,1.0,1.0,en,MED,Asia
 '5efcf2a804',extremes,Landslide,#572c03,relief,Land Slide India,2023-07-12T00:00:00+00:00,India,0.4995220036358431,1.0,1.0,en,SAS,Asia
 'b42de05a8f',extremes,Landslide,#572c03,relief,Land Slide Indonesia,2023-07-07T00:00:00+00:00,,0.499284373450641,1.0,1.0,en,SEA,Asia
-'dd2fdb925a',extremes,Wildfire,#d60d2b,effis,Bushfire  Muğla Turkey,2023-07-17T09:47:09Z,Turkey,0.49898773943684344,1.0,1.0,en,MED,Asia
+'dd2fdb925a',extremes,Wildfire,#d60d2b,effis,Bushfire  Muğla Turkey,2023-07-17T09:47:09Z,Turkey,0.4989877394368434,1.0,1.0,en,MED,Asia
 'fb86fc7cd8',extremes,Landslide,#572c03,relief,Land Slide United States of America,2023-06-30T00:00:00+00:00,United States,0.4988378496816177,1.0,1.0,en,CNA,North-America
 '45b67d54cb',extremes,Heat Wave,#c40202,meteo,Heat Wave Poland,2023-07-17T20:25:00+00:00,Poland,0.4987490932546616,1.0,2.0,en,WCE,Europe
 '469cf3b7c5',extremes,Wildfire,#d60d2b,effis,Wild Fire  Kefalonia Greece,2023-07-31T21:37:00Z,Greece,0.4982600925467172,0.0,2.0,en,MED,Europe
@@ -2444,13 +2444,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad95215c89',extremes,Iceberg,#d60d2b,eonet,Iceberg B22A,2023-07-28 00:00:0+00:00,Antarctica,0.4260709313093807,0.0,2.0,en,WAN,Antarctica
 'fa1d130c66',extremes,Iceberg,#d60d2b,eonet,Iceberg A80D,2023-07-28 00:00:0+00:00,Antarctica,0.4258106049244731,0.0,2.0,en,WAN,Antarctica
 '10fd2d8d46',extremes,Iceberg,#d60d2b,eonet,Iceberg A81,2023-07-14 00:00:0+00:00,Antarctica,0.4255703583411607,0.0,2.0,en,EAN,Antarctica
-'44966cf0d0',extremes,Flood,#030ba1,emdat,Flood Dhankuta,2023-06-19T12:00:00+00:00,Nepal,0.4249498588216066,0.0,2.0,en,TIB,Asia
-'ebd88b9bae',extremes,Flood,#030ba1,emdat,Flooding Dhankuta,2023-06-19T12:00:00+00:00,Nepal,0.4237253837397488,0.0,2.0,en,TIB,Asia
 'f3f01830a6',extremes,Flood,#030ba1,emdat,Flooding Pernambuco,2023-07-14T12:00:00+00:00,Brazil,0.4229503040452025,0.0,2.0,en,SAM,South-America
 '211cb14393',extremes,Precipitation,#d60d2b,meteo,Rain Belgium,2023-07-31T09:10:00+00:00,Belgium,0.4227263122211221,0.0,2.0,en,WCE,Europe
 '4983af2c5a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Greece,2023-07-20T04:10:00+00:00,Greece,0.4225852643664008,0.0,2.0,en,MED,Europe
 '5cf2bf8968',extremes,Flood,#030ba1,emdat,Flood Pernambuco,2023-07-14T12:00:00+00:00,Brazil,0.4225550808117073,0.0,2.0,en,SAM,South-America
-'f4c2c2ecf6',extremes,Flood,#030ba1,emdat,Flood Taplejung,2023-06-19T12:00:00+00:00,Nepal,0.4224329562410454,0.0,2.0,en,TIB,Asia
 '0fe2a78a5d',extremes,Storm,#b3b2b1,meteo,Storm Slovakia,2023-07-27T08:39:00+00:00,Slovakia,0.4223450512080891,0.0,2.0,en,WCE,Europe
 '129b777f2a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Luxembourg,2023-07-25T03:27:00+00:00,Luxembourg,0.4220293998519976,0.0,2.0,en,WCE,Europe
 '400a625984',extremes,Flood,#030ba1,emdat,Flood São Miguel dos Milagres,2023-07-14T12:00:00+00:00,Brazil,0.4213035890184968,0.0,2.0,en,SAM,South-America
@@ -2502,9 +2499,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b56391a2fd',extremes,Storm,#b3b2b1,meteo,Wind Netherlands,2023-07-31T09:10:00+00:00,Netherlands,0.40928400196673,0.0,2.0,en,NEU,Europe
 '8608ced845',extremes,Tropical Cyclone,#4f4f4f,wmo,"Tropical Cyclone Cagayan, Isabela, Apayao",2023-07-24T18:12:00+00:00,Philippines,0.4089767823803107,0.0,2.0,en,SEA,Asia
 '7ee68e048b',extremes,Drought,#edc291,emdat,Drought Flores,2023-07-31T12:00:00+00:00,Honduras,0.4088930400810715,0.0,2.0,en,SCA,North-America
-'c1a8c356f3',extremes,Storm,#b3b2b1,emdat,Hail Syunik,2023-06-19T12:00:00+00:00,Armenia,0.4088588212620849,0.0,2.0,en,WCA,Asia
-'c0df0ef659',extremes,Storm,#b3b2b1,emdat,Thunderstorm Tavush,2023-06-19T12:00:00+00:00,Armenia,0.4086189149032056,0.0,2.0,en,WCA,Asia
-'ae8a22244a',extremes,Thunderstorm,#53785a,emdat,Thunderstorm Tavush,2023-06-19T12:00:00+00:00,Armenia,0.4085289394292834,0.0,2.0,en,WCA,Asia
 '63319b4851',extremes,Storm,#b3b2b1,meteo,Wind Austria,2023-08-01T08:13:00+00:00,Austria,0.408021426399922,0.0,2.0,en,WCE,Europe
 '2d9e9590a9',extremes,Drought,#edc291,emdat,Drought Yoro,2023-07-27T12:00:00+00:00,Honduras,0.4074485546773704,0.0,2.0,en,SCA,North-America
 '31620250db',extremes,Landslide,#572c03,emdat,Landslide Irshalwadi Village (Raigad District,2023-07-19T12:00:00+00:00,India,0.4068863705570403,0.0,2.0,en,SAS,Asia
