@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d3e4b5d29c',extremes,Wildfire,#d60d2b,effis,Wildfire Rhodes,2023-07-20T11:43:26Z,Greece,0.6260158246277665,2.0,3.0,en,MED,Europe
 'b90a36bfbd',extremes,Heat Wave,#c40202,meteo,Spain High Temperature,2023-07-17T20:17:00+00:00,Spain,0.6147208632381521,1.0,2.0,en,MED,
 '28a8f6fc64',extremes,Heat Wave,#c40202,meteo,Heat Wave Spain,2023-07-18T02:25:00+00:00,Spain,0.6110016731177857,1.0,3.0,en,MED,
 'b38d88b901',extremes,Wildfire,#d60d2b,effis,Wildfire Kemer,2023-07-24T02:00:00Z,Turkey,0.6093287551935842,1.0,3.0,en,MED,Asia
@@ -348,6 +347,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '363259e396',extremes,Wildfire,#d60d2b,effis,Wildfire Mulcey,2023-07-10T06:52:00Z,France,0.5643765728641612,0.0,2.0,en,WCE,Europe
 '45f9529b7d',extremes,Earthquake,#870007,usgs,Earthquake Argentina,2023-07-17T03:05:00+00:00,Argentina,0.564375593826192,0.0,2.0,en,SWS,South-America
 'dcb97da446',extremes,Iceberg,#d60d2b,eonet,Iceberg A76L,2023-07-14 00:00:0+00:00,,0.564360057896136,0.0,2.0,en,SOO,Antarctica
+'d3e4b5d29c',extremes,Wildfire,#d60d2b,effis,Wildfire Rhodes,2023-07-20T11:43:26Z,Greece,0.5643454482063288,3.0,3.0,en,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,Earthquake Argentina,2023-07-17T03:05:00+00:00,Argentina,0.5643397163100515,0.0,2.0,en,SWS,South-America
 '41f6b96852',extremes,Wild Fire,#d60d2b,effisFire,Wildfire Musselkanaal,2023-06-16T19:39:18Z,Netherlands,0.564223633390105,0.0,2.0,en,,
 'f9612b56d4',extremes,Iceberg,#d60d2b,nasaEonet,Iceberg D29B,2023-07-07 00:00:0+00:00,,0.5641673798612157,0.0,2.0,en,EAN,
@@ -2300,7 +2300,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '24789e9730',extremes,Storm,#b3b2b1,wmo,Storm Auckland and Great Barrier Island,2023-07-20T08:27:00+00:00,New Zealand,0.4677313430419332,0.0,2.0,en,NZ,Oceania
 '6adb5834bd',extremes,Storm,#b3b2b1,wmo,Storm Yuetang District,2023-07-20T06:16:00+00:00,China,0.4676447185881845,0.0,2.0,en,EAS,Asia
 'cca504a66d',extremes,Heat Wave,#c40202,wmo,Heat Wave Guadalupe Mountains of Eddy County,2023-07-20T07:52:00+00:00,United States,0.4675931561195138,0.0,2.0,en,CNA,North-America
-'02d52f2410',extremes,Wildfire,#d60d2b,effis,Wild Fire Bolu,2023-07-17T07:40:43Z,Turkey,0.46750031972454265,1.0,1.0,en,MED,Asia
+'02d52f2410',extremes,Wildfire,#d60d2b,effis,Wild Fire Bolu,2023-07-17T07:40:43Z,Turkey,0.4675003197245426,1.0,1.0,en,MED,Asia
 'c45d35f4af',extremes,Storm,#b3b2b1,wmo,Storm Wuzhong city,2023-07-19T01:32:00+00:00,China,0.4674764094607684,0.0,2.0,en,EAS,Asia
 '77b334b18d',extremes,Storm,#b3b2b1,wmo,Storm Mengla County,2023-07-20T10:19:00+00:00,China,0.4673693014528977,0.0,2.0,en,EAS,Asia
 '358e1405f0',extremes,Storm,#b3b2b1,wmo,Storm Wenquan County,2023-07-20T02:59:00+00:00,China,0.4673559668385135,0.0,2.0,en,EAS,Asia
