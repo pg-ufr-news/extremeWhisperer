@@ -160,7 +160,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fedb4b20a1',extremes,Flood,#030ba1,relief,Torrential Rain Viet Nam,2023-07-18T00:00:00+00:00,Viet Nam,0.5730912611798369,0.0,2.0,en,SEA,Asia
 '67c8351a05',extremes,Volcano,#b83202,eonet,"Sheveluch Volcano, Russia",2023-07-02T00:00:0+00:00,Russia,0.5730377210413158,0.0,2.0,en,RFE,Europe
 '620dbbcbcf',extremes,Volcano,#b83202,nasaEonet,"Ubinas Volcano, Peru",2023-06-25T00:00:0+00:00,Peru,0.5729988704115623,0.0,2.0,en,,
-'7f87061bbb',extremes,Flood,#030ba1,relief,Flash Flood Senegal,2023-07-18T00:00:00+00:00,Senegal,0.5729817782334408,0.0,2.0,en,SAH,Africa
 '0031f77059',extremes,Flood,#030ba1,floodlist,4 Missing After Floods Cause Devastation in Nova Scotia Canada,2023-07-23T13:18:35+02:00,Canada,0.5729000957572548,0.0,2.0,en,NEN,North-America
 '0f46f99e6e',extremes,Storm,#b3b2b1,eonet,Cyclone Calvin,2023-07-12T06:00:0+00:00,,0.5728915753089263,0.0,2.0,en,NPO,Pacific Ocean
 '0ea2984b20',extremes,Flood,#030ba1,floodList,Dramatic Flash Floods in Zaragoza After 20mm of Rain in 10 Minutes,2023-07-06T22:39:00+00:00,Spain,0.5727974851770501,0.0,2.0,en,,
@@ -2146,6 +2145,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22b47eaaa7',extremes,Flood,#030ba1,fema,"Vermont Severe Storms, Flooding, Landslides, and Mudslides",2023-07-14T00:00:00Z,United States,0.4877242763403684,0.0,2.0,en,ENA,North-America
 '0c6d3ced37',extremes,Flood,#030ba1,floodlist,Disaster Declared After “Historic and Catastrophic Flooding” in Vermont United States,2023-07-12T17:10:16+02:00,United States,0.4874225360069568,1.0,2.0,en,WNA,North-America
 'a5e97a2467',extremes,Landslide,#572c03,floodlist,"Severe Floods in Alagoas and Pernambuco, 14 Killed in Building Collapse Brazil",2023-07-12T11:04:26+02:00,Brazil,0.4872067413504587,1.0,1.0,en,SAM,South-America
+'7f87061bbb',extremes,Flood,#030ba1,relief,Flash Flood Senegal,2023-07-18T00:00:00+00:00,Senegal,0.4870345414984246,1.0,1.0,en,SAH,Africa
 '783f9d7f99',extremes,Flood,#030ba1,floodlist,Deadly Floods Strike in Southern Regions Ghana,2023-07-20T14:37:00+00:00,Ghana,0.4868988886762868,1.0,1.0,en,WAF,Africa
 '076dd98cd6',extremes,Wildfire,#d60d2b,fema,Washington Newell Road Fire,2023-07-23T00:00:00Z,United States,0.4867323455494116,0.0,2.0,en,WNA,North-America
 'c112b15192',extremes,Flood,#030ba1,emdat,Flood Argentina,2023-07-05T12:00:00+00:00,Argentina,0.4866893130067782,0.0,2.0,en,SES,South-America
@@ -2497,11 +2497,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '31620250db',extremes,Landslide,#572c03,emdat,Landslide Irshalwadi Village (Raigad District,2023-07-19T12:00:00+00:00,India,0.4068863705570403,0.0,2.0,en,SAS,Asia
 'e06b7864c4',extremes,Landslide,#572c03,emdat,Landslide western Maharashtra State),2023-07-19T12:00:00+00:00,India,0.4067738838770471,0.0,2.0,en,SAS,Asia
 'a931f0c35c',extremes,Storm,#b3b2b1,wmo,Storm Maldives,2023-07-20T19:45:00+00:00,Maldives,0.4063859967721407,0.0,2.0,en,EIO,Indian Ocean
-'500d14b58f',extremes,Storm,#b3b2b1,emdat,Tropical Cyclone Jalore,2023-06-21T12:00:00+00:00,India,0.4061317670968106,0.0,2.0,en,SAS,Asia
 '2adb328b30',extremes,Wildfire,#d60d2b,meteo,Israel Wildfire,2023-07-17T20:17:00+00:00,Israel,0.4058026522316795,0.0,2.0,en,MED,Asia
-'ebbf98dc7a',extremes,Storm,#b3b2b1,emdat,Tropical Cyclone (Rajasthan),2023-06-21T12:00:00+00:00,India,0.4057180661706124,0.0,2.0,en,SAS,Asia
 '545d78a198',extremes,Storm,#b3b2b1,emdat,Storm Sri Lanka,2023-07-14T12:00:00+00:00,Sri Lanka,0.4056804912124304,0.0,2.0,en,BOB,Asia
-'9815d929ae',extremes,Storm,#b3b2b1,emdat,Storm (Rajasthan),2023-06-21T12:00:00+00:00,India,0.4055193718018061,0.0,2.0,en,SAS,Asia
 'a6f8a2c429',extremes,Storm,#b3b2b1,meteo,Wind Germany,2023-07-18T17:43:00+00:00,Germany,0.4054947833855141,0.0,2.0,en,WCE,Europe
 '51eff52c99',extremes,Heat Wave,#c40202,meteo,Heat Wave France,2023-07-18T02:25:00+00:00,France,0.4051944382790032,0.0,2.0,en,SAH,Africa
 '65af2ab37f',extremes,Precipitation,#d60d2b,meteo,Precipitation Germany,2023-07-23T04:39:00+00:00,Germany,0.4050230115694946,0.0,2.0,en,WCE,Europe
@@ -2650,7 +2647,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e5b367351',extremes,Precipitation,#d60d2b,meteo,Precipitation Italy,2023-08-01T06:59:00+00:00,Italy,0.3778219219574545,0.0,2.0,en,MED,Europe
 'a4d1064a23',extremes,Storm,#b3b2b1,wmo,Storm Śląskie Province Raciborski County,2023-07-24T07:59:00+00:00,Poland,0.3774888063153762,0.0,2.0,en,WCE,Europe
 'ec82905251',extremes,Drought,#edc291,edo,Drought Germany,2023-07-01T19:37:00+00:00,Germany,0.3774313398744824,0.0,2.0,en,WCE,Europe
-'384a1969b2',extremes,Storm,#b3b2b1,emdat,Storm Wyoming,2023-06-22T12:00:00+00:00,United States,0.377410278132945,0.0,2.0,en,WNA,North-America
 '1c4e7fb6c7',extremes,Fog,#d60d2b,meteo,Fog Lithuania,2023-07-31T09:10:00+00:00,Lithuania,0.3773908496711673,0.0,2.0,en,WCE,Europe
 '1a87d5b1d0',extremes,Storm,#b3b2b1,wmo,Storm Śląskie Province Mikołowski County,2023-07-24T07:59:00+00:00,Poland,0.3770817452005651,0.0,2.0,en,WCE,Europe
 '66945e6c2f',extremes,Storm,#b3b2b1,emdat,Storm Ntuzuma,2023-06-29T12:00:00+00:00,South Africa,0.376908351202109,0.0,2.0,en,ESAF,Africa
@@ -2890,7 +2886,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c84d1be7e',extremes,Drought,#edc291,edo,Drought Sweden,2023-07-01T19:37:00+00:00,Sweden,0.344595945260156,0.0,2.0,en,NEU,Europe
 '21f1c994a6',extremes,Drought,#edc291,emdat,Drought Spain,2023-04-31T12:00:00+00:00,Spain,0.3440151099280963,0.0,2.0,en,MED,Europe
 'd16d1a57cb',extremes,Flood,#030ba1,wmo,Flood PhaungPyin,2023-07-18T04:03:00+00:00,Myanmar,0.3421474920862593,0.0,2.0,en,SAS,Asia
-'c5d2cef979',extremes,Heat Wave,#c40202,emdat,Heat Wave Uttar Pradesh,2023-06-23T12:00:00+00:00,India,0.3418723610234088,0.0,2.0,en,SAS,Asia
 '5039252952',extremes,Drought,#edc291,edo,Drought Sweden,2023-07-01T08:46:00+00:00,Sweden,0.3415326357567052,0.0,2.0,en,NEU,Europe
 'ccba1b82a3',extremes,Storm,#b3b2b1,emdat,Storm Vinkovci,2023-07-20T12:00:00+00:00,Croatia,0.3404694906311564,0.0,2.0,en,WCE,Europe
 'a83de8cb95',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Małopolskie Province Brzeski County,2023-07-24T07:59:00+00:00,Poland,0.3399864405763149,0.0,2.0,en,WCE,Europe
