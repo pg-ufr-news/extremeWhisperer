@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'f7393b0d3c',extremes,Wildfire,#d60d2b,effis,Wildfire Diyarbakır,2023-07-18T09:44:00Z,Turkey,0.644272927232548,1.0,2.0,en,WCA,Asia
 'aa7fa621c9',extremes,Heat Wave,#c40202,meteo,Croatia Heat Wave,2023-07-17T20:17:00+00:00,Croatia,0.6058686055617966,1.0,2.0,en,MED,Europe
 'ff1b2e467c',extremes,Wildfire,#d60d2b,effis,Wild Fire Rhodes,2023-07-20T11:43:26Z,Greece,0.6019077240939495,1.0,2.0,en,MED,Europe
 '5746fa4adb',extremes,Wildfire,#d60d2b,effis,Wildfire Spain,2023-07-15T16:18:42Z,Spain,0.6018754671227626,1.0,2.0,en,SAH,Europe
@@ -562,6 +561,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d5ae9e65d',extremes,Earthquake,#870007,usgsEarthquake,Earthquake Codrington,2023-07-10T20:28:00+00:00,Antigua and Barbuda,0.5476890691655699,0.0,2.0,en,,
 'b5b3491e0d',extremes,Landslide,#572c03,relief,Landslide Japan,2023-07-10T00:00:00+00:00,Japan,0.5476825240073849,1.0,2.0,en,EAS,Asia
 '2d1e4114ba',extremes,Wildfire,#d60d2b,effis,Wild Fire Grebaštica,2023-07-13T01:00:00Z,Croatia,0.547634150715256,1.0,1.0,en,MED,Europe
+'f7393b0d3c',extremes,Wildfire,#d60d2b,effis,Wildfire Diyarbakır,2023-07-18T09:44:00Z,Turkey,0.5476320031476658,2.0,1.0,en,WCA,Asia
 '270a99b742',extremes,Wildfire,#d60d2b,effis,"Bushfire Rocchetta di Vara, La Spezia",2023-07-24T10:33:31Z,Italy,0.5476176461092673,0.0,2.0,en,MED,Europe
 '8be0851f40',extremes,Wildfire,#d60d2b,effis,Wild Fire  Erdine Turkey,2023-07-24T10:22:06Z,Turkey,0.5475283808776589,0.0,2.0,en,MED,Asia
 'c917ad583e',extremes,Wildfire,#d60d2b,effis,Bushfire Grebaštica,2023-07-13T01:00:00Z,Croatia,0.5475209480013635,1.0,1.0,en,MED,Europe
@@ -2169,7 +2169,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b32bb1dd21',extremes,Wildfire,#d60d2b,effis,Wildfire Syria,2023-07-27T11:57:45Z,Syria,0.4790366787766464,1.0,1.0,en,MED,Asia
 'f5fa5bdca4',extremes,Flood,#030ba1,emdat,Flood Niger,2023-07-20T12:00:00+00:00,Niger,0.4783997579915539,0.0,2.0,en,SAH,Africa
 '6b70e3b2fc',extremes,Wildfire,#d60d2b,effis,Bushfire Krousonas,2023-08-01T05:58:15Z,Greece,0.4781937778654829,0.0,2.0,en,MED,Europe
-'07c7518ae1',extremes,Storm,#b3b2b1,emdat,Hurricane India,2023-06-21T12:00:00+00:00,India,0.4779676086106241,0.0,2.0,en,SAS,Asia
 '69810a7dcd',extremes,Flood,#030ba1,emdat,Flooding Niger,2023-07-20T12:00:00+00:00,Niger,0.477956129382249,0.0,2.0,en,SAH,Africa
 '450e8bb03d',extremes,Wildfire,#d60d2b,effis,Bushfire  Hérault France,2023-07-14T09:38:57Z,France,0.4777730582520316,1.0,1.0,en,MED,Europe
 '702d038df2',extremes,Flood,#030ba1,emdat,Flooding Thailand,2023-07-05T12:00:00+00:00,Thailand,0.4775890573206114,0.0,2.0,en,SEA,Asia
@@ -2509,7 +2508,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f457f3a55',extremes,Flood,#030ba1,emdat,Flood Yamaguchi,2023-07-07T12:00:00+00:00,Japan,0.4013547190115958,0.0,2.0,en,EAS,Asia
 '75b5d0604d',extremes,Heat Wave,#c40202,wmo,Heat Wave Puglia,2023-07-20T09:26:00+00:00,Italy,0.4007948913752605,0.0,2.0,en,MED,Europe
 '937c333ef0',extremes,Heat Wave,#c40202,wmo,Heat Wave Calabria,2023-07-20T09:26:00+00:00,Italy,0.4002446921230813,0.0,2.0,en,MED,Europe
-'60cdf9fb44',extremes,Heat Wave,#c40202,emdat,Heat Wave India,2023-06-23T12:00:00+00:00,India,0.3993794144839757,0.0,2.0,en,SAS,Asia
 'd45d87f0d9',extremes,Storm,#b3b2b1,wmo,Storm Pianguan County,2023-07-20T06:20:00+00:00,China,0.399352464362349,1.0,1.0,en,EAS,Asia
 'ff1b1950e0',extremes,Storm,#b3b2b1,emdat,sand storm Zabol,2023-06-29T12:00:00+00:00,Iran,0.3993349072103817,0.0,2.0,en,WCA,Asia
 '058b7cd2a1',extremes,Storm,#b3b2b1,emdat,dust storm ,2023-06-29T12:00:00+00:00,Iran,0.3981668897671472,0.0,2.0,en,WCA,Asia
@@ -2611,16 +2609,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e3b773d2ed',extremes,Flood,#030ba1,emdat,Flood Bangli (Bali Province),2023-07-14T12:00:00+00:00,Indonesia,0.3893171868732529,0.0,2.0,en,SEA,Asia
 '51815f59e4',extremes,Flood,#030ba1,emdat,Flooding Karangasem,2023-07-14T12:00:00+00:00,Indonesia,0.3883582551413279,0.0,2.0,en,SEA,Asia
 '12ae466e64',extremes,Precipitation,#d60d2b,meteo,Rain Serbia,2023-08-01T13:21:00+00:00,Serbia,0.3878421840488228,0.0,2.0,en,MED,Europe
-'fe25b12c4a',extremes,Storm,#b3b2b1,emdat,Storm Barbados,2023-06-23T12:00:00+00:00,Barbados,0.3863363781380405,0.0,2.0,en,CAR,North-America
 '11db476232',extremes,Wildfire,#d60d2b,emdat,Wildfire Boumerdes,2023-07-24T12:00:00+00:00,Algeria,0.385922418984737,0.0,2.0,en,SAH,Africa
-'2d2d1ed9d7',extremes,Tropical Cyclone,#4f4f4f,emdat,Storm Barbados,2023-06-23T12:00:00+00:00,Barbados,0.3859104748676236,0.0,2.0,en,CAR,North-America
 '8bd070f987',extremes,Wildfire,#d60d2b,emdat,Bushfire Tizi Ouzou,2023-07-24T12:00:00+00:00,Algeria,0.3847876917740788,0.0,2.0,en,SAH,Africa
 '880f05d343',extremes,Wildfire,#d60d2b,emdat,Forest Fire Bouira,2023-07-24T12:00:00+00:00,Algeria,0.3847359661918002,0.0,2.0,en,SAH,Africa
-'640a5d3de7',extremes,Storm,#b3b2b1,emdat,Typhoon Barbados,2023-06-23T12:00:00+00:00,Barbados,0.3843078077177749,0.0,2.0,en,CAR,North-America
-'ae41ade0e2',extremes,Tropical Cyclone,#4f4f4f,emdat,Tropical Cyclone Barbados,2023-06-23T12:00:00+00:00,Barbados,0.3842783317446455,0.0,2.0,en,CAR,North-America
-'2c62b1a5dc',extremes,Tropical Cyclone,#4f4f4f,emdat,Tropical Cyclone Saint Vincent and the Grenadines,2023-06-23T12:00:00+00:00,Saint Vincent and the Grenadines,0.3837648346985999,0.0,2.0,en,CAR,North-America
-'90f46a3215',extremes,Storm,#b3b2b1,emdat,Hurricane Saint Vincent and the Grenadines,2023-06-23T12:00:00+00:00,Saint Vincent and the Grenadines,0.383430028320706,0.0,2.0,en,CAR,North-America
-'1a0a3455b7',extremes,Storm,#b3b2b1,emdat,Typhoon Saint Vincent and the Grenadines,2023-06-23T12:00:00+00:00,Saint Vincent and the Grenadines,0.3828723147308204,0.0,2.0,en,CAR,North-America
 '8a205bc898',extremes,Wildfire,#d60d2b,emdat,Wildfire Bouira,2023-07-24T12:00:00+00:00,Algeria,0.3826552078972653,0.0,2.0,en,SAH,Africa
 'c40974ed72',extremes,Storm,#b3b2b1,wmo,Storm South Africa,2023-07-21T07:02:00+00:00,South Africa,0.3825289242854412,0.0,2.0,en,WSAF,Africa
 '05e74c91ea',extremes,Storm,#b3b2b1,emdat,Storm Vicence et Trévise regions (Venise),2023-07-20T12:00:00+00:00,Italy,0.3821307093523552,0.0,2.0,en,MED,Europe
