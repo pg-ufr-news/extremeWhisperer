@@ -154,7 +154,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5d66d33946',extremes,Wildfire,#d60d2b,effis,Wildfire Algeria,2023-07-19T10:16:10Z,Algeria,0.5668217448896564,0.0,2.0,en,MED,Africa
 'd1a0b92882',extremes,Wildfire,#d60d2b,effis,Wildfire  Chios Greece,2023-07-31T05:52:16Z,Greece,0.566774594798307,0.0,2.0,en,MED,Europe
 '3f391c6a9c',extremes,Tsunami,#690191,usgs,Tsunami Tonga,2023-07-02T10:27:00+00:00,Tonga,0.5663332740856767,0.0,2.0,en,SPO,Pacific Ocean
-'e8516b2c23',extremes,Heat Wave,#c40202,meteo,Italy Heat Wave,2023-07-17T20:17:00+00:00,Italy,0.566304385820713,1.0,3.0,en,MED,
 '990ec79613',extremes,Wildfire,#d60d2b,effisFire,Wild Fire Mulcey,2023-07-10T06:52:00Z,France,0.56622052061929,0.0,2.0,en,,EU
 '0bee19d1a3',extremes,Tsunami,#690191,usgs,Tsunami Alaska,2023-07-16T06:48:00+00:00,Alaska,0.5659918595949518,0.0,2.0,en,NWN,North-America
 'ff4bd7846f',extremes,Wildfire,#d60d2b,effis,"Wildfire Kızılkeçili, Çanakkale",2023-07-17T08:14:20Z,Turkey,0.565732556717589,0.0,2.0,en,MED,Asia
@@ -1843,6 +1842,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1a3eabe822',extremes,Thunderstorm,#53785a,eswd,Hail Czechia,2023-07-30T15:10:00+00:00,Czechia,0.509100129729355,1.0,2.0,en,WCE,Europe
 '6ea1f21231',extremes,Flood,#030ba1,relief,Torrential Rain Cameroon,2023-07-06T00:00:00+00:00,Cameroon,0.5090650014005116,1.0,2.0,en,CAF,Africa
 '450d4e409b',extremes,Flood,#030ba1,relief,Flood Zimbabwe,2023-07-06T00:00:00+00:00,Zimbabwe,0.5090530568416968,1.0,2.0,en,ESAF,Africa
+'e8516b2c23',extremes,Heat Wave,#c40202,meteo,Italy Heat Wave,2023-07-17T20:17:00+00:00,Italy,0.5090435756748787,2.0,3.0,en,MED,
 'f25ea5996b',extremes,Thunderstorm,#53785a,eswd,Hail Denmark,2023-07-30T12:05:00+00:00,Denmark,0.509024261667354,1.0,1.0,en,NEU,Europe
 'b23423328f',extremes,Wildfire,#d60d2b,effis,Wildfire Corfu,2023-07-24T10:38:33Z,Greece,0.5090180513516599,1.0,2.0,en,MED,Europe
 '9d99e2304f',extremes,Storm,#b3b2b1,eswd,Tornado Italy,2023-07-26T09:45:00+00:00,Italy,0.5090114997515106,1.0,1.0,en,MED,Europe
@@ -2118,7 +2118,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '47f42a9f5a',extremes,Wildfire,#d60d2b,effis,Bushfire Brisighella,2023-08-01T18:24:39Z,Italy,0.4908248706021298,0.0,2.0,en,MED,Europe
 'dd3e34368b',extremes,Wild Fire,#d60d2b,fema,Arizona Diamond Fire,2023-06-28T00:00:00Z,United States,0.4907505198624516,0.0,2.0,en,WNA,North-America
 '3dba5c0a5e',extremes,Heat Wave,#c40202,wmo,Heat Wave Russia,2023-07-18T11:01:00+00:00,Russia,0.4907494534485653,0.0,2.0,en,ESB,Europe
-'3d6bad93b8',extremes,Precipitation,#d60d2b,floodlist,State of Emergency After Deadly Floods in New York United States,2023-07-10T12:11:41+02:00,United States,0.49074183737343774,1.0,2.0,en,WNA,North-America
+'3d6bad93b8',extremes,Precipitation,#d60d2b,floodlist,State of Emergency After Deadly Floods in New York United States,2023-07-10T12:11:41+02:00,United States,0.4907418373734377,1.0,2.0,en,WNA,North-America
 '4bdf6dfac1',extremes,Heat Wave,#c40202,wmo,Heat Wave Czechia,2023-07-24T16:23:00+00:00,Czechia,0.4906710601329961,0.0,2.0,en,WCE,Europe
 'ff20b7cc4f',extremes,Wild Fire,#d60d2b,effisFire,"Wild Fire Motta San Giovanni,",2023-07-04T06:54:00Z,Italy,0.4906234282329144,1.0,1.0,en,,
 'e2fbe35523',extremes,Flood,#030ba1,femaList,Maine Severe Storm and Flooding,2023-07-06T00:00:00Z,USA,0.4904710755400022,0.0,2.0,en,,
@@ -2458,7 +2458,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '79f768a516',extremes,Storm,#b3b2b1,wmo,Storm Luxembourg,2023-07-24T10:23:00+00:00,Luxembourg,0.4195705015608484,0.0,2.0,en,WCE,Europe
 '0c330b4a2f',extremes,Heat Wave,#c40202,wmo,Heat Wave Ionion Islands,2023-07-20T09:53:00+00:00,Greece,0.4192634350923921,0.0,2.0,en,MED,Europe
 '20dd47ddbf',extremes,Storm,#b3b2b1,meteo,Wind Slovakia,2023-07-27T06:38:00+00:00,Slovakia,0.4191859916466612,0.0,2.0,en,WCE,Europe
-'fe60077b16',extremes,Flood,#030ba1,emdat,Flood Barpet distrcits (Assam),2023-06-23T12:00:00+00:00,India,0.4190307129323092,0.0,2.0,en,SAS,Asia
 '90f2867ba8',extremes,Flood,#030ba1,emdat,Flooding Töv,2023-07-14T12:00:00+00:00,Mongolia,0.4180980609626453,0.0,2.0,en,ESB,Asia
 '37e27cadc9',extremes,Heat Wave,#c40202,wmo,Heat Wave Dodekanisa Islands,2023-07-24T09:36:00+00:00,Greece,0.4175297371991862,0.0,2.0,en,MED,Europe
 '76f349e633',extremes,Flood,#030ba1,emdat,Flood Punjab,2023-08-04T12:00:00+00:00,Pakistan,0.417213982896163,0.0,2.0,en,SAS,Asia
