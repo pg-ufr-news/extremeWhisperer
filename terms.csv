@@ -805,7 +805,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5dc2078cb3',extremes,Storm,#b3b2b1,wmo,Storm Amstetten,2023-07-20T07:36:00+00:00,Austria,0.5430369514357654,0.0,2.0,en,WCE,Europe
 '5f15a71872',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Xinji,2023-07-20T02:38:00+00:00,China,0.543034155903129,0.0,2.0,en,EAS,Asia
 'e50bad4202',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Bihac,2023-07-19T07:20:00+00:00,Bosnia and Herzegovina,0.5430341219400766,0.0,2.0,en,MED,Europe
-'2c95b95cfd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Shizuishan,2023-07-19T23:30:00+00:00,China,0.5430197393913121,0.0,2.0,en,EAS,Asia
 '20ac3a992c',extremes,Precipitation,#d60d2b,meteo,Rain Serbia,2023-07-21T02:49:00+00:00,Serbia,0.543009700495784,1.0,2.0,en,MED,Europe
 'f0a985e9f4',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Wuning County,2023-07-20T07:05:00+00:00,China,0.5430037906023931,0.0,2.0,en,EAS,Asia
 '85d7454d9b',extremes,Landslide,#572c03,wmo,Landslide Deqin County,2023-07-20T07:00:00+00:00,China,0.5429876903598397,0.0,2.0,en,EAS,Asia
@@ -2142,7 +2141,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c9166e484a',extremes,Flood,#030ba1,floodlist,Death Toll Rises as Flooding Continues,2023-07-20T14:37:00+00:00,Rwanda,0.4897956484477049,1.0,2.0,en,SEAF,Africa
 '8a9c88875b',extremes,Flood,#030ba1,fema,Minnesota Severe Storms and Flooding,2023-07-19T00:00:00Z,United States,0.4897330950956631,0.0,2.0,en,CNA,North-America
 '8737f67c26',extremes,Wildfire,#d60d2b,fema,Oregon Golden Fire,2023-07-23T00:00:00Z,United States,0.4889692919020041,0.0,2.0,en,WNA,North-America
-'b20fc1e4a2',extremes,Volcano,#b83202,eonet,Volcano Papua New Guinea,2023-07-07T08:13:5+00:00,Papua New Guinea,0.48886596113671604,1.0,2.0,en,EPO,Oceania
+'b20fc1e4a2',extremes,Volcano,#b83202,eonet,Volcano Papua New Guinea,2023-07-07T08:13:5+00:00,Papua New Guinea,0.488865961136716,1.0,2.0,en,EPO,Oceania
 '358b4fbdbd',extremes,Volcano,#b83202,eonet,"San Cristobal Volcano, Nicaragua",2023-07-05T00:00:0+00:00,Nicaragua,0.4887289738636372,1.0,1.0,en,SCA,North-America
 'fb5e92dd09',extremes,Wildfire,#d60d2b,effis,"Wild Fire Spartia, Kefalonia",2023-07-31T21:37:00Z,Greece,0.4886984879140595,0.0,2.0,en,MED,Europe
 '1004fa7eb9',extremes,Landslide,#572c03,fema,Vermont Flooding,2023-07-10T00:00:00Z,United States,0.4886762090741596,0.0,2.0,en,ENA,North-America
@@ -2379,6 +2378,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a1d3d1ef20',extremes,Storm,#b3b2b1,meteo,Wind Netherlands,2023-07-23T04:39:00+00:00,Netherlands,0.4621341361888886,0.0,2.0,en,NEU,Europe
 'b2a7b1e7ba',extremes,Storm,#b3b2b1,wmo,Storm Smolensk Region,2023-07-18T11:01:00+00:00,Russian Federation,0.4619886304026735,1.0,1.0,en,ESB,Europe
 '411d16ffce',extremes,Precipitation,#d60d2b,meteo,Rain Italy,2023-07-21T02:49:00+00:00,Italy,0.4616686600899539,0.0,2.0,en,MED,Europe
+'2c95b95cfd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Shizuishan,2023-07-19T23:30:00+00:00,China,0.4615667784826153,1.0,1.0,en,EAS,Asia
 '1449404440',extremes,Flood,#030ba1,emdat,Flooding Kashmir,2023-07-13T12:00:00+00:00,India,0.4612833575771984,0.0,2.0,en,SAS,Asia
 '02df3d694c',extremes,Storm,#b3b2b1,wmo,Storm Jinggangshan City,2023-07-20T06:46:00+00:00,China,0.4612682516256348,1.0,1.0,en,EAS,Asia
 'b411945ac9',extremes,Storm,#b3b2b1,emdat,Storm Indonesia,2023-06-26T12:00:00+00:00,Indonesia,0.4605015322474786,0.0,2.0,en,SEA,Asia
@@ -2761,10 +2761,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '379662ce17',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Tuscola,2023-07-20T18:27:00+00:00,United States,0.368116188832246,0.0,2.0,en,CNA,North-America
 'ed11bcd8bb',extremes,Tropical Cyclone,#4f4f4f,emdat,Tropical Cyclone China,2023-07-31T12:00:00+00:00,China,0.3678862796077664,0.0,2.0,en,EAS,Asia
 'a363be456e',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Southern Great Plain,2023-07-24T09:37:00+00:00,Hungary,0.3632455207664262,0.0,2.0,en,WCE,Europe
-'f6e43e79ac',extremes,Flood,#030ba1,emdat,Flood Valparaíso,2023-06-25T12:00:00+00:00,Chile,0.3631118904857527,0.0,2.0,en,SWS,South-America
-'e9214b4849',extremes,Flood,#030ba1,emdat,Flood Maule,2023-06-25T12:00:00+00:00,Chile,0.3625210792145885,0.0,2.0,en,SWS,South-America
-'21e263f76e',extremes,Flood,#030ba1,emdat,Flooding Libertador,2023-06-25T12:00:00+00:00,Chile,0.3621495481891564,0.0,2.0,en,SWS,South-America
-'8148e96515',extremes,Flood,#030ba1,emdat,Flooding Maule,2023-06-25T12:00:00+00:00,Chile,0.3617778837306801,0.0,2.0,en,SWS,South-America
 '304bb986cd',extremes,Drought,#edc291,edo,Drought Costa Rica,2023-07-01T19:37:00+00:00,Costa Rica,0.3615314511246963,0.0,2.0,en,SCA,North-America
 '8fd8c684c2',extremes,Storm,#b3b2b1,wmo,Storm Pezinok,2023-07-24T09:47:00+00:00,Slovakia,0.3601246704710021,0.0,2.0,en,WCE,Europe
 '749d799665',extremes,Storm,#b3b2b1,wmo,Storm Prijedor,2023-07-24T08:08:00+00:00,Bosnia and Herzegovina,0.3600956199115968,0.0,2.0,en,MED,Europe
