@@ -362,7 +362,8 @@ def extractData(article, language, keyWord, topic, feed, country, ipcc, continen
 
 def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, topic, feed, country, ipcc, continent):
     ## keywordsLangDF = termsDF[termsDF['language']==language]
-    keywordsLangDF = termsDF[termsDF['term']==keyWord]
+    ## keywordsLangDF = termsDF[termsDF['term']==keyWord] ## to harsh
+    keywordsLangDF = termsDF[termsDF['topic']==topic]
     foundArticles = []
     for article in articles:
       data = extractData(article, language, keyWord, topic, feed, country, ipcc, continent)
@@ -394,7 +395,7 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
              found = True
       print([data['title'], found])  
       if(found):
-        foundKeywords.append(keyWord) 
+        ##foundKeywords.append(keyWord) 
         print(foundKeywords) 
         anyColumn = random.choice(foundColumns)
         #data['term'] = random.choice(foundKeywords)
