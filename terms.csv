@@ -1,10 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d3b9274c07',extremes,Drought,#edc291,edo,Drought Guatemala,2023-07-01T08:46:00+00:00,Guatemala,0.769591958606126,0.0,2.0,en,SCA,North-America
 '1d88626569',extremes,Wildfire,#d60d2b,esawfa,Wildfire Bolivia,2023-07-20T16:35:00+00:00,Bolivia,0.7205955483840145,0.0,2.0,en,SAM,South-America
 'c269c088f2',extremes,Wildfire,#d60d2b,esawfa,Bushfire Canada,2023-07-20T16:35:00+00:00,Canada,0.7116585014285288,0.0,2.0,en,NWN,North-America
 'f53bcd64ac',extremes,Wildfire,#d60d2b,esawfa,Wildfire Democratic Republic of the Congo,2023-07-21T16:35:00+00:00,Democratic Republic of the Congo,0.6620600372455042,0.0,2.0,en,CAF,Africa
 'b56877a9c5',extremes,Wildfire,#d60d2b,esawfa,Bushfire United States,2023-07-20T16:35:00+00:00,United States,0.6608836183625231,0.0,2.0,en,NWN,North-America
 'd1bf81c50d',extremes,Wildfire,#d60d2b,esawfa,Wildfire Reunion,2023-07-24T16:35:00+00:00,Reunion,0.6591250998571136,0.0,2.0,en,SIO,Africa
+'d3b9274c07',extremes,Drought,#edc291,edo,Drought Guatemala,2023-07-01T08:46:00+00:00,Guatemala,0.654153314815207,1.0,1.0,en,SCA,North-America
 '5249613a6a',extremes,Wildfire,#d60d2b,esawfa,Bushfire Russia,2023-07-20T16:35:00+00:00,Russia,0.6519420581895796,0.0,2.0,en,ESB,Europe
 '2f1b36cfd4',extremes,Wildfire,#d60d2b,esawfa,Wildfire Brazil,2023-07-20T16:35:00+00:00,Brazil,0.6449333902568418,0.0,2.0,en,SAM,South-America
 '885597e0f4',extremes,Wildfire,#d60d2b,esawfa,Wildfire Australia,2023-07-20T16:35:00+00:00,Australia,0.6429679652496901,0.0,2.0,en,NAU,Oceania
@@ -1441,7 +1441,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '963dca80e3',extremes,Heat Wave,#c40202,meteo,Heat Wave Slovenia,2023-07-17T20:25:00+00:00,Slovenia,0.5385221524023385,0.0,2.0,en,WCE,Europe
 'aa704a9a6b',extremes,Earthquake,#870007,usgs,Earthquake Gizo,2023-07-09T00:06:00+00:00,Solomon Islands,0.5385078623686714,0.0,2.0,en,EPO,Pacific Ocean
 'f2a3d69edc',extremes,Earthquake,#870007,usgs,Earthquake Puerto San José,2023-07-30T01:10:00+00:00,Guatemala,0.5384268403054577,0.0,2.0,en,SCA,North-America
-'6f1ffee938',extremes,Wildfire,#d60d2b,relief,Wildfire United States,2023-06-25T00:00:00+00:00,United States,0.5383782891744011,1.0,2.0,en,CNA,North-America
 '8cd3be636b',extremes,Heat Wave,#c40202,meteo,Heat Wave Israel,2023-07-18T17:43:00+00:00,Israel,0.5383635664128996,0.0,2.0,en,MED,Asia
 '70663dc77e',extremes,Earthquake,#870007,usgsEarthquake,Earthquake Chicureo Abajo,2023-07-09T17:11:00+00:00,Chile,0.5383471472602933,0.0,2.0,en,,
 'd4d4af25bb',extremes,Earthquake,#870007,usgs,Earthquake Gizo,2023-07-09T00:06:00+00:00,Solomon Islands,0.5382386067695546,0.0,2.0,en,EPO,Pacific Ocean
@@ -1796,7 +1795,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c4f4de2fd',extremes,Storm,#b3b2b1,eswd,Strong Wind Austria,2023-07-18T13:15:00+00:00,Austria,0.5125560290577532,1.0,2.0,en,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,eswd,Storm Poland,2023-07-30T14:10:00+00:00,Poland,0.5125469385444409,1.0,3.0,en,WCE,Europe
 'd4c64943db',extremes,Wildfire,#d60d2b,effisFire,Bushfire Greece,2023-07-06T00:00:00Z,Greece,0.5124986686083809,1.0,1.0,en,,EU
-'50b8f22921',extremes,Flood,#030ba1,relief,Flood Tanzania,2023-06-26T00:00:00+00:00,Tanzania,0.5124188778838669,1.0,2.0,en,SEAF,Africa
 'c38d04beb2',extremes,Flood,#030ba1,relief,Flash Flood Philippines,2023-07-12T00:00:00+00:00,Philippines,0.512403721822625,1.0,2.0,en,SEA,Asia
 '0839e6e2ba',extremes,Storm,#b3b2b1,meteo,Storm Sweden,2023-07-17T20:25:00+00:00,Sweden,0.5124028434812908,0.0,2.0,en,NEU,Europe
 'c62686ed67',extremes,Thunderstorm,#53785a,eswd,Hail Spain,2023-07-20T15:25:00+00:00,Spain,0.5123612524741724,1.0,3.0,en,MED,Europe
