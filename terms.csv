@@ -312,7 +312,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eedac8a9bf',extremes,Wildfire,#d60d2b,effis,Wild Fire Lançon-Provence,2023-07-28T07:16:39Z,France,0.5596397081761914,0.0,2.0,en,MED,Europe
 '78eb843b91',extremes,Iceberg,#d60d2b,eonet,Iceberg A81,2023-07-14 00:00:0+00:00,Antarctis,0.5596100685890397,0.0,2.0,en,EAN,
 'b1bb34908b',extremes,Wildfire,#d60d2b,effis,Wildfire  Messina Italy,2023-07-20T10:16:00Z,Italy,0.5595682638266396,0.0,2.0,en,MED,Europe
-'6cf3d67c91',extremes,Heat Wave,#c40202,meteo,Heat Wave Croatia,2023-07-17T20:25:00+00:00,Croatia,0.5595604366143578,0.0,2.0,en,MED,Europe
 'b8bcb46270',extremes,Iceberg,#d60d2b,eonet,Iceberg D29A,2023-07-14 00:00:0+00:00,,0.5595311618875178,0.0,2.0,en,EAN,
 '1ad7e87cb2',extremes,Wildfire,#d60d2b,effis,Wild Fire Italy,2023-07-25T10:50:39Z,Italy,0.5595060357554915,0.0,2.0,en,MED,Europe
 '0b55d0dbc1',extremes,Iceberg,#d60d2b,nasaEonet,Iceberg D20A,2023-06-30 00:00:0+00:00,,0.5595022589774806,0.0,2.0,en,EAN,
@@ -2213,6 +2212,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '98042f3b77',extremes,Wildfire,#d60d2b,effis,Bushfire  Balagne France,2023-07-25T00:00:00Z,France,0.4944020225464354,0.0,2.0,en,MED,Europe
 'e9d168614e',extremes,Wildfire,#d60d2b,wmo,Wildfire Russia,2023-07-18T11:01:00+00:00,Russia,0.4943358377834621,0.0,2.0,en,ESB,Europe
 '989679c15d',extremes,Wildfire,#d60d2b,effis,Bushfire Oasi del Simeto,2023-08-10T08:18:45Z,Italy,0.4942985981640597,0.0,2.0,en,MED,Europe
+'6cf3d67c91',extremes,Heat Wave,#c40202,meteo,Heat Wave Croatia,2023-07-17T20:25:00+00:00,Croatia,0.4942140997585678,1.0,2.0,en,MED,Europe
 'fe508a3944',extremes,Storm,#b3b2b1,random,snow flurry,2023-07-15T20:38:00+00:00,,0.4942126636092795,1.0,1.0,en,,
 '17e690ca13',extremes,Flood,#030ba1,relief,Torrential Rain Senegal,2023-07-18T00:00:00+00:00,Senegal,0.4941997862862888,1.0,2.0,en,SAH,Africa
 '0db76d3391',extremes,Wildfire,#d60d2b,effis,Wild Fire Diyarbakır,2023-07-18T09:44:00Z,Turkey,0.4940860695692947,1.0,1.0,en,WCA,Asia
@@ -2318,7 +2318,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '755fd6cf01',extremes,Wildfire,#d60d2b,effis,Wild Fire Ourém,2023-08-03T20:26:17Z,Portugal,0.4860552333601998,0.0,2.0,en,MED,Europe
 'e179d9e6da',extremes,Wildfire,#d60d2b,effis,Wildfire Ourém,2023-08-03T20:26:17Z,Portugal,0.4860186790760145,0.0,2.0,en,MED,Europe
 '676dd10496',extremes,Volcano,#b83202,eonet,Volcano Reunion,2023-07-03T00:00:0+00:00,Reunion,0.4860035581063238,1.0,2.0,en,SIO,Africa
-'87b1bddf80',extremes,Precipitation,#d60d2b,floodlist,"One Dead, Hundreds Displaced After Floods in Black Sea Region Turkey",2023-07-12T10:34:45+02:00,Turkey,0.48596389872402895,1.0,1.0,en,MED,Europe
+'87b1bddf80',extremes,Precipitation,#d60d2b,floodlist,"One Dead, Hundreds Displaced After Floods in Black Sea Region Turkey",2023-07-12T10:34:45+02:00,Turkey,0.4859638987240289,1.0,1.0,en,MED,Europe
 'd4c21a69ff',extremes,Wildfire,#d60d2b,effis,Bushfire  Evia Greece,2023-08-04T10:56:03Z,Greece,0.4856283786066484,0.0,2.0,en,MED,Europe
 '52dd7badf3',extremes,Wildfire,#d60d2b,effis,Wild Fire  Catalonia Spain,2023-08-07T00:00:00Z,Spain,0.4855286682454602,0.0,2.0,en,MED,Europe
 '5388080cdb',extremes,Thunderstorm,#53785a,meteo,Slovakia Thunderstorm,2023-07-17T20:17:00+00:00,Slovakia,0.4854884689982164,3.0,1.0,en,WCE,Europe
@@ -3979,12 +3979,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa31b6a5c7',extremes,Drought,#edc291,edo,Drought Cambodia,2023-07-01T19:37:00+00:00,Cambodia,0.1905425491344398,0.0,2.0,en,SEA,Asia
 'fc1842c1fa',extremes,Drought,#edc291,edo,Drought Cambodia,2023-07-01T08:46:00+00:00,Cambodia,0.1901319131438258,0.0,2.0,en,SEA,Asia
 '5a2f40bd0a',extremes,Drought,#edc291,edo,Drought Kazakhstan,2023-07-01T19:37:00+00:00,Kazakhstan,0.1897112434969768,0.0,2.0,en,WSB,Asia
-'1e905bd71a',extremes,Drought,#edc291,edo,Drought Haiti,2023-07-01T06:39:00+00:00,Haiti,0.1830325966750495,0.0,2.0,en,CAR,North-America
 '1cf385e5d2',extremes,Drought,#edc291,edo,Drought Haiti,2023-07-01T08:46:00+00:00,Haiti,0.1822331820036329,0.0,2.0,en,CAR,North-America
-'b1dea40a8c',extremes,Drought,#edc291,edo,Drought Curacao,2023-07-01T06:39:00+00:00,Curacao,0.1716870713017738,0.0,2.0,en,CAR,North-America
 '2c3e19e4c4',extremes,Drought,#edc291,edo,Drought Curacao,2023-07-01T08:46:00+00:00,Curacao,0.1711107393538082,0.0,2.0,en,CAR,North-America
 'dc7eb532cb',extremes,Drought,#edc291,edo,Drought Cura\xE7ao,2023-07-01T19:37:00+00:00,Cura\xE7ao,0.1703309547736212,0.0,2.0,en,CAR,North-America
-'9755cdd0d1',extremes,Drought,#edc291,edo,Drought Moldova,2023-07-01T06:39:00+00:00,Moldova,0.1660729055117943,0.0,2.0,en,WCE,Europe
 '75579b650e',extremes,Drought,#edc291,edo,Drought Romania,2023-07-01T08:46:00+00:00,Romania,0.1654544422858828,0.0,2.0,en,WCE,Europe
 '8786a4b69a',extremes,Drought,#edc291,edo,Drought Romania,2023-07-01T19:37:00+00:00,Romania,0.1651402211510462,0.0,2.0,en,WCE,Europe
 'ebc837bb72',extremes,Drought,#edc291,edo,Drought Norway,2023-07-01T16:39:00+00:00,Norway,0.1626803603681387,0.0,2.0,en,NEU,Europe
