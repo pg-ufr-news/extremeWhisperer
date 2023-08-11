@@ -35,9 +35,9 @@ topicColors = {'Thunderstorm':'#53785a', 'Flood':'#030ba1', 'Storm':'#b3b2b1', '
                }
 
 def getAge(dateString):
-    print(dateString)
+    #print(dateString)
     dateString = dateString[0:19]+'+00:00'
-    dateString
+    #dateString
     today = datetime.now(timezone.utc)
     timeDate = -1
     pubDate = None
