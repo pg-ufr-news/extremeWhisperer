@@ -253,7 +253,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '26962b18b8',extremes,Storm,#b3b2b1,randomTerm,storm,2023-07-03T22:40:00+00:00,,0.563332552377805,1.0,3.0,en,,
 'a89b59ef90',extremes,Iceberg,#d60d2b,nasaEonet,Iceberg A74A,2023-06-30 00:00:0+00:00,Antarctis,0.5632889602989076,0.0,2.0,en,EAN,
 'e13780d448',extremes,Iceberg,#d60d2b,eonet,Iceberg D30B,2023-07-14 00:00:0+00:00,,0.5632877504289349,0.0,2.0,en,EAN,
-'7a8fd37561',extremes,Wildfire,#d60d2b,effis,Wild Fire  Messina Italy,2023-07-20T10:16:00Z,Italy,0.5632789945605603,0.0,2.0,en,MED,Europe
 '01c1da69a2',extremes,Wildfire,#d60d2b,fema,Alaska Lost Horse Creek Fire,2023-08-03T00:00:00Z,United States,0.563268705461981,0.0,2.0,en,NWN,North-America
 'f53bcd64ac',extremes,Wildfire,#d60d2b,esawfa,Wildfire Democratic Republic of the Congo,2023-07-21T16:35:00+00:00,Democratic Republic of the Congo,0.5632010766586786,1.0,2.0,en,CAF,Africa
 '63c0285ba6',extremes,Iceberg,#d60d2b,eonet,Iceberg D28,2023-07-14 00:00:0+00:00,,0.5629813395955071,0.0,2.0,en,EAN,
@@ -2411,6 +2410,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '47dfb6eebf',extremes,Wildfire,#d60d2b,effis,"Wildfire Saint-Roman-de-Codières, Gard",2023-08-10T09:16:41Z,France,0.47940137430849,0.0,2.0,en,MED,Europe
 '1df8e04284',extremes,Flood,#030ba1,meteo,Flood Slovakia,2023-08-01T08:13:00+00:00,Slovakia,0.4791003757681888,0.0,2.0,en,WCE,Europe
 'b32bb1dd21',extremes,Wildfire,#d60d2b,effis,Wildfire Syria,2023-07-27T11:57:45Z,Syria,0.4790366787766464,1.0,1.0,en,MED,Asia
+'7a8fd37561',extremes,Wildfire,#d60d2b,effis,Wild Fire  Messina Italy,2023-07-20T10:16:00Z,Italy,0.47878714537647626,1.0,1.0,en,MED,Europe
 'f5fa5bdca4',extremes,Flood,#030ba1,emdat,Flood Niger,2023-07-20T12:00:00+00:00,Niger,0.4783997579915539,0.0,2.0,en,SAH,Africa
 'e0826433e4',extremes,Wildfire,#d60d2b,effis,"Wild Fire Kymi Aliveri, Evia",2023-08-04T10:56:03Z,Greece,0.4783915092193381,0.0,2.0,en,MED,Europe
 '8165560d33',extremes,Wildfire,#d60d2b,effis,"Bushfire Kymi Aliveri, Evia",2023-08-04T10:56:03Z,Greece,0.478217854446524,0.0,2.0,en,MED,Europe
@@ -2649,7 +2649,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b5dad7a57',extremes,Precipitation,#d60d2b,meteo,Rain Portugal,2023-08-09T16:31:00+00:00,Portugal,0.445464072134611,0.0,2.0,en,NAO,Atlantic Ocean
 'a36a16abf9',extremes,Precipitation,#d60d2b,wmo,Precipitation Bosnia and Herzegovina,2023-07-24T11:12:00+00:00,Bosnia and Herzegovina,0.4454009666929867,0.0,2.0,en,MED,Europe
 '6261f62ff2',extremes,Flood,#030ba1,emdat,Flood Sa’ada,2023-06-27T12:00:00+00:00,Yemen,0.4447369603475005,0.0,2.0,en,ARP,Asia
-'cbb9c6fa13',extremes,Earthquake,#870007,usgsEarthquake,Earthquake east of the South Sandwich Islands,2023-07-04T12:01:00+00:00,,0.4444532961879354,1.0,1.0,en,,
 'd76494938f',extremes,Storm,#b3b2b1,wmo,Storm Uruguay,2023-07-21T16:15:00+00:00,Uruguay,0.4444370816327899,0.0,2.0,en,SES,South-America
 '6fd5acddee',extremes,Storm,#b3b2b1,meteo,Storm Greece,2023-07-27T08:39:00+00:00,Greece,0.4441557525531002,0.0,2.0,en,MED,
 '204c51c4f7',extremes,Storm,#b3b2b1,meteo,Wind Greece,2023-07-27T06:38:00+00:00,Greece,0.4441355866270045,0.0,2.0,en,MED,
