@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4d446959e2',extremes,Drought,#edc291,edo,Drought Estonia,2023-07-01T08:46:00+00:00,Estonia,0.689250463917092,0.0,2.0,en,NEU,Europe
 'd3b9274c07',extremes,Drought,#edc291,edo,Drought Guatemala,2023-07-01T08:46:00+00:00,Guatemala,0.6559533448152071,1.0,2.0,en,SCA,North-America
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,locusts,2023-08-09T10:05:00+00:00,,0.6466878904117521,0.0,2.0,en,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,soil moisture,2023-08-10T02:37:00+00:00,,0.6287879712448325,0.0,2.0,en,,
@@ -32,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1764b62510',extremes,Heat Wave,#c40202,wmo,Heat Wave Alar City,2023-07-20T08:46:00+00:00,China,0.5884766691996319,1.0,1.0,en,EAS,Asia
 '0bb7f1fff7',extremes,Heat Wave,#c40202,wmo,Heat Wave Sardegna,2023-07-20T09:26:00+00:00,Italy,0.5884007756600712,1.0,1.0,en,MED,Europe
 '61d0551c8f',extremes,Heat Wave,#c40202,wmo,Heat Wave Thessalia,2023-07-20T09:48:00+00:00,Greece,0.5880746883720455,1.0,1.0,en,MED,Europe
+'4d446959e2',extremes,Drought,#edc291,edo,Drought Estonia,2023-07-01T08:46:00+00:00,Estonia,0.5876630743295282,1.0,2.0,en,NEU,Europe
 'a5cd8cd3f1',extremes,Storm,#b3b2b1,wmo,Storm Longyou County,2023-07-20T08:15:00+00:00,China,0.5873440338121231,1.0,1.0,en,EAS,Asia
 '0eda78d87d',extremes,Cold Wave,#a7e9fa,relief,Cold Wave Bangladesh,2023-07-26T00:00:00+00:00,Bangladesh,0.5871463294041099,0.0,2.0,en,SAS,Asia
 '2417f8cb23',extremes,Tropical Cyclone,#4f4f4f,emdat,Tropical Cyclone Hebei Province,2023-08-02T12:00:00+00:00,China,0.5864022472738071,0.0,2.0,en,EAS,Asia
@@ -4002,24 +4002,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80a1b6ba6b',extremes,Drought,#edc291,edo,Drought Belgium,2023-07-01T08:46:00+00:00,Belgium,0.2511477729466113,0.0,2.0,en,WCE,Europe
 'de59ab88b5',extremes,Flood,#030ba1,wmo,Flood River Himleån,2023-08-07T15:51:00+00:00,Sweden,0.2507897126780264,0.0,2.0,en,NEU,Europe
 '29a269b187',extremes,Flood,#030ba1,wmo,Flood River Nedre Lagan,2023-08-07T15:51:00+00:00,Sweden,0.2502514216901873,0.0,2.0,en,NEU,Europe
-'bae61a97dd',extremes,Drought,#edc291,edo,Drought Afghanistan,2023-07-01T19:37:00+00:00,Afghanistan,0.2474089528178177,0.0,2.0,en,WCA,Asia
 '846ed66c82',extremes,Precipitation,#d60d2b,wmo,Precipitation Russia,2023-08-10T20:01:00+00:00,Russia,0.2470281197548721,0.0,2.0,en,ESB,Europe
 '989ba3562c',extremes,Precipitation,#d60d2b,wmo,Precipitation Russian Federation,2023-08-09T16:01:00+00:00,Russian Federation,0.2463307146421127,0.0,2.0,en,ESB,Europe
 'd7b5dc98dc',extremes,Flood,#030ba1,wmo,Flood Russia,2023-08-10T20:01:00+00:00,Russia,0.2441545550920349,0.0,2.0,en,ESB,Europe
-'a08d57a770',extremes,Drought,#edc291,edo,Drought Comoros,2023-07-01T19:37:00+00:00,Comoros,0.2438327636806563,0.0,2.0,en,ESAF,Africa
 '8cec2e3cfe',extremes,Heat Wave,#c40202,wmo,Heat Wave Russian Federation,2023-08-09T16:01:00+00:00,Russian Federation,0.2437474933105686,0.0,2.0,en,ESB,Europe
 '52a02767e7',extremes,Flood,#030ba1,wmo,Flood River Testeboån,2023-08-07T15:51:00+00:00,Sweden,0.24298562797193,0.0,2.0,en,NEU,Europe
-'58d9939b22',extremes,Drought,#edc291,edo,Drought Togo,2023-07-01T19:37:00+00:00,Togo,0.2414392967175948,0.0,2.0,en,WAF,Africa
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,Wildfire Russia,2023-08-09T16:01:00+00:00,Russia,0.241052559934282,0.0,2.0,en,ESB,Europe
 '846595476e',extremes,Wildfire,#d60d2b,wmo,Wildfire Russian Federation,2023-08-09T16:01:00+00:00,Russian Federation,0.2403371554104975,0.0,2.0,en,ESB,Europe
 '1d9c104bbb',extremes,Storm,#b3b2b1,wmo,Storm Lithuania,2023-08-08T10:54:00+00:00,Lithuania,0.2395574812468118,0.0,2.0,en,WCE,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,Heat Wave Switzerland,2023-08-11T22:35:00+00:00,Switzerland,0.2369593009030497,0.0,2.0,en,WCE,Europe
-'6778ecd24e',extremes,Drought,#edc291,edo,Drought Thailand,2023-07-01T19:37:00+00:00,Thailand,0.2359373414552408,0.0,2.0,en,SEA,Asia
 '584268d3a1',extremes,Tropical Cyclone,#4f4f4f,emdat,Storm Kien Giang Province,2023-07-17T12:00:00+00:00,Vietnam,0.2332081418051849,0.0,2.0,en,SEA,Asia
-'5e5d5268f0',extremes,Drought,#edc291,edo,Drought Poland,2023-07-01T19:37:00+00:00,Poland,0.231505741454499,0.0,2.0,en,WCE,Europe
-'3961ff2581',extremes,Drought,#edc291,edo,Drought Mexico,2023-07-01T19:37:00+00:00,Mexico,0.2175169329998367,0.0,2.0,en,NCA,North-America
-'586e022e55',extremes,Drought,#edc291,edo,Drought Uzbekistan,2023-07-01T19:37:00+00:00,Uzbekistan,0.2158137984371183,0.0,2.0,en,WCA,Asia
-'3cde51639e',extremes,Drought,#edc291,edo,Drought Netherlands,2023-07-01T19:37:00+00:00,Netherlands,0.2135218187408904,0.0,2.0,en,NEU,Europe
-'c20895c3a8',extremes,Drought,#edc291,edo,Drought Venezuela,2023-07-01T19:37:00+00:00,Venezuela,0.2128959529102976,0.0,2.0,en,NSA,South-America
-'fd68b7ec67',extremes,Drought,#edc291,edo,Drought Mozambique,2023-07-01T19:37:00+00:00,Mozambique,0.2106510114478658,0.0,2.0,en,ESAF,Africa
 '45983a5628',extremes,Storm,#b3b2b1,emdat,Storm Varese,2023-07-25T12:00:00+00:00,Italy,0.1929482472388517,0.0,2.0,en,MED,Europe
