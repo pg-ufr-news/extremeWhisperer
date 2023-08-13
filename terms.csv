@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'a5ff1cde4a',extremes,Drought,#edc291,random,soil moisture,2023-08-10T02:37:00+00:00,,0.6287879712448325,0.0,2.0,en,,
 'b1671be295',extremes,Wildfire,#d60d2b,esawfa,Wildfire Iceland,2023-07-23T16:35:00+00:00,Iceland,0.6271034268263874,1.0,2.0,en,GIC,Europe
 'f7493e0a77',extremes,Tropical Cyclone,#4f4f4f,emdat,Typhoon China,2023-08-02T12:00:00+00:00,China,0.6269251588247597,1.0,2.0,en,EAS,Asia
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,whirlwind,2023-08-09T20:49:00+00:00,,0.6232214629751228,0.0,2.0,en,,
@@ -605,6 +604,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f1b36cfd4',extremes,Wildfire,#d60d2b,esawfa,Wildfire Brazil,2023-07-20T16:35:00+00:00,Brazil,0.5487939367183156,1.0,2.0,en,SAM,South-America
 '5367364f56',extremes,Wildfire,#d60d2b,effis,Bushfire Saharidj,2023-07-19T10:16:10Z,Algeria,0.548576677709234,0.0,2.0,en,MED,Africa
 '54d63e3ed1',extremes,Wildfire,#d60d2b,effis,Bushfire Bolu,2023-07-17T07:40:43Z,Turkey,0.5485210803977832,0.0,2.0,en,MED,Asia
+'a5ff1cde4a',extremes,Drought,#edc291,random,soil moisture,2023-08-10T02:37:00+00:00,,0.5485154996490167,1.0,3.0,en,,
 'bb4bf64929',extremes,Wildfire,#d60d2b,effis,Wildfire  Alcamo Italy,2023-07-17T07:53:28Z,Italy,0.5484989946758072,0.0,2.0,en,MED,Europe
 'a9bf51fb32',extremes,Wildfire,#d60d2b,effisFire,Wildfire Aléria,2023-07-03T16:07:00Z,France,0.5484841373469113,0.0,2.0,en,,EU
 '4c34ec4e6e',extremes,Earthquake,#870007,usgs,Earthquake El Palmarcito,2023-07-14T09:29:00+00:00,Mexico,0.5483961436390105,0.0,2.0,en,SCA,
@@ -1989,7 +1989,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e55a84cd08',extremes,Volcano,#b83202,relief,Volcano Venezuela (Bolivarian Republic of),2023-07-08T00:00:00+00:00,Venezuela (Bolivarian Republic of),0.5098514227496251,1.0,1.0,en,NSA,South-America
 '312cda729b',extremes,Wildfire,#d60d2b,esawfa,Wildfire Saudi Arabia,2023-07-21T16:35:00+00:00,Saudi Arabia,0.509821154026373,0.0,2.0,en,ARP,Asia
 '0816e6486e',extremes,Landslide,#572c03,relief,Landslide Venezuela,2023-07-08T00:00:00+00:00,Venezuela,0.509777537518431,1.0,1.0,en,NSA,South-America
-'e495b0c3c4',extremes,Storm,#b3b2b1,eswdList,severe wind Czechia,2023-07-05T14:10:00+00:00,Czechia,0.5097683885756992,1.0,1.0,en,,
 'f8c42b1d5d',extremes,Flood,#030ba1,relief,Torrential Rain Somalia,2023-07-13T00:00:00+00:00,Somalia,0.5097511677086021,1.0,1.0,en,NEAF,Africa
 '518a22cd69',extremes,Storm,#b3b2b1,eswdList,tornado Russian Federation,2023-07-09T14:50:00+00:00,Russian Federation,0.5097506211668821,1.0,2.0,en,,
 '77e65f56de',extremes,Landslide,#572c03,relief,Landslide Venezuela,2023-07-06T00:00:00+00:00,Venezuela,0.509725000799984,1.0,1.0,en,NSA,South-America
@@ -2087,9 +2086,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ed4448c975',extremes,Flood,#030ba1,emdat,Flood Guatemala,2023-06-30T12:00:00+00:00,Guatemala,0.5068207773608889,0.0,2.0,en,SCA,North-America
 '88a30e3077',extremes,Storm,#b3b2b1,eswd,tornado Denmark,2023-07-13T08:17:00+00:00,Denmark,0.5068107648745633,1.0,2.0,en,NEU,Europe
 'b670485a51',extremes,Flood,#030ba1,relief,Flooding Bolivia,2023-07-26T00:00:00+00:00,Bolivia,0.506757603050012,1.0,2.0,en,SAM,South-America
-'2702c9301b',extremes,Storm,#b3b2b1,eswdList,strong wind Czech Republic,2023-07-05T13:45:00+00:00,Czech Republic,0.5066953523460801,1.0,1.0,en,,
 '842b0cdfbb',extremes,Thunderstorm,#53785a,eswd,hail Croatia,2023-07-13T13:44:00+00:00,Croatia,0.5066904925666236,1.0,1.0,en,WCE,Europe
-'142c555bfe',extremes,Storm,#b3b2b1,eswdList,strong wind Czechia,2023-07-05T14:15:00+00:00,Czechia,0.5066346092156588,1.0,1.0,en,,
 '361b32fafa',extremes,Storm,#b3b2b1,eswd,Strong Wind Slovenia,2023-07-30T04:03:00+00:00,Slovenia,0.5066261343404983,1.0,1.0,en,WCE,Europe
 '145f62eb6b',extremes,Thunderstorm,#53785a,eswd,Heavy Rain Russian Federation,2023-07-18T13:20:00+00:00,Russian Federation,0.5065658665358147,1.0,2.0,en,WCE,Europe
 'a8345541fe',extremes,Precipitation,#d60d2b,relief,Torrential Rain Zimbabwe,2023-07-06T00:00:00+00:00,Zimbabwe,0.5064760186097049,1.0,1.0,en,ESAF,Africa
@@ -2226,7 +2223,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b0dad58a03',extremes,Wild Fire,#d60d2b,effisFire,Wild Fire Aliveri,2023-07-06T00:00:00Z,Greece,0.4968329924280877,1.0,1.0,en,,
 '3e010ddfb0',extremes,Wildfire,#d60d2b,effis,Wild Fire Castelo Branco,2023-08-05T11:35:00Z,Portugal,0.4968026410008034,0.0,2.0,en,MED,Europe
 'd1b47f6677',extremes,Wildfire,#d60d2b,effis,Wild Fire Corfu,2023-07-24T10:38:33Z,Greece,0.4967841978581307,1.0,2.0,en,MED,Europe
-'09e71d2203',extremes,Wildfire,#d60d2b,effisFire,Wildfire Turkey,2023-06-23T13:45:00Z,Turkey,0.4966626770615974,1.0,3.0,en,,AS
 '4be4e84334',extremes,Wildfire,#d60d2b,effis,"Wild Fire Yukarı Çaylı, Bilecik",2023-08-07T08:49:36Z,Turkey,0.4966242396945849,0.0,2.0,en,MED,Asia
 'bd68aacbbc',extremes,Wildfire,#d60d2b,effis,Wild Fire  Italy,2023-07-04T06:54:00Z,Italy,0.4965522906927395,1.0,3.0,en,MED,Europe
 'bc8b11cb16',extremes,Wildfire,#d60d2b,effis,Wild Fire Brisighella,2023-08-01T18:24:39Z,Italy,0.4964641717158159,0.0,2.0,en,MED,Europe
