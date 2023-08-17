@@ -40,6 +40,7 @@ def importTerms():
     )
     topicsDF['pages'] = 2
     topicsDF['counter'] = 0
+    topicsDF['created'] = topicsDF['added']
     ##print(topicsDF.head())
 
     for index, column in topicsDF.iterrows():
