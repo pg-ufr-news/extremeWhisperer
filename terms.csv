@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'1f568def4e',extremes,Flooding,#d60d2b,acwe,Flooding South Australia,2023-08-17T07:07:00+00:00,Australia,0.7511591659920495,1.0,2.0,en,SAU,Oceania
 '16afad5339',extremes,Heat Wave,#c40202,acwe,Mild Winter South Australia,2023-08-17T07:07:00+00:00,Australia,0.7118867670649976,1.0,2.0,en,SAU,Oceania
 'fe8861b402',extremes,Drought,#edc291,acwe,Drought Queensland,2023-08-17T07:07:00+00:00,Australia,0.6942012661702088,0.0,2.0,en,CAU,Oceania
 'ccf13335b7',extremes,Drought,#edc291,acwe,Drought Western Australia,2023-08-17T07:07:00+00:00,Australia,0.6939598075977018,0.0,2.0,en,CAU,Oceania
@@ -11,6 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,Tropical Cyclone Australia,2023-08-10T10:06:00+00:00,Australia,0.6495356616840924,0.0,2.0,en,EAU,Oceania
 '6d01caced3',extremes,Drought,#edc291,edo,Dryness Belize,2023-08-17T02:38:00+00:00,Belize,0.6487170262548964,0.0,2.0,en,SCA,North-America
 'ebbcf68e81',extremes,Tropical Cyclone,#4f4f4f,aidr,"Tropical Cyclone Debbie, Queensland, 2017",2023-08-10T10:06:00+00:00,Australia,0.647888621314594,0.0,2.0,en,EAU,Oceania
+'1f568def4e',extremes,Flooding,#d60d2b,acwe,Flooding South Australia,2023-08-17T07:07:00+00:00,Australia,0.6434363260932421,2.0,3.0,en,SAU,Oceania
 '2617cc6cc9',extremes,Earthquake,#870007,aidr,Earthquake New Zealand,2023-08-10T10:06:00+00:00,New Zealand,0.6306439625128442,0.0,2.0,en,NZ,Oceania
 'eeaa140888',extremes,Drought,#edc291,aidr,"Environment - Drought, Queensland and New South Wales",2023-08-10T10:06:00+00:00,Australia,0.6296300028260243,0.0,2.0,en,CAU,Oceania
 '792a35d4a4',extremes,Flood,#030ba1,random,pluvial flooding,2023-08-17T02:37:00+00:00,,0.6277634745266709,0.0,2.0,en,,
@@ -2385,7 +2385,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c40c3d7ce2',extremes,Flood,#030ba1,meteo,Flooding Sweden,2023-08-09T16:31:00+00:00,Sweden,0.4876318231427204,0.0,2.0,en,NEU,Europe
 '8e76cfe157',extremes,Volcano,#b83202,eonet,Volcano Italy,2023-07-12T00:00:0+00:00,Italy,0.4875865375158684,1.0,2.0,en,MED,Europe
 '148392af0d',extremes,Tropical Cyclone,#4f4f4f,relief,Cyclone Malawi,2023-07-25T00:00:00+00:00,Malawi,0.4875486565846504,1.0,1.0,en,ESAF,Africa
-'fbf54e7fc1',extremes,Flood,#030ba1,floodList,State of Emergency After Deadly Floods in New York,2023-07-09T13:01:00+00:00,USA,0.4874826361800268,1.0,1.0,en,,
 '7100395133',extremes,Precipitation,#d60d2b,floodlist,Landslide Ivory Coast,2023-07-20T14:37:00+00:00,Ivory Coast,0.4874763363631264,1.0,1.0,en,WAF,Africa
 '0c6d3ced37',extremes,Flood,#030ba1,floodlist,Disaster Declared After “Historic and Catastrophic Flooding” in Vermont United States,2023-07-12T17:10:16+02:00,United States,0.4874225360069568,1.0,2.0,en,WNA,North-America
 'f7db94ed05',extremes,Precipitation,#d60d2b,floodlist,2 Dead After Flash Floods in 9 Provinces Algeria,2023-07-20T14:37:00+00:00,Algeria,0.487418519894589,1.0,1.0,en,SAH,Africa
