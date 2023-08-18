@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ccf13335b7',extremes,Drought,#edc291,acwe,Drought Western Australia,2023-08-17T07:07:00+00:00,Australia,0.6939598075977018,0.0,2.0,en,CAU,Oceania
 '91377cc2a9',extremes,Drought,#edc291,acwe,Drought South Australia,2023-08-17T07:07:00+00:00,Australia,0.6931049997482213,0.0,2.0,en,CAU,Oceania
 'e4ed7ae5ed',extremes,Drought,#edc291,acwe,Drought Northern Territory,2023-08-17T07:07:00+00:00,Australia,0.6889687704732683,0.0,2.0,en,CAU,Oceania
 '8e0946a5f2',extremes,Drought,#edc291,edo,Lack of Rain Estonia,2023-08-18T02:38:00+00:00,Estonia,0.6865676151209366,0.0,2.0,en,NEU,Europe
@@ -58,6 +57,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f03f624dc8',extremes,Heat Wave,#c40202,meteo,High Temperature Serbia,2023-07-17T20:25:00+00:00,Serbia,0.5958755505296554,2.0,2.0,en,MED,Europe
 '330b461e2a',extremes,Landslide,#572c03,relief,Landslide Venezuela (Bolivarian Republic of),2023-07-08T00:00:00+00:00,Venezuela (Bolivarian Republic of),0.595805502811254,0.0,2.0,en,NSA,South-America
 '3b736cec67',extremes,Storm,#b3b2b1,aidr,"Storm - Severe Thunderstorm Sydney, New South Wales 2015",2023-08-10T10:06:00+00:00,,0.5946677022374288,0.0,2.0,en,EAU,Oceania
+'ccf13335b7',extremes,Drought,#edc291,acwe,Drought Western Australia,2023-08-17T07:07:00+00:00,Australia,0.5945167964580466,1.0,3.0,en,CAU,Oceania
 '6ccf014116',extremes,Storm,#b3b2b1,aidr,"Storm - Hailstorm Sydney, New South Wales 2015",2023-08-10T10:06:00+00:00,,0.5933975695502187,0.0,2.0,en,EAU,Oceania
 'a672e3cebd',extremes,Storm,#b3b2b1,aidr,"Storm - North Sydney Hailstorm, 2017",2023-08-10T10:06:00+00:00,,0.5929386278055282,0.0,2.0,en,EAU,Oceania
 'ec3ab8be8d',extremes,Storm,#b3b2b1,emdat,Storm China,2023-08-02T12:00:00+00:00,China,0.5924365511863059,1.0,2.0,en,EAS,Asia
@@ -1567,7 +1567,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '972edd163f',extremes,Wildfire,#d60d2b,effis,Bushfire  Balıkesir Turkey,2023-08-06T13:39:24Z,Turkey,0.5285529129852282,0.0,2.0,en,MED,Asia
 '5b0d4df19a',extremes,Wildfire,#d60d2b,effis,Bushfire Čiovo,2023-07-28T09:50:00Z,,0.5285437130663488,1.0,1.0,en,MED,
 '0f8dab2420',extremes,Storm,#b3b2b1,aidr,"Storm - extreme weather event, South Australia, September 2016",2023-08-11T07:46:00+00:00,Australia,0.5284931081969323,0.0,2.0,en,SAU,Oceania
-'799002d601',extremes,Earthquake,#870007,usgs,Earthquake South Indian Ocean,2023-07-01T07:29:00+00:00,,0.5282585966974913,0.0,2.0,en,EIO,Indian Ocean
 'ed471f9da5',extremes,Heat Wave,#c40202,meteo,High Temperature Lithuania,2023-08-14T13:46:00+00:00,Lithuania,0.5281078049059874,0.0,2.0,en,WCE,Europe
 'ff025fda75',extremes,Wildfire,#d60d2b,effis,Wildfire  Balıkesir Turkey,2023-08-06T13:39:24Z,Turkey,0.5280619858695356,0.0,2.0,en,MED,Asia
 '987e5e3b8a',extremes,Storm,#b3b2b1,wmo,Storm Ecuador,2023-07-20T17:33:00+00:00,Ecuador,0.5277911191594579,0.0,2.0,en,NWS,South-America
@@ -1798,7 +1797,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2fa639bc8b',extremes,Storm,#b3b2b1,eswd,Strong Wind Germany,2023-07-24T18:00:00+00:00,Germany,0.5160488406682066,1.0,2.0,en,WCE,Europe
 'f099291c76',extremes,Wildfire,#d60d2b,meteo,Czechia Wildfire,2023-07-17T20:17:00+00:00,Czechia,0.5159711243433425,2.0,1.0,en,WCE,Europe
 '28150084cd',extremes,Wildfire,#d60d2b,effis,Wildfire Beni Snassen,2023-07-20T10:48:00Z,Morocco,0.515897835116367,1.0,1.0,en,MED,Africa
-'0397d17e37',extremes,Drought,#edc291,edo,Drought Tajikistan,2023-07-01T08:46:00+00:00,Tajikistan,0.5158817743742691,0.0,2.0,en,WCA,Asia
 'a1cbcfd7b2',extremes,Flood,#030ba1,relief,Flooding Syria,2023-07-13T00:00:00+00:00,Syria,0.5158516598768496,1.0,2.0,en,MED,Asia
 'abe3f64175',extremes,Wildfire,#d60d2b,esawfa,Wildfire Venezuela,2023-07-22T07:48:00+00:00,Venezuela,0.5158092375130086,0.0,2.0,en,NSA,South-America
 'cf61600c3e',extremes,Thunderstorm,#53785a,eswd,Heavy Rain Ukraine,2023-07-27T17:20:00+00:00,Ukraine,0.5157960660124356,1.0,3.0,en,MED,Europe
