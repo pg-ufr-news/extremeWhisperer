@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'dea87e6ccd',extremes,Drought,#edc291,edo,Dry Spell Latvia,2023-08-17T07:07:00+00:00,Latvia,0.6706155206863477,0.0,2.0,en,WCE,Europe
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,Tropical Cyclone Australia,2023-08-10T10:06:00+00:00,Australia,0.6495356616840924,0.0,2.0,en,EAU,Oceania
 '6d01caced3',extremes,Drought,#edc291,edo,Dryness Belize,2023-08-17T02:38:00+00:00,Belize,0.6487170262548964,0.0,2.0,en,SCA,North-America
 'ebbcf68e81',extremes,Tropical Cyclone,#4f4f4f,aidr,"Tropical Cyclone Debbie, Queensland, 2017",2023-08-10T10:06:00+00:00,Australia,0.647888621314594,0.0,2.0,en,EAU,Oceania
@@ -120,6 +119,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bc92dfa830',extremes,Drought,#edc291,relief,Drought Niger,2023-08-17T02:37:00+00:00,Niger,0.5708685926684286,0.0,2.0,en,SAH,Africa
 'e12d21b931',extremes,Precipitation,#d60d2b,relief,Flash Flood United Republic of Tanzania,2023-08-18T02:37:00+00:00,United Republic of Tanzania,0.5707480071571976,0.0,2.0,en,SEAF,Africa
 '17a9e7ea74',extremes,Earthquake,#870007,usgs,Earthquake central Mid-Atlantic Ridge,2023-08-18T02:37:00+00:00,,0.5704544829770254,0.0,2.0,en,EAO,Atlantic Ocean
+'dea87e6ccd',extremes,Drought,#edc291,edo,Dry Spell Latvia,2023-08-17T07:07:00+00:00,Latvia,0.5700232075833955,1.0,1.0,en,WCE,Europe
 '224c99a3fc',extremes,Thunderstorm,#53785a,meteo,Thunderstorm Slovakia,2023-07-17T20:25:00+00:00,Slovakia,0.5695755459133137,2.0,1.0,en,WCE,Europe
 '55f7a7fcbe',extremes,Tropical Cyclone,#4f4f4f,emdat,Tropical Cyclone Fujian Province,2023-08-02T12:00:00+00:00,China,0.5691908716602232,1.0,2.0,en,EAS,Asia
 '97c0dafd7e',extremes,Tropical Cyclone,#4f4f4f,relief,Typhoon Malawi,2023-08-17T08:07:00+00:00,Malawi,0.5686479692776788,0.0,2.0,en,ESAF,Africa
@@ -1704,7 +1704,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '89c3b27cec',extremes,Earthquake,#870007,usgsEarthquake,Earthquake Taiwan region,2023-07-08T21:22:00+00:00,,0.5221623564989767,0.0,2.0,en,,
 'e175eedb4d',extremes,Earthquake,#870007,usgsEarthquake,"Earthquake Samar, Philippines",2023-07-10T13:01:00+00:00,Philippines,0.5221615930612468,0.0,2.0,en,,
 'd4073d216a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Qinghai Province,2023-07-20T05:09:00+00:00,China,0.5221235537470501,1.0,1.0,en,EAS,Asia
-'83f83df520',extremes,Earthquake,#870007,usgsEarthquake,"Earthquake Kepulauan Batu, Indonesia",2023-07-02T18:13:00+00:00,,0.5221112149193502,0.0,2.0,en,,
 'c2b3f6f43f',extremes,Heat Wave,#c40202,wmo,Heat Wave Bellinzonese,2023-07-19T22:10:00+00:00,Switzerland,0.5220654074304464,1.0,1.0,en,WCE,Europe
 '7a07270a19',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Longxian,2023-07-20T07:22:00+00:00,China,0.5219837243501282,1.0,1.0,en,EAS,Asia
 '2d8c56bcf8',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Zhuoni County,2023-07-20T05:54:00+00:00,China,0.5218881433101279,1.0,1.0,en,EAS,Asia
@@ -1932,7 +1931,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '90e2fb7bd0',extremes,Thunderstorm,#53785a,meteo,Thunderstorm Lithuania,2023-07-17T20:25:00+00:00,Lithuania,0.5105717328020857,1.0,1.0,en,WCE,Europe
 '140114aa20',extremes,Tropical Cyclone,#4f4f4f,relief,Huricane Mozambique,2023-07-12T00:00:00+00:00,Mozambique,0.510562001755599,1.0,1.0,en,ESAF,Africa
 '2ef261c6d9',extremes,Wildfire,#d60d2b,effisFire,Wildfire Germany,2023-07-09T00:00:00Z,Germany,0.510517143243777,1.0,3.0,en,WCE,EU
-'8296810ee8',extremes,Thunderstorm,#53785a,eswdList,heavy rain Kosovo,2023-07-05T17:25:00+00:00,Kosovo,0.5105002074379333,1.0,2.0,en,,
 '1b839e1999',extremes,Storm,#b3b2b1,eswd,Severe Wind Ukraine,2023-07-27T21:10:00+00:00,Ukraine,0.5104638657698454,1.0,1.0,en,WCE,Europe
 '7ed73b66f2',extremes,Storm,#b3b2b1,eswd,Tornado Finland,2023-07-29T17:05:00+00:00,Finland,0.5104290906811125,1.0,2.0,en,NEU,Europe
 'fab9b2f11a',extremes,Storm,#b3b2b1,eswd,Severe Wind Austria,2023-07-18T16:15:00+00:00,Austria,0.5104018247227654,1.0,2.0,en,WCE,Europe
@@ -2026,7 +2024,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '21f49cb247',extremes,Storm,#b3b2b1,eswd,Tornado Poland,2023-07-25T16:33:00+00:00,Poland,0.5071931326080641,1.0,2.0,en,WCE,Europe
 'f57517991e',extremes,Earthquake,#870007,relief,Earthquake Syrian Arab Republic,2023-07-12T00:00:00+00:00,Syrian Arab Republic,0.5070846364279894,1.0,2.0,en,MED,Asia
 'ad1e3766bf',extremes,Thunderstorm,#53785a,eswd,Heavy Rain Slovakia,2023-07-30T13:20:00+00:00,Slovakia,0.5070429089390266,1.0,1.0,en,WCE,Europe
-'be5bfad579',extremes,Thunderstorm,#53785a,eswdList,lightning Kosovo,2023-07-05T17:35:00+00:00,Kosovo,0.5070194656479744,1.0,2.0,en,,
 '3d01b583e2',extremes,Heat Wave,#c40202,meteo,Montenegro High Temperature,2023-07-17T20:17:00+00:00,Montenegro,0.5070081155184057,1.0,2.0,en,MED,Europe
 'd715aa5985',extremes,Tropical Cyclone,#4f4f4f,relief,Cyclone Peru,2023-07-12T00:00:00+00:00,Peru,0.5069234160970237,1.0,1.0,en,NWS,South-America
 '597971d026',extremes,Thunderstorm,#53785a,eswd,Heavy Rain Russian Federation,2023-07-26T11:55:00+00:00,Russian Federation,0.5068628780524777,1.0,2.0,en,WCE,Europe
