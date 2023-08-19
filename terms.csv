@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c416a8e0d7',extremes,Drought,#edc291,acwe,Drought New South Wales,2023-08-17T07:07:00+00:00,Australia,0.6850202686615086,0.0,2.0,en,EAU,Oceania
 '493a4c49ec',extremes,Drought,#edc291,acwe,Drought Tasmania,2023-08-17T07:07:00+00:00,Australia,0.6765338956373039,0.0,2.0,en,SAU,Oceania
 'dea87e6ccd',extremes,Drought,#edc291,edo,Dry Spell Latvia,2023-08-17T07:07:00+00:00,Latvia,0.6706155206863477,0.0,2.0,en,WCE,Europe
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,Tropical Cyclone Australia,2023-08-10T10:06:00+00:00,Australia,0.6495356616840924,0.0,2.0,en,EAU,Oceania
@@ -96,6 +95,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c8fb043fbb',extremes,Storm,#b3b2b1,aidr,"Storm - Thunderstorm Asthma, Victoria",2023-08-10T10:06:00+00:00,Australia,0.5828600719413404,0.0,2.0,en,SAU,Oceania
 '43e1a7a2c8',extremes,Storm,#b3b2b1,fema,Storm Tennessee,2023-08-18T02:37:00+00:00,United States,0.5827867453620578,0.0,2.0,en,ENA,North-America
 '7342fc6ddc',extremes,Flood,#030ba1,relief,Flood United Republic of Tanzania,2023-08-17T08:07:00+00:00,United Republic of Tanzania,0.582492272367301,0.0,2.0,en,SEAF,Africa
+'c416a8e0d7',extremes,Drought,#edc291,acwe,Drought New South Wales,2023-08-17T07:07:00+00:00,Australia,0.5822676783622823,1.0,1.0,en,EAU,Oceania
 'eebde0139a',extremes,Drought,#edc291,relief,Drought United Republic of Tanzania,2023-08-17T08:07:00+00:00,United Republic of Tanzania,0.5820844346251456,0.0,2.0,en,SEAF,Africa
 '96f0408faf',extremes,Drought,#edc291,edo,Dryness Latvia,2023-08-17T02:38:00+00:00,Latvia,0.5800221330161006,0.0,2.0,en,WCE,Europe
 'e2e3473b23',extremes,Storm,#b3b2b1,meteo,Wind Austria,2023-07-18T17:43:00+00:00,Austria,0.5799611662464594,2.0,3.0,en,WCE,Europe
@@ -1904,7 +1904,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0e40c28d72',extremes,Flood,#030ba1,floodList,Flooding Spain,2023-07-06T22:39:00+00:00,Spain,0.5112258936321529,1.0,3.0,en,,
 '02a588c8a0',extremes,Tropical Cyclone,#4f4f4f,aidr,2018 - Cyclone - QLD - Tropical cyclone Nora,2023-08-10T20:51:00+00:00,Australia,0.5112101502196696,0.0,2.0,en,NAU,Oceania
 '9eb986fec0',extremes,Flood,#030ba1,relief,Flood Syria,2023-07-13T00:00:00+00:00,Syria,0.511209628953697,1.0,1.0,en,MED,Asia
-'da1bee97c5',extremes,Storm,#b3b2b1,eswdList,storm Czechia,2023-07-05T13:45:00+00:00,Czechia,0.5111944223944337,1.0,2.0,en,,
 'c0ea7025a2',extremes,Storm,#b3b2b1,meteo,Norway Storm,2023-07-17T20:17:00+00:00,Norway,0.5111905237273576,0.0,2.0,en,NEU,Europe
 '33286bd844',extremes,Earthquake,#870007,usgs,Earthquake Kandrian,2023-08-13T04:09:00+00:00,Papua New Guinea,0.5111817926755335,0.0,2.0,en,SEA,Asia
 '678c5c7970',extremes,Wildfire,#d60d2b,effis,Wild Fire Dubrovnik,2023-07-25T06:58:00Z,Croatia,0.5111699468055932,1.0,1.0,en,MED,Europe
@@ -2310,7 +2309,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a6402d9f51',extremes,Wildfire,#d60d2b,effis,Bushfire  Enna Italy,2023-08-18T02:37:00+00:00,Italy,0.4903367576914682,0.0,2.0,en,MED,Europe
 '393941c27b',extremes,Precipitation,#d60d2b,floodlist,Hundreds Evacuated After Floods Damage 200 Homes in Sochi,2023-07-12T09:59:21+02:00,Russia,0.4903214078698426,1.0,1.0,en,ESB,Europe
 'e6953d99ea',extremes,Flood,#030ba1,floodlist,Flash Flood Sierra Leone,2023-07-20T14:37:00+00:00,Sierra Leone,0.490316480789054,1.0,1.0,en,WAF,Africa
-'007f580764',extremes,Flood,#030ba1,floodList,"One Dead, Hundreds Displaced After Floods in Black Sea Region",2023-07-11T14:04:00+00:00,Turkey,0.4902264957412084,1.0,1.0,en,,
 'aa2c07ad9a',extremes,Tsunami,#690191,usgs,Tsunami Sand Point,2023-07-16T06:48:00+00:00,Alaska,0.4901371135829164,1.0,2.0,en,NWN,North-America
 'b07be83393',extremes,Volcano,#b83202,eonet,"Bagana Volcano, Papua New Guinea",2023-07-07T08:13:5+00:00,Papua New Guinea,0.4901082630578673,1.0,1.0,en,EPO,Oceania
 '8fff8da85b',extremes,Tropical Cyclone,#4f4f4f,aidr,"Tropical cyclone Esther, February 2020",2023-08-12T02:38:00+00:00,Australia,0.4900914356346471,0.0,2.0,en,NAU,Oceania
@@ -2344,7 +2342,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '07e9c27471',extremes,Drought,#edc291,relief,Drought Sudan,2023-07-26T00:00:00+00:00,Sudan,0.4890759425512753,1.0,2.0,en,SAH,Africa
 '8737f67c26',extremes,Wildfire,#d60d2b,fema,Oregon Golden Fire,2023-07-23T00:00:00Z,United States,0.4889692919020041,0.0,2.0,en,WNA,North-America
 '43f8ba9965',extremes,Flood,#030ba1,floodlist,12 Killed in Landslide After Heavy Rain in Maharashtra,2023-07-20T01:54:00+00:00,India,0.4889502178053281,1.0,2.0,en,SAS,Asia
-'00a9e892bf',extremes,Flood,#030ba1,floodList,Hundreds Evacuated After Floods Damage 200 Homes in Sochi,2023-07-11T14:04:00+00:00,Russia,0.4888982885220327,1.0,1.0,en,,
 'b20fc1e4a2',extremes,Volcano,#b83202,eonet,Volcano Papua New Guinea,2023-07-07T08:13:5+00:00,Papua New Guinea,0.488865961136716,1.0,2.0,en,EPO,Oceania
 '195f8afaa4',extremes,Wildfire,#d60d2b,effis,Wildfire  Balagne France,2023-07-25T00:00:00Z,France,0.4887560443944317,0.0,2.0,en,MED,Europe
 '358b4fbdbd',extremes,Volcano,#b83202,eonet,"San Cristobal Volcano, Nicaragua",2023-07-05T00:00:0+00:00,Nicaragua,0.4887289738636372,1.0,1.0,en,SCA,North-America
@@ -2391,7 +2388,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7100395133',extremes,Precipitation,#d60d2b,floodlist,Landslide Ivory Coast,2023-07-20T14:37:00+00:00,Ivory Coast,0.4874763363631264,1.0,1.0,en,WAF,Africa
 '0c6d3ced37',extremes,Flood,#030ba1,floodlist,Disaster Declared After “Historic and Catastrophic Flooding” in Vermont United States,2023-07-12T17:10:16+02:00,United States,0.4874225360069568,1.0,2.0,en,WNA,North-America
 'f7db94ed05',extremes,Precipitation,#d60d2b,floodlist,2 Dead After Flash Floods in 9 Provinces Algeria,2023-07-20T14:37:00+00:00,Algeria,0.487418519894589,1.0,1.0,en,SAH,Africa
-'70e3664943',extremes,Flood,#030ba1,floodList,Severe Weather in Bali Triggers Deadly Flooding and Landslides,2023-07-11T14:04:00+00:00,Indonesia,0.4873493918752578,1.0,1.0,en,,
 '1f8e750c55',extremes,Precipitation,#d60d2b,relief,Flash Flood Zimbabwe,2023-07-26T00:00:00+00:00,Zimbabwe,0.4873393312574356,1.0,1.0,en,ESAF,Africa
 '3b81faa36c',extremes,Precipitation,#d60d2b,relief,Flash Flood Bhutan,2023-07-24T00:00:00+00:00,Bhutan,0.4873340876699979,1.0,2.0,en,TIB,Asia
 '241353d886',extremes,Wildfire,#d60d2b,effis,Wild Fire Kandila,2023-08-10T21:50:57Z,Greece,0.487302509525352,0.0,2.0,en,MED,Europe
@@ -2429,7 +2425,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '87b1bddf80',extremes,Precipitation,#d60d2b,floodlist,"One Dead, Hundreds Displaced After Floods in Black Sea Region Turkey",2023-07-12T10:34:45+02:00,Turkey,0.4859638987240289,1.0,1.0,en,MED,Europe
 '5b2485e7c6',extremes,Flood,#030ba1,relief,Flash Flood Sudan,2023-07-24T00:00:00+00:00,Sudan,0.4858706117294158,1.0,1.0,en,SAH,Africa
 'c233f7ed69',extremes,Flood,#030ba1,floodlist,"Houses Destroyed, Multiple Fatalities After Heavy Rain Causes Landslides in Cundinamarca",2023-07-19T16:36:59+02:00,Colombia,0.4857940536514892,1.0,1.0,en,NWS,South-America
-'3017acd3e2',extremes,Flood,#030ba1,floodList,"Severe Floods in Alagoas and Pernambuco, 14 Killed in Building Collapse",2023-07-11T14:04:00+00:00,Brazil,0.4857643415289074,1.0,1.0,en,,
 '4a75b46fb5',extremes,Flood,#030ba1,floodlist,Death Toll From South Kivu Floods Rises to Almost 400,2023-07-20T14:37:00+00:00,DR Congo,0.4857489781777334,1.0,1.0,en,,Africa
 '697dccec38',extremes,Wildfire,#d60d2b,effis,"Wildfire Aidone, Enna",2023-08-19T02:37:00+00:00,Italy,0.4857241514075481,0.0,2.0,en,MED,Europe
 '478dc386a7',extremes,Flood,#030ba1,floodlist,"3 Dead, Several Feared Missing in Pennsylvania Flash Floods",2023-07-16T03:16:00+00:00,United States,0.485682690448025,1.0,1.0,en,WNA,North-America
@@ -2568,7 +2563,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c5d1b5f33d',extremes,Wildfire,#d60d2b,effis,Bushfire  La Spezia Italy,2023-07-24T10:33:31Z,Italy,0.4718565049091026,1.0,1.0,en,MED,Europe
 '0398d9be39',extremes,Wildfire,#d60d2b,effis,"Wildfire Camaro/Scoppo, Messina",2023-07-20T10:16:00Z,Italy,0.4718562773885794,1.0,1.0,en,MED,Europe
 '0e2ed4f835',extremes,Wildfire,#d60d2b,effis,Wild Fire  Antakya Turkey,2023-07-25T12:54:00Z,Turkey,0.4718228585158905,1.0,1.0,en,MED,Asia
-'1e6699b92b',extremes,Storm Surge,#834fa1,wmo,Storm Surge Spain,2023-07-20T09:20:00+00:00,Spain,0.47146918149584954,1.0,2.0,en,MED,Europe
+'1e6699b92b',extremes,Storm Surge,#834fa1,wmo,Storm Surge Spain,2023-07-20T09:20:00+00:00,Spain,0.4714691814958495,1.0,2.0,en,MED,Europe
 'fc580e08f7',extremes,Flood,#030ba1,aidr,2018 - Flood - TAS - Hobart flash flooding,2023-08-11T02:38:00+00:00,Australia,0.471464156576764,0.0,2.0,en,SAU,Oceania
 '8a93810671',extremes,Flood,#030ba1,aidr,2018 - Flood - ACT - Australian Capital Territory flash flood,2023-08-11T02:38:00+00:00,Australia,0.4712739779164402,0.0,2.0,en,SAU,Oceania
 '86893042a5',extremes,Wildfire,#d60d2b,esawfa,Bushfire Saudi Arabia,2023-07-23T10:08:00+00:00,Saudi Arabia,0.4712193537523171,0.0,2.0,en,ARP,Asia
