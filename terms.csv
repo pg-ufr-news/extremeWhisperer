@@ -59,7 +59,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dea87e6ccd',extremes,Drought,#edc291,edo,Dry Spell Latvia,2023-08-17T07:07:00+00:00,Latvia,0.5700232075833955,1.0,1.0,en,WCE,Europe
 '224c99a3fc',extremes,Thunderstorm,#53785a,meteo,Thunderstorm Slovakia,2023-07-17T20:25:00+00:00,Slovakia,0.5695755459133137,2.0,1.0,en,WCE,Europe
 '55f7a7fcbe',extremes,Tropical Cyclone,#4f4f4f,emdat,Tropical Cyclone Fujian Province,2023-08-02T12:00:00+00:00,China,0.5691908716602232,1.0,2.0,en,EAS,Asia
-'19442a5e39',extremes,Precipitation,#d60d2b,relief,Torrential Rain United Republic of Tanzania,2023-08-19T02:37:00+00:00,United Republic of Tanzania,0.568476439428805,0.0,2.0,en,SEAF,Africa
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,locusts,2023-08-09T10:05:00+00:00,,0.5682721804863529,1.0,3.0,en,,
 'd0179007f5',extremes,Flood,#030ba1,relief,Torrential Rain Sudan,2023-08-17T02:37:00+00:00,Sudan,0.5682494916159706,0.0,2.0,en,SAH,Africa
 'ed4448c975',extremes,Flood,#030ba1,relief,Flood Guatemala,2023-08-15T02:37:00+00:00,Guatemala,0.5681323029790187,0.0,2.0,en,SCA,North-America
@@ -2493,6 +2492,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97c0dafd7e',extremes,Tropical Cyclone,#4f4f4f,relief,Typhoon Malawi,2023-08-17T08:07:00+00:00,Malawi,0.483350773886027,1.0,1.0,en,ESAF,Africa
 'd35eaa61f3',extremes,Heat Wave,#c40202,meteo,High Temperature Italy,2023-07-25T10:39:00+00:00,Italy,0.4833185839935252,0.0,2.0,en,MED,Europe
 '2911c0f1d1',extremes,Wildfire,#d60d2b,effis,Wildfire Sitaria,2023-08-08T12:53:33Z,Greece,0.483217451597115,0.0,2.0,en,MED,Europe
+'19442a5e39',extremes,Precipitation,#d60d2b,relief,Torrential Rain United Republic of Tanzania,2023-08-19T02:37:00+00:00,United Republic of Tanzania,0.4832049735144842,1.0,1.0,en,SEAF,Africa
 'f828030348',extremes,Wildfire,#d60d2b,effis,Bushfire Enna,2023-08-03T19:33:00Z,Italy,0.4831999974684001,0.0,2.0,en,MED,Europe
 '760d870b43',extremes,Heat Wave,#c40202,meteo,High Temperature Lithuania,2023-07-17T20:25:00+00:00,Lithuania,0.4831687348487204,0.0,2.0,en,WCE,Europe
 '795fbe6f3e',extremes,Heat Wave,#c40202,wmo,Heat Wave Adriatic coast,2023-08-21T09:32:00+00:00,Montenegro,0.483031296560629,0.0,2.0,en,MED,Europe
@@ -2879,7 +2879,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b06770e4c',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Śląskie Province Żywiecki County,2023-07-19T20:36:00+00:00,Poland,0.4601557609802418,1.0,1.0,en,WCE,Europe
 '979d9caf83',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Lubelskie Province Janowski County,2023-07-19T20:36:00+00:00,Poland,0.4601526065783435,1.0,1.0,en,WCE,Europe
 '2a1158d5ba',extremes,Precipitation,#d60d2b,wmo,Precipitation Samara Region,2023-08-21T16:00:00+00:00,Russia,0.4600899558910441,0.0,2.0,en,ESB,Europe
-'633169d08e',extremes,Wildfire,#d60d2b,wmo,Wildfire Šiaulių apskritis,2023-07-20T05:18:00+00:00,Lithuania,0.46007566589277227,1.0,1.0,en,WCE,Europe
+'633169d08e',extremes,Wildfire,#d60d2b,wmo,Wildfire Šiaulių apskritis,2023-07-20T05:18:00+00:00,Lithuania,0.4600756658927722,1.0,1.0,en,WCE,Europe
 '631e8efbe7',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Malacky,2023-07-20T03:12:00+00:00,Slovakia,0.4599937045146844,1.0,1.0,en,WCE,Europe
 '7095357232',extremes,Storm,#b3b2b1,wmo,Storm MOST PROVINCES,2023-08-20T02:38:00+00:00,Solomon Islands,0.4599499246167031,0.0,2.0,en,EPO,Oceania
 'd5b86148e3',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Chaisang District,2023-07-20T06:38:00+00:00,China,0.4597783373062142,1.0,1.0,en,EAS,Asia
