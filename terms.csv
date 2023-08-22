@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4ac0c03db5',extremes,Flood,#030ba1,aidr,"Flood - New South Wales, 2021",2023-08-10T10:06:00+00:00,Australia,0.6706668247183272,1.0,2.0,en,EAU,Oceania
 '5bf3281003',extremes,Tropical Cyclone,#4f4f4f,eonet,Hurricane Hilary,2023-08-18T02:37:00+00:00,,0.641823013082276,1.0,3.0,en,NPO,Pacific Ocean
 'a8bf5b28ca',extremes,Wildfire,#d60d2b,effis,Wildfire  Tenerife Spain,2023-08-21T09:22:00+00:00,Spain,0.6372359179939081,0.0,2.0,en,SAH,Europe
 '91f71465c5',extremes,Wildfire,#d60d2b,effis,"Wildfire Corona Forestal, Tenerife",2023-08-21T09:22:00+00:00,Spain,0.6360902312612208,0.0,2.0,en,SAH,Europe
@@ -63,6 +62,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fdbfec3cc2',extremes,Wildfire,#d60d2b,fema,Wildfire Alaska,2023-08-03T00:00:00Z,United States,0.5710050792538729,1.0,2.0,en,NWN,North-America
 'bc92dfa830',extremes,Drought,#edc291,relief,Drought Niger,2023-08-17T02:37:00+00:00,Niger,0.5708685926684286,0.0,2.0,en,SAH,Africa
 '17a9e7ea74',extremes,Earthquake,#870007,usgs,Earthquake central Mid-Atlantic Ridge,2023-08-18T02:37:00+00:00,,0.5704544829770254,0.0,2.0,en,EAO,Atlantic Ocean
+'4ac0c03db5',extremes,Flood,#030ba1,aidr,"Flood - New South Wales, 2021",2023-08-10T10:06:00+00:00,Australia,0.5700668310105781,2.0,1.0,en,EAU,Oceania
 'dea87e6ccd',extremes,Drought,#edc291,edo,Dry Spell Latvia,2023-08-17T07:07:00+00:00,Latvia,0.5700232075833955,1.0,1.0,en,WCE,Europe
 '224c99a3fc',extremes,Thunderstorm,#53785a,meteo,Thunderstorm Slovakia,2023-07-17T20:25:00+00:00,Slovakia,0.5695755459133137,2.0,1.0,en,WCE,Europe
 '55f7a7fcbe',extremes,Tropical Cyclone,#4f4f4f,emdat,Tropical Cyclone Fujian Province,2023-08-02T12:00:00+00:00,China,0.5691908716602232,1.0,2.0,en,EAS,Asia
@@ -1928,7 +1928,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9aed95faf2',extremes,Thunderstorm,#53785a,eswdList,hail Luxembourg,2023-07-09T13:43:00+00:00,Luxembourg,0.5092708578138766,1.0,2.0,en,,
 '59f9590b8a',extremes,Thunderstorm,#53785a,meteo,Lithuania Thunderstorm,2023-07-17T20:17:00+00:00,Lithuania,0.5092705392276982,1.0,1.0,en,WCE,Europe
 '16a440a221',extremes,Thunderstorm,#53785a,eswd,Hail Bosnia and Herzegovina,2023-07-25T11:05:00+00:00,Bosnia and Herzegovina,0.5092639409586804,1.0,1.0,en,MED,Europe
-'94d1697cd8',extremes,Volcano,#b83202,randomTerm,volcano,2023-07-02T03:10:00+00:00,,0.5092130487394018,1.0,3.0,en,,
 '57d4c7b51a',extremes,Tropical Cyclone,#4f4f4f,relief,Cyclone Mozambique,2023-07-13T00:00:00+00:00,Mozambique,0.5091656879879598,1.0,2.0,en,ESAF,Africa
 '5b90f60ca1',extremes,Earthquake,#870007,usgs,Earthquake Modisi,2023-08-04T11:48:00+00:00,Indonesia,0.5091174043446303,0.0,2.0,en,SEA,Asia
 '86ad431160',extremes,Flood,#030ba1,relief,Torrential Rain Mongolia,2023-07-14T00:00:00+00:00,Mongolia,0.5091037190923348,1.0,2.0,en,ESB,Asia
@@ -1966,7 +1965,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97b2082596',extremes,Drought,#edc291,edo,Drought Nepal,2023-07-21T13:51:00+00:00,Nepal,0.5080490128356145,0.0,2.0,en,TIB,Asia
 'f83a53a6fc',extremes,Flood,#030ba1,wmo,Flood Blaine,2023-08-21T16:00:00+00:00,United States,0.5080435042501111,0.0,2.0,en,CNA,North-America
 'cf87e12617',extremes,Wildfire,#d60d2b,effis,Bushfire  Bilecik Turkey,2023-08-07T08:49:36Z,Turkey,0.5079267897571926,0.0,2.0,en,MED,Asia
-'bba974c88f',extremes,Cold Wave,#a7e9fa,randomTerm,cold wave,2023-07-08T03:17:00+00:00,,0.5079145008453075,1.0,2.0,en,,
 '0e7af75123',extremes,Storm,#b3b2b1,eswdList,tornado Ukraine,2023-07-09T15:00:00+00:00,Ukraine,0.507872365830439,1.0,2.0,en,,
 'dcad6163eb',extremes,Wildfire,#d60d2b,effis,"Wild Fire Posada, Sardegna",2023-08-07T09:04:00Z,Italy,0.5078611697533506,0.0,2.0,en,MED,Europe
 '3e7b7ff54f',extremes,Flood,#030ba1,relief,Flood Haiti,2023-07-15T00:00:00+00:00,Haiti,0.5078038939861511,1.0,2.0,en,CAR,North-America
