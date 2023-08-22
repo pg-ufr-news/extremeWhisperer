@@ -182,7 +182,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f7e31874b',extremes,Earthquake,#870007,usgs,Earthquake El Salvador,2023-07-19T00:22:00+00:00,El Salvador,0.5594505201250966,0.0,2.0,en,SCA,North-America
 'f200ff28aa',extremes,Earthquake,#870007,relief,Earthquake United States,2023-07-24T00:00:00+00:00,United States,0.5594209712621133,0.0,2.0,en,CNA,North-America
 'd6adcc79a1',extremes,Iceberg,#d60d2b,nasaEonet,Iceberg B47,2023-07-07 00:00:0+00:00,,0.5594055735619996,0.0,2.0,en,,
-'52fee7653e',extremes,Wildfire,#d60d2b,effis,Wildfire  Kefalonia Greece,2023-07-31T21:37:00Z,Greece,0.5593890028971392,0.0,2.0,en,MED,Europe
 '5a307ae56f',extremes,Iceberg,#d60d2b,nasaEonet,Iceberg A76E,2023-06-30 00:00:0+00:00,,0.5593073178084572,0.0,2.0,en,,
 '77c92e948f',extremes,Flood,#030ba1,relief,Flash Flood Zimbabwe,2023-07-26T00:00:00+00:00,Zimbabwe,0.559281753329554,0.0,2.0,en,ESAF,Africa
 '9dd8e28e15',extremes,Wildfire,#d60d2b,effis,Wild Fire  Messinia Italy,2023-07-20T09:16:00Z,Italy,0.5591952779524603,0.0,2.0,en,MED,Europe
@@ -2556,6 +2555,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a471dde55c',extremes,Drought,#edc291,edo,Drought Cuba,2023-07-21T13:51:00+00:00,Cuba,0.4756285583625994,0.0,2.0,en,CAR,North-America
 '7d1f99c3d2',extremes,Avalanche,#d60d2b,wmo,Avalanche Deler av Viken og Innlandet,2023-08-21T16:00:00+00:00,Norway,0.4756028845549978,0.0,2.0,en,NEU,Europe
 '996aaa469b',extremes,Wildfire,#d60d2b,effis,Bushfire Accadia/Bovino,2023-08-02T08:53:00Z,Italy,0.4755574907150074,0.0,2.0,en,MED,Europe
+'52fee7653e',extremes,Wildfire,#d60d2b,effis,Wildfire  Kefalonia Greece,2023-07-31T21:37:00Z,Greece,0.4754806524625683,1.0,1.0,en,MED,Europe
 '03c0574069',extremes,Wildfire,#d60d2b,esawfa,Wildfire Uzbekistan,2023-07-29T02:49:00+00:00,Uzbekistan,0.4752811177005798,0.0,2.0,en,WCA,Asia
 '74aa6937c7',extremes,Iceberg,#d60d2b,eonet,Iceberg Antarctica,2023-07-14 00:00:0+00:00,Antarctica,0.4751994700145725,1.0,1.0,en,EAN,Antarctica
 '204d0787d2',extremes,Wildfire,#d60d2b,esawfa,Bushfire Guatemala,2023-07-21T10:08:00+00:00,Guatemala,0.4751048051709762,0.0,2.0,en,SCA,North-America
@@ -2816,7 +2816,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd180389ffa',extremes,Storm,#b3b2b1,wmo,Storm Śląskie Province Sosnowiec County,2023-08-21T09:22:00+00:00,Poland,0.4634363763973537,0.0,2.0,en,WCE,Europe
 'c1adb0d543',extremes,Wildfire,#d60d2b,effis,"Bushfire Souhane, Blida",2023-07-20T10:45:50Z,Algeria,0.4634175518600648,1.0,1.0,en,MED,Africa
 '12775cc05a',extremes,Drought,#edc291,edo,Drought Brazil,2023-07-21T13:51:00+00:00,Brazil,0.4634022247740481,0.0,2.0,en,SAM,South-America
-'f6ffbc73a9',extremes,Wildfire,#d60d2b,effis,Wildfire Silyana,2023-07-26T10:44:34Z,Tunisia,0.46337947318971806,1.0,1.0,en,MED,Africa
+'f6ffbc73a9',extremes,Wildfire,#d60d2b,effis,Wildfire Silyana,2023-07-26T10:44:34Z,Tunisia,0.463379473189718,1.0,1.0,en,MED,Africa
 '2ba39afc84',extremes,Wildfire,#d60d2b,esawfa,Bushfire Moldova,2023-07-22T10:19:00+00:00,Moldova,0.4631610306281163,0.0,2.0,en,WCE,Europe
 '784efdcdb9',extremes,Wildfire,#d60d2b,wmo,Wildfire Alytaus apskritis,2023-08-21T09:22:00+00:00,Lithuania,0.4631415283806618,0.0,2.0,en,WCE,Europe
 'bbf0e0c5c0',extremes,Flood,#030ba1,aidr,"Flood - New South Wales, 2012",2023-08-13T02:40:00+00:00,Australia,0.4629376817886331,0.0,2.0,en,EAU,Oceania
