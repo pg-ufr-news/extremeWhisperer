@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d74649df93',extremes,Storm,#b3b2b1,fema,Storm New Jersey,2023-08-11T00:00:00Z,United States,0.6148371945290092,1.0,3.0,en,ENA,North-America
 '1d88626569',extremes,Wildfire,#d60d2b,esawfa,Wildfire Bolivia,2023-07-20T16:35:00+00:00,Bolivia,0.6128062461264123,1.0,2.0,en,SAM,South-America
 '20c8b8d9f4',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Liguria,2023-07-20T09:26:00+00:00,Italy,0.6127529536578914,1.0,2.0,en,MED,Europe
 '731557e0bc',extremes,Earthquake,#870007,usgs,Earthquake Timor Leste,2023-07-25T00:25:00+00:00,Timor Leste,0.6119516504593491,1.0,2.0,en,SEA,Asia
@@ -338,6 +337,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '48116eb177',extremes,Wildfire,#d60d2b,effis,"Wild Fire Göynük, Bolu",2023-07-28T07:49:00Z,Turkey,0.5503602804901558,0.0,2.0,en,MED,Asia
 '0a8e5743d9',extremes,Landslide,#572c03,random,landslide,2023-07-26T22:37:00+00:00,,0.5503545828986458,1.0,2.0,en,,
 'fddd1fbb97',extremes,Wildfire,#d60d2b,effis,Bushfire Evia,2023-07-24T06:06:50Z,Greece,0.5503276369468882,0.0,2.0,en,MED,Europe
+'d74649df93',extremes,Storm,#b3b2b1,fema,Storm New Jersey,2023-08-11T00:00:00Z,United States,0.5502923380769306,2.0,3.0,en,ENA,North-America
 'b7e7f27d0c',extremes,Flood,#030ba1,floodlist,"12 Dead, 40 Missing in Floods in Maidan Wardak Province",2023-07-23T11:55:09+02:00,Afghanistan,0.550223512581881,0.0,2.0,en,WCA,Asia
 '90c1035d05',extremes,Storm,#b3b2b1,wmo,Storm Angola,2023-08-18T02:38:00+00:00,Angola,0.5502209228588609,0.0,2.0,en,WSAF,Africa
 'f8f51e933c',extremes,Flood,#030ba1,fema,Flood Minnesota,2023-07-19T00:00:00Z,United States,0.5502187036272816,0.0,2.0,en,CNA,North-America
@@ -2220,7 +2220,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b7b73acdec',extremes,Tropical Cyclone,#4f4f4f,aidr,"Tropical cyclone Joyce - Kimberley, 2018",2023-08-12T02:38:00+00:00,Australia,0.490801565120838,0.0,2.0,en,NAU,Oceania
 '3dba5c0a5e',extremes,Heat Wave,#c40202,wmo,Heat Wave Russia,2023-07-18T11:01:00+00:00,Russia,0.4907494534485653,0.0,2.0,en,ESB,Europe
 '1599c16491',extremes,Tropical Cyclone,#4f4f4f,relief,Huricane Haiti,2023-07-26T00:00:00+00:00,Haiti,0.4907420075218277,1.0,1.0,en,CAR,North-America
-'3d6bad93b8',extremes,Precipitation,#d60d2b,floodlist,State of Emergency After Deadly Floods in New York United States,2023-07-10T12:11:41+02:00,United States,0.4907418373734377,1.0,2.0,en,WNA,North-America
 '5a2f1142f9',extremes,Flood,#030ba1,aidr,"Edgecumbe floods, New Zealand, 2017",2023-08-10T20:51:00+00:00,New Zealand,0.4907020829033302,0.0,2.0,en,NZ,Oceania
 '328cc5e442',extremes,Storm,#b3b2b1,wmo,Storm Aransas Islands,2023-08-22T02:38:00+00:00,United States,0.490700357190463,0.0,2.0,en,CNA,North-America
 '4bdf6dfac1',extremes,Heat Wave,#c40202,wmo,Heat Wave Czechia,2023-07-24T16:23:00+00:00,Czechia,0.4906710601329961,0.0,2.0,en,WCE,Europe
@@ -2838,7 +2837,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9ea0a4958e',extremes,Flood,#030ba1,wmo,Flood Luquan District,2023-07-20T06:58:00+00:00,China,0.4664100061995985,0.0,2.0,en,EAS,Asia
 'fea63fe56b',extremes,Heat Wave,#c40202,wmo,Heat Wave Adams,2023-08-21T09:22:00+00:00,United States,0.4663533194378992,0.0,2.0,en,CNA,North-America
 'b6fd5d2936',extremes,Storm,#b3b2b1,wmo,Storm Helgoland,2023-07-20T08:03:00+00:00,Germany,0.4663432255866439,0.0,2.0,en,WCE,Europe
-'5efcf2a804',extremes,Landslide,#572c03,relief,Land Slide India,2023-08-15T02:37:00+00:00,India,0.46631423111752296,1.0,2.0,en,SAS,Asia
+'5efcf2a804',extremes,Landslide,#572c03,relief,Land Slide India,2023-08-15T02:37:00+00:00,India,0.4663142311175229,1.0,2.0,en,SAS,Asia
 '6021751314',extremes,Storm,#b3b2b1,wmo,Storm Mentougou District,2023-07-20T08:05:00+00:00,China,0.4662468442775052,0.0,2.0,en,EAS,Asia
 '4ffb831d1f',extremes,Heat Wave,#c40202,wmo,Heat Wave Pomoravlje,2023-07-20T07:25:00+00:00,Serbia,0.4662200160244064,0.0,2.0,en,MED,Europe
 '09b43ebd0c',extremes,Heat Wave,#c40202,wmo,Heat Wave Shuangliao City,2023-07-20T03:16:00+00:00,China,0.4662064385788815,0.0,2.0,en,EAS,Asia
@@ -7355,7 +7354,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bb7070a11f',extremes,Flood,#030ba1,wmo,Flood Deler av Sør-Norge,2023-08-07T09:31:00+00:00,Norway,0.2692825248386745,0.0,2.0,en,NEU,Europe
 '399471a39b',extremes,Flood,#030ba1,wmo,Flood Fond Du Lac,2023-08-14T08:41:00+00:00,United States,0.2690979556008522,0.0,2.0,en,CNA,North-America
 'd0e0489585',extremes,Flood,#030ba1,wmo,Flood Jemez Mountains,2023-08-14T07:52:00+00:00,United States,0.2690866812073171,0.0,2.0,en,CNA,North-America
-'2b032a857f',extremes,Flood,#030ba1,emdat,Flooding Punjab,2023-07-12T12:00:00+00:00,India,0.2690492181998252,0.0,2.0,en,SAS,Asia
 'b955612440',extremes,Heat Wave,#c40202,wmo,Heat Wave Wels-Land,2023-08-14T07:02:00+00:00,Austria,0.2688878621656271,0.0,2.0,en,WCE,Europe
 'a76c313df9',extremes,Heat Wave,#c40202,wmo,Heat Wave Bregenz,2023-08-14T07:02:00+00:00,Austria,0.268815274625309,0.0,2.0,en,WCE,Europe
 '22095e052e',extremes,Storm,#b3b2b1,wmo,Storm Shelikof Strait,2023-08-15T23:45:00+00:00,United States,0.2687342736632005,0.0,2.0,en,CNA,North-America
@@ -7382,7 +7380,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '48b7df133f',extremes,Heat Wave,#c40202,wmo,Heat Wave Melk,2023-08-14T07:02:00+00:00,Austria,0.2680752457348481,0.0,2.0,en,WCE,Europe
 '289ccbc6fb',extremes,Heat Wave,#c40202,wmo,Heat Wave Wien Favoriten,2023-08-14T07:02:00+00:00,Austria,0.268054959608608,0.0,2.0,en,WCE,Europe
 '4b3914bd12',extremes,Heat Wave,#c40202,wmo,Heat Wave Liezen,2023-08-14T07:02:00+00:00,Austria,0.2679374541046324,0.0,2.0,en,WCE,Europe
-'8630d3a88b',extremes,Flood,#030ba1,emdat,Flood i,2023-07-12T12:00:00+00:00,India,0.2678685366163497,0.0,2.0,en,SAS,Asia
 '6b6cc8fad6',extremes,Precipitation,#d60d2b,wmo,Precipitation West Peloponnisos,2023-08-14T09:37:00+00:00,Greece,0.2677932837824118,0.0,2.0,en,MED,Europe
 'f6c91174d0',extremes,Heat Wave,#c40202,wmo,Heat Wave Wien Liesing,2023-08-14T07:02:00+00:00,Austria,0.2677709282359635,0.0,2.0,en,WCE,Europe
 '1a3f19d839',extremes,Heat Wave,#c40202,wmo,Heat Wave Wien Ottakring,2023-08-14T07:02:00+00:00,Austria,0.267721407221192,0.0,2.0,en,WCE,Europe
