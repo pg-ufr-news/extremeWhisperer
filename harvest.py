@@ -36,6 +36,7 @@ topicColors = {'Thunderstorm':'#53785a', 'Flood':'#030ba1', 'Storm':'#b3b2b1', '
 
 def getAge(dateString):
     #print(dateString)
+    dateString = str(dateString) 
     dateString = dateString[0:19]+'+00:00'
     #dateString
     today = datetime.now(timezone.utc)
@@ -44,12 +45,14 @@ def getAge(dateString):
     try:
         pubDate = parser.parse(dateString)
     except:
-        print('date parse error 1')
+        #print('date parse error 1')
+        e=1
     if(not pubDate):
       try:
         pubDate = parser.isoparse(dateString)
       except:
-        print('date parse error 2')   
+        #print('date parse error 2')
+        e=2   
     if(pubDate):
         timeDate = today - pubDate
         timeDate = timeDate.days 
@@ -467,7 +470,8 @@ def inqRandomNews():
     randomNumber = random.random()
   
     #randomNumber = 0.1
-    #randomNumber = 0.75
+    #randomNumber = 0.55
+    #randomNumber = 0.7
 
     print(['randomNumber: ',randomNumber])
     if(not keywordsNewsDF2.empty):
