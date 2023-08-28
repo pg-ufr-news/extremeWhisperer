@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c269c088f2',extremes,Wildfire,#d60d2b,esawfa,Bushfire Canada,2023-08-09T16:32:00+00:00,Canada,0.7116585014285288,0.0,2.0,en,NWN,North-America
 '5c657726ab',extremes,Drought,#edc291,edo,Drought Latvia,2023-08-14T13:47:00+00:00,Latvia,0.6960593195024921,0.0,2.0,en,WCE,Europe
 '2fb9bcabc4',extremes,Drought,#edc291,edo,Dryness Estonia,2023-08-16T02:38:00+00:00,Estonia,0.6896474068142878,0.0,2.0,en,NEU,Europe
 '024c74adba',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Saola,2023-08-25T02:37:00+00:00,,0.6667345413724999,1.0,2.0,en,EAS,Asia
@@ -7,6 +6,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f53bcd64ac',extremes,Wildfire,#d60d2b,esawfa,Wildfire Democratic Republic of the Congo,2023-08-09T16:32:00+00:00,Democratic Republic of the Congo,0.6620600372455042,0.0,2.0,en,CAF,Africa
 'b56877a9c5',extremes,Wildfire,#d60d2b,esawfa,Bushfire United States,2023-08-09T16:32:00+00:00,United States,0.6608836183625231,0.0,2.0,en,NWN,North-America
 '7112e558bf',extremes,Wildfire,#d60d2b,fema,Wildfire Hawaii,2023-08-10T00:00:00Z,United States,0.6075042552140777,1.0,3.0,en,NPO,North-America
+'c269c088f2',extremes,Wildfire,#d60d2b,esawfa,Bushfire Canada,2023-08-09T16:32:00+00:00,Canada,0.6068599212142495,1.0,2.0,en,NWN,North-America
 'fe8861b402',extremes,Drought,#edc291,acwe,Drought Queensland,2023-08-17T07:07:00+00:00,Australia,0.606564899505547,1.0,2.0,en,CAU,Oceania
 'a8bf5b28ca',extremes,Wildfire,#d60d2b,effis,Wildfire  Tenerife Spain,2023-08-21T09:22:00+00:00,Spain,0.605693104385731,1.0,2.0,en,SAH,Europe
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2023-08-25T02:37:00+00:00,,0.605107796887101,1.0,2.0,en,,
@@ -1354,7 +1354,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b958253ba9',extremes,Wildfire,#d60d2b,effis,"Bushfire Ille-sur-Têt, Pyrénées-Orientales",2023-08-04T09:54:26Z,France,0.5255826088718079,0.0,2.0,en,MED,Europe
 '6cb96adb4d',extremes,Wildfire,#d60d2b,effis,Wildfire  Boeotia Greece,2023-08-22T10:06:00+00:00,Greece,0.5255220043338273,0.0,2.0,en,MED,Europe
 'e202f71b4b',extremes,Storm,#b3b2b1,wmo,Storm Lombardia,2023-07-20T09:26:00+00:00,Italy,0.5254410914442095,1.0,1.0,en,MED,Europe
-'e0e8f9dea7',extremes,Precipitation,#d60d2b,wmo,Precipitation Youjiang District,2023-07-19T16:55:00+00:00,China,0.5254394416387181,1.0,1.0,en,EAS,Asia
 'd9348789c0',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Slovenia / North-East,2023-07-20T07:32:00+00:00,Slovenia,0.5252925942900313,1.0,1.0,en,WCE,Europe
 '0084004e24',extremes,Flood,#030ba1,relief,Flood Malaysia,2023-07-14T00:00:00+00:00,Malaysia,0.5252923092866052,1.0,2.0,en,SEA,Asia
 '645a2fc804',extremes,Fog,#d60d2b,wmo,Fog Jidong County,2023-07-19T20:35:00+00:00,China,0.5252898660059908,1.0,1.0,en,EAS,Asia
@@ -1689,7 +1688,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '38203db910',extremes,Wildfire,#d60d2b,effis,Wildfire Filicudi,2023-08-21T15:59:00+00:00,Italy,0.5087688351449806,0.0,2.0,en,MED,Europe
 'a6dc089fd6',extremes,Wildfire,#d60d2b,effis,"Wildfire Formia, Latina",2023-08-23T02:37:00+00:00,Italy,0.5087584477404755,0.0,2.0,en,MED,Europe
 'a956f8db1a',extremes,Heat Wave,#c40202,wmo,Heat Wave Northern Hungary,2023-08-22T10:06:00+00:00,Hungary,0.5087020608295925,0.0,2.0,en,WCE,Europe
-'a371ca7415',extremes,Thunderstorm,#53785a,eswd,Lightning Bulgaria,2023-07-20T15:33:00+00:00,Bulgaria,0.508653204222151,1.0,1.0,en,MED,Europe
 '21326542a8',extremes,Wildfire,#d60d2b,esawfa,Bushfire Indonesia,2023-07-22T02:49:00+00:00,Indonesia,0.5086518785456158,0.0,2.0,en,SEA,Asia
 'b1eb2d5077',extremes,Storm,#b3b2b1,eswd,Severe Wind Poland,2023-07-29T16:25:00+00:00,Poland,0.5086516854301316,1.0,1.0,en,WCE,Europe
 '949b2724a3',extremes,Wildfire,#d60d2b,emdat,Bushfire Jijel et Skikda,2023-07-24T12:00:00+00:00,Algeria,0.5085806098033073,0.0,2.0,en,SAH,Africa
@@ -2266,7 +2264,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b2485e7c6',extremes,Flood,#030ba1,relief,Flash Flood Sudan,2023-07-24T00:00:00+00:00,Sudan,0.4858706117294158,1.0,1.0,en,SAH,Africa
 'c2e588d8fc',extremes,Precipitation,#d60d2b,acwe,Precipitation Queensland,2023-08-20T02:38:00+00:00,Australia,0.485866116343812,2.0,2.0,en,CAU,Oceania
 '697dccec38',extremes,Wildfire,#d60d2b,effis,"Wildfire Aidone, Enna",2023-08-19T02:37:00+00:00,Italy,0.4857241514075481,0.0,2.0,en,MED,Europe
-'7774c1ecfc',extremes,Precipitation,#d60d2b,floodlist,12 Killed in Landslide After Heavy Rain in Maharashtra India,2023-07-20T15:10:09+02:00,India,0.4856824863161524,1.0,1.0,en,SAS,Asia
 '4820cd6691',extremes,Volcano,#b83202,eonet,Volcano Nicaragua,2023-07-05T00:00:0+00:00,Nicaragua,0.4856472620198154,1.0,1.0,en,SCA,North-America
 'd4c21a69ff',extremes,Wildfire,#d60d2b,effis,Bushfire  Evia Greece,2023-08-04T10:56:03Z,Greece,0.4856283786066484,0.0,2.0,en,MED,Europe
 '52dd7badf3',extremes,Wildfire,#d60d2b,effis,Wild Fire  Catalonia Spain,2023-08-07T00:00:00Z,Spain,0.4855286682454602,0.0,2.0,en,MED,Europe
@@ -2328,7 +2325,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '760d870b43',extremes,Heat Wave,#c40202,meteo,High Temperature Lithuania,2023-07-17T20:25:00+00:00,Lithuania,0.4831687348487204,0.0,2.0,en,WCE,Europe
 'b3b7bdd750',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Eastern region,2023-08-24T11:54:00+00:00,North Macedonia,0.4831611473488514,0.0,2.0,en,MED,Europe
 '795fbe6f3e',extremes,Heat Wave,#c40202,wmo,Heat Wave Adriatic coast,2023-08-21T09:32:00+00:00,Montenegro,0.483031296560629,0.0,2.0,en,MED,Europe
-'bd4aa9e713',extremes,Wildfire,#d60d2b,esawfa,Wildfire Kazakhstan,2023-07-20T16:35:00+00:00,Kazakhstan,0.4830145347629336,1.0,1.0,en,WSB,Asia
 'bc5a6d7ae5',extremes,Flood,#030ba1,aidr,"Flood - Gippsland, Victoria, 2012",2023-08-10T20:51:00+00:00,Australia,0.4829999825793719,0.0,2.0,en,SAU,Oceania
 '9851331061',extremes,Wildfire,#d60d2b,effis,Bushfire Algeria,2023-07-19T10:16:10Z,Algeria,0.4829603575306671,1.0,2.0,en,MED,Africa
 'fcf9e85048',extremes,Wildfire,#d60d2b,effis,Bushfire Ourém,2023-08-03T20:26:17Z,Portugal,0.4829592370272879,0.0,2.0,en,MED,Europe
