@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '024c74adba',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Saola,2023-08-25T02:37:00+00:00,,0.6667345413724999,1.0,2.0,en,EAS,Asia
 '024c74adba',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Saola,2023-08-25T02:37:00+00:00,,0.6667345413724999,1.0,2.0,en,EAS,Asia
-'f53bcd64ac',extremes,Wildfire,#d60d2b,esawfa,Wildfire Democratic Republic of the Congo,2023-08-09T16:32:00+00:00,Democratic Republic of the Congo,0.6620600372455042,0.0,2.0,en,CAF,Africa
 'b56877a9c5',extremes,Wildfire,#d60d2b,esawfa,Bushfire United States,2023-08-09T16:32:00+00:00,United States,0.6608836183625231,0.0,2.0,en,NWN,North-America
 '7112e558bf',extremes,Wildfire,#d60d2b,fema,Wildfire Hawaii,2023-08-10T00:00:00Z,United States,0.6075042552140777,1.0,3.0,en,NPO,North-America
 'c269c088f2',extremes,Wildfire,#d60d2b,esawfa,Bushfire Canada,2023-08-09T16:32:00+00:00,Canada,0.6068599212142495,1.0,2.0,en,NWN,North-America
@@ -43,6 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5bf3281003',extremes,Tropical Cyclone,#4f4f4f,eonet,Hurricane Hilary,2023-08-18T02:37:00+00:00,,0.5641491097562982,2.0,3.0,en,NPO,Pacific Ocean
 'f6b497be4e',extremes,Landslide,#572c03,relief,Landslide India,2023-07-12T00:00:00+00:00,India,0.5638370084516294,1.0,3.0,en,SAS,Asia
 '716c7f1ee4',extremes,Flood,#030ba1,relief,Flooding Sudan,2023-08-22T02:36:00+00:00,Sudan,0.5637560604100015,0.0,2.0,en,SAH,Africa
+'f53bcd64ac',extremes,Wildfire,#d60d2b,esawfa,Wildfire Democratic Republic of the Congo,2023-08-09T16:32:00+00:00,Democratic Republic of the Congo,0.5627510766586785,1.0,1.0,en,CAF,Africa
 '084fa24938',extremes,Wildfire,#d60d2b,effis,Wildfire Dervenochoria,2023-07-18T06:17:28Z,Greece,0.5611083921713098,1.0,2.0,en,MED,Europe
 '2b1deb0c3f',extremes,Wildfire,#d60d2b,effis,Wild Fire Spain,2023-07-15T16:18:42Z,Spain,0.561096501128209,1.0,3.0,en,SAH,Europe
 '1ffa8704d9',extremes,Heat Wave,#c40202,meteo,Heat Wave Serbia,2023-07-17T20:25:00+00:00,Serbia,0.5609303702064828,1.0,2.0,en,MED,Europe
@@ -1381,7 +1381,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e36601c56f',extremes,Flooding,#d60d2b,acwe,Flooding Northern Territory,2023-08-19T02:38:00+00:00,Australia,0.5234324638328446,1.0,2.0,en,NAU,Oceania
 'aa4bc05572',extremes,Storm Surge,#834fa1,wmo,Storm Surge Poland,2023-07-20T03:08:00+00:00,Poland,0.5233497924728431,1.0,2.0,en,WCE,Europe
 '38336783ad',extremes,Earthquake,#870007,usgs,Earthquake Port-Olry,2023-07-26T12:44:00+00:00,Vanuatu,0.5233149046310106,2.0,2.0,en,SPO,Pacific Ocean
-'2213b64f83',extremes,Heat Wave,#c40202,wmo,Heat Wave Adriatic coast,2023-07-21T05:46:00+00:00,Montenegro,0.5232753803701724,1.0,1.0,en,MED,Europe
 '78eea3b7ea',extremes,Wildfire,#d60d2b,fema,Wildfire Montana,2023-08-22T02:37:00+00:00,United States,0.5232323679036395,1.0,3.0,en,WNA,North-America
 'ac2fa82132',extremes,Storm,#b3b2b1,eonet,Typhoon Lan,2023-08-08T06:00:0+00:00,,0.522955266356004,0.0,2.0,en,NPO,Pacific Ocean
 'adbb3b7967',extremes,Flood,#030ba1,emdat,Flooding Queens counties in southern Nova Scotia,2023-07-22T12:00:00+00:00,Canada,0.5227898921172656,0.0,2.0,en,NEN,North-America
@@ -6824,7 +6823,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e209f4c58',extremes,Storm Surge,#834fa1,wmo,Storm Surge South Africa,2023-07-18T00:43:00+00:00,South Africa,0.2950747208597932,0.0,2.0,en,WSAF,Africa
 'a53d92bc21',extremes,Storm,#b3b2b1,wmo,Storm Tuva Republic,2023-08-14T13:31:00+00:00,Russia,0.2946015384598646,0.0,2.0,en,ESB,Europe
 '750095b0a4',extremes,Heat Wave,#c40202,wmo,Heat Wave Yifeng County,2023-08-12T05:50:00+00:00,China,0.2945913225319511,0.0,2.0,en,EAS,Asia
-'44e7a519f4',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave South Africa,2023-07-17T06:42:00+00:00,South Africa,0.2943815601310205,0.0,2.0,en,WSAF,Africa
 '4319b55b98',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2023-07-18T19:20:00+00:00,Canada,0.294331283643436,0.0,2.0,en,NEN,North-America
 'ea92fd78d6',extremes,Drought,#edc291,emdat,Drought Andalusia,2023-04-31T12:00:00+00:00,Spain,0.2941598594108966,0.0,2.0,en,MED,Europe
 '33703a3eb3',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Milford Road (SH94),2023-08-14T08:36:00+00:00,New Zealand,0.2940599902440259,0.0,2.0,en,NZ,Oceania
