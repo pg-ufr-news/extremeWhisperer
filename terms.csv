@@ -2,7 +2,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '024c74adba',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Saola,2023-08-25T02:37:00+00:00,,0.6667345413724999,1.0,2.0,en,EAS,Asia
 '024c74adba',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Saola,2023-08-25T02:37:00+00:00,,0.6667345413724999,1.0,2.0,en,EAS,Asia
 'efe4cd6b84',extremes,Tropical Cyclone,#4f4f4f,eonet,Hurricane Franklin,2023-08-29T03:01:00+00:00,,0.627954626169846,5.0,1.0,en,CAR,North-America
-'0cff6d9e7d',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Idalia,2023-08-29T03:01:00+00:00,,0.6244267587401895,0.0,2.0,en,SCA,North-America
 '7112e558bf',extremes,Wildfire,#d60d2b,fema,Wildfire Hawaii,2023-08-10T00:00:00Z,United States,0.6075042552140777,1.0,3.0,en,NPO,North-America
 'fe8861b402',extremes,Drought,#edc291,acwe,Drought Queensland,2023-08-17T07:07:00+00:00,Australia,0.606564899505547,1.0,2.0,en,CAU,Oceania
 'a8bf5b28ca',extremes,Wildfire,#d60d2b,effis,Wildfire  Tenerife Spain,2023-08-21T09:22:00+00:00,Spain,0.605693104385731,1.0,2.0,en,SAH,Europe
@@ -26,6 +25,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9868b39fd9',extremes,Storm,#b3b2b1,fema,Storm Florida,2023-08-29T03:02:00+00:00,United States,0.5814967689287409,0.0,2.0,en,ENA,North-America
 'de505b9392',extremes,Storm,#b3b2b1,fema,Storm Oregon,2023-08-29T03:02:00+00:00,United States,0.5814521353093733,0.0,2.0,en,WNA,North-America
 '82d648b882',extremes,Drought,#edc291,random,drought,2023-08-24T02:37:00+00:00,,0.5790042535868585,1.0,3.0,en,,
+'0cff6d9e7d',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Idalia,2023-08-29T03:01:00+00:00,,0.576624220838252,1.0,3.0,en,SCA,North-America
 '09e7f0153f',extremes,Earthquake,#870007,relief,Earthquake Türkiye,2023-08-17T07:05:00+00:00,Türkiye,0.5758666109967029,0.0,2.0,en,MED,Asia
 '9296c9f081',extremes,Thunderstorm,#53785a,eswd,Hail Belarus,2023-08-29T03:02:00+00:00,Belarus,0.5736135343267031,0.0,2.0,en,WCE,Europe
 '02467de39b',extremes,Storm,#b3b2b1,eonet,Typhoon Saola,2023-08-26T02:38:00+00:00,,0.5728559338300228,1.0,2.0,en,EAS,Asia
@@ -1354,13 +1354,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '633f69571e',extremes,Heat Wave,#c40202,wmo,Heat Wave West Sterea,2023-07-20T09:48:00+00:00,Greece,0.5259712588033736,1.0,2.0,en,MED,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,eswd,Hail Italy,2023-07-25T07:50:00+00:00,Italy,0.5259420911639519,1.0,2.0,en,WCE,Europe
 '68723d9d13',extremes,Wildfire,#d60d2b,effis,Wild Fire Palermo Airport,2023-07-25T09:59:00Z,Italy,0.5259069033965469,1.0,1.0,en,MED,Europe
-'a094d6698d',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Pacification County,2023-07-20T09:18:00+00:00,China,0.5257915260487077,1.0,1.0,en,EAS,Asia
 '5b2c408968',extremes,Earthquake,#870007,usgs,Earthquake off the coast of Central America,2023-07-30T01:10:00+00:00,,0.5257106284001047,0.0,2.0,en,SCA,North-America
 '632d06b13d',extremes,Wildfire,#d60d2b,effis,Wild Fire  Balıkesir Turkey,2023-08-06T13:39:24Z,Turkey,0.5257096194258604,0.0,2.0,en,MED,Asia
 'ff990ef6b5',extremes,Wildfire,#d60d2b,effis,Wild Fire Bolognano,2023-08-02T08:25:56Z,Italy,0.5256884811848352,0.0,2.0,en,MED,Europe
 'b958253ba9',extremes,Wildfire,#d60d2b,effis,"Bushfire Ille-sur-Têt, Pyrénées-Orientales",2023-08-04T09:54:26Z,France,0.5255826088718079,0.0,2.0,en,MED,Europe
 '6cb96adb4d',extremes,Wildfire,#d60d2b,effis,Wildfire  Boeotia Greece,2023-08-22T10:06:00+00:00,Greece,0.5255220043338273,0.0,2.0,en,MED,Europe
-'e202f71b4b',extremes,Storm,#b3b2b1,wmo,Storm Lombardia,2023-07-20T09:26:00+00:00,Italy,0.5254410914442095,1.0,1.0,en,MED,Europe
 '9ffd7efcff',extremes,Storm,#b3b2b1,wmo,Storm Three gate County,2023-07-20T06:55:00+00:00,China,0.5252328100006548,1.0,2.0,en,EAS,Asia
 '516c710985',extremes,Thunderstorm,#53785a,eswd,Hail France,2023-07-18T15:50:00+00:00,France,0.5252156340237374,1.0,2.0,en,WCE,Europe
 'b9d97d4381',extremes,Drought,#edc291,relief,Drought Ethiopia,2023-08-17T07:05:00+00:00,Ethiopia,0.5251694718926584,1.0,2.0,en,NEAF,Africa
@@ -1370,7 +1368,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '978194f9e7',extremes,Wildfire,#d60d2b,esawfa,Bushfire Eswatini,2023-07-28T02:49:00+00:00,Eswatini,0.5250554311767229,0.0,2.0,en,ESAF,Africa
 '3501faafc7',extremes,Storm,#b3b2b1,fema,Storm Mississippi,2023-08-12T00:00:00Z,United States,0.5250510271783054,1.0,2.0,en,ENA,North-America
 '73d01d320c',extremes,Earthquake,#870007,usgs,Earthquake Afghanistan,2023-08-15T02:37:00+00:00,Afghanistan,0.5250254661298559,0.0,2.0,en,WCA,Asia
-'8237c90331',extremes,Heat Wave,#c40202,wmo,Heat Wave Akesu City,2023-07-20T09:26:00+00:00,China,0.5250199161853651,1.0,1.0,en,EAS,Asia
 '17c827a010',extremes,Earthquake,#870007,usgs,Earthquake Japan,2023-08-18T02:37:00+00:00,Japan,0.5249452371519101,0.0,2.0,en,EAS,Asia
 '5d3bc46936',extremes,Tropical Cyclone,#4f4f4f,emdat,Typhoon 11,2023-07-27T12:00:00+00:00,Philippines,0.5247251599192708,0.0,2.0,en,SEA,Asia
 'ff2b2798a8',extremes,Heat Wave,#c40202,wmo,Heat Wave Riviera,2023-07-19T22:10:00+00:00,Switzerland,0.5246145490746023,1.0,2.0,en,WCE,Europe
