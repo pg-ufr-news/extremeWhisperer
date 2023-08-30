@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'122528ed7a',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Irwin,2023-08-29T03:01:00+00:00,,0.6641231508693208,1.0,2.0,en,NPO,Pacific Ocean
 'efe4cd6b84',extremes,Tropical Cyclone,#4f4f4f,eonet,Hurricane Franklin,2023-08-29T03:01:00+00:00,,0.627954626169846,5.0,1.0,en,CAR,North-America
 '7112e558bf',extremes,Wildfire,#d60d2b,fema,Wildfire Hawaii,2023-08-10T00:00:00Z,United States,0.6075042552140777,1.0,3.0,en,NPO,North-America
 'fe8861b402',extremes,Drought,#edc291,acwe,Drought Queensland,2023-08-17T07:07:00+00:00,Australia,0.606564899505547,1.0,2.0,en,CAU,Oceania
@@ -23,6 +22,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c416a8e0d7',extremes,Drought,#edc291,acwe,Drought New South Wales,2023-08-17T07:07:00+00:00,Australia,0.5822676783622823,1.0,1.0,en,EAU,Oceania
 '9868b39fd9',extremes,Storm,#b3b2b1,fema,Storm Florida,2023-08-29T03:02:00+00:00,United States,0.5814967689287409,0.0,2.0,en,ENA,North-America
 'de505b9392',extremes,Storm,#b3b2b1,fema,Storm Oregon,2023-08-29T03:02:00+00:00,United States,0.5814521353093733,0.0,2.0,en,WNA,North-America
+'122528ed7a',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Irwin,2023-08-29T03:01:00+00:00,,0.5797912068752863,2.0,2.0,en,NPO,Pacific Ocean
 '82d648b882',extremes,Drought,#edc291,random,drought,2023-08-24T02:37:00+00:00,,0.5790042535868585,1.0,3.0,en,,
 '1449404440',extremes,Flood,#030ba1,emdat,Flooding Kashmir,2023-08-26T02:40:00+00:00,Pakistan,0.57671201261027,0.0,2.0,en,SAS,Asia
 '0cff6d9e7d',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Idalia,2023-08-29T03:01:00+00:00,,0.576624220838252,1.0,3.0,en,SCA,North-America
@@ -1267,7 +1267,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'af867bed46',extremes,Tsunami,#690191,usgs,Tsunami Gili Air,2023-08-29T03:01:00+00:00,Indonesia,0.5323194386669805,0.0,2.0,en,SEA,Asia
 '4cf2d0d7d8',extremes,Tropical Cyclone,#4f4f4f,aidr,"Tropical cyclone Blake, Western Australia, January 2020",2023-08-10T20:51:00+00:00,,0.5323122041946049,0.0,2.0,en,CAU,Oceania
 '0397d17e37',extremes,Drought,#edc291,edo,Drought Tajikistan,2023-08-14T13:47:00+00:00,Tajikistan,0.532269165085187,0.0,2.0,en,WCA,Asia
-'25cc3b5c61',extremes,Wildfire,#d60d2b,esawfa,Bushfire Brazil,2023-07-21T02:49:00+00:00,Brazil,0.5322287783101841,1.0,1.0,en,SAM,South-America
 '59086b63e2',extremes,Cold Wave,#a7e9fa,randomTerm,freezing,2023-07-12T03:12:00+00:00,,0.5321997130522593,1.0,3.0,en,,
 '43e1a7a2c8',extremes,Storm,#b3b2b1,fema,Storm Tennessee,2023-08-18T02:37:00+00:00,United States,0.5321395253759309,1.0,3.0,en,ENA,North-America
 'd133d72eb0',extremes,Flood,#030ba1,fema,Alaska Flooding,2023-08-24T02:38:00+00:00,United States,0.5320352593905013,1.0,3.0,en,NWN,North-America
@@ -2217,7 +2216,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3553484e8d',extremes,Heat Wave,#c40202,wmo,Heat Wave Zug-Knonau,2023-08-22T10:06:00+00:00,Switzerland,0.4869725976778849,0.0,2.0,en,WCE,Europe
 '0031f77059',extremes,Flood,#030ba1,floodlist,4 Missing After Floods Cause Devastation in Nova Scotia Canada,2023-07-23T13:18:35+02:00,Canada,0.4869650813936665,1.0,1.0,en,NEN,North-America
 'db5b3fb64a',extremes,Landslide,#572c03,relief,Landslide Haiti,2023-08-27T02:38:00+00:00,Haiti,0.4869416846285256,1.0,1.0,en,CAR,North-America
-'f371553626',extremes,Wildfire,#d60d2b,esawfa,Bushfire Zambia,2023-07-22T02:49:00+00:00,Zambia,0.4869252880060872,1.0,1.0,en,ESAF,Africa
 '9e0208c6e0',extremes,Heat Wave,#c40202,meteo,High Temperature Austria,2023-08-12T02:37:00+00:00,Austria,0.4868703643857619,1.0,3.0,en,WCE,Europe
 'c53464ff3e',extremes,Wildfire,#d60d2b,effis,Wild Fire Kahramanmaraş,2023-08-26T02:39:00+00:00,Turkey,0.4867859420299477,0.0,2.0,en,MED,Asia
 '076dd98cd6',extremes,Wildfire,#d60d2b,fema,Washington Newell Road Fire,2023-07-23T00:00:00Z,United States,0.4867323455494116,0.0,2.0,en,WNA,North-America
