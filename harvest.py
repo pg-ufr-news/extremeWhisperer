@@ -349,11 +349,15 @@ def extractData(article, language, keyWord, topic, feed, country, ipcc, continen
     title = article['title']
     description = article['description']
     url = article['url']
-    #later use list...
-    url = url.replace('https://www.zeit.de/zustimmung?url=', '')
-    url = url.replace('%3A', ':')
-    url = url.replace('%2F', '/')                
-    domain = urlparse(url).netloc
+    domain = None
+    if(url):   
+     #later use list...
+     url = url.replace('https://www.zeit.de/zustimmung?url=', '')
+     url = url.replace('%3A', ':')
+     url = url.replace('%2F', '/')                
+     domain = urlparse(url).netloc
+    else:
+     print(['no url', article])
     image = None
     if('urlToImage' in article): 
         image = article['urlToImage']
@@ -400,6 +404,8 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
              foundColumns.append(column2)
              found = True
       print([data['title'], found])  
+      if(not data['url']):
+        found = False
       if(found):
         ##foundKeywords.append(keyWord) 
         print(foundKeywords) 
@@ -428,6 +434,7 @@ def filterNewAndArchive(articles):
             if(not fileDate in collectedNews):
                 if(os.path.isfile(DATA_PATH / 'cxsv' / fileDate)):
                     df = pd.read_csv(DATA_PATH / 'cxsv' / fileDate, delimiter=',',index_col='index')
+                    df = df[~df.index.duplicated(keep='first')]
                     collectedNews[fileDate] = df.to_dict('index')
                 else:
                     collectedNews[fileDate] = {}
@@ -469,9 +476,10 @@ def inqRandomNews():
     rndKey = termsDF.sample()
     randomNumber = random.random()
   
-    #randomNumber = 0.1
+    #randomNumber = 0.1 # unsearched first
     #randomNumber = 0.55
     #randomNumber = 0.7
+    #randomNumber = 0.99 # seldoms first
 
     print(['randomNumber: ',randomNumber])
     if(not keywordsNewsDF2.empty):
