@@ -109,7 +109,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe84475da8',extremes,Flood,#030ba1,wmo,Flooding Ware,2023-09-01T02:41:00+00:00,United States,0.6569155951411952,0.0,2.0,en,CNA,North-America
 'b738dca89e',extremes,Flood,#030ba1,wmo,Flooding New Castle,2023-09-01T02:41:00+00:00,United States,0.6563769531341651,0.0,2.0,en,CNA,North-America
 '00ea44319d',extremes,Flood,#030ba1,wmo,Flood Richmond,2023-08-31T08:14:00+00:00,United States,0.6562418344903118,0.0,2.0,en,CNA,North-America
-'8abdb9b5f3',extremes,Landslide,#572c03,wmo,Rockslide Norway,2023-08-31T02:38:00+00:00,Norway,0.6562229176890136,0.0,2.0,en,NEU,Europe
 '6770103b40',extremes,Flood,#030ba1,wmo,Flood Southern Queens,2023-08-31T08:14:00+00:00,United States,0.6559456031623685,0.0,2.0,en,CNA,North-America
 '15241844ee',extremes,Flood,#030ba1,wmo,Flooding Coastal Brunswick,2023-09-01T02:41:00+00:00,United States,0.6556714173461777,0.0,2.0,en,CNA,North-America
 '4d2b8d8409',extremes,Storm,#b3b2b1,wmo,Storm Denali,2023-08-31T08:14:00+00:00,United States,0.6554881182904535,0.0,2.0,en,CNA,North-America
@@ -516,6 +515,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ab159a1b9e',extremes,Precipitation,#d60d2b,relief,Torrential Rain Sudan,2023-08-21T09:31:00+00:00,Sudan,0.5578462821870045,1.0,2.0,en,SAH,Africa
 'd840d9d6ea',extremes,Wildfire,#d60d2b,fema,Hawaii Lahaina Fire,2023-08-09T00:00:00Z,United States,0.5578382318971257,0.0,2.0,en,NPO,North-America
 'dd030f1bae',extremes,Tropical Cyclone,#4f4f4f,relief,Huricane Japan,2023-08-21T09:31:00+00:00,Japan,0.5578117020005493,0.0,2.0,en,EAS,Asia
+'8abdb9b5f3',extremes,Landslide,#572c03,wmo,Rockslide Norway,2023-08-31T02:38:00+00:00,Norway,0.5577894800356615,1.0,1.0,en,NEU,Europe
 '66492645d6',extremes,Flood,#030ba1,floodlist,Flood Georgia,2023-08-05T14:50:06+02:00,Georgia,0.5577432131786655,0.0,2.0,en,WCA,Asia
 '7848b9b2b6',extremes,Wildfire,#d60d2b,effis,Wild Fire  Muğla Turkey,2023-07-14T10:18:09Z,Turkey,0.5577162575614212,0.0,2.0,en,MED,Asia
 '41286f60bc',extremes,Thunderstorm,#53785a,eswd,Hail Estonia,2023-08-17T02:37:00+00:00,Estonia,0.5576483325616434,0.0,2.0,en,NEU,Europe
@@ -4902,7 +4902,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c58ca0f6f8',extremes,Flood,#030ba1,wmo,Flood Svidník,2023-07-24T15:35:00+00:00,Slovakia,0.392338741204333,0.0,2.0,en,WCE,Europe
 '900ec67deb',extremes,Heat Wave,#c40202,wmo,Heat Wave Tajo y Alagón,2023-08-20T02:38:00+00:00,Spain,0.3923332889068437,0.0,2.0,en,MED,Europe
 'ad7e1aa318',extremes,Heat Wave,#c40202,wmo,Heat Wave Vardar region,2023-07-20T04:55:00+00:00,North Macedonia,0.3923245184587018,0.0,2.0,en,MED,Europe
-'d960eb6dd3',extremes,Drought,#edc291,wmo,Drought Czechia,2023-07-18T08:35:00+00:00,Czechia,0.3922755103254194,0.0,2.0,en,WCE,Europe
 'bc2b7994db',extremes,Drought,#edc291,wmo,Drought Ústecký kraj,2023-07-20T08:02:00+00:00,Czechia,0.3921949751585338,0.0,2.0,en,WCE,Europe
 'c740039e02',extremes,Flood,#030ba1,wmo,Flood Snina,2023-07-24T14:00:00+00:00,Slovakia,0.3921766295283085,0.0,2.0,en,WCE,Europe
 '741e69e050',extremes,Storm,#b3b2b1,wmo,Storm San Gorgonio Pass Near Banning,2023-08-19T02:38:00+00:00,United States,0.3921353929916896,0.0,2.0,en,CNA,North-America
@@ -6822,7 +6821,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '91beb1c900',extremes,Storm,#b3b2b1,wmo,Storm Wien Mariahilf,2023-07-24T11:52:00+00:00,Austria,0.3156353000915854,0.0,2.0,en,WCE,Europe
 'cf534a1b63',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Kemerovo Region,2023-07-25T04:31:00+00:00,Russia,0.315626304564736,0.0,2.0,en,ESB,Europe
 '32cbd817d9',extremes,Storm,#b3b2b1,wmo,Storm Campania,2023-07-24T09:01:00+00:00,Italy,0.31561807757689,0.0,2.0,en,MED,Europe
-'d7d19add86',extremes,Heat Wave,#c40202,wmo,Heat Wave Litoral sur de Valencia,2023-07-19T08:50:00+00:00,Spain,0.3155991102774235,0.0,2.0,en,MED,Europe
 '5a1a8cb13d',extremes,Heat Wave,#c40202,wmo,Heat Wave Senec,2023-07-22T05:26:00+00:00,Slovakia,0.3155971202789501,0.0,2.0,en,WCE,Europe
 'de9f3a8dbb',extremes,Storm,#b3b2b1,wmo,Storm Wien Josefstadt,2023-07-24T07:12:00+00:00,Austria,0.3155931725938147,0.0,2.0,en,WCE,Europe
 '0980179b71',extremes,Heat Wave,#c40202,wmo,Heat Wave Villach (Stadt),2023-07-24T07:14:00+00:00,Austria,0.3155928936058905,0.0,2.0,en,WCE,Europe
@@ -6871,7 +6869,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d81a7cc86',extremes,Heat Wave,#c40202,wmo,Heat Wave Güssing,2023-07-24T07:14:00+00:00,Austria,0.315227035523767,0.0,2.0,en,WCE,Europe
 '33887885e9',extremes,Heat Wave,#c40202,wmo,Heat Wave Wien Hernals,2023-07-24T07:14:00+00:00,Austria,0.3152196562840378,0.0,2.0,en,WCE,Europe
 'dee0668217',extremes,Heat Wave,#c40202,wmo,Heat Wave Wien Favoriten,2023-07-24T07:14:00+00:00,Austria,0.3152119202890154,0.0,2.0,en,WCE,Europe
-'c09107cc26',extremes,Heat Wave,#c40202,wmo,Heat Wave Ribera del Ebro de Zaragoza,2023-07-19T08:50:00+00:00,Spain,0.3152087743893838,0.0,2.0,en,MED,Europe
 '7c908d7c29',extremes,Heat Wave,#c40202,wmo,Heat Wave Vöcklabruck,2023-07-24T07:14:00+00:00,Austria,0.3152060796463337,0.0,2.0,en,WCE,Europe
 '3b0e9c5679',extremes,Storm,#b3b2b1,wmo,Storm Bytča,2023-07-24T09:47:00+00:00,Slovakia,0.3152049214700768,0.0,2.0,en,WCE,Europe
 '4293188364',extremes,Storm,#b3b2b1,wmo,Storm Wien Döbling,2023-07-24T17:41:00+00:00,Austria,0.3151967046814884,0.0,2.0,en,WCE,Europe
@@ -6927,7 +6924,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4459216a5',extremes,Storm,#b3b2b1,wmo,Storm Feldkirch,2023-07-24T11:52:00+00:00,Austria,0.3148108595876976,0.0,2.0,en,WCE,Europe
 'a9c2f1a7ca',extremes,Heat Wave,#c40202,wmo,Heat Wave Wien Meidling,2023-07-24T07:14:00+00:00,Austria,0.3148096253400942,0.0,2.0,en,WCE,Europe
 '8f9dd16314',extremes,Heat Wave,#c40202,wmo,Heat Wave Graz-Umgebung,2023-07-24T07:14:00+00:00,Austria,0.3148044306579964,0.0,2.0,en,WCE,Europe
-'fc552c8f5c',extremes,Heat Wave,#c40202,wmo,Heat Wave Hellín y Almansa,2023-07-19T07:26:00+00:00,Spain,0.3148033582683027,0.0,2.0,en,MED,Europe
 '261e4efde1',extremes,Heat Wave,#c40202,wmo,Heat Wave Mödling,2023-07-24T07:14:00+00:00,Austria,0.3147962363228307,0.0,2.0,en,WCE,Europe
 'aadfc24158',extremes,Storm,#b3b2b1,wmo,Storm Wolfsberg,2023-07-20T18:09:00+00:00,Austria,0.3147895835664686,0.0,2.0,en,WCE,Europe
 '967f50c907',extremes,Storm,#b3b2b1,wmo,Storm Taihu County,2023-07-20T14:09:00+00:00,China,0.3147827232527714,0.0,2.0,en,EAS,Asia
@@ -6943,7 +6939,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3a200f91a',extremes,Fog,#d60d2b,wmo,Fog Altai Republic,2023-07-24T19:01:00+00:00,Russia,0.314697088532932,0.0,2.0,en,ESB,Europe
 '0efe207d0a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Moscow Region,2023-07-20T14:01:00+00:00,Russian Federation,0.3146765470326858,0.0,2.0,en,ESB,Europe
 'd7d6ca6817',extremes,Storm,#b3b2b1,wmo,Storm Schwaz,2023-07-24T17:41:00+00:00,Austria,0.3146758760659066,0.0,2.0,en,WCE,Europe
-'9b758a0153',extremes,Heat Wave,#c40202,wmo,Heat Wave Ibérica zaragozana,2023-07-19T08:50:00+00:00,Spain,0.3146525106657968,0.0,2.0,en,MED,Europe
 '0004990eb0',extremes,Heat Wave,#c40202,wmo,Heat Wave Evenkiyskiy m.r.,2023-07-20T14:01:00+00:00,Russian Federation,0.3146427815034789,0.0,2.0,en,ESB,Europe
 '7557489549',extremes,Fog,#d60d2b,wmo,Fog Omsk Region,2023-07-24T17:01:00+00:00,Russia,0.3146202990433225,0.0,2.0,en,ESB,Europe
 '32f1a618c8',extremes,Storm,#b3b2b1,wmo,Storm Gmunden,2023-07-24T11:52:00+00:00,Austria,0.3146184843190127,0.0,2.0,en,WCE,Europe
@@ -7087,7 +7082,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd83e070114',extremes,Heat Wave,#c40202,wmo,Heat Wave Wien Mariahilf,2023-07-24T07:14:00+00:00,Austria,0.3136505334411237,0.0,2.0,en,WCE,Europe
 '12b2277017',extremes,Heat Wave,#c40202,wmo,Heat Wave Split region,2023-07-20T08:49:00+00:00,Croatia,0.3136444335456758,0.0,2.0,en,WCE,Europe
 '21e6e2b0f4',extremes,Storm,#b3b2b1,emdat,Storm Michalovce,2023-07-19T12:00:00+00:00,Slovakia,0.3136437398564964,0.0,2.0,en,WCE,Europe
-'1b0634c3aa',extremes,Heat Wave,#c40202,wmo,Heat Wave Campiña sevillana,2023-07-19T08:32:00+00:00,Spain,0.3136385582211087,0.0,2.0,en,MED,Europe
 '16cea96dc3',extremes,Storm,#b3b2b1,wmo,Storm Krems an der Donau (Stadt),2023-07-24T17:46:00+00:00,Austria,0.3136343440612791,0.0,2.0,en,WCE,Europe
 'fd81d061db',extremes,Storm,#b3b2b1,wmo,Storm Ružomberok,2023-07-20T03:12:00+00:00,Slovakia,0.3136275705183377,0.0,2.0,en,WCE,Europe
 '5ba5861ea3',extremes,Storm,#b3b2b1,wmo,Storm Hollabrunn,2023-07-24T16:01:00+00:00,Austria,0.3136144965001736,0.0,2.0,en,WCE,Europe
@@ -7140,7 +7134,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f7f8530dc',extremes,Precipitation,#d60d2b,wmo,Precipitation Hallein,2023-07-24T08:57:00+00:00,Austria,0.3132247139184835,0.0,2.0,en,WCE,Europe
 'aa5437666f',extremes,Storm,#b3b2b1,wmo,Storm Nitra,2023-07-24T09:47:00+00:00,Slovakia,0.3132124727449334,0.0,2.0,en,WCE,Europe
 '029d747607',extremes,Storm,#b3b2b1,wmo,Storm Liguria,2023-07-20T09:26:00+00:00,Italy,0.3132052952601061,0.0,2.0,en,MED,Europe
-'5ae0f83ff4',extremes,Heat Wave,#c40202,wmo,Heat Wave Litoral sur de Alicante,2023-07-19T08:50:00+00:00,Spain,0.3132024338329561,0.0,2.0,en,MED,Europe
 '7fe9250937',extremes,Storm,#b3b2b1,wmo,Storm Valle d'Aosta,2023-07-24T09:01:00+00:00,Italy,0.3131900991438014,0.0,2.0,en,MED,Europe
 '93b503c366',extremes,Heat Wave,#c40202,wmo,Heat Wave Komárno,2023-07-22T05:26:00+00:00,Slovakia,0.3131791560798484,0.0,2.0,en,WCE,Europe
 'cc90276393',extremes,Fog,#d60d2b,wmo,Fog South of Kamchatka Krai,2023-07-25T04:31:00+00:00,Russia,0.3131617871572329,0.0,2.0,en,ESB,Europe
