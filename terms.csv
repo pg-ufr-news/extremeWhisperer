@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'aab7909052',extremes,Fog,#d60d2b,wmo,Fog Israel,2023-09-01T02:41:00+00:00,Israel,0.8529283098109226,0.0,2.0,en,MED,Asia
 'b9e50a6220',extremes,Thunderstorm,#53785a,wmo,Hail United States of America,2023-09-01T02:41:00+00:00,United States,0.8382570002280609,0.0,2.0,en,CNA,North-America
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2023-09-01T02:41:00+00:00,United States,0.8360147067403597,0.0,2.0,en,CNA,North-America
 '5fdec7a0d1',extremes,Storm,#b3b2b1,wmo,Storm Hong Kong,2023-08-31T08:14:00+00:00,Hong Kong,0.8267476792740105,1.0,2.0,en,EAS,Asia
@@ -19,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0fb22949b9',extremes,Storm,#b3b2b1,wmo,Storm Tartu maakond; Viljandi maakond,2023-09-01T02:41:00+00:00,Estonia,0.7369264216675048,0.0,2.0,en,NEU,Europe
 '54f8af8460',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Macao,2023-09-01T02:41:00+00:00,Macao,0.735401468984299,1.0,1.0,en,EAS,Asia
 'f932542b73',extremes,Precipitation,#d60d2b,wmo,"Torrential Rain Kecamatan Kaureh, Jayapura, Papua",2023-08-31T08:14:00+00:00,Indonesia,0.7341326621942015,0.0,2.0,en,SEA,Asia
+'aab7909052',extremes,Fog,#d60d2b,wmo,Fog Israel,2023-09-01T02:41:00+00:00,Israel,0.7258896483392842,1.0,2.0,en,MED,Asia
 'c7e19890f0',extremes,Storm,#b3b2b1,wmo,Storm Östlich Rügen,2023-09-01T02:41:00+00:00,Germany,0.7182408633916099,0.0,2.0,en,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Severe Weather Germany,2023-08-31T08:14:00+00:00,Germany,0.7159170446749921,1.0,3.0,en,WCE,Europe
 '37d17dd9bc',extremes,Flood,#030ba1,wmo,Flashflood Sweden,2023-08-31T08:14:00+00:00,Sweden,0.7133766887961024,1.0,1.0,en,NEU,Europe
@@ -457,7 +457,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'abd594bd61',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Echols,2023-08-30T07:43:00+00:00,United States,0.5620541643184344,0.0,2.0,en,CNA,North-America
 'e2fa5e2cf9',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Jeff Davis,2023-08-30T07:43:00+00:00,United States,0.5616781050580986,0.0,2.0,en,CNA,North-America
 '9bd5fd5abb',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone NE Gulf N of 26N E of 87W,2023-08-30T07:43:00+00:00,United States,0.5614956686197881,0.0,2.0,en,CNA,North-America
-'084fa24938',extremes,Wildfire,#d60d2b,effis,Wildfire Dervenochoria,2023-07-18T06:17:28Z,Greece,0.5611083921713098,1.0,2.0,en,MED,Europe
 '2b1deb0c3f',extremes,Wildfire,#d60d2b,effis,Wild Fire Spain,2023-07-15T16:18:42Z,Spain,0.561096501128209,1.0,3.0,en,SAH,Europe
 '67de4c59d9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Inland Levy,2023-08-30T07:43:00+00:00,United States,0.5610523174815477,0.0,2.0,en,CNA,North-America
 '99f7498964',extremes,Tropical Cyclone,#4f4f4f,relief,Tropical Cyclone Mozambique,2023-08-31T08:13:00+00:00,Mozambique,0.5609566837196657,0.0,2.0,en,ESAF,Africa
@@ -1285,7 +1284,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad7885b2dc',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Caidian District,2023-07-20T09:12:00+00:00,China,0.5422179055663875,0.0,2.0,en,EAS,Asia
 '55322dbe0d',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Alukerqinqi,2023-07-20T10:05:00+00:00,China,0.5422157392757406,0.0,2.0,en,EAS,Asia
 '06a0989a50',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Bin,2023-07-20T06:40:00+00:00,China,0.5421994442092463,0.0,2.0,en,EAS,Asia
-'d7602e53de',extremes,Earthquake,#870007,usgs,Earthquake Sand Point,2023-07-16T06:51:00+00:00,Alaska,0.5421866921255265,0.0,2.0,en,NWN,North-America
 '237345eae7',extremes,Storm,#b3b2b1,wmo,Storm Huangchuan County,2023-07-20T07:26:00+00:00,China,0.5421859725163038,0.0,2.0,en,EAS,Asia
 'df14bb9805',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Zhangping City,2023-07-20T09:50:00+00:00,China,0.5421837496601442,0.0,2.0,en,EAS,Asia
 'a1ce182a38',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Sankt Pölten (Land),2023-07-20T07:36:00+00:00,Austria,0.5421816331664895,0.0,2.0,en,WCE,Europe
@@ -1451,7 +1449,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ff2b8356aa',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Emilia e Romagna,2023-07-20T09:26:00+00:00,Italy,0.5409457284502693,0.0,2.0,en,MED,Europe
 'd3b353f3da',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Kelaqinqi,2023-07-20T10:02:00+00:00,China,0.5409226431551052,0.0,2.0,en,EAS,Asia
 '9d091ec53b',extremes,Precipitation,#d60d2b,wmo,Precipitation New Fengxian County,2023-07-20T09:23:00+00:00,China,0.5409163110032751,0.0,2.0,en,EAS,Asia
-'24a72540ca',extremes,Earthquake,#870007,usgs,Earthquake Sand Point,2023-07-16T06:51:00+00:00,Alaska,0.5409126208314529,0.0,2.0,en,NWN,North-America
 '7a58942962',extremes,Heat Wave,#c40202,meteo,Greece Heat Wave,2023-07-17T20:17:00+00:00,Greece,0.540909075156168,0.0,2.0,en,MED,
 'd72c254d88',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Podlaskie Province Sejneński County,2023-07-19T20:36:00+00:00,Poland,0.5409054974595824,0.0,2.0,en,WCE,Europe
 'a045073cbd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Xuanen County,2023-07-20T04:38:00+00:00,China,0.5408983510157642,0.0,2.0,en,EAS,Asia
@@ -2343,7 +2340,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4282a2fa4f',extremes,Wildfire,#d60d2b,effis,Wildfire  Çine Turkey,2023-08-23T02:37:00+00:00,Turkey,0.5031039045926116,0.0,2.0,en,MED,Asia
 '93852bdbc8',extremes,Wildfire,#d60d2b,eonet,Flat Fire Information,2023-07-15T21:51:0+00:00,United States,0.5030971187969461,1.0,3.0,en,WNA,
 'b6d47f0f23',extremes,Storm,#b3b2b1,emdat,Storm Lake Yalchik (Mari-El Region),2023-07-30T12:00:00+00:00,Russia,0.5030565323429008,0.0,2.0,en,ESB,Europe
-'6aad9b261d',extremes,Heat Wave,#c40202,wmo,Heat Wave Montenegro,2023-07-19T06:53:00+00:00,Montenegro,0.5030208414670544,1.0,2.0,en,MED,Europe
 '1449404440',extremes,Flood,#030ba1,emdat,Flooding Kashmir,2023-08-26T02:40:00+00:00,Pakistan,0.5030197064330152,1.0,2.0,en,SAS,Asia
 '4ccdd96e22',extremes,Wildfire,#d60d2b,effis,"Bushfire Mudurnu, Bolu",2023-08-20T02:37:00+00:00,Turkey,0.5029855379671427,0.0,2.0,en,MED,Asia
 '5ccc61e88a',extremes,Wildfire,#d60d2b,effis,"Wild Fire Ula, Muğla",2023-08-08T10:26:00Z,Turkey,0.50298388279275,0.0,2.0,en,MED,Asia
@@ -6357,7 +6353,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33faf06145',extremes,Heat Wave,#c40202,wmo,Heat Wave McCurtain,2023-07-20T19:26:00+00:00,United States,0.3331030167243303,0.0,2.0,en,CNA,North-America
 '564042e164',extremes,Heat Wave,#c40202,wmo,Heat Wave Lake Mead National Recreation Area,2023-07-20T09:38:00+00:00,United States,0.3330040572475775,0.0,2.0,en,CNA,North-America
 'd481180f09',extremes,Precipitation,#d60d2b,wmo,Precipitation Kerenzerberg-Seeztal,2023-07-24T07:50:00+00:00,Switzerland,0.3329825249876089,0.0,2.0,en,WCE,Europe
-'639a75aa4e',extremes,Heat Wave,#c40202,wmo,Heat Wave Grand Canyon Country,2023-07-20T06:12:00+00:00,United States,0.3329795501539939,0.0,2.0,en,CNA,North-America
 '1f3f3c06b8',extremes,Precipitation,#d60d2b,wmo,Precipitation Luzern-Alpnach,2023-07-24T07:50:00+00:00,Switzerland,0.3329788275792681,0.0,2.0,en,WCE,Europe
 '8cb54138a5',extremes,Storm,#b3b2b1,wmo,Storm Lubelskie Province Janowski County,2023-07-24T13:23:00+00:00,Poland,0.3329660423621928,0.0,2.0,en,WCE,Europe
 '9501a17855',extremes,Heat Wave,#c40202,wmo,Heat Wave Colbert; Franklin; Lauderdale,2023-07-20T17:35:00+00:00,United States,0.3329515152606215,0.0,2.0,en,CNA,North-America
@@ -6369,7 +6364,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5940a726e8',extremes,Precipitation,#d60d2b,wmo,Precipitation West Makedonia,2023-07-24T04:10:00+00:00,Greece,0.3328196942398223,0.0,2.0,en,MED,Europe
 '4e65cf4085',extremes,Storm,#b3b2b1,wmo,Storm Łódzkie Province Łęczycki County,2023-07-24T13:05:00+00:00,Poland,0.3328148132968015,0.0,2.0,en,WCE,Europe
 'eade94b8a6',extremes,Precipitation,#d60d2b,wmo,Precipitation Brabant,2023-07-24T08:35:00+00:00,Belgium,0.3327416677549886,0.0,2.0,en,WCE,Europe
-'c3c83614b4',extremes,Heat Wave,#c40202,wmo,Heat Wave Atascosa; Burnet; Frio; Llano,2023-07-20T06:35:00+00:00,United States,0.3327180761184805,0.0,2.0,en,CNA,North-America
 'd4b4889f9c',extremes,Flood,#030ba1,wmo,Flood Brown; Spink,2023-07-22T14:25:00+00:00,United States,0.3326711712260399,0.0,2.0,en,CNA,North-America
 'a0cc81937d',extremes,Fog,#d60d2b,wmo,Fog Arkhangelsk Region,2023-07-24T17:01:00+00:00,Russia,0.332620049552535,0.0,2.0,en,ESB,Europe
 '36025775a6',extremes,Precipitation,#d60d2b,wmo,Precipitation Antwerp,2023-07-24T08:35:00+00:00,Belgium,0.3326155123810664,0.0,2.0,en,WCE,Europe
@@ -6639,7 +6633,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '207f964ed5',extremes,Precipitation,#d60d2b,wmo,Precipitation Northern Great Plain,2023-07-24T00:00:00+00:00,Hungary,0.3162426326293647,0.0,2.0,en,WCE,Europe
 'f13ce43b3b',extremes,Storm,#b3b2b1,wmo,Storm Bregenz,2023-07-20T07:36:00+00:00,Austria,0.3162181849308215,0.0,2.0,en,WCE,Europe
 '62e26690a8',extremes,Storm,#b3b2b1,wmo,Storm Wulingyuan District,2023-07-25T01:39:00+00:00,China,0.3162029798985571,0.0,2.0,en,EAS,Asia
-'1491b52b02',extremes,Precipitation,#d60d2b,wmo,Precipitation Coastal city,2023-07-20T06:30:00+00:00,China,0.3161994679847021,0.0,2.0,en,EAS,Asia
 'ce2c887971',extremes,Heat Wave,#c40202,wmo,Heat Wave Wien Neubau,2023-07-24T07:14:00+00:00,Austria,0.3161991907870681,0.0,2.0,en,WCE,Europe
 'bf4a2a789d',extremes,Flood,#030ba1,wmo,Flood Rogaland og deler av Hordaland,2023-07-24T12:09:00+00:00,Norway,0.3161986082603592,0.0,2.0,en,NEU,Europe
 '53bc95fedb',extremes,Storm,#b3b2b1,wmo,Storm Tula Region,2023-07-20T14:01:00+00:00,Russian Federation,0.3161860615237765,0.0,2.0,en,ESB,Europe
@@ -6832,7 +6825,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e12e03d6e',extremes,Storm,#b3b2b1,emdat,Typhoon Shijiazhuang,2023-07-31T12:00:00+00:00,China,0.3146046330690433,0.0,2.0,en,EAS,Asia
 '760b8ff380',extremes,Precipitation,#d60d2b,wmo,Precipitation Southern Great Plain,2023-07-24T00:00:00+00:00,Hungary,0.3146030920273177,0.0,2.0,en,WCE,Europe
 'cd3d9d78cd',extremes,Storm,#b3b2b1,wmo,Storm Wien Rudolfsheim-Fünfhaus,2023-07-24T11:52:00+00:00,Austria,0.3146021223465705,0.0,2.0,en,WCE,Europe
-'7eb11162c5',extremes,Precipitation,#d60d2b,wmo,Precipitation Altiplano de Murcia,2023-07-20T06:20:00+00:00,Spain,0.3145991881549894,0.0,2.0,en,MED,Europe
 '71bac3e307',extremes,Heat Wave,#c40202,wmo,Heat Wave Baden,2023-07-24T07:14:00+00:00,Austria,0.3145917658825965,0.0,2.0,en,WCE,Europe
 'f7402db6a7',extremes,Heat Wave,#c40202,wmo,Heat Wave Wien Rudolfsheim-Fünfhaus,2023-07-24T07:14:00+00:00,Austria,0.3145859065823621,0.0,2.0,en,WCE,Europe
 '5fbc9897d3',extremes,Heat Wave,#c40202,wmo,Heat Wave Sierra Tramontana,2023-07-24T06:26:00+00:00,Spain,0.3145724310961678,0.0,2.0,en,MED,Europe
@@ -6904,7 +6896,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bdd8d9163b',extremes,Heat Wave,#c40202,wmo,Heat Wave Prešov,2023-07-22T05:26:00+00:00,Slovakia,0.3141303096627628,0.0,2.0,en,WCE,Europe
 'd2318975c3',extremes,Heat Wave,#c40202,wmo,Heat Wave Grieskirchen,2023-07-24T07:14:00+00:00,Austria,0.314128110245156,0.0,2.0,en,WCE,Europe
 'd38b0b66a4',extremes,Storm,#b3b2b1,wmo,Storm Waidhofen an der Ybbs (Stadt),2023-07-24T11:52:00+00:00,Austria,0.3140995841974099,0.0,2.0,en,WCE,Europe
-'852e81c81c',extremes,Precipitation,#d60d2b,wmo,Precipitation Vega del Segura,2023-07-20T06:20:00+00:00,Spain,0.314087851605305,0.0,2.0,en,MED,Europe
 '474f584c3b',extremes,Storm,#b3b2b1,wmo,Storm Molise,2023-07-24T09:01:00+00:00,Italy,0.3140872237798529,0.0,2.0,en,MED,Europe
 '93fd826eae',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Zabaykalsky Krai,2023-07-24T19:01:00+00:00,Russia,0.3140857700564188,0.0,2.0,en,ESB,Europe
 '663919a74c',extremes,Storm,#b3b2b1,wmo,Storm Tonglu County,2023-07-20T11:27:00+00:00,China,0.3140847604068166,0.0,2.0,en,EAS,Asia
