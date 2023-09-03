@@ -1,9 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'453697199c',extremes,Storm,#b3b2b1,wmo,Storm Ghana,2023-09-03T02:38:00+00:00,Ghana,0.9832149004233584,0.0,2.0,en,WAF,Africa
 '8b533aa307',extremes,Thunderstorm,#53785a,wmo,Severe Weather United States,2023-09-03T02:38:00+00:00,United States,0.8427907225747632,0.0,2.0,en,CNA,North-America
 'b9e50a6220',extremes,Thunderstorm,#53785a,wmo,Hail United States of America,2023-09-01T02:41:00+00:00,United States,0.8382570002280609,0.0,2.0,en,CNA,North-America
 '80d7fcdbf1',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Portugal,2023-09-02T02:38:00+00:00,Portugal,0.8367583954187593,0.0,2.0,en,MED,Europe
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2023-09-01T02:41:00+00:00,United States,0.8360147067403597,0.0,2.0,en,CNA,North-America
+'453697199c',extremes,Storm,#b3b2b1,wmo,Storm Ghana,2023-09-03T02:38:00+00:00,Ghana,0.8357328903598545,1.0,1.0,en,WAF,Africa
 '4ee1336fc3',extremes,Precipitation,#d60d2b,wmo,Downpour Russian Federation,2023-09-02T02:38:00+00:00,Russian Federation,0.8328596961386173,0.0,2.0,en,ESB,Europe
 '4f4ac0a5b6',extremes,Precipitation,#d60d2b,wmo,Downpour Portugal,2023-09-02T02:38:00+00:00,Portugal,0.831795503133595,0.0,2.0,en,MED,Europe
 '0321e2fede',extremes,Storm,#b3b2b1,wmo,Storm Portugal,2023-09-02T02:38:00+00:00,Portugal,0.8309000007906197,0.0,2.0,en,MED,Europe
@@ -1836,7 +1836,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9b4a7c959',extremes,Storm,#b3b2b1,eonet,Super Typhoon Doksuri,2023-07-22T00:00:0+00:00,,0.5405752688248207,1.0,2.0,en,SEA,Asia
 '8ea1c73760',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Bahrain Right Banner,2023-07-20T06:19:00+00:00,China,0.5405703017070385,0.0,2.0,en,EAS,Asia
 '09a1c72f0e',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Fengxin County,2023-07-20T06:38:00+00:00,China,0.5405603133326835,0.0,2.0,en,EAS,Asia
-'e3cfd77bec',extremes,Storm,#b3b2b1,eswd,storm Croatia,2023-07-13T16:05:00+00:00,Croatia,0.5405417269016,1.0,3.0,en,WCE,Europe
 '584a456791',extremes,Wildfire,#d60d2b,wmo,Wildfire Republic of Dagestan,2023-07-18T11:01:00+00:00,Russian Federation,0.5405402210178223,0.0,2.0,en,ESB,Europe
 '2d9a3e2f57',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Qixingguan District,2023-07-20T05:34:00+00:00,China,0.5405242658202243,0.0,2.0,en,EAS,Asia
 '3f9249d288',extremes,Fog,#d60d2b,wmo,Fog Republic of Buryatia,2023-07-18T11:01:00+00:00,Russia,0.5405176003299144,0.0,2.0,en,ESB,Europe
@@ -2349,7 +2348,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6718162165',extremes,Wildfire,#d60d2b,effis,Bushfire Jendouba,2023-09-03T02:38:00+00:00,Tunisia,0.5187530986589939,0.0,2.0,en,MED,Africa
 'dbe72ccf78',extremes,Wildfire,#d60d2b,effis,Wildfire  Akkar Lebanon,2023-08-24T02:38:00+00:00,Lebanon,0.5186729406458875,0.0,2.0,en,MED,Asia
 '137033c113',extremes,Storm,#b3b2b1,eonet,Subtropical Storm Don,2023-07-14T09:00:0+00:00,Iran,0.5185950789195116,1.0,2.0,en,WCA,Asia
-'1691f6be89',extremes,Wildfire,#d60d2b,esawfa,Wildfire Paraguay,2023-07-20T16:35:00+00:00,Paraguay,0.5185314885200532,1.0,2.0,en,SES,South-America
 '896289f740',extremes,Thunderstorm,#53785a,eswd,Hail Russia,2023-07-27T16:30:00+00:00,Russia,0.5184466591272595,1.0,2.0,en,WCE,Europe
 '456ba5e7c3',extremes,Earthquake,#870007,usgs,Earthquake Severo-Kuril’sk,2023-08-30T07:42:00+00:00,Russia,0.5184000597993184,0.0,2.0,en,RFE,Asia
 '2855e1f6df',extremes,Flooding,#d60d2b,acwe,Flooding Queensland,2023-08-21T02:38:00+00:00,Australia,0.518377498218022,1.0,2.0,en,CAU,Oceania
@@ -2911,7 +2909,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,Precipitation Tasmania,2023-08-28T02:39:00+00:00,Australia,0.4928859170501153,1.0,2.0,en,SAU,Oceania
 'bfe983f724',extremes,Flood,#030ba1,wmo,Flood Delaware,2023-08-24T11:09:00+00:00,United States,0.4928735534367557,0.0,2.0,en,CNA,North-America
 '6c4a83dd70',extremes,Wildfire,#d60d2b,effis,"Wild Fire Makrakomi, Fthiotida",2023-08-23T02:37:00+00:00,Greece,0.4927822019362319,0.0,2.0,en,MED,Europe
-'208a0e1860',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone United States,2023-07-18T15:07:00+00:00,United States,0.4927684605942836,0.0,2.0,en,CNA,North-America
 'fc3cdd3745',extremes,Flood,#030ba1,relief,Flooding United States of America,2023-08-21T09:20:00+00:00,United States of America,0.4927585251053288,1.0,3.0,en,CNA,North-America
 'd92c7a791a',extremes,Wildfire,#d60d2b,effis,Wild Fire Léon,2023-08-10T07:54:56Z,France,0.4927102832880863,0.0,2.0,en,MED,Europe
 'd9e467793d',extremes,Wildfire,#d60d2b,effis,"Bushfire Castellaccio, Monreale",2023-07-24T10:24:32Z,Italy,0.4926792634605906,0.0,2.0,en,MED,Europe
@@ -3061,7 +3058,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f3638721b',extremes,Snow&Ice,#d60d2b,wmo,Snow&Ice China,2023-08-22T10:06:00+00:00,China,0.4884153693901429,1.0,2.0,en,EAS,Asia
 '14dd6bd84a',extremes,Thunderstorm,#53785a,eswd,Thunderstorm Ukraine,2023-08-24T11:09:00+00:00,Ukraine,0.4883322564243207,1.0,2.0,en,WCE,Europe
 'ef83114784',extremes,Wildfire,#d60d2b,effis,"Bushfire Santa Reparata, Balagne",2023-07-25T00:00:00Z,France,0.4883047318357428,0.0,2.0,en,MED,Europe
-'870363b202',extremes,Precipitation,#d60d2b,floodlist,12 Killed in Landslide After Heavy Rain in Maharashtra India,2023-07-20T15:10:09+02:00,India,0.4881692202522409,1.0,2.0,en,SAS,Asia
 'a7f5b2734c',extremes,Wildfire,#d60d2b,effis,"Wildfire Corona Forestal, Teide",2023-08-17T07:06:00+00:00,Spain,0.4881327057707935,0.0,2.0,en,SAH,Europe
 '45c9b0ea08',extremes,Wildfire,#d60d2b,effis,Bushfire Kandila,2023-08-10T21:50:57Z,Greece,0.4881113230769828,0.0,2.0,en,MED,Europe
 'ae49f892e2',extremes,Wildfire,#d60d2b,effis,"Wild Fire Osmangazi, Bursa",2023-08-22T10:06:00+00:00,Turkey,0.4880740139334996,0.0,2.0,en,MED,Asia
