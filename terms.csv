@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'9e21c0fbd3',extremes,Thunderstorm,#53785a,wmo,"Thunderstorm Hong Kong, China",2023-09-02T02:38:00+00:00,"Hong Kong, China",0.8483194817734179,0.0,2.0,en,EAS,Asia
 'b9e50a6220',extremes,Thunderstorm,#53785a,wmo,Hail United States of America,2023-09-01T02:41:00+00:00,United States,0.8382570002280609,0.0,2.0,en,CNA,North-America
 '80d7fcdbf1',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Portugal,2023-09-02T02:38:00+00:00,Portugal,0.8367583954187593,0.0,2.0,en,MED,Europe
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2023-09-01T02:41:00+00:00,United States,0.8360147067403597,0.0,2.0,en,CNA,North-America
@@ -57,6 +56,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bba9bccdb1',extremes,Precipitation,#d60d2b,wmo,Precipitation Republic of Karelia,2023-09-02T02:38:00+00:00,Russian Federation,0.7326244559588655,0.0,2.0,en,ESB,Europe
 'f5f2c45c52',extremes,Storm,#b3b2b1,wmo,Storm Republic of Karelia,2023-09-02T02:38:00+00:00,Russia,0.7285303362406103,0.0,2.0,en,ESB,Europe
 'aab7909052',extremes,Fog,#d60d2b,wmo,Fog Israel,2023-09-01T02:41:00+00:00,Israel,0.7258896483392842,1.0,2.0,en,MED,Asia
+'9e21c0fbd3',extremes,Thunderstorm,#53785a,wmo,"Thunderstorm Hong Kong, China",2023-09-02T02:38:00+00:00,"Hong Kong, China",0.7210715595074052,1.0,1.0,en,EAS,Asia
 'c7e19890f0',extremes,Storm,#b3b2b1,wmo,Storm Östlich Rügen,2023-09-01T02:41:00+00:00,Germany,0.7182408633916099,0.0,2.0,en,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Severe Weather Germany,2023-08-31T08:14:00+00:00,Germany,0.7159170446749921,1.0,3.0,en,WCE,Europe
 '37d17dd9bc',extremes,Flood,#030ba1,wmo,Flashflood Sweden,2023-08-31T08:14:00+00:00,Sweden,0.7133766887961024,1.0,1.0,en,NEU,Europe
@@ -2955,7 +2955,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0fa6fcfa78',extremes,Wildfire,#d60d2b,effis,Wild Fire Mingardina,2023-09-01T02:41:00+00:00,Italy,0.4890020057900259,0.0,2.0,en,MED,Europe
 '02ccb6ba78',extremes,Wildfire,#d60d2b,effis,Wildfire Chanousse,2023-08-24T02:38:00+00:00,France,0.4889978655771504,0.0,2.0,en,MED,Europe
 '8737f67c26',extremes,Wildfire,#d60d2b,fema,Oregon Golden Fire,2023-07-23T00:00:00Z,United States,0.4889692919020041,0.0,2.0,en,WNA,North-America
-'43f8ba9965',extremes,Flood,#030ba1,floodlist,12 Killed in Landslide After Heavy Rain in Maharashtra,2023-07-20T01:54:00+00:00,India,0.4889502178053281,1.0,2.0,en,SAS,Asia
 '0dca8d16ac',extremes,Fog,#d60d2b,wmo,Fog Tambov Region,2023-08-21T16:00:00+00:00,Russian Federation,0.4888704729911359,0.0,2.0,en,ESB,Europe
 'b20fc1e4a2',extremes,Volcano,#b83202,eonet,Volcano Papua New Guinea,2023-07-07T08:13:5+00:00,Papua New Guinea,0.488865961136716,1.0,2.0,en,EPO,Oceania
 '9663afb9ef',extremes,Heat Wave,#c40202,acwe,Bushfire Northern Territory,2023-08-19T02:38:00+00:00,Australia,0.4887838970492429,1.0,1.0,en,NAU,Oceania
@@ -3075,7 +3074,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '628c73fc75',extremes,Drought,#edc291,edo,Drought Poland,2023-07-21T13:51:00+00:00,Poland,0.483771259631693,0.0,2.0,en,WCE,Europe
 '7744a16c55',extremes,Wildfire,#d60d2b,effis,"Wildfire Kymi Aliveri, Evia",2023-08-04T10:56:03Z,Greece,0.4837557698766709,0.0,2.0,en,MED,Europe
 '1cee83f69e',extremes,Drought,#edc291,edo,Dryness Bahrain,2023-08-24T12:16:00+00:00,Bahrain,0.4837338209800449,0.0,2.0,en,ARP,Asia
-'0269c75cba',extremes,Thunderstorm,#53785a,meteo,Thunderstorm Italy,2023-07-18T02:25:00+00:00,Italy,0.4836788807647699,0.0,2.0,en,MED,
 '6208652221',extremes,Wildfire,#d60d2b,wmo,Wildfire Tuva Republic,2023-08-24T02:38:00+00:00,Russian Federation,0.4835766328771015,0.0,2.0,en,ESB,Europe
 'ae7c625023',extremes,Drought,#edc291,edo,Dryness Kyrgyzstan,2023-08-29T03:03:00+00:00,Kyrgyzstan,0.4833816225174384,0.0,2.0,en,WCA,Asia
 '08aff29370',extremes,Heat Wave,#c40202,wmo,Heat Wave Gersau-Engelbergertal,2023-08-21T09:32:00+00:00,Switzerland,0.4833681705513034,0.0,2.0,en,WCE,Europe
@@ -3093,7 +3091,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c1e5910f5',extremes,Precipitation,#d60d2b,meteo,Rain Germany,2023-07-27T20:39:00+00:00,Germany,0.4829157489791149,0.0,2.0,en,WCE,Europe
 'ed4448c975',extremes,Flood,#030ba1,relief,Flood Guatemala,2023-08-15T02:37:00+00:00,Guatemala,0.4829128025321659,1.0,1.0,en,SCA,North-America
 'df3392dfb3',extremes,Drought,#edc291,edo,Drought Germany,2023-07-21T13:51:00+00:00,Germany,0.4828607499069167,0.0,2.0,en,WCE,Europe
-'c8a46abf9e',extremes,Heat Wave,#c40202,meteo,High Temperature Croatia,2023-07-18T02:25:00+00:00,Croatia,0.4828442547324987,0.0,2.0,en,MED,Europe
 '44125d872c',extremes,Wildfire,#d60d2b,effis,"Wild Fire Portbou, Catalonia",2023-08-07T00:00:00Z,Spain,0.4827895679004975,0.0,2.0,en,MED,Europe
 'c35f235c07',extremes,Heat Wave,#c40202,wmo,Heat Wave Menorca,2023-08-24T11:09:00+00:00,Spain,0.4827832436576804,0.0,2.0,en,MED,Europe
 'be7206cfed',extremes,Precipitation,#d60d2b,meteo,Precipitation Ireland,2023-07-18T17:43:00+00:00,Ireland,0.4827553051535532,0.0,2.0,en,NEU,Europe
@@ -3300,7 +3297,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dd436a35cc',extremes,Heat Wave,#c40202,meteo,Heat Wave Bulgaria,2023-07-25T10:39:00+00:00,Bulgaria,0.4740395494196147,0.0,2.0,en,MED,Europe
 'bb604752b6',extremes,Wildfire,#d60d2b,effis,Wildfire  Halkidiki Greece,2023-07-27T10:38:16Z,Greece,0.4738447710662448,1.0,1.0,en,MED,Europe
 'e65ca3fcb1',extremes,Heat Wave,#c40202,wmo,Heat Wave Kabardino-Balkar Republic,2023-08-21T16:00:00+00:00,Russia,0.47383600016019,0.0,2.0,en,ESB,Europe
-'abc23f115b',extremes,Heat Wave,#c40202,meteo,Heat Wave Palestinian Territory,2023-07-18T02:25:00+00:00,Palestinian Territory,0.4737222286084577,0.0,2.0,en,MED,Asia
 '36e483c5eb',extremes,Storm,#b3b2b1,wmo,Storm Schärding,2023-08-23T02:38:00+00:00,Austria,0.4734844050180988,0.0,2.0,en,WCE,Europe
 '55cb505681',extremes,Storm,#b3b2b1,meteo,Wind Norway,2023-07-25T10:39:00+00:00,Norway,0.4734510664718383,0.0,2.0,en,NEU,Europe
 '931322fb0d',extremes,Precipitation,#d60d2b,wmo,Precipitation B.C. South Peace River,2023-08-24T02:38:00+00:00,Canada,0.4733657016866817,0.0,2.0,en,NEN,North-America
