@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'80d7fcdbf1',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Portugal,2023-09-02T02:38:00+00:00,Portugal,0.8367583954187593,0.0,2.0,en,MED,Europe
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2023-09-01T02:41:00+00:00,United States,0.8360147067403597,0.0,2.0,en,CNA,North-America
 '453697199c',extremes,Storm,#b3b2b1,wmo,Storm Ghana,2023-09-03T02:38:00+00:00,Ghana,0.8357328903598545,1.0,1.0,en,WAF,Africa
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2023-09-05T02:38:00+00:00,United States,0.8333869011457965,0.0,2.0,en,CNA,North-America
@@ -108,6 +107,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c7e19890f0',extremes,Storm,#b3b2b1,wmo,Storm Östlich Rügen,2023-09-01T02:41:00+00:00,Germany,0.7182408633916099,0.0,2.0,en,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Severe Weather Germany,2023-08-31T08:14:00+00:00,Germany,0.7159170446749921,1.0,3.0,en,WCE,Europe
 '37d17dd9bc',extremes,Flood,#030ba1,wmo,Flashflood Sweden,2023-08-31T08:14:00+00:00,Sweden,0.7133766887961024,1.0,1.0,en,NEU,Europe
+'80d7fcdbf1',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Portugal,2023-09-02T02:38:00+00:00,Portugal,0.7112447411059454,1.0,1.0,en,MED,Europe
 '253119e16f',extremes,Storm,#b3b2b1,wmo,Storm Over the country,2023-09-03T02:38:00+00:00,Maldives,0.7098060972625747,0.0,2.0,en,EIO,Indian Ocean
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,Downpour Brazil,2023-08-31T02:38:00+00:00,Brazil,0.6982990759884788,0.0,2.0,en,SAM,South-America
 '9de22e962e',extremes,Precipitation,#d60d2b,wmo,Downpour Serbia,2023-08-31T08:14:00+00:00,Serbia,0.6982593043555292,1.0,1.0,en,MED,Europe
@@ -1711,7 +1711,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8375e4c5ad',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Pomorskie Province Sopot County,2023-07-19T20:36:00+00:00,Poland,0.5418432834819044,0.0,2.0,en,WCE,Europe
 '52f4416072',extremes,Storm,#b3b2b1,wmo,Storm Wangdu County,2023-07-20T05:05:00+00:00,China,0.5418292808525096,0.0,2.0,en,EAS,Asia
 'd8c9a138fb',extremes,Storm,#b3b2b1,wmo,Storm Shunde District,2023-07-19T20:09:00+00:00,China,0.5418279913793754,0.0,2.0,en,EAS,Asia
-'81a3508e56',extremes,Storm,#b3b2b1,wmo,Storm Dongzhi County,2023-07-19T18:41:00+00:00,China,0.5418236099057491,0.0,2.0,en,EAS,Asia
 '3845a3a1da',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Huize County,2023-07-20T07:40:00+00:00,China,0.5417796161755529,0.0,2.0,en,EAS,Asia
 '98ca3c3252',extremes,Thunderstorm,#53785a,wmo,Severe Weather China,2023-08-30T07:43:00+00:00,China,0.5417544677420177,0.0,2.0,en,EAS,Asia
 '6366ca7f01',extremes,Precipitation,#d60d2b,wmo,Precipitation Wuxi City,2023-07-20T10:16:00+00:00,China,0.5417443826704923,0.0,2.0,en,EAS,Asia
@@ -1805,7 +1804,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6616db6dc',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Norway,2023-08-30T07:43:00+00:00,Norway,0.5409121424393176,2.0,1.0,en,NEU,Europe
 'd72c254d88',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Podlaskie Province Sejneński County,2023-07-19T20:36:00+00:00,Poland,0.5409054974595824,0.0,2.0,en,WCE,Europe
 'a045073cbd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Xuanen County,2023-07-20T04:38:00+00:00,China,0.5408983510157642,0.0,2.0,en,EAS,Asia
-'0f50334dc4',extremes,Fog,#d60d2b,wmo,Fog Antu County,2023-07-19T18:00:00+00:00,China,0.5408973022488699,0.0,2.0,en,EAS,Asia
 '83df099657',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Changshun County,2023-07-20T06:28:00+00:00,China,0.5408899265581647,0.0,2.0,en,EAS,Asia
 '381303c1d7',extremes,Heat Wave,#c40202,wmo,Heat Wave Ashley; Chicot,2023-07-20T09:26:00+00:00,United States,0.5408654044273185,0.0,2.0,en,CNA,North-America
 'a64997aba8',extremes,Wildfire,#d60d2b,effis,Wildfire Riposto,2023-07-25T10:50:39Z,Italy,0.5408649863344505,0.0,2.0,en,MED,Europe
