@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'5fdec7a0d1',extremes,Storm,#b3b2b1,wmo,Storm Hong Kong,2023-08-31T08:14:00+00:00,Hong Kong,0.8267476792740105,1.0,2.0,en,EAS,Asia
 '14b1e130be',extremes,Thunderstorm,#53785a,wmo,Severe Weather Russia,2023-09-02T02:38:00+00:00,Russia,0.8238443482056874,0.0,2.0,en,ESB,Europe
 'f4c074b32e',extremes,Thunderstorm,#53785a,wmo,Severe Weather Russian Federation,2023-09-02T02:38:00+00:00,Russian Federation,0.820418020715473,0.0,2.0,en,ESB,Europe
 '2f048a32c8',extremes,Thunderstorm,#53785a,wmo,Hail North Macedonia,2023-09-03T02:38:00+00:00,North Macedonia,0.8194113047118555,0.0,2.0,en,MED,Europe
@@ -16,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f05a6139b4',extremes,Precipitation,#d60d2b,wmo,Downpour Russia,2023-09-02T02:38:00+00:00,Russia,0.7845142512980505,1.0,1.0,en,ESB,Europe
 '13ae0b391f',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Latvia,2023-09-02T02:38:00+00:00,Latvia,0.7802454923666955,1.0,2.0,en,WCE,Europe
 'b9c8cbffa4',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Trad Chantaburi,2023-09-05T02:38:00+00:00,Thailand,0.7759574344709216,0.0,2.0,en,SEA,Asia
+'5fdec7a0d1',extremes,Storm,#b3b2b1,wmo,Storm Hong Kong,2023-08-31T08:14:00+00:00,Hong Kong,0.7758709905647271,2.0,2.0,en,EAS,Asia
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2023-09-06T02:38:00+00:00,New Zealand,0.7725300502201656,0.0,2.0,en,NZ,Oceania
 '9f1f2dcacb',extremes,Flood,#030ba1,wmo,Flood Ilocos Sur; Ilocos Norte,2023-09-01T02:41:00+00:00,Philippines,0.7692471016409617,0.0,2.0,en,SEA,Asia
 '9d2dc1939b',extremes,Flood,#030ba1,wmo,Flooding Apayao; Abra; Benguet,2023-09-01T02:41:00+00:00,Philippines,0.7671304441037864,0.0,2.0,en,SEA,Asia
@@ -1668,7 +1668,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6bc6d0529',extremes,Wildfire,#d60d2b,fema,Hawaii Mauna Kea Beach Fire,2023-08-09T00:00:00Z,United States,0.533002621264167,2.0,2.0,en,NPO,North-America
 '13dbbf53e1',extremes,Wildfire,#d60d2b,relief,Wild Fire United States,2023-08-30T02:37:00+00:00,United States,0.5329565761308679,0.0,2.0,en,CNA,North-America
 'e112b9358c',extremes,Storm,#b3b2b1,wmo,Storm Richland,2023-08-30T07:43:00+00:00,United States,0.5328841475315366,0.0,2.0,en,CNA,North-America
-'cd058b2953',extremes,Storm,#b3b2b1,meteo,Wind Spain,2023-07-21T02:49:00+00:00,Spain,0.5328668566325271,0.0,2.0,en,MED,Europe
 '34b606a63f',extremes,Storm,#b3b2b1,wmo,Storm Warren,2023-08-30T07:43:00+00:00,United States,0.5327859106450832,0.0,2.0,en,CNA,North-America
 'fe7a78e31a',extremes,Storm,#b3b2b1,wmo,Storm Mainland Hyde,2023-08-30T07:43:00+00:00,United States,0.5326581806548988,0.0,2.0,en,CNA,North-America
 '3127415b4c',extremes,Earthquake,#870007,usgs,Earthquake Southwest Indian Ridge,2023-07-28T07:58:00+00:00,,0.5326468238646114,0.0,2.0,en,SIO,Indian Ocean
@@ -1909,7 +1908,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '650f68c239',extremes,Thunderstorm,#53785a,eswd,Heavy Rain Poland,2023-07-26T12:00:00+00:00,Poland,0.5152110526946273,1.0,2.0,en,WCE,Europe
 '2b6ba43fbb',extremes,Flood,#030ba1,wmo,Flood Ashland; Erie,2023-08-24T11:54:00+00:00,United States,0.5150682195037002,0.0,2.0,en,CNA,North-America
 'b889974d7e',extremes,Storm,#b3b2b1,eswd,Strong Wind France,2023-07-30T13:00:00+00:00,France,0.5150121624212334,1.0,3.0,en,MED,Europe
-'53ff27c0fc',extremes,Wildfire,#d60d2b,esawfa,Wildfire Argentina,2023-07-21T02:49:00+00:00,Argentina,0.5149152940636214,0.0,2.0,en,SES,South-America
 '24a84f214d',extremes,Storm,#b3b2b1,eswd,Strong Wind France,2023-07-24T09:15:00+00:00,France,0.5147777486579987,1.0,3.0,en,WCE,Europe
 'c7770927eb',extremes,Wildfire,#d60d2b,esawfa,Wildfire Turkmenistan,2023-07-22T02:49:00+00:00,Turkmenistan,0.5147195241776263,0.0,2.0,en,WCA,Asia
 '8d1a76d951',extremes,Flood,#030ba1,relief,Flood Venezuela (Bolivarian Republic of),2023-08-17T02:37:00+00:00,Venezuela (Bolivarian Republic of),0.5146947179148036,1.0,1.0,en,NSA,South-America
@@ -5908,12 +5906,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40e60b2832',extremes,Heat Wave,#c40202,wmo,Heat Wave Lanshan County,2023-08-17T07:07:00+00:00,China,0.3190480223237948,0.0,2.0,en,EAS,Asia
 '75e7d0319a',extremes,Heat Wave,#c40202,meteo,Heat Wave Luxembourg,2023-08-21T09:22:00+00:00,Luxembourg,0.3173795976591618,0.0,2.0,en,WCE,Europe
 '0b93907ee5',extremes,Precipitation,#d60d2b,meteo,Precipitation Bosnia and Herzegovina,2023-08-18T02:38:00+00:00,Bosnia and Herzegovina,0.3165661410959722,0.0,2.0,en,MED,Europe
-'62e26690a8',extremes,Storm,#b3b2b1,wmo,Storm Wulingyuan District,2023-07-25T01:39:00+00:00,China,0.3162029798985571,0.0,2.0,en,EAS,Asia
 'd65b102d90',extremes,Thunderstorm,#53785a,wmo,Thunderstorm north of Amur Region,2023-07-25T04:31:00+00:00,Russia,0.3160445711191697,0.0,2.0,en,ESB,Europe
 'c0c5be7dd3',extremes,Heat Wave,#c40202,meteo,High Temperature Luxembourg,2023-08-21T02:37:00+00:00,Luxembourg,0.316028941516888,0.0,2.0,en,WCE,Europe
 '55bb9f9bcb',extremes,Precipitation,#d60d2b,wmo,Precipitation Qianjiang district,2023-07-25T04:05:00+00:00,China,0.3158845281261175,0.0,2.0,en,EAS,Asia
 'a6b468e1d1',extremes,Precipitation,#d60d2b,wmo,Precipitation North of Khabarovsk Krai,2023-07-25T04:31:00+00:00,Russian Federation,0.3158246257053976,0.0,2.0,en,ESB,Europe
-'46c631e5c8',extremes,Precipitation,#d60d2b,wmo,Precipitation Laifeng County,2023-07-25T02:04:00+00:00,China,0.3157195502883232,0.0,2.0,en,EAS,Asia
 'cf534a1b63',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Kemerovo Region,2023-07-25T04:31:00+00:00,Russia,0.315626304564736,0.0,2.0,en,ESB,Europe
 '4369e1e98a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Kabardino-Balkar Republic,2023-07-25T04:31:00+00:00,Russia,0.315565069874988,0.0,2.0,en,ESB,Europe
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2023-08-17T02:38:00+00:00,New Zealand,0.3154482812216638,0.0,2.0,en,NZ,Oceania
