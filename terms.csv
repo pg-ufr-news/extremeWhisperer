@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2023-09-10T02:38:00+00:00,Solomon Islands,0.8913171485107738,0.0,2.0,en,EPO,Oceania
 '6287b9e5c6',extremes,Precipitation,#d60d2b,wmo,"Torrential Rain Hong Kong, China",2023-09-08T02:38:00+00:00,"Hong Kong, China",0.8420416408707421,1.0,2.0,en,EAS,Asia
 '630b164795',extremes,Wildfire,#d60d2b,wmo,Wildfire Israel,2023-09-06T02:38:00+00:00,Israel,0.8382629156358561,0.0,2.0,en,MED,Asia
 'bae4bee887',extremes,Storm,#b3b2b1,wmo,Storm Serbia,2023-09-04T02:38:00+00:00,Serbia,0.8189446575102982,0.0,2.0,en,MED,Europe
@@ -38,6 +37,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8296f249a8',extremes,Flood,#030ba1,wmo,Flooding PhaungPyin,2023-09-06T02:38:00+00:00,Myanmar,0.7589882046232681,0.0,2.0,en,SAS,Asia
 'b1664f756c',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Canada,2023-09-02T02:38:00+00:00,Canada,0.7589603562743227,0.0,2.0,en,NEN,North-America
 '7c0820ba84',extremes,Storm Surge,#834fa1,wmo,Storm Surge Spain,2023-09-04T02:38:00+00:00,Spain,0.7576787454245929,0.0,2.0,en,MED,Europe
+'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2023-09-10T02:38:00+00:00,Solomon Islands,0.7576195762341578,1.0,1.0,en,EPO,Oceania
 '500172fc71',extremes,Snow&Ice,#d60d2b,wmo,Freezing Russia,2023-09-02T02:38:00+00:00,Russia,0.7571905669137228,0.0,2.0,en,ESB,Europe
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2023-09-01T02:41:00+00:00,United States,0.7564744266383966,1.0,2.0,en,CNA,North-America
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,Severe Weather Portugal,2023-09-03T02:38:00+00:00,Portugal,0.7557953854891549,0.0,2.0,en,MED,Europe
@@ -1972,7 +1972,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e2fe2371dc',extremes,Earthquake,#870007,usgs,Earthquake Tadine,2023-08-31T02:38:00+00:00,New Caledonia,0.5265066607392752,0.0,2.0,en,SPO,Pacific Ocean
 'f5afb20efd',extremes,Earthquake,#870007,usgs,Earthquake South Sandwich Islands region,2023-07-28T19:35:00+00:00,,0.526498438749392,0.0,2.0,en,SOO,Antarctica
 '9a2845aa9d',extremes,Drought,#edc291,edo,Drought Puerto Rico,2023-09-05T02:38:00+00:00,Puerto Rico,0.5264450675795413,0.0,2.0,en,CAR,North-America
-'67552d4b76',extremes,Storm,#b3b2b1,eswd,Strong Wind Italy,2023-07-26T14:20:00+00:00,Italy,0.526308303872524,1.0,2.0,en,MED,Europe
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,Storm Uruguay,2023-08-19T02:38:00+00:00,Uruguay,0.5262851477229852,0.0,2.0,en,SES,South-America
 '8117e6afd1',extremes,Wildfire,#d60d2b,effis,Wild Fire Jendouba,2023-08-29T03:02:00+00:00,Tunisia,0.5262569459206462,0.0,2.0,en,MED,Africa
 '63afa4e73c',extremes,Earthquake,#870007,usgs,"Earthquake Alamagan region, Northern Mariana Islands",2023-07-25T10:35:00+00:00,,0.5259922796922578,0.0,2.0,en,NPO,Pacific Ocean
@@ -2947,7 +2946,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3828ffefdc',extremes,Flood,#030ba1,relief,Flood Lao People's Democratic Republic (the),2023-08-27T02:38:00+00:00,Lao People's Democratic Republic (the),0.4804753642474748,1.0,1.0,en,EAS,Asia
 'ab2b20b2b9',extremes,Wildfire,#d60d2b,meteo,Forest Fire Palestinian Territory,2023-09-06T02:38:00+00:00,Palestinian Territory,0.4804304057393151,0.0,2.0,en,MED,Asia
 '24d0114e20',extremes,Storm,#b3b2b1,wmo,Storm Penza Region,2023-08-21T16:00:00+00:00,Russia,0.4804037794442176,0.0,2.0,en,ESB,Europe
-'4df1c0ac5f',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Northern Ware,2023-08-30T07:43:00+00:00,United States,0.48032644150724996,1.0,1.0,en,CNA,North-America
+'4df1c0ac5f',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Northern Ware,2023-08-30T07:43:00+00:00,United States,0.4803264415072499,1.0,1.0,en,CNA,North-America
 '32ad744d21',extremes,Wildfire,#d60d2b,effis,Wild Fire Costa Smeralda,2023-08-01T08:37:34Z,Italy,0.4802914657584968,0.0,2.0,en,MED,Europe
 'f461b83e23',extremes,Wildfire,#d60d2b,effis,Bushfire  Eskişehir Turkey,2023-08-24T12:15:00+00:00,Turkey,0.4801915140204975,1.0,1.0,en,MED,Asia
 '4568603799',extremes,Flood,#030ba1,aidr,"Flood - Flooding, New South Wales, 2022",2023-08-10T20:51:00+00:00,Australia,0.480106714390659,0.0,2.0,en,EAU,Oceania
@@ -3628,7 +3627,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '26b2017bb0',extremes,Storm,#b3b2b1,wmo,Storm Luxian County,2023-08-21T09:22:00+00:00,China,0.4239854093626353,0.0,2.0,en,EAS,Asia
 '37896b65ca',extremes,Precipitation,#d60d2b,wmo,Precipitation Tianmen,2023-08-21T16:00:00+00:00,China,0.4239735681071793,0.0,2.0,en,EAS,Asia
 'fe1fb7bee8',extremes,Storm,#b3b2b1,wmo,Storm Fushun City,2023-08-21T09:32:00+00:00,China,0.4239704255519264,0.0,2.0,en,EAS,Asia
-'03d5c98bdb',extremes,Wildfire,#d60d2b,esawfa,Wildfire United Kingdom,2023-07-26T13:50:00+00:00,United Kingdom,0.4239653403805721,0.0,2.0,en,NEU,Europe
 '2569576bb3',extremes,Precipitation,#d60d2b,wmo,Precipitation Qionghai City,2023-08-22T10:06:00+00:00,China,0.4238457304411161,0.0,2.0,en,EAS,Asia
 '8ee8529cc5',extremes,Precipitation,#d60d2b,wmo,Precipitation Shanglin County,2023-08-24T02:38:00+00:00,China,0.4238255347966809,0.0,2.0,en,EAS,Asia
 '8418238ad6',extremes,Precipitation,#d60d2b,wmo,Precipitation Haishu district,2023-08-22T10:06:00+00:00,China,0.4237606222079985,0.0,2.0,en,EAS,Asia
