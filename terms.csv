@@ -23,7 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '896289f740',extremes,Thunderstorm,#53785a,wmo,Hail Russia,2023-09-02T02:38:00+00:00,Russia,0.7498372878899895,1.0,3.0,en,ESB,Europe
 '31a102c336',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Greece,2023-09-04T02:38:00+00:00,Greece,0.7492999632300047,1.0,2.0,en,MED,Europe
 '182bf4ae13',extremes,Precipitation,#d60d2b,wmo,Precipitation Nigeria,2023-09-08T02:38:00+00:00,Nigeria,0.7485967282749123,1.0,2.0,en,WAF,Africa
-'55e7f748d5',extremes,Thunderstorm,#53785a,wmo,Severe Weather Saudi Arabia,2023-09-01T02:41:00+00:00,Saudi Arabia,0.7485278920003895,0.0,2.0,en,ARP,Asia
 '7920bba3a9',extremes,Precipitation,#d60d2b,wmo,Precipitation France,2023-08-31T08:14:00+00:00,France,0.7480939471496053,0.0,2.0,en,WCE,Europe
 '9884a0b7e8',extremes,Flood,#030ba1,wmo,Flooding Coconino,2023-09-03T02:38:00+00:00,United States,0.747700361492434,0.0,2.0,en,CNA,North-America
 '4cba805d58',extremes,Flood,#030ba1,wmo,Flooding Fremont; Johnson; Natrona; Washakie,2023-09-05T02:38:00+00:00,United States,0.7476211651431671,0.0,2.0,en,CNA,North-America
@@ -507,6 +506,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd90c4b697d',extremes,Storm,#b3b2b1,wmo,"Storm Hong Kong SAR, China",2023-09-01T02:41:00+00:00,Hong Kong,0.6367723617832753,1.0,1.0,en,EAS,Asia
 '736e25dde1',extremes,Precipitation,#d60d2b,wmo,Downpour Lithuania,2023-08-30T07:43:00+00:00,Lithuania,0.636600379624306,1.0,1.0,en,WCE,Europe
 '912d7e568c',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Russia,2023-09-10T17:50:00+00:00,Russia,0.6364252092990953,0.0,2.0,en,ESB,Europe
+'55e7f748d5',extremes,Thunderstorm,#53785a,wmo,Severe Weather Saudi Arabia,2023-09-01T02:41:00+00:00,Saudi Arabia,0.636248918200331,1.0,1.0,en,ARP,Asia
 'f2679fb7ea',extremes,Precipitation,#d60d2b,floodlist,Flash Flood Tajikistan,2023-09-02T02:37:00+00:00,Tajikistan,0.635924934716143,0.0,2.0,en,WCA,Asia
 '85ce0f2264',extremes,Tropical Cyclone,#4f4f4f,eonet,Hurricane Lee,2023-09-08T02:37:00+00:00,,0.6348914077536947,0.0,2.0,en,NAO,Atlantic Ocean
 '25137d33eb',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Kirogi,2023-08-31T02:38:00+00:00,,0.6347648725947697,0.0,2.0,en,NPO,Pacific Ocean
@@ -1196,7 +1196,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a4d049597',extremes,Flood,#030ba1,relief,Flash Flood United States of America,2023-09-02T02:37:00+00:00,United States of America,0.57064217209181,0.0,2.0,en,CNA,North-America
 '1f8e750c55',extremes,Precipitation,#d60d2b,relief,Flash Flood Zimbabwe,2023-09-06T02:37:00+00:00,Zimbabwe,0.5703027067640415,0.0,2.0,en,ESAF,Africa
 '57d4c7b51a',extremes,Tropical Cyclone,#4f4f4f,relief,Cyclone Mozambique,2023-09-01T02:39:00+00:00,Mozambique,0.5702569106939029,0.0,2.0,en,ESAF,Africa
-'2b55c1ca08',extremes,Wildfire,#d60d2b,emdat,Forest Fire Canada,2023-07-27T12:00:00+00:00,Canada,0.5700797791723238,1.0,2.0,en,NEN,North-America
 '0e06cc03a1',extremes,Tropical Cyclone,#4f4f4f,relief,Cyclone Haiti,2023-09-08T02:37:00+00:00,Haiti,0.5700309638208735,0.0,2.0,en,CAR,North-America
 'e354fe7f1d',extremes,Wildfire,#d60d2b,esawfa,Wildfire Republic of the Congo,2023-08-10T10:06:00+00:00,Republic of the Congo,0.5698890135455524,0.0,2.0,en,CAF,Africa
 '099baedc2f',extremes,Flood,#030ba1,wmo,Flashflood Jefferson; Madison; Taylor,2023-09-02T02:38:00+00:00,United States,0.5694643669967959,1.0,1.0,en,CNA,North-America
@@ -1514,7 +1513,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cd3bff8aa0',extremes,Storm,#b3b2b1,fema,Tennessee Severe Storms and Straight-line Winds,2023-08-18T02:37:00+00:00,United States,0.5511873423140979,0.0,2.0,en,ENA,North-America
 'e6f0f33a37',extremes,Tropical Cyclone,#4f4f4f,relief,Tropical Cyclone Republic of Korea,2023-08-28T02:37:00+00:00,South Korea,0.5511871138890534,0.0,2.0,en,EAS,Asia
 '817305da13',extremes,Thunderstorm,#53785a,eswd,Hail Turkey,2023-08-10T14:50:00+00:00,Turkey,0.5511756888977424,0.0,2.0,en,MED,Asia
-'c7c16076d3',extremes,Tropical Cyclone,#4f4f4f,emdat,Typhoon Philippines,2023-07-27T12:00:00+00:00,Philippines,0.5511510179068679,1.0,2.0,en,SEA,Asia
 '3d8bbfa786',extremes,Storm,#b3b2b1,wmo,Storm Kershaw,2023-08-31T02:38:00+00:00,United States,0.5510872097044325,0.0,2.0,en,CNA,North-America
 '0db9387ab5',extremes,Storm,#b3b2b1,wmo,Storm Inland Brunswick,2023-08-30T07:43:00+00:00,United States,0.5510580647061513,0.0,2.0,en,CNA,North-America
 '35f88a87c3',extremes,Wildfire,#d60d2b,effis,Wildfire  Bolu Turkey,2023-07-28T07:49:00Z,Turkey,0.5510572661141432,0.0,2.0,en,MED,Asia
@@ -1741,7 +1739,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '919480b87f',extremes,Wildfire,#d60d2b,effis,Bushfire  Tenerife Spain,2023-08-20T02:37:00+00:00,Spain,0.5424678447231983,1.0,1.0,en,SAH,Europe
 '79b2628574',extremes,Flooding,#d60d2b,acwe,Flooding Tasmania,2023-08-25T02:39:00+00:00,Australia,0.5424576223763723,1.0,1.0,en,SAU,Oceania
 '79b2628574',extremes,Flooding,#d60d2b,acwe,Flooding Tasmania,2023-08-25T02:39:00+00:00,Australia,0.5424576223763723,1.0,1.0,en,SAU,Oceania
-'52a0b1f416',extremes,Wildfire,#d60d2b,effis,"Wildfire Maloula, Tabarka",2023-07-25T12:44:28Z,Tunisia,0.5424282617523648,0.0,2.0,en,MED,Africa
 '9a0b08948f',extremes,Wildfire,#d60d2b,effis,Wild Fire Alaşehir,2023-07-27T10:42:00Z,Turkey,0.5424275021100268,0.0,2.0,en,MED,Asia
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,snow slush,2023-08-23T02:37:00+00:00,,0.542333347713068,1.0,1.0,en,,
 'f1c9dfa3a2',extremes,Earthquake,#870007,usgs,Earthquake Nikolski,2023-08-30T07:42:00+00:00,Alaska,0.5423072818578888,0.0,2.0,en,NPO,Pacific Ocean
@@ -1773,13 +1770,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '91f71465c5',extremes,Wildfire,#d60d2b,effis,"Wildfire Corona Forestal, Tenerife",2023-08-21T09:22:00+00:00,Spain,0.5406767265720377,1.0,1.0,en,SAH,Europe
 '34d295bf13',extremes,Wildfire,#d60d2b,effis,Bushfire Silyana,2023-07-26T10:44:34Z,Tunisia,0.5405760882343582,0.0,2.0,en,MED,Africa
 'f9b4a7c959',extremes,Storm,#b3b2b1,eonet,Super Typhoon Doksuri,2023-07-22T00:00:0+00:00,,0.5405752688248207,1.0,2.0,en,SEA,Asia
-'642f4fc4a6',extremes,Wildfire,#d60d2b,effis,"Wild Fire Maloula, Tabarka",2023-07-25T12:44:28Z,Tunisia,0.5404650256168902,0.0,2.0,en,MED,Africa
-'8486a79be0',extremes,Storm,#b3b2b1,emdat,Hurricane Philippines,2023-07-27T12:00:00+00:00,Philippines,0.5404111633925368,1.0,2.0,en,SEA,Asia
 'f371553626',extremes,Wildfire,#d60d2b,esawfa,Bushfire Zambia,2023-08-30T07:43:00+00:00,Zambia,0.5403980406424703,1.0,1.0,en,ESAF,Africa
 '20493988e3',extremes,Wildfire,#d60d2b,effis,"Bushfire Corona Forestal, Tenerife",2023-08-20T02:37:00+00:00,Spain,0.5403947991465897,1.0,1.0,en,SAH,Europe
 '382b4e9010',extremes,Earthquake,#870007,usgs,Earthquake Machala,2023-08-21T09:21:00+00:00,Ecuador,0.5402905124803298,0.0,2.0,en,NWS,South-America
 '8b4587c763',extremes,Storm,#b3b2b1,random,dust storm,2023-07-30T13:16:00+00:00,,0.5402884519929343,1.0,2.0,en,,
-'f3fa9db38f',extremes,Wildfire,#d60d2b,effis,"Bushfire Maloula, Tabarka",2023-07-25T12:44:28Z,Tunisia,0.5402777397739793,0.0,2.0,en,MED,Africa
 '7646ce87ec',extremes,Thunderstorm,#53785a,wmo,Hail China,2023-08-30T07:43:00+00:00,China,0.5402517944993342,0.0,2.0,en,EAS,Asia
 'f1d9f7c9ca',extremes,Flood,#030ba1,relief,Flash Flood Afghanistan,2023-09-10T10:29:00+00:00,Afghanistan,0.5402416372639399,0.0,2.0,en,WCA,Asia
 'f7bed182a0',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Greg,2023-08-18T02:37:00+00:00,,0.5402359886788167,2.0,3.0,en,NPO,Pacific Ocean
@@ -3283,7 +3277,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18a46667d4',extremes,Storm,#b3b2b1,wmo,Storm Opolskie Province Nyski County,2023-08-21T09:22:00+00:00,Poland,0.459192754499435,0.0,2.0,en,WCE,Europe
 '510ed94b67',extremes,Storm,#b3b2b1,wmo,Storm Podkarpackie Province Leski County,2023-08-21T09:22:00+00:00,Poland,0.4588442873263465,0.0,2.0,en,WCE,Europe
 '56655f761e',extremes,Storm,#b3b2b1,aidr,"Storm - Severe Storm, Kosciuszko National Park",2023-08-21T16:00:00+00:00,Australia,0.4583799307595252,0.0,2.0,en,SAU,Oceania
-'08617ceeee',extremes,Wildfire,#d60d2b,emdat,Forest Fire Greece,2023-07-26T12:00:00+00:00,Greece,0.4583241741227667,0.0,2.0,en,MED,
 '5ce25f1d21',extremes,Flood,#030ba1,relief,Flash Flood Pakistan,2023-08-21T09:20:00+00:00,Pakistan,0.4581264048557143,1.0,1.0,en,SAS,Asia
 '09156fe079',extremes,Drought,#edc291,edo,Dry Spell Malawi,2023-09-10T16:36:00+00:00,Malawi,0.4580170166127369,0.0,2.0,en,ESAF,Africa
 'c01c09fac9',extremes,Drought,#edc291,edo,Dryness Mozambique,2023-08-18T02:38:00+00:00,Mozambique,0.4578171766772084,0.0,2.0,en,ESAF,Africa
@@ -3982,7 +3975,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2ec57b273a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Lubelskie Province Lubelski County,2023-08-21T09:32:00+00:00,Poland,0.4075058776362309,0.0,2.0,en,WCE,Europe
 '0b3e4cb652',extremes,Heat Wave,#c40202,wmo,Heat Wave Lyss-Grenchen,2023-08-18T02:38:00+00:00,Switzerland,0.4074642268213336,0.0,2.0,en,WCE,Europe
 '72387d388d',extremes,Precipitation,#d60d2b,wmo,Precipitation Jinsha County,2023-08-21T09:22:00+00:00,China,0.407463551459361,0.0,2.0,en,EAS,Asia
-'2d9e9590a9',extremes,Drought,#edc291,emdat,Drought Yoro,2023-07-27T12:00:00+00:00,Honduras,0.4074485546773704,0.0,2.0,en,SCA,North-America
 'e39c007f79',extremes,Precipitation,#d60d2b,wmo,Precipitation Yi an County,2023-08-21T09:22:00+00:00,China,0.4074191569816147,0.0,2.0,en,EAS,Asia
 '4b8a98e260',extremes,Heat Wave,#c40202,wmo,Heat Wave Glâne,2023-08-18T02:38:00+00:00,Switzerland,0.4074160020432094,0.0,2.0,en,WCE,Europe
 '0e86fe00f3',extremes,Heat Wave,#c40202,wmo,Heat Wave Beja,2023-08-20T02:38:00+00:00,Portugal,0.407330269010688,0.0,2.0,en,MED,Europe
