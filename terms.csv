@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '6287b9e5c6',extremes,Precipitation,#d60d2b,wmo,"Torrential Rain Hong Kong, China",2023-09-08T02:38:00+00:00,"Hong Kong, China",0.8420416408707421,1.0,2.0,en,EAS,Asia
-'bae4bee887',extremes,Storm,#b3b2b1,wmo,Storm Serbia,2023-09-04T02:38:00+00:00,Serbia,0.8189446575102982,0.0,2.0,en,MED,Europe
 '896289f740',extremes,Thunderstorm,#53785a,wmo,Hail Russia,2023-09-02T02:38:00+00:00,Russia,0.8185722210470465,0.0,2.0,en,ESB,Europe
 '66fed82b61',extremes,Heat Wave,#c40202,wmo,Heat Wave Serbia,2023-09-10T02:38:00+00:00,Serbia,0.8183439909119965,0.0,2.0,en,MED,Europe
 '9942e2b4c0',extremes,Precipitation,#d60d2b,wmo,Rain Greece,2023-09-04T02:38:00+00:00,Greece,0.8182966002415026,1.0,3.0,en,MED,Europe
@@ -161,6 +160,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d9891ffbb',extremes,Thunderstorm,#53785a,wmo,Severe Weather Bulgaria,2023-09-04T02:38:00+00:00,Bulgaria,0.7092793402608164,1.0,2.0,en,MED,Europe
 '4ee1336fc3',extremes,Precipitation,#d60d2b,wmo,Downpour Russian Federation,2023-09-02T02:38:00+00:00,Russian Federation,0.7079307417178247,1.0,1.0,en,ESB,Europe
 '4f4ac0a5b6',extremes,Precipitation,#d60d2b,wmo,Downpour Portugal,2023-09-02T02:38:00+00:00,Portugal,0.7070262376635557,1.0,1.0,en,MED,Europe
+'bae4bee887',extremes,Storm,#b3b2b1,wmo,Storm Serbia,2023-09-04T02:38:00+00:00,Serbia,0.7056605217408963,1.0,2.0,en,MED,Europe
 '14b1e130be',extremes,Thunderstorm,#53785a,wmo,Severe Weather Russia,2023-09-02T02:38:00+00:00,Russia,0.7052188959748343,1.0,2.0,en,ESB,Europe
 '9575f2412d',extremes,Precipitation,#d60d2b,wmo,Downpour From Kaafu Atoll to Thaa Atoll,2023-09-07T02:38:00+00:00,Maldives,0.7048737537735775,0.0,2.0,en,EIO,Indian Ocean
 '31dfd41b1f',extremes,Precipitation,#d60d2b,wmo,Torrential Rain ,2023-09-06T02:38:00+00:00,Argentina,0.7010660141512609,0.0,2.0,en,SES,South-America
@@ -1949,7 +1949,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eb31aa6d13',extremes,Wildfire,#d60d2b,effis,"Bushfire Aigues-Vives, Le Gard",2023-09-09T02:38:00+00:00,France,0.5300038232070602,0.0,2.0,en,MED,Europe
 'fc2853cbc0',extremes,Storm,#b3b2b1,wmo,Storm Crawford,2023-08-30T07:43:00+00:00,United States,0.529985128351352,0.0,2.0,en,CNA,North-America
 'aed0f19791',extremes,Precipitation,#d60d2b,relief,Flash Flood United States,2023-09-04T02:37:00+00:00,United States,0.5298881635780113,0.0,2.0,en,CNA,North-America
-'6cf0f36ea7',extremes,Wildfire,#d60d2b,esawfa,Wildfire Botswana,2023-07-25T02:49:00+00:00,Botswana,0.5298569687743396,0.0,2.0,en,WSAF,Africa
 '748efd7829',extremes,Flood,#030ba1,relief,Flood Mexico,2023-08-21T02:37:00+00:00,Mexico,0.5298414670854119,1.0,3.0,en,NCA,North-America
 '235d4ccb4d',extremes,Precipitation,#d60d2b,meteo,Rain Slovakia,2023-08-01T08:13:00+00:00,Slovakia,0.5295872766634818,1.0,2.0,en,WCE,Europe
 '3617de9e43',extremes,Wildfire,#d60d2b,effis,Wildfire Lebanon,2023-08-24T02:38:00+00:00,Lebanon,0.5295857210510831,0.0,2.0,en,MED,Asia
@@ -3323,7 +3322,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2b549f47e3',extremes,Heat Wave,#c40202,wmo,Heat Wave Myjava,2023-08-21T16:00:00+00:00,Slovakia,0.4543519360550402,0.0,2.0,en,WCE,Europe
 '9e67d1eeb8',extremes,Landslide,#572c03,wmo,Landslide Pingshan County,2023-08-24T02:38:00+00:00,China,0.4543033256523697,0.0,2.0,en,EAS,Asia
 '785009fc17',extremes,Storm,#b3b2b1,wmo,Storm Deutschlandsberg,2023-08-22T10:06:00+00:00,Austria,0.454257446583082,0.0,2.0,en,WCE,Europe
-'5b302ce6b4',extremes,Wildfire,#d60d2b,esawfa,Wildfire Ukraine,2023-07-26T02:49:00+00:00,Ukraine,0.4541681509212816,0.0,2.0,en,WCE,Europe
 'e634010cdb',extremes,Precipitation,#d60d2b,wmo,Precipitation xiaonan district,2023-08-21T09:22:00+00:00,China,0.4541426430593457,0.0,2.0,en,EAS,Asia
 '3bfe7304ec',extremes,Storm,#b3b2b1,wmo,Storm Oberwart,2023-08-22T10:06:00+00:00,Austria,0.4541033640750249,0.0,2.0,en,WCE,Europe
 'c280228cef',extremes,Storm,#b3b2b1,wmo,Storm Lilienfeld,2023-08-22T10:06:00+00:00,Austria,0.4541011162694585,0.0,2.0,en,WCE,Europe
