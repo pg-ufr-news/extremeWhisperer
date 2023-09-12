@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'85ce0f2264',extremes,Tropical Cyclone,#4f4f4f,eonet,Hurricane Lee,2023-09-08T02:37:00+00:00,,1.843037713774174,0.0,2.0,en,NAO,Atlantic Ocean
 '85ddac80ee',extremes,Iceberg,#d60d2b,eonet,Iceberg A76G,2023-09-03T02:37:00+00:00,,1.823785017705051,0.0,2.0,en,SOO,Antarctica
 '4a781550dc',extremes,Iceberg,#d60d2b,eonet,Iceberg B39,2023-07-28 00:00:0+00:00,,1.8194246179645248,0.0,2.0,en,EAN,
 '53be63855c',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Yun-Yeung,2023-09-07T02:37:00+00:00,,1.814223807587357,0.0,2.0,en,NPO,Pacific Ocean
@@ -11,6 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '96bb24e143',extremes,Iceberg,#d60d2b,eonet,Iceberg B29,2023-09-10T10:29:00+00:00,Antarctica,1.7286200337288298,0.0,2.0,en,WAN,Antarctica
 '43d207c1fc',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Margot,2023-09-09T02:37:00+00:00,,1.7041981469211305,1.0,3.0,en,NAO,Atlantic Ocean
 '3238790c24',extremes,Volcano,#b83202,eonet,Volcano Chile,2023-09-10T02:37:00+00:00,Chile,1.6691073118108066,0.0,2.0,en,SWS,South-America
+'85ce0f2264',extremes,Tropical Cyclone,#4f4f4f,eonet,Hurricane Lee,2023-09-08T02:37:00+00:00,,1.6397248848898662,1.0,3.0,en,NAO,Atlantic Ocean
 'd7f3f18fe5',extremes,Wildfire,#d60d2b,eonet,Peacock Fire Information,2023-09-08T02:37:00+00:00,United States,1.6182693664699874,0.0,2.0,en,CNA,North-America
 '846595476e',extremes,Wildfire,#d60d2b,wmo,Wildfire Russian Federation,2023-08-09T16:01:00+00:00,Russian Federation,0.934217821962775,0.0,2.0,en,ESB,Europe
 '94c158296d',extremes,Storm,#b3b2b1,eswd,Storm Russian Federation,2023-08-07T15:35:00+00:00,Russian Federation,0.9226072121299737,0.0,2.0,en,WCE,Europe
@@ -3515,7 +3515,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c11585835',extremes,Drought,#edc291,edo,Dryness Lithuania,2023-08-18T02:38:00+00:00,Lithuania,0.5126996853555393,1.0,2.0,en,WCE,Europe
 '6c46f2e628',extremes,Earthquake,#870007,usgs,Earthquake Yamada,2023-08-25T02:37:00+00:00,Japan,0.5126844205230254,0.0,2.0,en,EAS,Asia
 'b3ccc8a387',extremes,Tropical Cyclone,#4f4f4f,aidr,2018 - Cyclone - QLD - Tropical cyclone Owen,2023-08-10T20:51:00+00:00,Australia,0.5126597068173009,0.0,2.0,en,NAU,Oceania
-'96130a529a',extremes,Storm,#b3b2b1,eswd,Severe Wind Italy,2023-07-29T21:00:00+00:00,Italy,0.5125904204312578,1.0,2.0,en,WCE,Europe
 '06da8c6c96',extremes,Thunderstorm,#53785a,eswd,Heavy Rain Czech Republic,2023-07-30T15:40:00+00:00,Czech Republic,0.5125884217373917,1.0,2.0,en,WCE,Europe
 'c2a1de8dc8',extremes,Storm,#b3b2b1,eswd,Storm Poland,2023-07-30T14:10:00+00:00,Poland,0.5125469385444409,1.0,3.0,en,WCE,Europe
 '8b04f9a2eb',extremes,Wildfire,#d60d2b,wmo,Wildfire Chuvash Republic,2023-08-16T02:01:00+00:00,Russian Federation,0.5125414255638548,0.0,2.0,en,ESB,Europe
@@ -4440,7 +4439,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '25cb113c6c',extremes,Flood,#030ba1,relief,Flood South Sudan,2023-08-25T02:37:00+00:00,South Sudan,0.4932716761623233,1.0,1.0,en,NEAF,Africa
 'ad13031ef9',extremes,Thunderstorm,#53785a,wmo,Hail Jinggangshan City,2023-09-12T12:28:00+00:00,China,0.4932578585082012,0.0,2.0,en,EAS,Asia
 'aa41aaf346',extremes,Thunderstorm,#53785a,wmo,Severe Weather Loufan County,2023-09-12T13:53:00+00:00,China,0.4932548656023532,0.0,2.0,en,EAS,Asia
-'ae9883f744',extremes,Wildfire,#d60d2b,effis,Wildfire  Volos Greece,2023-07-27T22:05:17Z,Greece,0.4932528035050927,0.0,2.0,en,MED,Europe
 'f643cb8a9f',extremes,Thunderstorm,#53785a,wmo,Hail Ji an County,2023-09-12T15:06:00+00:00,China,0.493249698849483,0.0,2.0,en,EAS,Asia
 'a2ab19e539',extremes,Storm,#b3b2b1,wmo,Storm Bee,2023-08-21T16:00:00+00:00,United States,0.4932409850091139,0.0,2.0,en,CNA,North-America
 'ccb974334a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Heshui County,2023-09-11T02:37:00+00:00,China,0.4932298297476236,0.0,2.0,en,EAS,Asia
@@ -4730,7 +4728,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7721329eb4',extremes,Flood,#030ba1,aidr,"Flood - Severe Flooding from (ex) Tropical Cyclone Tiffany, South Australia 2022",2023-08-10T10:17:00+00:00,Australia,0.4866656686169583,1.0,1.0,en,SAU,Oceania
 '89407201c2',extremes,Wildfire,#d60d2b,effis,"Bushfire Gyömrői út, Budapest",2023-08-04T08:27:44Z,Hungary,0.4866585885432946,0.0,2.0,en,WCE,Europe
 'c757242a01',extremes,Wildfire,#d60d2b,effis,"Wild Fire Malò, Naso",2023-09-03T02:38:00+00:00,Italy,0.4866348862754154,0.0,2.0,en,MED,Europe
-'a2a0093916',extremes,Wildfire,#d60d2b,effis,"Wildfire Nea Aghialos, Volos",2023-07-27T22:05:17Z,Greece,0.4866220512516803,0.0,2.0,en,MED,Europe
 '6be874a4ee',extremes,Wildfire,#d60d2b,effis,Wild Fire Laçin,2023-09-04T02:38:00+00:00,Turkey,0.4865959670211425,0.0,2.0,en,MED,Asia
 'faf74e1444',extremes,Drought,#edc291,edo,Lack of Rain Republic of the Congo,2023-09-12T13:53:00+00:00,Republic of the Congo,0.4865911690017598,0.0,2.0,en,CAF,Africa
 '4606dd31bc',extremes,Wildfire,#d60d2b,effis,"Wildfire Antakya, Hatay",2023-08-06T16:35:00Z,Turkey,0.4865485314669674,0.0,2.0,en,MED,Asia
@@ -5454,7 +5451,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3f4238a93',extremes,Wildfire,#d60d2b,esawfa,Wildfire Vanuatu,2023-08-30T02:38:00+00:00,Vanuatu,0.4389001334017371,0.0,2.0,en,SPO,Oceania
 '3d27bc5081',extremes,Wildfire,#d60d2b,effis,Wildfire  Bilecik Turkey,2023-08-07T08:49:36Z,Turkey,0.4388017596671893,1.0,2.0,en,MED,Asia
 'd6e9a14a02',extremes,Heat Wave,#c40202,wmo,Heat Wave Wuyang County,2023-08-19T02:38:00+00:00,China,0.4381958496802955,0.0,2.0,en,EAS,Asia
-'c17fc69193',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Perg,2023-09-12T13:53:00+00:00,Austria,0.43813539955598096,1.0,1.0,en,WCE,Europe
+'c17fc69193',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Perg,2023-09-12T13:53:00+00:00,Austria,0.4381353995559809,1.0,1.0,en,WCE,Europe
 'b8689b99e9',extremes,Heat Wave,#c40202,wmo,Heat Wave Nanxi District,2023-08-20T02:38:00+00:00,China,0.4379944967632406,0.0,2.0,en,EAS,Asia
 '03a263d5df',extremes,Wildfire,#d60d2b,effis,"Wild Fire Prodromos, Boeotia",2023-08-21T15:59:00+00:00,Greece,0.4379714835947911,1.0,1.0,en,MED,Europe
 'dee6a783d2',extremes,Heat Wave,#c40202,wmo,Heat Wave Yunyang County,2023-08-20T02:38:00+00:00,China,0.4378134161321785,0.0,2.0,en,EAS,Asia
