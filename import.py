@@ -47,10 +47,12 @@ def importTerms():
         if(not column['index'] in list(termsDF['index'])):
           termsDF = termsDF.append(column, ignore_index=True)
         else:
-          if(termsDF.at[index,'ratio']<column['ratio']):
-            if(termsDF.at[index,'counter']==0): 
-               print(["should update", column['index'], termsDF.at[index,'index'], column['ratio'], termsDF.at[index,'ratio'], column['term'], termsDF.at[index,'term']]) 
-               #termsDF.at[index,'ratio']=column['ratio']
+          idx = termsDF.index[termsDF['index']==column['index']].tolist()[0]
+          if(termsDF.at[idx,'ratio']<column['ratio']):
+            if(termsDF.at[idx,'counter']==0): 
+               
+               print(["should update", index, idx, column['index'], termsDF.at[idx,'index'], column['ratio'], termsDF.at[idx,'ratio'], column['term'], termsDF.at[idx,'term']]) 
+               #termsDF.at[idx,'ratio']=column['ratio']
 
     termsDF = termsDF.sort_values(by=['ratio'], ascending=False)
     ##print(termsDF.head())
