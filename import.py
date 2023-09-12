@@ -49,7 +49,7 @@ def importTerms():
         else:
           if(termsDF.at[index,'ratio']<column['ratio']):
             if(termsDF.at[index,'counter']==0): 
-               print(["should update", column['crc'], termsDF.at[index,'crc'], column['ratio'], termsDF.at[index,'ratio'], column['term'], termsDF.at[index,'term']]) 
+               print(["should update", column['index'], termsDF.at[index,'index'], column['ratio'], termsDF.at[index,'ratio'], column['term'], termsDF.at[index,'term']]) 
                #termsDF.at[index,'ratio']=column['ratio']
 
     termsDF = termsDF.sort_values(by=['ratio'], ascending=False)
