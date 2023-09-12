@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '85ce0f2264',extremes,Tropical Cyclone,#4f4f4f,eonet,Hurricane Lee,2023-09-08T02:37:00+00:00,,1.843037713774174,0.0,2.0,en,NAO,Atlantic Ocean
-'43d207c1fc',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Margot,2023-09-09T02:37:00+00:00,,1.8386860359499928,0.0,2.0,en,NAO,Atlantic Ocean
 '85ddac80ee',extremes,Iceberg,#d60d2b,eonet,Iceberg A76G,2023-09-03T02:37:00+00:00,,1.823785017705051,0.0,2.0,en,SOO,Antarctica
 '4a781550dc',extremes,Iceberg,#d60d2b,eonet,Iceberg B39,2023-07-28 00:00:0+00:00,,1.8194246179645248,0.0,2.0,en,EAN,
 '53be63855c',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Yun-Yeung,2023-09-07T02:37:00+00:00,,1.814223807587357,0.0,2.0,en,NPO,Pacific Ocean
@@ -10,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa1d130c66',extremes,Iceberg,#d60d2b,eonet,Iceberg A80D,2023-07-28 00:00:0+00:00,Antarctica,1.7416529381600812,0.0,2.0,en,WAN,Antarctica
 'ca3ef38ca9',extremes,Iceberg,#d60d2b,eonet,Iceberg D30A,2023-07-28 00:00:0+00:00,,1.7369806401236938,0.0,2.0,en,EAN,
 '96bb24e143',extremes,Iceberg,#d60d2b,eonet,Iceberg B29,2023-09-10T10:29:00+00:00,Antarctica,1.7286200337288298,0.0,2.0,en,WAN,Antarctica
+'43d207c1fc',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Margot,2023-09-09T02:37:00+00:00,,1.7041981469211303,1.0,3.0,en,NAO,Atlantic Ocean
 '3238790c24',extremes,Volcano,#b83202,eonet,Volcano Chile,2023-09-10T02:37:00+00:00,Chile,1.6691073118108066,0.0,2.0,en,SWS,South-America
 'd7f3f18fe5',extremes,Wildfire,#d60d2b,eonet,Peacock Fire Information,2023-09-08T02:37:00+00:00,United States,1.6182693664699874,0.0,2.0,en,CNA,North-America
 '846595476e',extremes,Wildfire,#d60d2b,wmo,Wildfire Russian Federation,2023-08-09T16:01:00+00:00,Russian Federation,0.934217821962775,0.0,2.0,en,ESB,Europe
@@ -3602,7 +3602,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1009a59cb',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Yangxin County,2023-09-12T02:38:00+00:00,China,0.5106084687094337,0.0,2.0,en,EAS,Asia
 '123638282e',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Wien Simmering,2023-09-12T08:56:00+00:00,Austria,0.5105749542986889,0.0,2.0,en,WCE,Europe
 'ab6469b84a',extremes,Precipitation,#d60d2b,wmo,Precipitation Mojiang Hani Autonomous County,2023-08-21T09:22:00+00:00,China,0.5104650176087734,0.0,2.0,en,EAS,Asia
-'7ed73b66f2',extremes,Storm,#b3b2b1,eswd,Tornado Finland,2023-07-29T17:05:00+00:00,Finland,0.5104290906811125,1.0,2.0,en,NEU,Europe
 '2d88e3d33a',extremes,Earthquake,#870007,usgs,Earthquake Pototano,2023-08-29T03:01:00+00:00,Indonesia,0.5104233197339909,0.0,2.0,en,SEA,Asia
 'a328a3453b',extremes,Drought,#edc291,edo,Drought Kazakhstan,2023-09-08T02:38:00+00:00,Kazakhstan,0.5103856562816654,0.0,2.0,en,WSB,Asia
 '44b9f5e837',extremes,Thunderstorm,#53785a,wmo,Hail Klagenfurt (Stadt),2023-09-12T07:52:00+00:00,Austria,0.5103786066863659,0.0,2.0,en,WCE,Europe
@@ -3626,7 +3625,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc6801e7ed',extremes,Drought,#edc291,edo,Dryness Benin,2023-08-21T09:22:00+00:00,Benin,0.5100201975694859,0.0,2.0,en,WAF,Africa
 'c575f19bfd',extremes,Wildfire,#d60d2b,effis,Wild Fire Zafferia,2023-09-07T02:38:00+00:00,Italy,0.5099632279544771,0.0,2.0,en,MED,Europe
 '7751b63b52',extremes,Wildfire,#d60d2b,effis,"Wild Fire Fyli, Acharnon, Parnitha",2023-08-24T11:53:00+00:00,Greece,0.5099314396185012,0.0,2.0,en,MED,Europe
-'73155d1926',extremes,Storm,#b3b2b1,eswd,Severe Wind Austria,2023-07-29T18:30:00+00:00,Austria,0.509928322731169,1.0,2.0,en,WCE,Europe
 '44e3965caf',extremes,Precipitation,#d60d2b,wmo,Downpour Hekou Yao Autonomous County,2023-09-12T12:28:00+00:00,China,0.5098472641434327,0.0,2.0,en,EAS,Asia
 '1d3ee6127d',extremes,Wildfire,#d60d2b,effis,Wild Fire Çankırı,2023-08-30T07:42:00+00:00,Turkey,0.5098313971539401,0.0,2.0,en,MED,Asia
 '5783197f67',extremes,Precipitation,#d60d2b,wmo,Precipitation Longmen County,2023-08-17T07:07:00+00:00,China,0.5098130002526184,0.0,2.0,en,EAS,Asia
