@@ -48,9 +48,9 @@ def importTerms():
           termsDF = termsDF.append(column, ignore_index=True)
         else:
           if(termsDF.at[index,'ratio']<column['ratio']):
-             print(["should update", column, termsDF.at[index,'term'], termsDF.at[index,'ratio']]) 
-             #termsDF.at[index,'ratio']=column['ratio']
-        ##  print('found') 
+            if(termsDF.at[index,'counter']==0): 
+               print(["should update", column, termsDF.at[index,'term'], termsDF.at[index,'ratio']]) 
+               #termsDF.at[index,'ratio']=column['ratio']
 
     termsDF = termsDF.sort_values(by=['ratio'], ascending=False)
     ##print(termsDF.head())
