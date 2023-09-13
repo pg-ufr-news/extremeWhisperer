@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'85ddac80ee',extremes,Iceberg,#d60d2b,eonet,Iceberg A76G,2023-09-03T02:37:00+00:00,,1.823785017705051,0.0,2.0,en,SOO,Antarctica
 '4a781550dc',extremes,Iceberg,#d60d2b,eonet,Iceberg B39,2023-07-28 00:00:0+00:00,,1.8194246179645248,0.0,2.0,en,EAN,
 '53be63855c',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Yun-Yeung,2023-09-07T02:37:00+00:00,,1.814223807587357,0.0,2.0,en,NPO,Pacific Ocean
 '07b252a34a',extremes,Tropical Cyclone,#4f4f4f,eonet,Hurricane Jova,2023-09-07T02:37:00+00:00,,1.8131230947156023,0.0,2.0,en,NPO,Pacific Ocean
@@ -12,6 +11,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3238790c24',extremes,Volcano,#b83202,eonet,Volcano Chile,2023-09-10T02:37:00+00:00,Chile,1.6691073118108066,0.0,2.0,en,SWS,South-America
 '85ce0f2264',extremes,Tropical Cyclone,#4f4f4f,eonet,Hurricane Lee,2023-09-08T02:37:00+00:00,,1.6397248848898662,1.0,3.0,en,NAO,Atlantic Ocean
 'd7f3f18fe5',extremes,Wildfire,#d60d2b,eonet,Peacock Fire Information,2023-09-08T02:37:00+00:00,United States,1.6182693664699874,0.0,2.0,en,CNA,North-America
+'85ddac80ee',extremes,Iceberg,#d60d2b,eonet,Iceberg A76G,2023-09-03T02:37:00+00:00,,1.5502172650492934,1.0,1.0,en,SOO,Antarctica
 '846595476e',extremes,Wildfire,#d60d2b,wmo,Wildfire Russian Federation,2023-08-09T16:01:00+00:00,Russian Federation,0.934217821962775,0.0,2.0,en,ESB,Europe
 '94c158296d',extremes,Storm,#b3b2b1,eswd,Storm Russian Federation,2023-08-07T15:35:00+00:00,Russian Federation,0.9226072121299737,0.0,2.0,en,WCE,Europe
 '846ed66c82',extremes,Precipitation,#d60d2b,wmo,Precipitation Russia,2023-08-10T20:01:00+00:00,Russia,0.9222272062012978,0.0,2.0,en,ESB,Europe
@@ -2766,7 +2766,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f932563656',extremes,Wildfire,#d60d2b,effis,"Wildfire Ille-sur-Têt, Pyrénées-Orientales",2023-08-04T09:54:26Z,France,0.5346864507991336,0.0,2.0,en,MED,Europe
 '14e6f96904',extremes,Storm,#b3b2b1,wmo,Storm Nanxian,2023-09-11T13:20:00+00:00,China,0.5346399458450387,0.0,2.0,en,EAS,Asia
 'df6e516080',extremes,Wildfire,#d60d2b,effis,Bushfire Tunisia,2023-09-03T02:38:00+00:00,Tunisia,0.5346229441712639,0.0,2.0,en,MED,Africa
-'5c7c9eae92',extremes,Heat Wave,#c40202,meteo,High Temperature Poland,2023-07-23T04:39:00+00:00,Poland,0.5346005155190023,1.0,3.0,en,WCE,Europe
 'b7edde86b7',extremes,Thunderstorm,#53785a,wmo,Severe Weather Litoral sur de Alicante,2023-09-03T02:38:00+00:00,Spain,0.5345821990297054,0.0,2.0,en,MED,Europe
 '16a3ba3d9a',extremes,Storm,#b3b2b1,wmo,Storm Changji City,2023-09-12T07:52:00+00:00,China,0.5345067237780761,0.0,2.0,en,EAS,Asia
 'c632ae7fd9',extremes,Storm,#b3b2b1,wmo,Storm Laifeng County,2023-09-12T08:56:00+00:00,China,0.5344810170719473,0.0,2.0,en,EAS,Asia
@@ -3829,7 +3828,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dedcf44818',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Dong Autonomous County of passage,2023-09-12T12:28:00+00:00,China,0.5093492336758721,0.0,2.0,en,EAS,Asia
 '4f05d8beac',extremes,Flood,#030ba1,wmo,Flood Stark; Summit,2023-08-24T02:38:00+00:00,United States,0.5093155633720396,0.0,2.0,en,CNA,North-America
 '4595f49a65',extremes,Wildfire,#d60d2b,effis,Wild Fire Spain,2023-08-17T02:37:00+00:00,Spain,0.5093050316118245,0.0,2.0,en,SAH,Europe
-'dee28b10b5',extremes,Storm,#b3b2b1,eswd,Severe Wind Slovenia,2023-07-30T04:05:00+00:00,Slovenia,0.5092964460337731,1.0,2.0,en,WCE,Europe
 '54f66f862e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Puge County,2023-09-12T08:56:00+00:00,China,0.5092896604682815,0.0,2.0,en,EAS,Asia
 'f0badfa86c',extremes,Precipitation,#d60d2b,wmo,Downpour Mojiang Hani Autonomous County,2023-09-12T12:28:00+00:00,China,0.5092875934803491,0.0,2.0,en,EAS,Asia
 'a6e44a5e29',extremes,Wildfire,#d60d2b,effis,Wildfire  Toulouse France,2023-08-22T10:06:00+00:00,France,0.5091422600667335,0.0,2.0,en,MED,Europe
