@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d7f3f18fe5',extremes,Wildfire,#d60d2b,eonet,Peacock Fire Information,2023-09-08T02:37:00+00:00,United States,0.848605951474624,4.0,1.0,en,CNA,North-America
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Heat Wave Germany,2023-08-13T07:38:00+00:00,Germany,0.8209401363586317,1.0,3.0,en,WCE,Europe
 '07b252a34a',extremes,Tropical Cyclone,#4f4f4f,eonet,Hurricane Jova,2023-09-07T02:37:00+00:00,,0.8060900871909458,6.0,3.0,en,NPO,Pacific Ocean
 '493c7ff6fb',extremes,Wildfire,#d60d2b,wmo,Wildfire Republic of Moldova,2023-08-31T08:14:00+00:00,Republic of Moldova,0.8011077696941499,1.0,1.0,en,WCE,Europe
@@ -55,6 +54,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aab7909052',extremes,Fog,#d60d2b,wmo,Fog Israel,2023-09-01T02:41:00+00:00,Israel,0.7258896483392842,1.0,2.0,en,MED,Asia
 'bb33019652',extremes,Flood,#030ba1,wmo,"Flood Hong Kong, China",2023-09-08T02:38:00+00:00,"Hong Kong, China",0.7258695832968283,2.0,3.0,en,EAS,Asia
 '458ca34fc6',extremes,Storm,#b3b2b1,wmo,Storm Coastal Onslow,2023-08-31T08:14:00+00:00,United States,0.7235271146654262,1.0,2.0,en,CNA,North-America
+'d7f3f18fe5',extremes,Wildfire,#d60d2b,eonet,Peacock Fire Information,2023-09-08T02:37:00+00:00,United States,0.7232652537534304,5.0,1.0,en,CNA,North-America
 '6db948209a',extremes,Heat Wave,#c40202,wmo,Heat Wave Greece,2023-09-07T02:38:00+00:00,Greece,0.7232260028986818,1.0,2.0,en,MED,Europe
 '8b533aa307',extremes,Thunderstorm,#53785a,wmo,Severe Weather United States,2023-09-03T02:38:00+00:00,United States,0.7213303341885486,1.0,3.0,en,CNA,North-America
 '9e21c0fbd3',extremes,Thunderstorm,#53785a,wmo,"Thunderstorm Hong Kong, China",2023-09-02T02:38:00+00:00,"Hong Kong, China",0.7210715595074052,1.0,1.0,en,EAS,Asia
@@ -2830,7 +2830,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe74bdedfc',extremes,Wildfire,#d60d2b,eonet,Wanes Gray Fire Information,2023-08-20T02:37:00+00:00,United States,0.5464079948844824,0.0,2.0,en,WNA,North-America
 '1f1ca83bda',extremes,Landslide,#572c03,relief,Land Slide Georgia,2023-08-25T02:37:00+00:00,Georgia,0.5463810578770982,0.0,2.0,en,WCA,Asia
 '7b1ce7600c',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States of America,2023-08-30T07:43:00+00:00,United States,0.54637414356346,2.0,1.0,en,CNA,North-America
-'95b8eabdcc',extremes,Wildfire,#d60d2b,effis,Bushfire  Chios Greece,2023-07-31T05:52:16Z,Greece,0.5463706754485941,0.0,2.0,en,MED,Europe
 '2c517c6ab1',extremes,Storm,#b3b2b1,eswd,Strong Wind Poland,2023-08-28T02:38:00+00:00,Poland,0.5463642592433672,0.0,2.0,en,WCE,Europe
 '1fcda1a1dd',extremes,Landslide,#572c03,wmo,Landslide Gejiu City,2023-09-12T17:03:00+00:00,China,0.546345355990068,0.0,2.0,en,EAS,Asia
 'f2a1f6a7cc',extremes,Landslide,#572c03,wmo,Rockslide Lianghe County,2023-09-12T13:53:00+00:00,China,0.546306041217859,0.0,2.0,en,EAS,Asia
@@ -3040,7 +3039,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '86893042a5',extremes,Wildfire,#d60d2b,esawfa,Bushfire Saudi Arabia,2023-08-31T08:15:00+00:00,Saudi Arabia,0.5410135508012524,0.0,2.0,en,ARP,Asia
 'bd21048a6a',extremes,Drought,#edc291,edo,Drought United Arab Emirates,2023-09-12T12:28:00+00:00,United Arab Emirates,0.54092430057909,0.0,2.0,en,ARP,Asia
 'f6616db6dc',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Norway,2023-08-30T07:43:00+00:00,Norway,0.5409121424393176,2.0,1.0,en,NEU,Europe
-'5abf306ae8',extremes,Wildfire,#d60d2b,effis,"Bushfire Diefcha/Katavasi, Chios",2023-07-31T05:52:16Z,Greece,0.5408098215782459,0.0,2.0,en,MED,Europe
 'dffc8478a1',extremes,Wildfire,#d60d2b,esawfa,Bushfire China,2023-08-30T07:43:00+00:00,China,0.5407976483110623,0.0,2.0,en,ECA,Asia
 'bbbf046577',extremes,Precipitation,#d60d2b,wmo,Precipitation Coast of ​​Okhotsk Sea,2023-09-12T12:28:00+00:00,Russian Federation,0.5407276880365101,0.0,2.0,en,ESB,Europe
 '6cb69c7415',extremes,Wildfire,#d60d2b,esawfa,Wildfire Uganda,2023-08-27T02:40:00+00:00,Uganda,0.540726266652606,0.0,2.0,en,SEAF,Africa
@@ -6288,7 +6286,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '480349717d',extremes,Storm,#b3b2b1,eswd,Tornado Algeria,2023-08-29T03:02:00+00:00,Algeria,0.4782634618723638,1.0,1.0,en,MED,Africa
 '98912309ca',extremes,Flood,#030ba1,relief,Flooding Guatemala,2023-08-15T08:52:00+00:00,Guatemala,0.4782309126372081,1.0,1.0,en,SCA,North-America
 '8165560d33',extremes,Wildfire,#d60d2b,effis,"Bushfire Kymi Aliveri, Evia",2023-08-04T10:56:03Z,Greece,0.478217854446524,0.0,2.0,en,MED,Europe
-'6b70e3b2fc',extremes,Wildfire,#d60d2b,effis,Bushfire Krousonas,2023-08-01T05:58:15Z,Greece,0.4781937778654829,0.0,2.0,en,MED,Europe
 '7b66023fca',extremes,Iceberg,#d60d2b,eonet,Iceberg A76D,2023-07-14 00:00:0+00:00,,0.4781902237231368,1.0,1.0,en,SOO,Antarctica
 'e80817af79',extremes,Drought,#edc291,edo,Lack of Rain Benin,2023-09-04T02:38:00+00:00,Benin,0.4781541058655162,0.0,2.0,en,WAF,Africa
 'e562717787',extremes,Iceberg,#d60d2b,eonet,Iceberg A78,2023-07-14 00:00:0+00:00,Antarctica,0.478021048251436,1.0,1.0,en,EAN,Antarctica
@@ -6334,7 +6331,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2e438fc0a',extremes,Iceberg,#d60d2b,nasaEonet,Iceberg A76F,2023-06-30 00:00:0+00:00,,0.4766446546673832,1.0,1.0,en,SOO,
 'f554f3b79e',extremes,Iceberg,#d60d2b,nasaEonet,Iceberg C38B,2023-07-07 00:00:0+00:00,,0.4766194136773372,1.0,1.0,en,EAN,
 'fed4d4cf52',extremes,Iceberg,#d60d2b,eonet,Iceberg A76D,2023-07-14 00:00:0+00:00,,0.4765950751154206,1.0,1.0,en,SOO,Antarctica
-'d3f09e680e',extremes,Wildfire,#d60d2b,effis,Wild Fire Krousonas,2023-08-01T05:58:15Z,Greece,0.4765659705479579,0.0,2.0,en,MED,Europe
 '78c794d740',extremes,Drought,#edc291,relief,Drought Viet Nam,2023-08-22T10:05:00+00:00,Viet Nam,0.4764424480191313,1.0,2.0,en,SEA,Asia
 'ca3ef38ca9',extremes,Iceberg,#d60d2b,eonet,Iceberg D30A,2023-07-28 00:00:0+00:00,,0.4764335441051395,1.0,1.0,en,EAN,
 '1ed87fe931',extremes,Storm,#b3b2b1,eswd,Strong Wind Estonia,2023-08-07T16:20:00+00:00,Estonia,0.476408751049273,1.0,2.0,en,NEU,Europe
