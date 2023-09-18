@@ -1394,7 +1394,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a2b1973d03',extremes,Fog,#d60d2b,wmo,Fog South of Krasnoyarsk Krai,2023-08-18T02:38:00+00:00,Russian Federation,0.5861394891460503,0.0,2.0,en,ESB,Europe
 '6cef8a949a',extremes,Precipitation,#d60d2b,wmo,Downpour Litoral norte de Valencia,2023-09-03T02:38:00+00:00,Spain,0.586119914842486,0.0,2.0,en,MED,Europe
 'f89c92ad93',extremes,Snow&Ice,#d60d2b,wmo,Ice Norway,2023-08-31T02:38:00+00:00,Norway,0.5861111458765959,1.0,3.0,en,NEU,Europe
-'ccefefc59e',extremes,Drought,#edc291,random,flash drought,2023-09-02T02:37:00+00:00,,0.586072910222676,0.0,2.0,en,,
 'cef3259e00',extremes,Precipitation,#d60d2b,wmo,Downpour Litoral occidental asturiano,2023-09-08T02:38:00+00:00,Spain,0.586048611127855,0.0,2.0,en,MED,Europe
 'e7c8aadb46',extremes,Storm,#b3b2b1,wmo,Storm Senica,2023-09-03T02:38:00+00:00,Slovakia,0.586044320349936,0.0,2.0,en,WCE,Europe
 'eea3f8c8f0',extremes,Fog,#d60d2b,wmo,Fog Perm Krai,2023-08-18T02:38:00+00:00,Russia,0.586039814944294,0.0,2.0,en,ESB,Europe
@@ -3499,6 +3498,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6580a08d0b',extremes,Precipitation,#d60d2b,wmo,Downpour Sierra Tramontana,2023-09-12T17:03:00+00:00,Spain,0.5349858755950716,0.0,2.0,en,MED,Europe
 'a90a1aeac0',extremes,Storm,#b3b2b1,wmo,Storm Boluo County,2023-08-21T09:32:00+00:00,China,0.5349835158665711,0.0,2.0,en,EAS,Asia
 '00aff0f3d4',extremes,Precipitation,#d60d2b,wmo,Rain Meseta de Soria,2023-09-11T09:18:00+00:00,Spain,0.534980563226594,0.0,2.0,en,MED,Europe
+'ccefefc59e',extremes,Drought,#edc291,random,flash drought,2023-09-02T02:37:00+00:00,,0.5349328105074564,1.0,3.0,en,,
 '91c7e7ecb6',extremes,Thunderstorm,#53785a,wmo,"Hail Sur, Vegas y Oeste",2023-09-03T02:38:00+00:00,Spain,0.5349317447451264,0.0,2.0,en,MED,Europe
 '5bec470018',extremes,Thunderstorm,#53785a,wmo,Hail Rioja alavesa,2023-09-02T02:38:00+00:00,Spain,0.5348729272712284,0.0,2.0,en,MED,Europe
 'c89ed0434c',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Luxembourg-South,2023-09-12T12:28:00+00:00,Luxembourg,0.534867367462606,0.0,2.0,en,WCE,Europe
@@ -6617,7 +6617,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b952a04ffe',extremes,Heat Wave,#c40202,meteo,High Temperature Slovakia,2023-08-15T02:37:00+00:00,Slovakia,0.4827058311151845,1.0,2.0,en,WCE,Europe
 '95c7801011',extremes,Heat Wave,#c40202,wmo,Heat Wave Kyklades,2023-08-24T11:54:00+00:00,Greece,0.482613049757776,1.0,1.0,en,MED,Europe
 '6c79249d5f',extremes,Thunderstorm,#53785a,wmo,Hail Ireland,2023-09-10T17:50:00+00:00,Ireland,0.482498060374431,0.0,2.0,en,NEU,Europe
-'0e5dc898a5',extremes,Storm,#b3b2b1,aidr,"Tornado - Bundaberg, Queensland 2013",2023-08-10T20:51:00+00:00,Australia,0.4824954313983651,1.0,1.0,en,EAU,Oceania
 '366749a263',extremes,Snow&Ice,#d60d2b,wmo,Snow&Ice Russia,2023-08-24T02:38:00+00:00,Russia,0.4824746402852098,2.0,3.0,en,ESB,Europe
 '298a7f2421',extremes,Flood,#030ba1,relief,Flooding Colombia,2023-09-10T10:29:00+00:00,Colombia,0.482453965119334,1.0,2.0,en,NWS,South-America
 '17b150a7a2',extremes,Earthquake,#870007,usgs,Earthquake Tanzania,2023-08-08T15:31:00+00:00,Tanzania,0.4824501046075791,1.0,2.0,en,SEAF,Africa
@@ -6628,7 +6627,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e1a830598c',extremes,Wildfire,#d60d2b,effis,Bushfire Cadiz,2023-08-07T10:40:00Z,Spain,0.4823330043138528,0.0,2.0,en,MED,Europe
 '783c45b403',extremes,Heat Wave,#c40202,wmo,Heat Wave Cotton,2023-08-24T11:09:00+00:00,United States,0.4821735523461373,0.0,2.0,en,CNA,North-America
 '9f7d00dc6b',extremes,Wildfire,#d60d2b,effis,"Wild Fire Bacoli, Campi Flegrei",2023-09-08T02:37:00+00:00,Italy,0.481992722989982,0.0,2.0,en,MED,Europe
-'45ce5688c6',extremes,Storm,#b3b2b1,aidr,"Tornado - Murray River Townships, Victoria 2013",2023-08-10T20:51:00+00:00,Australia,0.4819807347624562,1.0,1.0,en,SAU,Oceania
 'fd9d07c0ce',extremes,Wildfire,#d60d2b,effis,"Wildfire San Felice a Cancello, Talanico",2023-09-10T16:35:00+00:00,Italy,0.481971084452767,0.0,2.0,en,MED,Europe
 '6cc5837b37',extremes,Wildfire,#d60d2b,effis,Wildfire Kaštela,2023-08-03T08:47:41Z,Croatia,0.4819642062256669,0.0,2.0,en,MED,Europe
 'bb59faaf65',extremes,Precipitation,#d60d2b,floodlist,Deadly Flash Floods Following Heavy Rain in North West Algeria,2023-09-13T02:38:00+00:00,Algeria,0.4819510991258343,0.0,2.0,en,SAH,Africa
