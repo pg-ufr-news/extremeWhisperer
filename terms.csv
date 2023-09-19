@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'fc68195216',extremes,Storm Surge,#834fa1,wmo,Storm Surge Russia,2023-09-02T02:38:00+00:00,Russia,0.7915112259301322,1.0,2.0,en,ESB,Europe
 'f5eeee56a8',extremes,Tropical Cyclone,#4f4f4f,wmo,"Tropical Cyclone Hong Kong, China",2023-09-04T02:38:00+00:00,"Hong Kong, China",0.7870097551656918,1.0,1.0,en,EAS,Asia
 '7c253079e7',extremes,Storm,#b3b2b1,wmo,Storm Pima; Pinal,2023-09-01T02:41:00+00:00,United States,0.7868816616943914,1.0,2.0,en,CNA,North-America
 'f05a6139b4',extremes,Precipitation,#d60d2b,wmo,Downpour Russia,2023-09-02T02:38:00+00:00,Russia,0.7845142512980505,1.0,1.0,en,ESB,Europe
@@ -92,6 +91,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,Hail Canada,2023-08-31T08:14:00+00:00,Canada,0.6888049345346406,1.0,2.0,en,NEN,North-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,Precipitation Brazil,2023-08-08T06:00:00+00:00,Brazil,0.6873197785692284,1.0,2.0,en,SAM,South-America
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,Snow New Zealand,2023-09-06T02:38:00+00:00,New Zealand,0.6836608901778343,1.0,3.0,en,NZ,Oceania
+'fc68195216',extremes,Storm Surge,#834fa1,wmo,Storm Surge Russia,2023-09-02T02:38:00+00:00,Russia,0.6823421048977552,2.0,2.0,en,ESB,Europe
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2023-08-13T11:14:00+00:00,Jamaica,0.682198834459609,1.0,1.0,en,CAR,North-America
 'a22f88dbd2',extremes,Storm,#b3b2b1,wmo,Storm From Kaafu Atoll to Laamu Atoll,2023-09-01T02:41:00+00:00,Maldives,0.6818230310127551,1.0,1.0,en,EIO,Indian Ocean
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,Storm South Africa,2023-08-13T08:46:00+00:00,South Africa,0.6815355806268408,1.0,3.0,en,WSAF,Africa
@@ -2499,7 +2499,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a47a52f4a7',extremes,Landslide,#572c03,wmo,Landslide Jiaxian,2023-09-19T08:46:00+00:00,China,0.554700115371098,0.0,2.0,en,EAS,Asia
 '525e5e766a',extremes,Heat Wave,#c40202,wmo,Heat Wave Archer; Clay; Wichita; Wilbarger,2023-09-05T02:38:00+00:00,United States,0.5546976284475806,1.0,1.0,en,CNA,North-America
 'dff0c88f92',extremes,Storm,#b3b2b1,wmo,Storm Leoben,2023-08-24T11:54:00+00:00,Austria,0.5546964214029058,0.0,2.0,en,WCE,Europe
-'c2d14652de',extremes,Earthquake,#870007,usgs,Earthquake Eritrea,2023-08-01T17:15:00+00:00,Eritrea,0.5546729239633995,0.0,2.0,en,SAH,Africa
 'd25458a7ef',extremes,Storm,#b3b2b1,wmo,Storm Wien Ottakring,2023-09-12T08:56:00+00:00,Austria,0.554667561690721,0.0,2.0,en,WCE,Europe
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2023-09-13T02:39:00+00:00,Australia,0.554652980694192,0.0,2.0,en,CAU,Oceania
 '674e29d214',extremes,Storm,#b3b2b1,fema,Florida Tropical Storm Idalia,2023-08-29T03:02:00+00:00,United States,0.554649441042662,0.0,2.0,en,ENA,North-America
@@ -10488,7 +10487,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '115e67768f',extremes,Thunderstorm,#53785a,wmo,Severe Weather Mingshui County,2023-09-11T09:18:00+00:00,China,0.284044678991279,0.0,2.0,en,EAS,Asia
 '6e5689f5f4',extremes,Heat Wave,#c40202,wmo,Heat Wave Dortmund-Süd; Dortmund-Nord,2023-09-11T02:37:00+00:00,Germany,0.2839900791158602,0.0,2.0,en,WCE,Europe
 '9f3a60d82d',extremes,Thunderstorm,#53785a,wmo,Hail Xingtang County,2023-09-11T09:18:00+00:00,China,0.283967471410776,0.0,2.0,en,EAS,Asia
-'81575252a2',extremes,Storm,#b3b2b1,wmo,Storm SIERRA,2023-08-07T18:21:00+00:00,Ecuador,0.2839631947915481,0.0,2.0,en,NWS,South-America
 '1f2fde9fd0',extremes,Thunderstorm,#53785a,wmo,Hail Xiangdu District,2023-09-11T09:18:00+00:00,China,0.2839230056439112,0.0,2.0,en,EAS,Asia
 '66b8a64274',extremes,Thunderstorm,#53785a,wmo,Severe Weather tieling city,2023-09-11T09:18:00+00:00,China,0.2838997685101565,0.0,2.0,en,EAS,Asia
 '76bb0bf8e8',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Liaozhong District,2023-09-11T09:18:00+00:00,China,0.283880621412534,0.0,2.0,en,EAS,Asia
