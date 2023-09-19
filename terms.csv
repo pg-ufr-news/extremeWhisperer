@@ -1279,7 +1279,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '25a916afba',extremes,Flood,#030ba1,emdat,Flooding Biobío Regions,2023-09-02T02:38:00+00:00,Chile,0.5885463116009332,0.0,2.0,en,SWS,South-America
 '340e896835',extremes,Storm,#b3b2b1,wmo,Storm The Quark,2023-09-10T02:38:00+00:00,Sweden,0.5885351330843284,0.0,2.0,en,NEU,Europe
 'a567066d27',extremes,Precipitation,#d60d2b,wmo,Precipitation Vega del Segura,2023-09-02T02:38:00+00:00,Spain,0.588534738759139,0.0,2.0,en,MED,Europe
-'253399f553',extremes,Storm Surge,#834fa1,wmo,Storm Surge East Carteret,2023-09-16T02:38:00+00:00,United States,0.5884360171119483,0.0,2.0,en,CNA,North-America
 '53a5c0b5f7',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Sierra de San Vicente,2023-09-03T02:38:00+00:00,Spain,0.588431060762754,0.0,2.0,en,MED,Europe
 '590fc1f7b8',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Sol y Guadalhorce,2023-09-03T02:38:00+00:00,Spain,0.5883922833718375,0.0,2.0,en,MED,Europe
 '99f9f61f34',extremes,Flood,#030ba1,floodlist,"Over 30,000 Evacuate Floods in 6 Regions",2023-08-31T08:14:00+00:00,Chile,0.588375075197843,0.0,2.0,en,SWS,South-America
@@ -5816,6 +5815,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a6b0992c96',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Xiajiang County,2023-09-12T08:56:00+00:00,China,0.5001980074890244,0.0,2.0,en,EAS,Asia
 '0be5ded7e1',extremes,Drought,#edc291,edo,Dryness Turkey,2023-09-15T02:38:00+00:00,Turkey,0.50017248653041,0.0,2.0,en,MED,Asia
 'aca8d6619f',extremes,Wildfire,#d60d2b,effis,Wild Fire Dadia,2023-08-24T12:15:00+00:00,Greece,0.5001713065463695,0.0,2.0,en,MED,Europe
+'253399f553',extremes,Storm Surge,#834fa1,wmo,Storm Surge East Carteret,2023-09-16T02:38:00+00:00,United States,0.500170614545156,1.0,1.0,en,CNA,North-America
 'e52a1c6fda',extremes,Wildfire,#d60d2b,effis,Wild Fire  Akkar Lebanon,2023-08-28T02:38:00+00:00,Lebanon,0.500161996827389,0.0,2.0,en,MED,Asia
 '6ba8011038',extremes,Thunderstorm,#53785a,wmo,Severe Weather Shouguang City,2023-09-12T08:56:00+00:00,China,0.50014238917116,0.0,2.0,en,EAS,Asia
 '0d261f252d',extremes,Storm,#b3b2b1,random,winter gale,2023-09-19T02:37:00+00:00,,0.500134360809434,0.0,2.0,en,,
@@ -6941,7 +6941,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '366749a263',extremes,Snow&Ice,#d60d2b,wmo,Snow&Ice Russia,2023-08-24T02:38:00+00:00,Russia,0.4824746402852098,2.0,3.0,en,ESB,Europe
 '298a7f2421',extremes,Flood,#030ba1,relief,Flooding Colombia,2023-09-10T10:29:00+00:00,Colombia,0.482453965119334,1.0,2.0,en,NWS,South-America
 '17b150a7a2',extremes,Earthquake,#870007,usgs,Earthquake Tanzania,2023-08-08T15:31:00+00:00,Tanzania,0.4824501046075791,1.0,2.0,en,SEAF,Africa
-'08d7b4b57b',extremes,Wildfire,#d60d2b,effis,Bushfire Kaštela,2023-08-03T08:47:41Z,Croatia,0.4824435787995968,0.0,2.0,en,MED,Europe
 '44456b3647',extremes,Drought,#edc291,edo,Drought Iran,2023-09-12T12:28:00+00:00,Iran,0.482388821887351,0.0,2.0,en,WCA,Asia
 'bd49390a6e',extremes,Wildfire,#d60d2b,effis,Wild Fire Timpa dei Palombi,2023-09-10T02:38:00+00:00,Italy,0.482362319648727,0.0,2.0,en,MED,Europe
 '4b2994ef46',extremes,Flood,#030ba1,floodlist,Flash Flood Georgia,2023-09-18T02:37:00+00:00,Georgia,0.482345987009365,0.0,2.0,en,WCA,Asia
@@ -6949,9 +6948,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '783c45b403',extremes,Heat Wave,#c40202,wmo,Heat Wave Cotton,2023-08-24T11:09:00+00:00,United States,0.4821735523461373,0.0,2.0,en,CNA,North-America
 '9f7d00dc6b',extremes,Wildfire,#d60d2b,effis,"Wild Fire Bacoli, Campi Flegrei",2023-09-08T02:37:00+00:00,Italy,0.481992722989982,0.0,2.0,en,MED,Europe
 'fd9d07c0ce',extremes,Wildfire,#d60d2b,effis,"Wildfire San Felice a Cancello, Talanico",2023-09-10T16:35:00+00:00,Italy,0.481971084452767,0.0,2.0,en,MED,Europe
-'6cc5837b37',extremes,Wildfire,#d60d2b,effis,Wildfire Kaštela,2023-08-03T08:47:41Z,Croatia,0.4819642062256669,0.0,2.0,en,MED,Europe
 'bb59faaf65',extremes,Precipitation,#d60d2b,floodlist,Deadly Flash Floods Following Heavy Rain in North West Algeria,2023-09-13T02:38:00+00:00,Algeria,0.4819510991258343,0.0,2.0,en,SAH,Africa
-'1397d980a9',extremes,Wildfire,#d60d2b,effis,Wild Fire Kaštela,2023-08-03T08:47:41Z,Croatia,0.4818884919134291,0.0,2.0,en,MED,Europe
 'f7c35da8b2',extremes,Wildfire,#d60d2b,effis,"Wild Fire Saint-Roman-de-Codières, Gard",2023-08-10T09:16:41Z,France,0.4818685096141082,0.0,2.0,en,MED,Europe
 'c6f9fba28c',extremes,Heat Wave,#c40202,wmo,Heat Wave Redwood; Renville,2023-08-24T11:54:00+00:00,United States,0.4818457051877408,0.0,2.0,en,CNA,North-America
 '5b16f14903',extremes,Snow&Ice,#d60d2b,wmo,Snow&Ice Russian Federation,2023-08-24T02:38:00+00:00,Russian Federation,0.4818446106240972,2.0,3.0,en,ESB,Europe
