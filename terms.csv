@@ -65,7 +65,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80d7fcdbf1',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Portugal,2023-09-02T02:38:00+00:00,Portugal,0.7112447411059454,1.0,1.0,en,MED,Europe
 'eb981e7150',extremes,Heat Wave,#c40202,wmo,Heat Wave Saudi Arabia,2023-08-13T15:42:00+00:00,Saudi Arabia,0.7110316896849367,1.0,1.0,en,ARP,Asia
 '4c1f16337f',extremes,Flood,#030ba1,wmo,Flood Yuma,2023-09-03T02:38:00+00:00,United States,0.7102268963704084,1.0,3.0,en,CNA,North-America
-'82dac61e93',extremes,Drought,#edc291,edo,Drought French Guiana,2023-09-20T02:39:00+00:00,French Guiana,0.7098544975156923,0.0,2.0,en,NSA,South-America
 '49fd9aa03f',extremes,Precipitation,#d60d2b,meteo,Precipitation Portugal,2023-08-10T02:47:00+00:00,Portugal,0.709463833838913,1.0,1.0,en,NAO,Atlantic Ocean
 'db201ef51e',extremes,Heat Wave,#c40202,wmo,Heat Wave Poland,2023-08-12T10:19:00+00:00,Poland,0.7093679763350531,1.0,1.0,en,WCE,Europe
 '1d9891ffbb',extremes,Thunderstorm,#53785a,wmo,Severe Weather Bulgaria,2023-09-04T02:38:00+00:00,Bulgaria,0.7092793402608164,1.0,2.0,en,MED,Europe
@@ -760,6 +759,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b1a5b23cb',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa - Litoral sur de Castellón,2023-09-02T02:38:00+00:00,Spain,0.6034582771964802,0.0,2.0,en,MED,Europe
 'c0f8e60122',extremes,Precipitation,#d60d2b,wmo,Rain Condado de Treviño,2023-09-02T02:38:00+00:00,Spain,0.6034186324426243,0.0,2.0,en,MED,Europe
 'c83bb85c5d',extremes,Flood,#030ba1,wmo,Flooding Østjylland,2023-08-31T08:14:00+00:00,Denmark,0.6034101094591502,0.0,2.0,en,NEU,Europe
+'82dac61e93',extremes,Drought,#edc291,edo,Drought French Guiana,2023-09-20T02:39:00+00:00,French Guiana,0.6033763228883384,1.0,1.0,en,NSA,South-America
 'f3df81c78a',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa - Litoral de Barcelona,2023-09-03T02:38:00+00:00,Spain,0.6032133755996865,0.0,2.0,en,MED,Europe
 '321cd4ea93',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa - Litoral norte de Valencia,2023-09-03T02:38:00+00:00,Spain,0.6031822669600772,0.0,2.0,en,MED,Europe
 '0e0194187b',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa - Suroeste de A Coruña,2023-09-04T02:38:00+00:00,Spain,0.603131806669347,0.0,2.0,en,MED,Europe
@@ -7543,7 +7543,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b38412af62',extremes,Storm,#b3b2b1,aidr,2018 - Storms and floods - VIC,2023-08-10T20:51:00+00:00,Australia,0.4814933363382986,0.0,2.0,en,SAU,Oceania
 '5687ff3af6',extremes,Flood,#030ba1,floodlist,"Hundreds Displaced, 4 Dead After Storms and Floods in Rio Grande Do Sul",2023-09-15T02:38:00+00:00,Brazil,0.481448192648646,0.0,2.0,en,SAM,South-America
 'd924919202',extremes,Landslide,#572c03,relief,Landslide Lao People's Democratic Republic (the),2023-08-27T02:38:00+00:00,Lao People's Democratic Republic (the),0.4813945975260306,1.0,1.0,en,EAS,Asia
-'b56877a9c5',extremes,Wildfire,#d60d2b,esawfa,Bushfire United States,2023-08-09T16:32:00+00:00,United States,0.4813738027669229,2.0,2.0,en,NWN,North-America
 '1f129d4aad',extremes,Drought,#edc291,edo,Dryness Zimbabwe,2023-09-12T13:53:00+00:00,Zimbabwe,0.4813125736634973,0.0,2.0,en,ESAF,Africa
 'd401f7cd8f',extremes,Flood,#030ba1,relief,Flash Flood Somalia,2023-08-15T08:52:00+00:00,Somalia,0.4812552254801917,1.0,2.0,en,NEAF,Africa
 'c2d14652de',extremes,Earthquake,#870007,usgs,Earthquake Eritrea,2023-09-14T02:37:00+00:00,Eritrea,0.481191613619076,0.0,2.0,en,SAH,Africa
@@ -11563,7 +11562,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b4ea8589b',extremes,Precipitation,#d60d2b,wmo,"Rain Kecamatan Sarmi Timur, Sarmi, Papua",2023-09-11T02:37:00+00:00,Indonesia,0.2438659824274345,0.0,2.0,en,SEA,Asia
 '7dcbd4aca7',extremes,Heat Wave,#c40202,wmo,Heat Wave Sankt Johann im Pongau,2023-08-14T07:02:00+00:00,Austria,0.243832766646883,0.0,2.0,en,WCE,Europe
 '8e0cb2fd57',extremes,Heat Wave,#c40202,wmo,Heat Wave Northern Liberty,2023-08-15T02:07:00+00:00,United States,0.2437785468713449,0.0,2.0,en,CNA,North-America
-'8cec2e3cfe',extremes,Heat Wave,#c40202,wmo,Heat Wave Russian Federation,2023-08-09T16:01:00+00:00,Russian Federation,0.2437474933105686,0.0,2.0,en,ESB,Europe
 '085f4f747e',extremes,Heat Wave,#c40202,wmo,Heat Wave Stadt Jena,2023-08-14T08:02:00+00:00,Germany,0.243730019534247,0.0,2.0,en,WCE,Europe
 '557c538135',extremes,Storm,#b3b2b1,wmo,Storm Beograd,2023-08-15T06:50:00+00:00,Serbia,0.2437264534212339,0.0,2.0,en,MED,Europe
 '3ea77eebfe',extremes,Heat Wave,#c40202,wmo,Heat Wave Graz (Stadt),2023-08-14T07:02:00+00:00,Austria,0.2437231807046846,0.0,2.0,en,WCE,Europe
