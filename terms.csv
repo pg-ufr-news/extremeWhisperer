@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'13ae0b391f',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Latvia,2023-09-02T02:38:00+00:00,Latvia,0.7802454923666955,1.0,2.0,en,WCE,Europe
 '6287b9e5c6',extremes,Precipitation,#d60d2b,wmo,"Torrential Rain Hong Kong, China",2023-09-08T02:38:00+00:00,"Hong Kong, China",0.7797773238310398,2.0,3.0,en,EAS,Asia
 '5fdec7a0d1',extremes,Storm,#b3b2b1,wmo,Storm Hong Kong,2023-08-31T08:14:00+00:00,Hong Kong,0.7758709905647271,2.0,2.0,en,EAS,Asia
 'b5eb2ec6f0',extremes,Storm,#b3b2b1,wmo,Storm ,2023-08-17T02:38:00+00:00,Argentina,0.7679150249889902,1.0,3.0,en,SES,South-America
@@ -128,6 +127,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2d0a2aaa0f',extremes,Flood,#030ba1,wmo,Flood Myanmar,2023-08-10T20:37:00+00:00,Myanmar,0.6654106206560146,1.0,2.0,en,SAS,Asia
 '47a71b6762',extremes,Thunderstorm,#53785a,wmo,Severe Weather Greece,2023-09-05T02:38:00+00:00,Greece,0.6653332679521543,1.0,3.0,en,MED,Europe
 '5fbcbe15d8',extremes,Iceberg,#d60d2b,eonet,Iceberg D33B,2023-09-11T17:28:00+00:00,,0.6646423802164502,1.0,1.0,en,EAN,
+'13ae0b391f',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Latvia,2023-09-02T02:38:00+00:00,Latvia,0.6632086835116912,2.0,1.0,en,WCE,Europe
 'a28c8ef428',extremes,Storm,#b3b2b1,meteo,Storm United Kingdom,2023-08-02T07:01:00+00:00,United Kingdom,0.6631986028836931,1.0,3.0,en,NEU,Europe
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2023-09-08T02:38:00+00:00,Canada,0.6627430338855994,1.0,3.0,en,NEN,North-America
 '61386d6415',extremes,Snow&Ice,#d60d2b,wmo,Freezing Norway,2023-09-01T02:41:00+00:00,Norway,0.6626688450680025,1.0,2.0,en,NEU,Europe
@@ -422,7 +422,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6bb9cddec4',extremes,Heat Wave,#c40202,acwe,Bushfire Victoria,2023-09-01T02:42:00+00:00,Australia,0.6226769313265991,1.0,2.0,en,SAU,Oceania
 'e371e0a228',extremes,Precipitation,#d60d2b,wmo,Downpour Polog region,2023-09-03T02:38:00+00:00,North Macedonia,0.6224025794107096,1.0,1.0,en,MED,Europe
 '18c2d9373b',extremes,Precipitation,#d60d2b,wmo,Precipitation Meseta de León,2023-09-04T02:38:00+00:00,Spain,0.6223754075041028,1.0,1.0,en,MED,Europe
-'e02c251a65',extremes,Heat Wave,#c40202,wmo,Heat Wave Pomoravlje,2023-08-12T18:25:00+00:00,Serbia,0.622364764099352,1.0,1.0,en,MED,Europe
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2023-09-15T02:37:00+00:00,,0.6222840427754551,1.0,3.0,en,,
 'ed9104e020',extremes,Precipitation,#d60d2b,wmo,Rain Meseta de Segovia,2023-09-04T02:38:00+00:00,Spain,0.6222024065739324,1.0,1.0,en,MED,Europe
 'cc0ac5e2f8',extremes,Drought,#edc291,edo,Lack of Rain Rwanda,2023-09-12T13:53:00+00:00,Rwanda,0.622042153071877,0.0,2.0,en,SEAF,Africa
@@ -442,7 +441,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c34512524',extremes,Drought,#edc291,edo,Lack of Rain Sri Lanka,2023-09-17T02:38:00+00:00,Sri Lanka,0.6206701350973494,0.0,2.0,en,BOB,Asia
 'f4822d9e92',extremes,Storm,#b3b2b1,wmo,Storm MOST WATERS OF SOLOMON ISLANDS,2023-08-17T08:09:00+00:00,Solomon Islands,0.6206315983453736,0.0,2.0,en,EPO,Oceania
 '61a00c0855',extremes,Drought,#edc291,edo,Dryness Suriname,2023-09-12T15:06:00+00:00,Suriname,0.6205818220685287,0.0,2.0,en,NSA,South-America
-'04b2c6b6a8',extremes,Heat Wave,#c40202,wmo,Heat Wave Sumadija,2023-08-12T18:25:00+00:00,Serbia,0.620344347099534,1.0,1.0,en,MED,Europe
 '08e35d7fd5',extremes,Precipitation,#d60d2b,acwe,Precipitation New South Wales,2023-09-20T02:40:00+00:00,Australia,0.6201965286290221,1.0,1.0,en,EAU,Oceania
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2023-08-09T16:07:00+00:00,United States,0.6201598586616937,1.0,3.0,en,CNA,North-America
 '1868eee84c',extremes,Flood,#030ba1,floodlist,"5,300 Lives Lost in Derna Floods, Thousands Still Missing",2023-09-14T02:37:00+00:00,Libya,0.619970683218088,0.0,2.0,en,SAH,Africa
