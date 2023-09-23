@@ -1,6 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '5fdec7a0d1',extremes,Storm,#b3b2b1,wmo,Storm Hong Kong,2023-08-31T08:14:00+00:00,Hong Kong,0.7758709905647271,2.0,2.0,en,EAS,Asia
 'b5eb2ec6f0',extremes,Storm,#b3b2b1,wmo,Storm ,2023-08-17T02:38:00+00:00,Argentina,0.7679150249889902,1.0,3.0,en,SES,South-America
+'b2bb73fbef',extremes,Flood,#030ba1,wmo,Flood River Gavleån,2023-09-05T02:38:00+00:00,Sweden,0.764908128681343,0.0,2.0,en,NEU,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,Rain Argentina,2023-09-06T02:38:00+00:00,Argentina,0.7623351548835069,1.0,3.0,en,SES,South-America
 '48a9733a03',extremes,Storm,#b3b2b1,wmo,Storm Maldives,2023-08-31T08:14:00+00:00,Maldives,0.7604019322992028,1.0,2.0,en,EIO,Indian Ocean
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2023-09-10T02:38:00+00:00,Solomon Islands,0.7576195762341578,1.0,1.0,en,EPO,Oceania
@@ -31,10 +32,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5fa8003f5',extremes,Storm,#b3b2b1,wmo,Storm Russia,2023-09-02T02:38:00+00:00,Russia,0.7350075273967676,1.0,3.0,en,ESB,Europe
 '493559b064',extremes,Storm,#b3b2b1,wmo,Storm Soome lahe lääneosa,2023-09-05T02:38:00+00:00,Estonia,0.7346138242978448,1.0,1.0,en,NEU,Europe
 '129e7069b9',extremes,Thunderstorm,#53785a,wmo,Hail Southeastern region,2023-09-04T02:38:00+00:00,North Macedonia,0.7344143038281705,1.0,1.0,en,MED,Europe
+'e02c251a65',extremes,Heat Wave,#c40202,wmo,Heat Wave Pomoravlje,2023-09-10T02:38:00+00:00,Serbia,0.732193840116885,0.0,2.0,en,MED,Europe
 '9d9f18de43',extremes,Thunderstorm,#53785a,wmo,Severe Weather United States of America,2023-09-05T02:38:00+00:00,United States,0.7317515808528762,1.0,3.0,en,CNA,North-America
 '18bbd9a006',extremes,Heat Wave,#c40202,wmo,Heat Wave United States of America,2023-08-14T09:49:00+00:00,United States,0.7315662674637982,1.0,2.0,en,CNA,North-America
 '75054c8966',extremes,Heat Wave,#c40202,wmo,Heat Wave Istocna Srbija,2023-09-10T02:38:00+00:00,Serbia,0.731066424282675,0.0,2.0,en,MED,Europe
 '0b5dad7a57',extremes,Precipitation,#d60d2b,meteo,Rain Portugal,2023-08-09T16:31:00+00:00,Portugal,0.7300678746812245,1.0,2.0,en,NAO,Atlantic Ocean
+'04b2c6b6a8',extremes,Heat Wave,#c40202,wmo,Heat Wave Sumadija,2023-09-10T02:38:00+00:00,Serbia,0.729816878940628,0.0,2.0,en,MED,Europe
 '8d80fe8af3',extremes,Heat Wave,#c40202,wmo,Heat Wave Jordan,2023-08-15T08:41:00+00:00,Jordan,0.7277632207479626,1.0,2.0,en,MED,Asia
 'd98aa38709',extremes,Fog,#d60d2b,wmo,Fog Saudi Arabia,2023-08-15T17:04:00+00:00,Saudi Arabia,0.7271605193670905,1.0,2.0,en,ARP,Asia
 'b9e50a6220',extremes,Thunderstorm,#53785a,wmo,Hail United States of America,2023-09-01T02:41:00+00:00,United States,0.7265602142847608,1.0,2.0,en,CNA,North-America
@@ -129,6 +132,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5fbcbe15d8',extremes,Iceberg,#d60d2b,eonet,Iceberg D33B,2023-09-11T17:28:00+00:00,,0.6646423802164502,1.0,1.0,en,EAN,
 '13ae0b391f',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Latvia,2023-09-02T02:38:00+00:00,Latvia,0.6632086835116912,2.0,1.0,en,WCE,Europe
 'a28c8ef428',extremes,Storm,#b3b2b1,meteo,Storm United Kingdom,2023-08-02T07:01:00+00:00,United Kingdom,0.6631986028836931,1.0,3.0,en,NEU,Europe
+'3441d171c9',extremes,Heat Wave,#c40202,wmo,Heat Wave Lubuskie Province Sulęciński County,2023-09-09T02:38:00+00:00,Poland,0.66310079047764,0.0,2.0,en,WCE,Europe
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2023-09-08T02:38:00+00:00,Canada,0.6627430338855994,1.0,3.0,en,NEN,North-America
 '61386d6415',extremes,Snow&Ice,#d60d2b,wmo,Freezing Norway,2023-09-01T02:41:00+00:00,Norway,0.6626688450680025,1.0,2.0,en,NEU,Europe
 '120e05920e',extremes,Heat Wave,#c40202,acwe,Bushfire New South Wales,2023-09-22T02:39:00+00:00,Australia,0.6625357432635958,1.0,2.0,en,EAU,Oceania
@@ -5408,6 +5412,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9604db7e7c',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Slovenia / North-West,2023-08-17T07:07:00+00:00,Slovenia,0.5204958148357592,0.0,2.0,en,WCE,Europe
 '33286bd844',extremes,Earthquake,#870007,usgs,Earthquake Kandrian,2023-08-13T04:09:00+00:00,Papua New Guinea,0.5204757911404436,0.0,2.0,en,SEA,Asia
 '26267fbcb0',extremes,Thunderstorm,#53785a,wmo,Hail Central Hungary,2023-09-21T02:38:00+00:00,Hungary,0.5204535538064222,0.0,2.0,en,WCE,Europe
+'17b150a7a2',extremes,Earthquake,#870007,usgs,Earthquake Tanzania,2023-09-06T02:37:00+00:00,Tanzania,0.520433820520431,0.0,2.0,en,SEAF,Africa
 '0a36c64301',extremes,Thunderstorm,#53785a,wmo,Hail Piemonte,2023-09-12T02:38:00+00:00,Italy,0.520382393726381,0.0,2.0,en,MED,Europe
 'c64f23535b',extremes,Earthquake,#870007,usgs,Earthquake Pacific-Antarctic Ridge,2023-09-08T02:37:00+00:00,,0.520317027251331,0.0,2.0,en,SPO,Pacific Ocean
 '74903ea01c',extremes,Wildfire,#d60d2b,effis,Bushfire  Acharnon Greece,2023-08-29T03:02:00+00:00,Greece,0.5203151314748461,0.0,2.0,en,MED,Europe
