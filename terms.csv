@@ -32,7 +32,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18bbd9a006',extremes,Heat Wave,#c40202,wmo,Heat Wave United States of America,2023-08-14T09:49:00+00:00,United States,0.7315662674637982,1.0,2.0,en,CNA,North-America
 'b5eb2ec6f0',extremes,Storm,#b3b2b1,wmo,Storm ,2023-08-17T02:38:00+00:00,Argentina,0.7306048439679144,2.0,3.0,en,SES,South-America
 '0b5dad7a57',extremes,Precipitation,#d60d2b,meteo,Rain Portugal,2023-08-09T16:31:00+00:00,Portugal,0.7300678746812245,1.0,2.0,en,NAO,Atlantic Ocean
-'04b2c6b6a8',extremes,Heat Wave,#c40202,wmo,Heat Wave Sumadija,2023-09-10T02:38:00+00:00,Serbia,0.729816878940628,0.0,2.0,en,MED,Europe
 '8d80fe8af3',extremes,Heat Wave,#c40202,wmo,Heat Wave Jordan,2023-08-15T08:41:00+00:00,Jordan,0.7277632207479626,1.0,2.0,en,MED,Asia
 'd98aa38709',extremes,Fog,#d60d2b,wmo,Fog Saudi Arabia,2023-08-15T17:04:00+00:00,Saudi Arabia,0.7271605193670905,1.0,2.0,en,ARP,Asia
 'b9e50a6220',extremes,Thunderstorm,#53785a,wmo,Hail United States of America,2023-09-01T02:41:00+00:00,United States,0.7265602142847608,1.0,2.0,en,CNA,North-America
@@ -454,6 +453,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c34512524',extremes,Drought,#edc291,edo,Lack of Rain Sri Lanka,2023-09-17T02:38:00+00:00,Sri Lanka,0.6206701350973494,0.0,2.0,en,BOB,Asia
 'f4822d9e92',extremes,Storm,#b3b2b1,wmo,Storm MOST WATERS OF SOLOMON ISLANDS,2023-08-17T08:09:00+00:00,Solomon Islands,0.6206315983453736,0.0,2.0,en,EPO,Oceania
 '61a00c0855',extremes,Drought,#edc291,edo,Dryness Suriname,2023-09-12T15:06:00+00:00,Suriname,0.6205818220685287,0.0,2.0,en,NSA,South-America
+'04b2c6b6a8',extremes,Heat Wave,#c40202,wmo,Heat Wave Sumadija,2023-09-10T02:38:00+00:00,Serbia,0.6203443470995338,1.0,1.0,en,MED,Europe
 '08e35d7fd5',extremes,Precipitation,#d60d2b,acwe,Precipitation New South Wales,2023-09-20T02:40:00+00:00,Australia,0.6201965286290221,1.0,1.0,en,EAU,Oceania
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2023-08-09T16:07:00+00:00,United States,0.6201598586616937,1.0,3.0,en,CNA,North-America
 '1868eee84c',extremes,Flood,#030ba1,floodlist,"5,300 Lives Lost in Derna Floods, Thousands Still Missing",2023-09-14T02:37:00+00:00,Libya,0.619970683218088,0.0,2.0,en,SAH,Africa
@@ -477,7 +477,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95b5264574',extremes,Heat Wave,#c40202,wmo,Heat Wave Canada,2023-08-30T07:43:00+00:00,Canada,0.6182649090518917,1.0,2.0,en,NEN,North-America
 '8f9b19ab0f',extremes,Drought,#edc291,acwe,Drought Victoria,2023-08-19T02:38:00+00:00,Australia,0.6181772012039832,0.0,2.0,en,SAU,Oceania
 'b445ee6ee0',extremes,Drought,#edc291,edo,Dryness El Salvador,2023-08-21T09:22:00+00:00,El Salvador,0.6181768573613838,1.0,1.0,en,SCA,North-America
-'f1610bf0f1',extremes,Storm,#b3b2b1,wmo,Storm Pelagonia region,2023-08-14T12:33:00+00:00,North Macedonia,0.6181521527140359,1.0,1.0,en,MED,Europe
 'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2023-09-11T02:37:00+00:00,New Zealand,0.617984053799094,0.0,2.0,en,NZ,Oceania
 '51c90d8cfd',extremes,Heat Wave,#c40202,meteo,High Temperature Czechia,2023-08-14T09:56:00+00:00,Czechia,0.6177575867809784,0.0,2.0,en,WCE,Europe
 '199a71ffe8',extremes,Heat Wave,#c40202,meteo,Heat Wave Montenegro,2023-09-23T02:38:00+00:00,Montenegro,0.6175133975500805,0.0,2.0,en,MED,Europe
@@ -1365,7 +1364,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2bc586afe7',extremes,Fog,#d60d2b,wmo,Fog Republic of Tatarstan,2023-08-21T16:00:00+00:00,Russian Federation,0.5839870713712452,0.0,2.0,en,ESB,Europe
 '75b345c7e4',extremes,Landslide,#572c03,relief,Land Slide Bolivia,2023-09-06T02:37:00+00:00,Bolivia,0.5838802744985672,0.0,2.0,en,SAM,South-America
 '0ff5345603',extremes,Precipitation,#d60d2b,wmo,Downpour Montaña de Ourense,2023-09-10T02:38:00+00:00,Spain,0.5838788090113363,0.0,2.0,en,MED,Europe
-'8763352986',extremes,Tropical Cyclone,#4f4f4f,emdat,Hurricane China,2023-08-02T12:00:00+00:00,China,0.583866318270915,1.0,3.0,en,EAS,Asia
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Storm Germany,2023-09-12T02:38:00+00:00,Germany,0.583844975539013,0.0,2.0,en,WCE,Europe
 'c83e019ff6',extremes,Drought,#edc291,edo,Dryness Canada,2023-09-15T02:38:00+00:00,Canada,0.583837324621989,0.0,2.0,en,NEN,North-America
 '3716fb3ea9',extremes,Insect Infestation,#d60d2b,relief,Insect Infestation Yemen,2023-08-30T07:41:00+00:00,Yemen,0.583823360428123,0.0,2.0,en,ARP,Asia
@@ -8295,7 +8293,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '48d4859193',extremes,Drought,#edc291,relief,Drought Syrian Arab Republic,2023-08-24T11:08:00+00:00,Syrian Arab Republic,0.4848973619476937,1.0,1.0,en,MED,Asia
 '17a9e7ea74',extremes,Earthquake,#870007,usgs,Earthquake central Mid-Atlantic Ridge,2023-08-18T02:37:00+00:00,,0.4848863105304715,1.0,1.0,en,EAO,Atlantic Ocean
 'ad28c6abb7',extremes,Precipitation,#d60d2b,wmo,Precipitation East of Sakha Republic,2023-08-24T02:38:00+00:00,Russia,0.4848852523515201,0.0,2.0,en,ESB,Europe
-'f7459217b1',extremes,Wildfire,#d60d2b,effis,Bushfire Sitaria,2023-08-08T12:53:33Z,Greece,0.4848432075467869,0.0,2.0,en,MED,Europe
 '537e24b537',extremes,Drought,#edc291,edo,Lack of Rain Angola,2023-09-12T13:53:00+00:00,Angola,0.4848309027502384,0.0,2.0,en,WSAF,Africa
 'b9fc0deb88',extremes,Heat Wave,#c40202,wmo,Heat Wave Coshocton; Muskingum,2023-08-24T11:09:00+00:00,United States,0.4848203255507173,0.0,2.0,en,CNA,North-America
 '47ee39ccc7',extremes,Wildfire,#d60d2b,effis,"Bushfire Aidone, Enna",2023-08-18T02:37:00+00:00,Italy,0.4847989102625567,0.0,2.0,en,MED,Europe
@@ -8326,7 +8323,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '08aff29370',extremes,Heat Wave,#c40202,wmo,Heat Wave Gersau-Engelbergertal,2023-08-21T09:32:00+00:00,Switzerland,0.4833681705513034,0.0,2.0,en,WCE,Europe
 '750fb94663',extremes,Flood,#030ba1,aidr,"Flood - Victoria, 2012",2023-08-10T20:51:00+00:00,Australia,0.4833677456731434,0.0,2.0,en,SAU,Oceania
 '97c0dafd7e',extremes,Tropical Cyclone,#4f4f4f,relief,Typhoon Malawi,2023-08-17T08:07:00+00:00,Malawi,0.483350773886027,1.0,1.0,en,ESAF,Africa
-'2911c0f1d1',extremes,Wildfire,#d60d2b,effis,Wildfire Sitaria,2023-08-08T12:53:33Z,Greece,0.483217451597115,0.0,2.0,en,MED,Europe
 '19442a5e39',extremes,Precipitation,#d60d2b,relief,Torrential Rain United Republic of Tanzania,2023-08-19T02:37:00+00:00,United Republic of Tanzania,0.4832049735144842,1.0,1.0,en,SEAF,Africa
 'b3b7bdd750',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Eastern region,2023-08-24T11:54:00+00:00,North Macedonia,0.4831611473488514,0.0,2.0,en,MED,Europe
 '77cae5ea73',extremes,Drought,#edc291,edo,Dry Spell New Zealand,2023-09-13T02:39:00+00:00,New Zealand,0.4831410988355741,0.0,2.0,en,NZ,Oceania
@@ -8386,7 +8382,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4db7cc6660',extremes,Wildfire,#d60d2b,effis,Wild Fire Perpignan,2023-08-20T02:37:00+00:00,France,0.4806414969790351,1.0,1.0,en,MED,Europe
 'e26ae94bbe',extremes,Earthquake,#870007,usgs,Earthquake Hirara,2023-09-20T02:38:00+00:00,Japan,0.4805874349470519,0.0,2.0,en,EAS,Asia
 '2a95c1ecdc',extremes,Wildfire,#d60d2b,effis,"Bushfire Saint-Roman-de-Codières, Gard",2023-08-10T09:16:41Z,France,0.4805326804487677,0.0,2.0,en,MED,Europe
-'6a07a49ec6',extremes,Wildfire,#d60d2b,effis,Wild Fire Sitaria,2023-08-08T12:53:33Z,Greece,0.4805283700339598,0.0,2.0,en,MED,Europe
 '50a29533e6',extremes,Storm,#b3b2b1,wmo,Storm Jingxi City,2023-08-24T11:09:00+00:00,China,0.4805013303664117,0.0,2.0,en,EAS,Asia
 '3828ffefdc',extremes,Flood,#030ba1,relief,Flood Lao People's Democratic Republic (the),2023-08-27T02:38:00+00:00,Lao People's Democratic Republic (the),0.4804753642474748,1.0,1.0,en,EAS,Asia
 'cf2a7c2402',extremes,Drought,#edc291,edo,Drought Ivory Coast,2023-09-13T02:39:00+00:00,Ivory Coast,0.4804183563430162,0.0,2.0,en,WAF,Africa
@@ -12374,7 +12369,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1f36f849d',extremes,Heat Wave,#c40202,wmo,Heat Wave Waidhofen an der Ybbs (Stadt),2023-08-14T07:02:00+00:00,Austria,0.2426364769831822,0.0,2.0,en,WCE,Europe
 '8053eed2a0',extremes,Heat Wave,#c40202,wmo,Heat Wave Hellín y Almansa,2023-08-14T21:50:00+00:00,Spain,0.2426094676076596,0.0,2.0,en,MED,Europe
 '7f0ac93430',extremes,Heat Wave,#c40202,wmo,"Heat Wave Missoula, Bitterroot Valleys",2023-08-14T13:22:00+00:00,United States,0.2425595205520883,0.0,2.0,en,CNA,North-America
-'93803b69b3',extremes,Flood,#030ba1,wmo,Flood Golmud,2023-08-13T11:59:00+00:00,China,0.2425265715546536,0.0,2.0,en,EAS,Asia
 '1103361e50',extremes,Heat Wave,#c40202,wmo,Heat Wave Oberpullendorf,2023-08-14T07:02:00+00:00,Austria,0.2425226185049595,0.0,2.0,en,WCE,Europe
 'b6b23d7103',extremes,Heat Wave,#c40202,wmo,Heat Wave Stadt Kempten (Allgäu),2023-08-14T08:02:00+00:00,Germany,0.2424794179460442,0.0,2.0,en,WCE,Europe
 '576c17e8df',extremes,Heat Wave,#c40202,wmo,Heat Wave Hallein,2023-08-14T07:02:00+00:00,Austria,0.2424000682586306,0.0,2.0,en,WCE,Europe
