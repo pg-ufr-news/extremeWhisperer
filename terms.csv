@@ -2091,7 +2091,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '204295ad88',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Coffee,2023-08-30T07:43:00+00:00,United States,0.5643276087492964,0.0,2.0,en,CNA,North-America
 'e779a4acd4',extremes,Storm,#b3b2b1,wmo,Storm Adak to Kiska Pacific Side,2023-09-02T02:38:00+00:00,United States,0.5643271900234961,1.0,1.0,en,CNA,North-America
 '94138f6eb6',extremes,Flood,#030ba1,wmo,Flashflood El Paso,2023-09-18T02:38:00+00:00,United States,0.5643265137715285,0.0,2.0,en,CNA,North-America
-'a82670e5fa',extremes,Flood,#030ba1,wmo,Flashflood Socorro,2023-09-14T02:38:00+00:00,United States,0.56429903883279,0.0,2.0,en,CNA,North-America
 '4737dc635f',extremes,Flood,#030ba1,wmo,Flashflood Grant,2023-09-18T02:38:00+00:00,United States,0.5642926746901915,0.0,2.0,en,CNA,North-America
 'fdaa08e32b',extremes,Earthquake,#870007,usgs,M 5.8 - ,2023-09-09T02:37:00+00:00,Mexico,0.5642824086508966,0.0,2.0,en,NCA,North-America
 'c44cdb5902',extremes,Storm,#b3b2b1,wmo,Storm Livno,2023-09-05T02:38:00+00:00,Bosnia and Herzegovina,0.5642744670075497,1.0,1.0,en,MED,Europe
@@ -8614,6 +8613,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '761266dc83',extremes,Iceberg,#d60d2b,eonet,Iceberg C38B,2023-07-07 00:00:0+00:00,,0.4797375134931834,1.0,1.0,en,EAN,
 'dcb97da446',extremes,Iceberg,#d60d2b,eonet,Iceberg A76L,2023-07-14 00:00:0+00:00,,0.4797060492117155,1.0,1.0,en,SOO,Antarctica
 '52fee7653e',extremes,Wildfire,#d60d2b,effis,Wildfire  Kefalonia Greece,2023-09-11T11:49:00+00:00,Greece,0.4796973781498051,0.0,2.0,en,MED,Europe
+'a82670e5fa',extremes,Flood,#030ba1,wmo,Flashflood Socorro,2023-09-14T02:38:00+00:00,United States,0.4796541830078715,1.0,1.0,en,CNA,North-America
 '152914913d',extremes,Heat Wave,#c40202,acwe,Heat Wave Tasmania,2023-08-28T02:39:00+00:00,Australia,0.4796400502424148,2.0,2.0,en,SAU,Oceania
 '469cf3b7c5',extremes,Wildfire,#d60d2b,effis,Wild Fire  Kefalonia Greece,2023-09-12T08:56:00+00:00,Greece,0.4796074784134532,0.0,2.0,en,MED,Europe
 'f9612b56d4',extremes,Iceberg,#d60d2b,nasaEonet,Iceberg D29B,2023-07-07 00:00:0+00:00,,0.4795422728820333,1.0,1.0,en,EAN,
@@ -12020,7 +12020,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d3dc8961a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Republic of Buryatia,2023-08-17T02:38:00+00:00,Russia,0.2676219113118997,0.0,2.0,en,ESB,Europe
 'cb7ee67b62',extremes,Precipitation,#d60d2b,wmo,Downpour Jurisdiction of Yangjiang City,2023-09-10T17:50:00+00:00,China,0.267150635713433,0.0,2.0,en,EAS,Asia
 '0f2d90c99a',extremes,Storm,#b3b2b1,wmo,Storm Sheboygan to Port Washington WI,2023-08-17T02:38:00+00:00,United States,0.2671137370921916,0.0,2.0,en,CNA,North-America
-'d75e64911b',extremes,Storm,#b3b2b1,wmo,Storm Oaxaca W of Puerto Angel out 250 nm,2023-08-15T21:49:00+00:00,United States,0.2669037061386042,0.0,2.0,en,CNA,North-America
 '33a4edcbaa',extremes,Precipitation,#d60d2b,wmo,Rain Heshan City,2023-09-10T17:50:00+00:00,China,0.2668210921278222,0.0,2.0,en,EAS,Asia
 '0275b542f1',extremes,Precipitation,#d60d2b,wmo,Precipitation District of Maoming City,2023-09-10T17:50:00+00:00,China,0.2667416523733492,0.0,2.0,en,EAS,Asia
 'c77fe00cc2',extremes,Precipitation,#d60d2b,wmo,Rain Cantabria del Ebro,2023-09-12T07:52:00+00:00,Spain,0.2665055788587722,0.0,2.0,en,MED,Europe
@@ -12034,15 +12033,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '24bceaab98',extremes,Storm,#b3b2b1,wmo,Storm Shuangliu,2023-09-10T17:50:00+00:00,China,0.2657642286725913,0.0,2.0,en,EAS,Asia
 'fad6fe57aa',extremes,Precipitation,#d60d2b,wmo,Precipitation Altiplano de Murcia,2023-09-12T07:52:00+00:00,Spain,0.26542047940507,0.0,2.0,en,MED,Europe
 'f89dc67217',extremes,Precipitation,#d60d2b,wmo,Rain Litoral cántabro,2023-09-11T11:50:00+00:00,Spain,0.2653750615929355,0.0,2.0,en,MED,Europe
-'6cb07dfd16',extremes,Heat Wave,#c40202,wmo,Heat Wave Southwest Interior,2023-08-15T22:35:00+00:00,United States,0.2653743306968027,0.0,2.0,en,CNA,North-America
 'ee70243945',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Bizkaia litoral,2023-09-11T11:50:00+00:00,Spain,0.26529721678191,0.0,2.0,en,MED,Europe
 '360be78997',extremes,Precipitation,#d60d2b,wmo,Precipitation Meseta de Soria,2023-09-12T07:52:00+00:00,Spain,0.2652539548776534,0.0,2.0,en,MED,Europe
-'b91e2a4643',extremes,Heat Wave,#c40202,wmo,Heat Wave Southern Blue Mountains of Oregon,2023-08-15T21:14:00+00:00,United States,0.2652480724667831,0.0,2.0,en,CNA,North-America
 'b0992ed00f',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Vertiente cantábrica de Navarra,2023-09-11T17:29:00+00:00,Spain,0.265176739314569,0.0,2.0,en,MED,Europe
 'c9de150e59',extremes,Fog,#d60d2b,wmo,Fog Chukotka Autonomous District,2023-08-17T02:38:00+00:00,Russian Federation,0.2651671783823448,0.0,2.0,en,ESB,Europe
 '4f7aadbaab',extremes,Storm,#b3b2b1,wmo,Storm Gmunden,2023-09-12T02:38:00+00:00,Austria,0.265146040036447,0.0,2.0,en,WCE,Europe
 'b85c32f881',extremes,Precipitation,#d60d2b,wmo,Precipitation Prepirineo de Barcelona,2023-09-11T17:29:00+00:00,Spain,0.2650594790154081,0.0,2.0,en,MED,Europe
-'2bf0668402',extremes,Heat Wave,#c40202,wmo,Heat Wave Greater Vancouver Area,2023-08-15T21:56:00+00:00,United States,0.2650254109245541,0.0,2.0,en,CNA,North-America
 '5a453e1ec9',extremes,Precipitation,#d60d2b,wmo,Downpour Centro de Huesca,2023-09-11T17:29:00+00:00,Spain,0.264927030024149,0.0,2.0,en,MED,Europe
 '605cf6a0ce',extremes,Storm,#b3b2b1,wmo,Storm Kauno apskritis,2023-08-17T02:38:00+00:00,Lithuania,0.264903540120857,0.0,2.0,en,WCE,Europe
 'd52f23b43f',extremes,Precipitation,#d60d2b,wmo,Precipitation Centro de Huesca,2023-09-12T02:38:00+00:00,Spain,0.2645463886315381,0.0,2.0,en,MED,Europe
@@ -12279,12 +12275,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6ac8da28f9',extremes,Storm,#b3b2b1,wmo,Storm fucheng district,2023-09-11T02:37:00+00:00,China,0.2510014846704513,0.0,2.0,en,EAS,Asia
 '32783ae0ed',extremes,Flood,#030ba1,wmo,Flood Burlington; Mercer,2023-09-11T02:37:00+00:00,United States,0.2509143957564723,0.0,2.0,en,CNA,North-America
 '2be0b56c90',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Dodekanisa Islands,2023-09-11T11:50:00+00:00,Greece,0.2502201656858455,0.0,2.0,en,MED,Europe
-'12ef06219f',extremes,Heat Wave,#c40202,wmo,Heat Wave Rioja alavesa,2023-08-15T21:01:00+00:00,Spain,0.2501897342974637,0.0,2.0,en,MED,Europe
 '8a0574a624',extremes,Precipitation,#d60d2b,wmo,"Precipitation Inari, Utsjoki",2023-08-17T02:38:00+00:00,Finland,0.2501894023362858,0.0,2.0,en,NEU,Europe
 '4a4191209b',extremes,Heat Wave,#c40202,wmo,Heat Wave Smolensk Region,2023-08-17T02:38:00+00:00,Russia,0.2501027995615202,0.0,2.0,en,ESB,Europe
 '3eb788e39b',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Antwerp,2023-09-11T13:20:00+00:00,Belgium,0.2500271800248945,0.0,2.0,en,WCE,Europe
-'bdcc8fe479',extremes,Heat Wave,#c40202,wmo,Heat Wave Pirineo navarro,2023-08-15T21:50:00+00:00,Spain,0.2500167284245922,0.0,2.0,en,MED,Europe
-'a7ae4d3634',extremes,Heat Wave,#c40202,wmo,Heat Wave Condado de Treviño,2023-08-15T21:50:00+00:00,Spain,0.2500134085530262,0.0,2.0,en,MED,Europe
 'cc1c8b9d70',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Brabant,2023-09-11T13:20:00+00:00,Belgium,0.2496336902072851,0.0,2.0,en,WCE,Europe
 '1260f3a52f',extremes,Heat Wave,#c40202,wmo,Heat Wave Moscow,2023-08-17T02:38:00+00:00,Russian Federation,0.2494168539772477,0.0,2.0,en,ESB,Europe
 '63214a23f0',extremes,Fog,#d60d2b,wmo,Fog Nordjylland,2023-09-11T02:37:00+00:00,Denmark,0.248618225686496,0.0,2.0,en,NEU,Europe
