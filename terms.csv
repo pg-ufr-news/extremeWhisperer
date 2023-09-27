@@ -102,7 +102,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b76e6e84d',extremes,Flood,#030ba1,wmo,Flooding Brooks; Lowndes,2023-09-01T02:41:00+00:00,United States,0.6715900054751059,1.0,1.0,en,CNA,North-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,Rain Argentina,2023-09-06T02:38:00+00:00,Argentina,0.671117929832799,2.0,3.0,en,SES,South-America
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,Heat Wave France,2023-08-14T08:05:00+00:00,France,0.6702661099827784,1.0,3.0,en,WCE,Europe
-'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rime winter,2023-09-27T02:37:00+00:00,,0.6695960716266514,0.0,2.0,en,,
 '31dfd41b1f',extremes,Precipitation,#d60d2b,wmo,Torrential Rain ,2023-09-06T02:38:00+00:00,Argentina,0.6690511002103899,1.0,2.0,en,SES,South-America
 '7c253079e7',extremes,Storm,#b3b2b1,wmo,Storm Pima; Pinal,2023-09-01T02:41:00+00:00,United States,0.6688494124402327,2.0,1.0,en,CNA,North-America
 'd306e1819b',extremes,Iceberg,#d60d2b,eonet,Iceberg D33A,2023-09-11T17:28:00+00:00,,0.6681929536529146,1.0,1.0,en,EAN,
@@ -162,6 +161,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d3bd54f43',extremes,Flood,#030ba1,wmo,Flood Lee,2023-09-10T02:38:00+00:00,United States,0.6463137356418425,1.0,3.0,en,CNA,North-America
 '8296f249a8',extremes,Flood,#030ba1,wmo,Flooding PhaungPyin,2023-09-06T02:38:00+00:00,Myanmar,0.6451399739297778,1.0,1.0,en,SAS,Asia
 '01bd928507',extremes,Thunderstorm,#53785a,wmo,Severe Weather Portugal,2023-09-03T02:38:00+00:00,Portugal,0.6446767976657817,1.0,2.0,en,MED,Europe
+'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rime winter,2023-09-27T02:37:00+00:00,,0.6444566908826536,1.0,2.0,en,,
 'e2519d66f7',extremes,Storm,#b3b2b1,wmo,"Storm Hong Kong, Hong Kong SAR, China",2023-08-19T02:38:00+00:00,"Hong Kong, China",0.6443434539332057,1.0,1.0,en,EAS,Asia
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2023-09-10T02:38:00+00:00,Solomon Islands,0.6439766397990341,2.0,1.0,en,EPO,Oceania
 '287dd7b99f',extremes,Flooding,#d60d2b,acwe,Flooding New South Wales,2023-09-21T02:39:00+00:00,Australia,0.6421229421340813,1.0,2.0,en,EAU,Oceania
@@ -11351,12 +11351,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf50f7b18a',extremes,Heat Wave,#c40202,wmo,Heat Wave Ru nan County,2023-08-17T08:09:00+00:00,China,0.3404431854399512,0.0,2.0,en,EAS,Asia
 'a4d94b3623',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Mazowieckie Province Płocki County,2023-08-19T02:38:00+00:00,Poland,0.3403238553124121,0.0,2.0,en,WCE,Europe
 '4bf7dc30b6',extremes,Storm,#b3b2b1,wmo,Storm Jinshan District,2023-08-19T02:38:00+00:00,China,0.3403082840481874,0.0,2.0,en,EAS,Asia
-'f939c6e98b',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Haast Pass (SH6),2023-08-14T08:36:00+00:00,New Zealand,0.3402982844403028,0.0,2.0,en,NZ,Oceania
 'b44f3e45bb',extremes,Heat Wave,#c40202,wmo,Heat Wave Bijiang District,2023-08-17T08:09:00+00:00,China,0.3402966747835538,0.0,2.0,en,EAS,Asia
 '76b962edf0',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Łódzkie Province Kutnowski County,2023-08-18T02:38:00+00:00,Poland,0.3402386788404796,0.0,2.0,en,WCE,Europe
 '86900c221f',extremes,Heat Wave,#c40202,wmo,Heat Wave Gongxian,2023-08-17T08:09:00+00:00,China,0.3402205723843012,0.0,2.0,en,EAS,Asia
 '89083cc774',extremes,Heat Wave,#c40202,wmo,Heat Wave Jianshi County,2023-08-17T08:09:00+00:00,China,0.3402149784010444,0.0,2.0,en,EAS,Asia
-'eaeabe4421',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Lewis Pass (SH7),2023-08-14T08:36:00+00:00,New Zealand,0.340199537637494,0.0,2.0,en,NZ,Oceania
 '673e9904f5',extremes,Heat Wave,#c40202,wmo,Heat Wave Xuanen County,2023-08-17T08:09:00+00:00,China,0.3401878958402605,0.0,2.0,en,EAS,Asia
 '8d68297e5f',extremes,Thunderstorm,#53785a,wmo,Hail Belize,2023-09-12T02:38:00+00:00,Belize,0.340172127456377,0.0,2.0,en,SCA,North-America
 '937ff06462',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Lubuskie Province Żarski County,2023-08-17T08:09:00+00:00,Poland,0.3401420146505828,0.0,2.0,en,WCE,Europe
@@ -11401,7 +11399,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dfd98a76f5',extremes,Fog,#d60d2b,wmo,Fog Jiutai District,2023-08-17T07:07:00+00:00,China,0.3387512421426787,0.0,2.0,en,EAS,Asia
 '019eb9a987',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Opolskie Province Nyski County,2023-08-17T08:09:00+00:00,Poland,0.3386172821018319,0.0,2.0,en,WCE,Europe
 '85043a1cdd',extremes,Fog,#d60d2b,wmo,Fog Xinglong Country,2023-08-17T07:07:00+00:00,China,0.3383699242951978,0.0,2.0,en,EAS,Asia
-'124e9d37b8',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Arthur's Pass (SH73),2023-08-14T08:36:00+00:00,New Zealand,0.3383161480292401,0.0,2.0,en,NZ,Oceania
 '93f42604af',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Crown Range Road,2023-09-11T11:50:00+00:00,New Zealand,0.338278201078237,0.0,2.0,en,NZ,Oceania
 '5db00b15a7',extremes,Storm,#b3b2b1,wmo,Storm Jiancaoping District,2023-08-19T02:38:00+00:00,China,0.3382504519348994,0.0,2.0,en,EAS,Asia
 '45597d1cf8',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Podlaskie Province Łomżyński County,2023-08-18T02:38:00+00:00,Poland,0.3382333061024942,0.0,2.0,en,WCE,Europe
@@ -11478,7 +11475,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '87c911fa37',extremes,Storm,#b3b2b1,wmo,Storm Zengcheng District,2023-08-17T07:07:00+00:00,China,0.3235367984017708,0.0,2.0,en,EAS,Asia
 'ff69a2569e',extremes,Storm,#b3b2b1,wmo,Storm Zhongkai District,2023-08-17T07:07:00+00:00,China,0.3234946129599104,0.0,2.0,en,EAS,Asia
 '9f09f631eb',extremes,Storm,#b3b2b1,wmo,Storm huicheng district,2023-08-17T07:07:00+00:00,China,0.3234470265083065,0.0,2.0,en,EAS,Asia
-'b8b15bb694',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Lindis Pass (SH8),2023-08-14T08:36:00+00:00,New Zealand,0.3234289701043025,0.0,2.0,en,NZ,Oceania
 'a50d6e1644',extremes,Storm,#b3b2b1,wmo,Storm Jiaxing City,2023-08-17T07:07:00+00:00,China,0.3232195924534284,0.0,2.0,en,EAS,Asia
 '3341ee86ec',extremes,Storm,#b3b2b1,wmo,Storm Conghua District,2023-08-17T07:07:00+00:00,China,0.3230516880463082,0.0,2.0,en,EAS,Asia
 '692076e502',extremes,Storm,#b3b2b1,wmo,Storm Heyuan City District,2023-08-17T07:07:00+00:00,China,0.3230363446052978,0.0,2.0,en,EAS,Asia
@@ -11508,7 +11504,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f123467855',extremes,Fog,#d60d2b,wmo,Fog Yongqing County,2023-09-11T09:18:00+00:00,China,0.3219552088505584,0.0,2.0,en,EAS,Asia
 '80f1c3363a',extremes,Heat Wave,#c40202,wmo,Heat Wave Jiangyong County,2023-08-17T07:07:00+00:00,China,0.321902437831762,0.0,2.0,en,EAS,Asia
 'cd5b890d62',extremes,Heat Wave,#c40202,wmo,Heat Wave Suixi County,2023-08-17T07:07:00+00:00,China,0.3218602481607554,0.0,2.0,en,EAS,Asia
-'442289097f',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Crown Range Road,2023-08-14T08:36:00+00:00,New Zealand,0.3218202665811039,0.0,2.0,en,NZ,Oceania
 '3d92262edd',extremes,Heat Wave,#c40202,wmo,Heat Wave Hukou County,2023-08-17T07:07:00+00:00,China,0.3218019679810948,0.0,2.0,en,EAS,Asia
 'd82c42d907',extremes,Heat Wave,#c40202,wmo,Heat Wave Wanzai County,2023-08-17T07:07:00+00:00,China,0.3217097204881209,0.0,2.0,en,EAS,Asia
 'c9ae30044a',extremes,Heat Wave,#c40202,wmo,Heat Wave Xiuning County,2023-08-17T07:07:00+00:00,China,0.3215897975165168,0.0,2.0,en,EAS,Asia
@@ -11557,7 +11552,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '28c843a48f',extremes,Precipitation,#d60d2b,wmo,Downpour Cordillera Cantábrica de Burgos,2023-09-11T09:18:00+00:00,Spain,0.314606670468593,0.0,2.0,en,MED,Europe
 '946710d148',extremes,Fog,#d60d2b,wmo,Fog Paulatuk,2023-09-11T13:20:00+00:00,Canada,0.314578486030633,0.0,2.0,en,NEN,North-America
 'fc0e703f3f',extremes,Storm,#b3b2b1,wmo,Storm Obrestad - Slaatteroey,2023-09-11T09:18:00+00:00,Norway,0.313590988182974,0.0,2.0,en,NEU,Europe
-'e7abe6b790',extremes,Flood,#030ba1,wmo,Flood Bollinger; Wayne,2023-08-14T08:01:00+00:00,United States,0.3135148165893798,0.0,2.0,en,CNA,North-America
 'c055f5e7e7',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Pirineo de Lleida,2023-09-11T09:18:00+00:00,Spain,0.3130965093015471,0.0,2.0,en,MED,Europe
 '326b354877',extremes,Flood,#030ba1,wmo,Flooding Guinan County,2023-09-11T09:18:00+00:00,China,0.3119607396991574,0.0,2.0,en,EAS,Asia
 '8fed185bb2',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Nan ao County,2023-08-17T07:07:00+00:00,China,0.3117086341234191,0.0,2.0,en,EAS,Asia
@@ -11608,7 +11602,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b39a970688',extremes,Storm,#b3b2b1,wmo,Storm Wanbailin District,2023-09-11T09:18:00+00:00,China,0.304877619813762,0.0,2.0,en,EAS,Asia
 'b1fc364cb8',extremes,Precipitation,#d60d2b,wmo,Precipitation Luding County,2023-08-17T07:07:00+00:00,China,0.304781352860079,0.0,2.0,en,EAS,Asia
 'd46d20762c',extremes,Storm,#b3b2b1,wmo,Storm Pinglu District,2023-09-11T09:18:00+00:00,China,0.304764312636209,0.0,2.0,en,EAS,Asia
-'de43ca1473',extremes,Heat Wave,#c40202,wmo,Heat Wave Stadt Ingolstadt,2023-08-14T08:02:00+00:00,Germany,0.3047579935454468,0.0,2.0,en,WCE,Europe
 'c675a4d45e',extremes,Storm,#b3b2b1,wmo,Storm Dongling District,2023-09-11T09:18:00+00:00,China,0.304696339547735,0.0,2.0,en,EAS,Asia
 '2ea3b87bd6',extremes,Precipitation,#d60d2b,wmo,Rain Suburb,2023-09-11T09:18:00+00:00,China,0.304613778090825,0.0,2.0,en,EAS,Asia
 '0ac4785758',extremes,Thunderstorm,#53785a,wmo,Hail Parts of South Norway,2023-09-11T09:18:00+00:00,Norway,0.304598371601989,0.0,2.0,en,NEU,Europe
@@ -11655,7 +11648,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e2c0860211',extremes,Storm,#b3b2b1,wmo,Storm Minhang District,2023-08-17T07:07:00+00:00,China,0.2992879961701679,0.0,2.0,en,EAS,Asia
 '68e083953b',extremes,Heat Wave,#c40202,wmo,Heat Wave Tongyu County,2023-08-17T07:07:00+00:00,China,0.2986976725408237,0.0,2.0,en,EAS,Asia
 '9d8c7efcf9',extremes,Fog,#d60d2b,wmo,Fog Alleghany; Ashe; Watauga,2023-09-11T11:50:00+00:00,United States,0.29865452289304,0.0,2.0,en,CNA,North-America
-'95a2abb392',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Porters Pass (SH73),2023-08-15T08:40:00+00:00,New Zealand,0.2985211863603685,0.0,2.0,en,NZ,Oceania
 '9504df9a64',extremes,Wildfire,#d60d2b,wmo,Wildfire Karachay-Cherkess Republic,2023-08-17T02:38:00+00:00,Russian Federation,0.2984390084984192,0.0,2.0,en,ESB,Europe
 '17c3682d00',extremes,Wildfire,#d60d2b,wmo,Wildfire Republic of North Ossetia-Alania,2023-08-17T02:38:00+00:00,Russian Federation,0.2983078153289559,0.0,2.0,en,ESB,Europe
 '8ddab99007',extremes,Fog,#d60d2b,wmo,Fog Zuid-Holland,2023-09-12T02:38:00+00:00,Netherlands,0.2981037859503213,0.0,2.0,en,NEU,Europe
