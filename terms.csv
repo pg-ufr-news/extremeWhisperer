@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'31a102c336',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Greece,2023-09-04T02:38:00+00:00,Greece,0.7492999632300047,1.0,2.0,en,MED,Europe
 '43d207c1fc',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Margot,2023-09-09T02:37:00+00:00,,0.7478179471052595,7.0,3.0,en,NAO,Atlantic Ocean
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2023-08-17T02:38:00+00:00,Solomon Islands,0.7476384328115019,1.0,1.0,en,EPO,Oceania
 'f5eeee56a8',extremes,Tropical Cyclone,#4f4f4f,wmo,"Tropical Cyclone Hong Kong, China",2023-09-04T02:38:00+00:00,"Hong Kong, China",0.745758471890838,2.0,2.0,en,EAS,Asia
@@ -120,6 +119,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2023-09-10T02:38:00+00:00,Ireland,0.6611963198756415,1.0,3.0,en,NEU,Europe
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,glacier calving,2023-09-26T02:38:00+00:00,,0.6610668299278104,1.0,1.0,en,,
 '4077c848ff',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Philippe,2023-09-26T02:38:00+00:00,,0.6610012270718076,1.0,3.0,en,NAO,Atlantic Ocean
+'31a102c336',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Greece,2023-09-04T02:38:00+00:00,Greece,0.6600393819273221,2.0,3.0,en,MED,Europe
 'b9c8cbffa4',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Trad Chantaburi,2023-09-05T02:38:00+00:00,Thailand,0.6595638193002833,1.0,1.0,en,SEA,Asia
 'a28c8ef428',extremes,Storm,#b3b2b1,wmo,Storm United Kingdom,2023-09-09T02:38:00+00:00,United Kingdom,0.6586534483382384,1.0,2.0,en,NEU,Europe
 '7c0820ba84',extremes,Storm Surge,#834fa1,wmo,Storm Surge Spain,2023-09-04T02:38:00+00:00,Spain,0.6575155901493654,1.0,2.0,en,MED,Europe
@@ -2459,7 +2459,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ac2fa57d7',extremes,Landslide,#572c03,wmo,Landslide Yudu County,2023-09-16T02:38:00+00:00,China,0.5571669864411908,0.0,2.0,en,EAS,Asia
 '4d2b8d8409',extremes,Storm,#b3b2b1,wmo,Storm Denali,2023-08-31T08:14:00+00:00,United States,0.5571649155468859,1.0,1.0,en,CNA,North-America
 '5577bbdf6e',extremes,Drought,#edc291,relief,Drought Syria,2023-08-22T02:36:00+00:00,Syria,0.5571537356288128,0.0,2.0,en,MED,Asia
-'b072df4a21',extremes,Flood,#030ba1,fema,Flood Illinois,2023-08-15T00:00:00Z,United States,0.5571446601259341,1.0,2.0,en,ENA,North-America
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,hail,2023-08-12T02:37:00+00:00,,0.5571389842105872,1.0,3.0,en,,
 'a0d59f5cc1',extremes,Snow&Ice,#d60d2b,wmo,Snow Chongli District,2023-09-10T17:50:00+00:00,China,0.5571348115100281,0.0,2.0,en,EAS,Asia
 '41210bc398',extremes,Thunderstorm,#53785a,eswd,Hail Romania,2023-08-23T02:37:00+00:00,Romania,0.557134373631627,0.0,2.0,en,WCE,Europe
@@ -2737,7 +2736,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e408bac73',extremes,Storm,#b3b2b1,wmo,Storm Krems (Land),2023-09-12T08:56:00+00:00,Austria,0.5539024334738734,0.0,2.0,en,WCE,Europe
 '19db7e98a9',extremes,Fog,#d60d2b,wmo,Fog Baota District,2023-09-20T02:39:00+00:00,China,0.5538996436919721,0.0,2.0,en,EAS,Asia
 '80bec73052',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Centro de Navarra,2023-09-10T02:38:00+00:00,Spain,0.5538934505274093,1.0,1.0,en,MED,Europe
-'91b2e4d81d',extremes,Wildfire,#d60d2b,fema,Hawaii Pulehu Fire,2023-08-09T00:00:00Z,United States,0.5538888127537429,1.0,3.0,en,NPO,North-America
 '2c3c89f6fc',extremes,Storm,#b3b2b1,wmo,Storm Wels-Land,2023-09-12T12:28:00+00:00,Austria,0.553851120784998,0.0,2.0,en,WCE,Europe
 '9c4f76890d',extremes,Storm,#b3b2b1,wmo,Storm Litoral sur de Girona,2023-09-14T02:38:00+00:00,Spain,0.5538455446773463,0.0,2.0,en,MED,Europe
 'ad2a73f49d',extremes,Storm,#b3b2b1,wmo,Storm Pamlico,2023-08-31T02:38:00+00:00,United States,0.553844505638938,0.0,2.0,en,CNA,North-America
@@ -3083,7 +3081,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '646bba5356',extremes,Flood,#030ba1,relief,Flooding Ukraine,2023-09-09T02:37:00+00:00,Ukraine,0.55031774651617,0.0,2.0,en,WCE,Europe
 'ee6b820e37',extremes,Storm,#b3b2b1,wmo,Storm Robeson,2023-08-31T02:38:00+00:00,United States,0.550308606599702,0.0,2.0,en,CNA,North-America
 '172fb2b85e',extremes,Snow&Ice,#d60d2b,wmo,Snow Kangbao County,2023-09-11T17:29:00+00:00,China,0.5502960216073374,0.0,2.0,en,EAS,Asia
-'d74649df93',extremes,Storm,#b3b2b1,fema,Storm New Jersey,2023-08-11T00:00:00Z,United States,0.5502923380769306,2.0,3.0,en,ENA,North-America
 'ecdfb6bc92',extremes,Fog,#d60d2b,wmo,Fog Longxian,2023-09-21T02:38:00+00:00,China,0.5502896934171811,0.0,2.0,en,EAS,Asia
 '36d693e085',extremes,Landslide,#572c03,wmo,Rockslide Gengma Dai Wa Autonomous County,2023-09-12T08:56:00+00:00,China,0.550282533197911,0.0,2.0,en,EAS,Asia
 '4042a711c6',extremes,Storm,#b3b2b1,wmo,Storm Coastal Collier County,2023-08-30T07:43:00+00:00,United States,0.550274153295482,0.0,2.0,en,CNA,North-America
@@ -10989,7 +10986,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce670bc856',extremes,Landslide,#572c03,wmo,Landslide Pan an county,2023-08-18T02:38:00+00:00,China,0.355870444348035,0.0,2.0,en,EAS,Asia
 '926784c77c',extremes,Drought,#edc291,edo,Dry Spell Bahamas,2023-09-16T02:38:00+00:00,Bahamas,0.3547868920680638,0.0,2.0,en,CAR,North-America
 '0ed10aaca0',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Zabaykalsky Krai,2023-08-20T02:38:00+00:00,Russia,0.3540146228872315,0.0,2.0,en,ESB,Europe
-'167b4871d2',extremes,Storm Surge,#834fa1,wmo,Storm Surge Poland,2023-08-16T00:16:00+00:00,Poland,0.3538968799654068,0.0,2.0,en,WCE,Europe
 'd542775d0e',extremes,Precipitation,#d60d2b,floodlist,Flooding Libya,2023-09-25T02:38:00+00:00,Libya,0.3538750874373173,0.0,2.0,en,SAH,Africa
 '6bcea1006c',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Polog region,2023-08-19T02:38:00+00:00,North Macedonia,0.3538402163903597,0.0,2.0,en,MED,Europe
 '798db3f2d3',extremes,Drought,#edc291,edo,Dryness Belarus,2023-09-16T02:38:00+00:00,Belarus,0.3536845270637704,0.0,2.0,en,WCE,Europe
