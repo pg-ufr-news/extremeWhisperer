@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'cd349f2a0f',extremes,Drought,#edc291,edo,Dryness Hong Kong,2023-09-17T02:38:00+00:00,Hong Kong,0.7851161079508147,0.0,2.0,en,EAS,Asia
 '493559b064',extremes,Storm,#b3b2b1,wmo,Storm Soome lahe lääneosa,2023-09-05T02:38:00+00:00,Estonia,0.7346138242978448,1.0,1.0,en,NEU,Europe
 '129e7069b9',extremes,Thunderstorm,#53785a,wmo,Hail Southeastern region,2023-09-04T02:38:00+00:00,North Macedonia,0.7344143038281705,1.0,1.0,en,MED,Europe
 '9d9f18de43',extremes,Thunderstorm,#53785a,wmo,Severe Weather United States of America,2023-09-05T02:38:00+00:00,United States,0.7317515808528762,1.0,3.0,en,CNA,North-America
@@ -85,6 +84,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f49790dcd',extremes,Storm Surge,#834fa1,wmo,Storm Surge Gloucester; York,2023-09-01T02:41:00+00:00,United States,0.667886853742185,1.0,1.0,en,CNA,North-America
 'a89d904a2e',extremes,Flood,#030ba1,wmo,Flashflood Dallas,2023-09-02T02:38:00+00:00,United States,0.6677823797358511,1.0,1.0,en,CNA,North-America
 '828b8e70ce',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Barbados,2023-09-10T02:38:00+00:00,Barbados,0.6677246149681124,1.0,1.0,en,CAR,North-America
+'cd349f2a0f',extremes,Drought,#edc291,edo,Dryness Hong Kong,2023-09-17T02:38:00+00:00,Hong Kong,0.6673487217581925,1.0,1.0,en,EAS,Asia
 'f05a6139b4',extremes,Precipitation,#d60d2b,wmo,Downpour Russia,2023-09-02T02:38:00+00:00,Russia,0.667137143603343,2.0,1.0,en,ESB,Europe
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2023-09-06T02:38:00+00:00,New Zealand,0.6661478422325953,1.0,3.0,en,NZ,Oceania
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2023-09-01T02:41:00+00:00,United States,0.6661376908244553,2.0,3.0,en,CNA,North-America
@@ -3073,7 +3073,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fba9512f0d',extremes,Landslide,#572c03,wmo,Landslide Ledu District,2023-09-24T09:45:00+00:00,China,0.5463904013834646,0.0,2.0,en,EAS,Asia
 '1f1ca83bda',extremes,Landslide,#572c03,relief,Land Slide Georgia,2023-08-25T02:37:00+00:00,Georgia,0.5463810578770982,0.0,2.0,en,WCA,Asia
 'c9f49abc63',extremes,Landslide,#572c03,relief,Landslide Yemen,2023-09-20T02:37:00+00:00,Yemen,0.5463761858836581,0.0,2.0,en,ARP,Asia
-'7b1ce7600c',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States of America,2023-08-30T07:43:00+00:00,United States,0.54637414356346,2.0,1.0,en,CNA,North-America
 '2c517c6ab1',extremes,Storm,#b3b2b1,eswd,Strong Wind Poland,2023-08-28T02:38:00+00:00,Poland,0.5463642592433672,0.0,2.0,en,WCE,Europe
 '1fcda1a1dd',extremes,Landslide,#572c03,wmo,Landslide Gejiu City,2023-09-12T17:03:00+00:00,China,0.546345355990068,0.0,2.0,en,EAS,Asia
 '65dfc20f02',extremes,Flood,#030ba1,emdat,Flood Maradi,2023-09-20T02:39:00+00:00,Niger,0.5463290997915675,0.0,2.0,en,SAH,Africa
@@ -3483,7 +3482,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa2c07ad9a',extremes,Tsunami,#690191,usgs,Tsunami Sand Point,2023-09-21T02:37:00+00:00,Alaska,0.5409624680535138,0.0,2.0,en,NWN,North-America
 'dee0542cf5',extremes,Heat Wave,#c40202,wmo,Heat Wave Linwu County,2023-09-19T02:38:00+00:00,China,0.5409340370220668,0.0,2.0,en,EAS,Asia
 'bd21048a6a',extremes,Drought,#edc291,edo,Drought United Arab Emirates,2023-09-12T12:28:00+00:00,United Arab Emirates,0.54092430057909,0.0,2.0,en,ARP,Asia
-'f6616db6dc',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Norway,2023-08-30T07:43:00+00:00,Norway,0.5409121424393176,2.0,1.0,en,NEU,Europe
 'd9d0e6adad',extremes,Heat Wave,#c40202,wmo,Heat Wave Xihu District,2023-09-19T08:46:00+00:00,China,0.5408900002403698,0.0,2.0,en,EAS,Asia
 '70e952af3c',extremes,Thunderstorm,#53785a,meteo,Thunderstorm Netherlands,2023-09-18T02:38:00+00:00,Netherlands,0.5408407881065652,0.0,2.0,en,NEU,Europe
 '6ee340692d',extremes,Precipitation,#d60d2b,wmo,Precipitation Bellinzonese,2023-09-21T02:38:00+00:00,Switzerland,0.5408285953150629,0.0,2.0,en,WCE,Europe
