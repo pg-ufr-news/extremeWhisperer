@@ -135,7 +135,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5eeee56a8',extremes,Tropical Cyclone,#4f4f4f,wmo,"Tropical Cyclone Hong Kong, China",2023-09-04T02:38:00+00:00,"Hong Kong, China",0.6392606556911303,4.0,2.0,en,EAS,Asia
 '8778448f1d',extremes,Snow&Ice,#d60d2b,wmo,Frost Norway,2023-08-31T02:38:00+00:00,Norway,0.6391832414800623,1.0,2.0,en,NEU,Europe
 '84a92d2d97',extremes,Precipitation,#d60d2b,wmo,Downpour Thailand,2023-08-31T02:38:00+00:00,Thailand,0.6390361823366972,1.0,2.0,en,SEA,Asia
-'493c7ff6fb',extremes,Wildfire,#d60d2b,wmo,Wildfire Republic of Moldova,2023-10-04T02:39:00+00:00,Republic of Moldova,0.6386782584467428,0.0,2.0,en,WCE,Europe
 '2885d6e6dd',extremes,Flood,#030ba1,wmo,Flashflood Clark,2023-09-02T02:38:00+00:00,United States,0.6385187881387987,1.0,1.0,en,CNA,North-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,Earthquake Chile,2023-08-30T07:42:00+00:00,Chile,0.637956325457562,1.0,2.0,en,SWS,South-America
 'f90601fa23',extremes,Volcano,#b83202,random,volcano eruption,2023-09-13T02:38:00+00:00,,0.637928730408995,1.0,3.0,en,,
@@ -2948,6 +2947,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '53099fe242',extremes,Heat Wave,#c40202,wmo,Heat Wave Nansha District,2023-09-22T02:38:00+00:00,China,0.542897436131649,0.0,2.0,en,EAS,Asia
 '93d963d052',extremes,Landslide,#572c03,wmo,Mudslide Guiyang City,2023-09-22T02:38:00+00:00,China,0.5428943386116647,0.0,2.0,en,EAS,Asia
 '3827a35ad9',extremes,Heat Wave,#c40202,wmo,Heat Wave Jiahe County,2023-09-18T02:38:00+00:00,China,0.5428880127307967,0.0,2.0,en,EAS,Asia
+'493c7ff6fb',extremes,Wildfire,#d60d2b,wmo,Wildfire Republic of Moldova,2023-10-04T02:39:00+00:00,Republic of Moldova,0.5428765196797313,1.0,1.0,en,WCE,Europe
 'af6af747d1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Inland Bryan,2023-08-30T07:43:00+00:00,United States,0.5428730449545991,0.0,2.0,en,CNA,North-America
 '2e6e722804',extremes,Heat Wave,#c40202,wmo,Heat Wave Shunde District,2023-09-21T02:38:00+00:00,China,0.5428616435266889,0.0,2.0,en,EAS,Asia
 'ffac93c719',extremes,Landslide,#572c03,wmo,Mudslide Chunan County,2023-09-15T02:38:00+00:00,China,0.54284146460352,0.0,2.0,en,EAS,Asia
@@ -8502,7 +8502,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa182bc559',extremes,Wildfire,#d60d2b,effis,Bushfire Algueirão Mem-Martins,2023-09-08T02:37:00+00:00,Portugal,0.4857017332914542,0.0,2.0,en,MED,Europe
 'fd6252bf11',extremes,Drought,#edc291,edo,Lack of Rain Sweden,2023-09-13T02:39:00+00:00,Sweden,0.4856814064683208,0.0,2.0,en,NEU,Europe
 '4820cd6691',extremes,Volcano,#b83202,eonet,Volcano Nicaragua,2023-07-05T00:00:0+00:00,Nicaragua,0.4856472620198154,1.0,1.0,en,SCA,North-America
-'76e2a9fd56',extremes,Flood,#030ba1,wmo,Flooding Topoľčany,2023-09-24T02:38:00+00:00,Slovakia,0.48562084681344586,1.0,1.0,en,WCE,Europe
+'76e2a9fd56',extremes,Flood,#030ba1,wmo,Flooding Topoľčany,2023-09-24T02:38:00+00:00,Slovakia,0.4856208468134458,1.0,1.0,en,WCE,Europe
 'c510243653',extremes,Storm,#b3b2b1,meteo,Wind France,2023-08-28T02:38:00+00:00,France,0.4855410058937608,0.0,2.0,en,SAH,Africa
 'f63458eeb3',extremes,Volcano,#b83202,eonet,"Piton de la Fournaise Volcano, Reunion (France)",2023-07-03T00:00:0+00:00,Reunion,0.4855271635379648,1.0,1.0,en,SIO,Africa
 '6916f27c88',extremes,Wildfire,#d60d2b,effis,Wildfire Algueirão Mem-Martins,2023-09-10T02:38:00+00:00,Portugal,0.485519871349013,0.0,2.0,en,MED,Europe
