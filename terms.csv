@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'441a979648',extremes,Flooding,#d60d2b,acwe,Flooding Western Australia,2023-09-24T09:46:00+00:00,Australia,0.7722409040083438,0.0,2.0,en,CAU,Oceania
 '0321e2fede',extremes,Storm,#b3b2b1,wmo,Storm Portugal,2023-09-02T02:38:00+00:00,Portugal,0.7157616552174813,1.0,3.0,en,MED,Europe
 '37d17dd9bc',extremes,Flood,#030ba1,wmo,Flashflood Sweden,2023-08-31T08:14:00+00:00,Sweden,0.7133766887961024,1.0,1.0,en,NEU,Europe
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2023-09-05T02:38:00+00:00,United States,0.713346400973927,1.0,2.0,en,CNA,North-America
@@ -73,6 +72,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '120e05920e',extremes,Heat Wave,#c40202,acwe,Bushfire New South Wales,2023-09-22T02:39:00+00:00,Australia,0.6625357432635958,1.0,2.0,en,EAU,Oceania
 '500172fc71',extremes,Snow&Ice,#d60d2b,wmo,Freezing Russia,2023-09-02T02:38:00+00:00,Russia,0.662201315513028,1.0,2.0,en,ESB,Europe
 '0d4d11bc58',extremes,Heat Wave,#c40202,wmo,Heat Wave Gatineau,2023-09-03T02:38:00+00:00,Canada,0.6618597205553579,1.0,2.0,en,NEN,North-America
+'441a979648',extremes,Flooding,#d60d2b,acwe,Flooding Western Australia,2023-09-24T09:46:00+00:00,Australia,0.6613558034070922,1.0,3.0,en,CAU,Oceania
 'a8e83d6b0f',extremes,Storm,#b3b2b1,wmo,Storm Weston,2023-09-10T02:38:00+00:00,United States,0.661333454545609,1.0,2.0,en,CNA,North-America
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2023-09-10T02:38:00+00:00,Ireland,0.6611963198756415,1.0,3.0,en,NEU,Europe
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,glacier calving,2023-09-26T02:38:00+00:00,,0.6610668299278104,1.0,1.0,en,,
@@ -84,7 +84,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7c0820ba84',extremes,Storm Surge,#834fa1,wmo,Storm Surge Spain,2023-09-04T02:38:00+00:00,Spain,0.6575155901493654,1.0,2.0,en,MED,Europe
 'ee48b0cac4',extremes,Flood,#030ba1,floodlist,"Flood Greece, Turkey and Bulgaria",2023-09-14T02:37:00+00:00,"Greece, Turkey and Bulgaria",0.6571273558990149,1.0,3.0,en,,Europe
 '1690b6b5fa',extremes,Precipitation,#d60d2b,wmo,Precipitation Eastern region,2023-09-03T02:38:00+00:00,North Macedonia,0.6549067978454607,1.0,2.0,en,MED,Europe
-'a4e5b8c460',extremes,Tropical Cyclone,#4f4f4f,wmo,"Typhoon Macao, China",2023-08-31T08:14:00+00:00,"Macao, China",0.6545709031990364,1.0,1.0,en,EAS,Asia
 '6ef78a80e8',extremes,Drought,#edc291,edo,Lack of Rain Mexico,2023-09-10T16:36:00+00:00,Mexico,0.6541106374759723,1.0,2.0,en,NCA,North-America
 '9f1f2dcacb',extremes,Flood,#030ba1,wmo,Flood Ilocos Sur; Ilocos Norte,2023-09-01T02:41:00+00:00,Philippines,0.6538600663948174,1.0,1.0,en,SEA,Asia
 'b847f55060',extremes,Heat Wave,#c40202,wmo,Heat Wave Backa,2023-09-09T02:38:00+00:00,Serbia,0.652901860926366,1.0,1.0,en,MED,Europe
@@ -114,7 +113,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5fa8003f5',extremes,Storm,#b3b2b1,wmo,Storm Russia,2023-09-02T02:38:00+00:00,Russia,0.643352421923616,2.0,3.0,en,ESB,Europe
 '287dd7b99f',extremes,Flooding,#d60d2b,acwe,Flooding New South Wales,2023-09-21T02:39:00+00:00,Australia,0.6421229421340813,1.0,2.0,en,EAU,Oceania
 '69167dc267',extremes,Storm,#b3b2b1,fema,Guam Tropical Storm Bolaven,2023-10-10T02:38:00+00:00,Guam,0.6417480585236243,0.0,2.0,en,NPO,Oceania
-'fb85178c12',extremes,Flood,#030ba1,wmo,Flooding River Delångersån,2023-08-31T08:14:00+00:00,Sweden,0.6415673881093408,1.0,1.0,en,NEU,Europe
 'aa99df21d8',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Canada,2023-08-31T02:38:00+00:00,Canada,0.641499014371813,1.0,3.0,en,NEN,North-America
 '3d78159313',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Greece,2023-09-04T02:38:00+00:00,Greece,0.6414677108444623,1.0,2.0,en,MED,Europe
 '4130a75ccf',extremes,Thunderstorm,#53785a,wmo,Hail Greece,2023-09-04T02:38:00+00:00,Greece,0.641243471818871,1.0,1.0,en,MED,Europe
@@ -4883,7 +4881,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c0c430f44',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Noroeste de A Coruña,2023-09-19T08:46:00+00:00,Spain,0.5218108555763344,0.0,2.0,en,MED,Europe
 '24c0548659',extremes,Thunderstorm,#53785a,wmo,Hail Interior sur de Valencia,2023-09-12T13:53:00+00:00,Spain,0.5217533744584163,0.0,2.0,en,MED,Europe
 '504057e963',extremes,Storm Surge,#834fa1,wmo,Storm Surge Coastal Camden Coastal Glynn,2023-10-01T10:03:00+00:00,United States,0.5217351992730326,0.0,2.0,en,CNA,North-America
-'78d090d38d',extremes,Snow&Ice,#d60d2b,wmo,Snow Norway,2023-08-30T07:43:00+00:00,Norway,0.5217208702542425,2.0,2.0,en,NEU,Europe
 '54f5b8faba',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Trentino Alto Adige,2023-09-12T17:03:00+00:00,Italy,0.5217011197327059,0.0,2.0,en,MED,Europe
 '5e5141e331',extremes,Thunderstorm,#53785a,wmo,Hail Visegrad,2023-09-22T02:38:00+00:00,Bosnia and Herzegovina,0.5216856372526929,0.0,2.0,en,MED,Europe
 '0a9befb9ca',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Backa,2023-09-19T02:38:00+00:00,Serbia,0.5216683140333742,0.0,2.0,en,MED,Europe
