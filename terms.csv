@@ -45,7 +45,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3534db722e',extremes,Storm Surge,#834fa1,wmo,Storm Surge Western Australia Eucla Coast,2023-10-22T02:40:00+00:00,Australia,0.7540722068380836,0.0,2.0,en,CAU,Oceania
 '2cf4f3e5f9',extremes,Storm Surge,#834fa1,meteo,Coastal Event Spain,2023-09-11T02:37:00+00:00,Spain,0.7536678176798983,0.0,2.0,en,MED,Europe
 'f6bd5b92af',extremes,Storm Surge,#834fa1,wmo,Storm Surge Madeira Porto Santo,2023-10-16T02:40:00+00:00,Portugal,0.7525525170989981,0.0,2.0,en,MED,Europe
-'9224c7fb7b',extremes,Storm Surge,#834fa1,wmo,Storm Surge Victoria West Coast,2023-10-20T02:38:00+00:00,Australia,0.7522460402136434,0.0,2.0,en,CAU,Oceania
 '75054c8966',extremes,Heat Wave,#c40202,wmo,Heat Wave Istocna Srbija,2023-10-11T02:38:00+00:00,Serbia,0.7521811386382704,0.0,2.0,en,MED,Europe
 '0a725eae3f',extremes,Storm Surge,#834fa1,wmo,Storm Surge Tasmania Far North West Coast,2023-10-22T02:40:00+00:00,Australia,0.7518076648768824,0.0,2.0,en,CAU,Oceania
 'b95f4c4014',extremes,Earthquake,#870007,usgs,Earthquake Barrancas,2023-10-17T20:29:00+00:00,Argentina,0.7517902316208812,0.0,2.0,en,SWS,South-America
@@ -1067,6 +1066,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6977541e84',extremes,Drought,#edc291,relief,Drought Madagascar,2023-10-15T02:38:00+00:00,Madagascar,0.6395535104559392,1.0,1.0,en,MDG,Africa
 '3fe2e6447e',extremes,Storm Surge,#834fa1,wmo,Storm Surge Aveiro,2023-10-17T20:30:00+00:00,Portugal,0.6394551227394775,1.0,1.0,en,MED,Europe
 '472e485d3f',extremes,Wildfire,#d60d2b,esawfa,Bushfire Malawi,2023-10-02T08:27:00+00:00,Malawi,0.6394123676819742,1.0,1.0,en,ESAF,Africa
+'9224c7fb7b',extremes,Storm Surge,#834fa1,wmo,Storm Surge Victoria West Coast,2023-10-20T02:38:00+00:00,Australia,0.6394091491815969,1.0,1.0,en,CAU,Oceania
 'd1d1457c61',extremes,Storm,#b3b2b1,wmo,Storm Thal,2023-10-13T11:58:00+00:00,Switzerland,0.6393687523867153,1.0,1.0,en,WCE,Europe
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2023-09-23T02:37:00+00:00,Papua New Guinea,0.6392427484739762,1.0,1.0,en,EPO,Pacific Ocean
 '4b1b6ef845',extremes,Storm,#b3b2b1,wmo,Storm Jõgeva maakond Rapla maakond,2023-10-13T13:17:00+00:00,Estonia,0.6390920384750813,0.0,2.0,en,NEU,Europe
@@ -4059,7 +4059,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '843a5168cd',extremes,Precipitation,#d60d2b,wmo,Downpour Zuoz,2023-09-21T02:38:00+00:00,Switzerland,0.540333035431809,0.0,2.0,en,WCE,Europe
 '617d8597b9',extremes,Heat Wave,#c40202,wmo,Heat Wave Yizhang County,2023-09-20T02:39:00+00:00,China,0.5403170501307206,0.0,2.0,en,EAS,Asia
 'b454ccd412',extremes,Heat Wave,#c40202,wmo,Heat Wave Qujiang District,2023-09-18T02:38:00+00:00,China,0.5403039412404398,0.0,2.0,en,EAS,Asia
-'124e1ae3f2',extremes,Drought,#edc291,edo,Dry Spell New Caledonia,2023-09-12T08:56:00+00:00,New Caledonia,0.5402910643026849,1.0,1.0,en,SPO,Oceania
 '16030498d0',extremes,Wildfire,#d60d2b,wmo,Wildfire Xingning City,2023-10-16T02:40:00+00:00,China,0.5402789481949466,0.0,2.0,en,EAS,Asia
 'f1d9f7c9ca',extremes,Flood,#030ba1,relief,Flash Flood Afghanistan,2023-09-10T10:29:00+00:00,Afghanistan,0.54024163726394,0.0,2.0,en,WCA,Asia
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,sandstorm,2023-09-12T17:02:00+00:00,,0.5402173779872795,1.0,3.0,en,,
@@ -4945,7 +4944,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0aad89fcc9',extremes,Storm,#b3b2b1,wmo,Storm Rongcheng City,2023-09-19T08:46:00+00:00,China,0.5305342484606752,0.0,2.0,en,EAS,Asia
 '6944dd2ea2',extremes,Storm,#b3b2b1,wmo,Storm Dongning City,2023-09-19T08:46:00+00:00,China,0.5305240052179577,0.0,2.0,en,EAS,Asia
 'c9c0b5dfad',extremes,Flood,#030ba1,floodlist,Flash Flood Greece,2023-09-11T17:28:00+00:00,Greece,0.5304913041591283,1.0,2.0,en,MED,Europe
-'2fa771190c',extremes,Precipitation,#d60d2b,floodlist,Several Rescued After Storm Triggers Flash Floods in Pennsylvania,2023-09-12T08:56:00+00:00,United States,0.5304908571395073,1.0,1.0,en,WNA,North-America
 '9e81529a37',extremes,Precipitation,#d60d2b,wmo,Downpour Ibérica zaragozana,2023-09-12T02:38:00+00:00,Spain,0.530478460415398,0.0,2.0,en,MED,Europe
 '4f6518c762',extremes,Storm,#b3b2b1,wmo,Storm Dongkou County,2023-09-12T12:28:00+00:00,China,0.530478160827482,0.0,2.0,en,EAS,Asia
 'cbb3832129',extremes,Thunderstorm,#53785a,wmo,Hail Kemerovo Region,2023-09-12T17:03:00+00:00,Russian Federation,0.5304717858542232,0.0,2.0,en,ESB,Europe
