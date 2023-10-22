@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'9349bd9c5e',extremes,Drought,#edc291,edo,Dryness Equatorial Guinea,2023-09-24T02:38:00+00:00,Equatorial Guinea,0.8371069142398456,0.0,2.0,en,CAF,Africa
 '22055e4283',extremes,Drought,#edc291,edo,Drought Nicaragua,2023-10-22T02:40:00+00:00,Nicaragua,0.8156618990699713,0.0,2.0,en,SCA,North-America
 'c3d188b8ce',extremes,Drought,#edc291,edo,Drought El Salvador,2023-09-26T02:39:00+00:00,El Salvador,0.7958223685169493,0.0,2.0,en,SCA,North-America
 '1f2e5def6b',extremes,Storm,#b3b2b1,fema,Agua Caliente Band of Cahuilla Indians Tropical Storm Hilary,2023-10-21T02:37:00+00:00,United States,0.7908130799262315,0.0,2.0,en,,
@@ -225,6 +224,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a562de4a79',extremes,Earthquake,#870007,usgs,Earthquake Zindah Jān,2023-10-08T02:39:00+00:00,Afghanistan,0.7118789377551036,0.0,2.0,en,WCA,Asia
 '65b195735a',extremes,Storm,#b3b2b1,wmo,Storm United Kingdom of Great Britain and Northern Ireland,2023-10-18T07:18:00+00:00,United Kingdom,0.7118350933888936,0.0,2.0,en,NEU,Europe
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2023-10-13T11:58:00+00:00,Australia,0.7118274026559906,0.0,2.0,en,CAU,Oceania
+'9349bd9c5e',extremes,Drought,#edc291,edo,Dryness Equatorial Guinea,2023-09-24T02:38:00+00:00,Equatorial Guinea,0.7115408771038687,1.0,1.0,en,CAF,Africa
 '0199d471e4',extremes,Flood,#030ba1,relief,Flood Bhutan,2023-10-13T08:17:00+00:00,Bhutan,0.7114131582047041,0.0,2.0,en,TIB,Asia
 '1f25dc2fa0',extremes,Flood,#030ba1,wmo,Flood Tasmania Meander River,2023-10-20T02:38:00+00:00,Australia,0.7108743285019566,0.0,2.0,en,CAU,Oceania
 'ae5eb05a96',extremes,Snow&Ice,#d60d2b,wmo,Snow Milford Road SH94,2023-10-02T02:38:00+00:00,New Zealand,0.7106245178787531,0.0,2.0,en,NZ,Oceania
@@ -2804,7 +2804,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '50442bd292',extremes,Precipitation,#d60d2b,wmo,Rain Westland south of Otira,2023-09-12T02:38:00+00:00,New Zealand,0.5620006436276014,0.0,2.0,en,NZ,Oceania
 '263253bca5',extremes,Storm,#b3b2b1,wmo,Storm Dodekanisa Islands,2023-09-10T17:50:00+00:00,Greece,0.5619828834539851,0.0,2.0,en,MED,Europe
 'ccfe1277cf',extremes,Storm,#b3b2b1,wmo,Storm Wolfsberg,2023-09-12T12:28:00+00:00,Austria,0.5619594219434503,0.0,2.0,en,WCE,Europe
-'2b20a18bcb',extremes,Drought,#edc291,edo,Dry Spell Morocco,2023-09-12T12:28:00+00:00,Morocco,0.5619149574211072,1.0,1.0,en,MED,Africa
 '1a5ad8f8c4',extremes,Storm,#b3b2b1,wmo,Storm Block Island,2023-09-14T02:38:00+00:00,United States,0.561911677472459,0.0,2.0,en,CNA,North-America
 '58a1b5964e',extremes,Precipitation,#d60d2b,wmo,Downpour Spain,2023-10-13T08:18:00+00:00,Spain,0.5619038025222098,0.0,2.0,en,MED,Europe
 '2d69920e03',extremes,Heat Wave,#c40202,meteo,Heat Wave Hungary,2023-09-12T15:06:00+00:00,Hungary,0.5618952188876004,0.0,2.0,en,WCE,Europe
@@ -3117,7 +3116,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83cf173d6c',extremes,Wildfire,#d60d2b,effis,Wildfire Barano d'Ischia,2023-09-12T15:06:00+00:00,,0.554950612239596,0.0,2.0,en,MED,
 '41c56fcbb0',extremes,Snow&Ice,#d60d2b,random,snow avalanche,2023-09-15T07:30:00+00:00,,0.5549440984795545,1.0,1.0,en,,
 '965398d47d',extremes,Fog,#d60d2b,wmo,Fog Helingeer County,2023-10-08T02:40:00+00:00,China,0.554937677574626,0.0,2.0,en,EAS,Asia
-'8f13e1df9b',extremes,Drought,#edc291,edo,Dry Spell Venezuela,2023-09-12T12:28:00+00:00,Venezuela,0.5549220994436159,1.0,1.0,en,NSA,South-America
 '608f7c65c1',extremes,Fog,#d60d2b,wmo,Fog Lianshan District,2023-09-25T02:38:00+00:00,China,0.5548969945344369,0.0,2.0,en,EAS,Asia
 '3389dd4e2f',extremes,Wildfire,#d60d2b,wmo,Wildfire Tianhe District,2023-10-13T08:18:00+00:00,China,0.5548835428954595,0.0,2.0,en,EAS,Asia
 '80b08e4393',extremes,Storm,#b3b2b1,wmo,Storm Northern Trinity; Southern Trinity,2023-09-25T02:38:00+00:00,United States,0.5548820968481059,0.0,2.0,en,CNA,North-America
@@ -3329,7 +3327,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d318aa908',extremes,Landslide,#572c03,wmo,Mudslide Gengma Dai Wa Autonomous County,2023-09-13T02:39:00+00:00,China,0.5514766008713232,0.0,2.0,en,EAS,Asia
 'f982e71edc',extremes,Heat Wave,#c40202,wmo,Heat Wave Yuanyang County,2023-09-12T08:56:00+00:00,China,0.551471599062666,0.0,2.0,en,EAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2023-09-09T02:37:00+00:00,,0.5514569793545646,1.0,3.0,en,,
-'bd8c88b2ec',extremes,Drought,#edc291,edo,Lack of Rain Democratic Republic of the Congo,2023-09-12T12:28:00+00:00,Democratic Republic of the Congo,0.5514362207229874,1.0,1.0,en,CAF,Africa
 '1246852f54',extremes,Heat Wave,#c40202,wmo,Heat Wave Coimbra,2023-10-05T02:40:00+00:00,Portugal,0.5514307590184786,0.0,2.0,en,MED,Europe
 'aa188401c6',extremes,Landslide,#572c03,wmo,Landslide Ximeng Vazu Zizhixian,2023-09-24T02:38:00+00:00,China,0.5514228938413943,0.0,2.0,en,EAS,Asia
 '696bbbc41f',extremes,Fog,#d60d2b,wmo,Fog North Vancouver Island,2023-10-06T02:39:00+00:00,Canada,0.5513520619231932,0.0,2.0,en,NEN,North-America
@@ -4367,7 +4364,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '48407f27c3',extremes,Precipitation,#d60d2b,wmo,Downpour Glarus Süd-Grosstal,2023-09-22T02:38:00+00:00,Switzerland,0.535886638553166,0.0,2.0,en,WCE,Europe
 '34daad31ce',extremes,Storm,#b3b2b1,fema,Storm New Hampshire,2023-09-18T02:37:00+00:00,United States,0.5358841038661759,0.0,2.0,en,ENA,North-America
 'ae188fd3c7',extremes,Precipitation,#d60d2b,wmo,Precipitation Central Hungary,2023-09-25T02:38:00+00:00,Hungary,0.5358739438310544,0.0,2.0,en,WCE,Europe
-'fa762f5750',extremes,Drought,#edc291,edo,Lack of Rain Lesotho,2023-09-12T12:28:00+00:00,Lesotho,0.5358660666519058,1.0,1.0,en,ESAF,Africa
 '95ea98243a',extremes,Wildfire,#d60d2b,wmo,Wildfire Sverdlovsk Region,2023-10-10T02:38:00+00:00,Russia,0.5358550481467608,0.0,2.0,en,ESB,Europe
 '64b11f3d09',extremes,Precipitation,#d60d2b,wmo,Precipitation Norte y nordeste de Mallorca,2023-09-20T02:39:00+00:00,Spain,0.5358488073866381,0.0,2.0,en,MED,Europe
 'd0c1641cd7',extremes,Precipitation,#d60d2b,wmo,Downpour Banská Štiavnica,2023-09-24T02:38:00+00:00,Slovakia,0.5358421524075252,0.0,2.0,en,WCE,Europe
