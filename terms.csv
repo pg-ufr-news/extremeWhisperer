@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b994dcebdd',extremes,Drought,#edc291,edo,Dry Spell Bulgaria,2023-10-18T07:59:00+00:00,Bulgaria,0.7757238978846726,0.0,2.0,en,MED,Europe
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,Earthquake Kokopo,2023-10-22T02:39:00+00:00,Papua New Guinea,0.7652295436537601,0.0,2.0,en,EPO,Pacific Ocean
 '5e67a6e3c8',extremes,Earthquake,#870007,usgs,Earthquake Coquimbo,2023-10-18T02:38:00+00:00,Chile,0.7602621939849021,0.0,2.0,en,SWS,South-America
 'e4fc1c9a92',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Barbados,2023-10-21T02:38:00+00:00,Barbados,0.7535107704828367,1.0,2.0,en,CAR,North-America
@@ -713,6 +712,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '068d28e7cc',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Jiamusi City,2023-10-18T02:40:00+00:00,China,0.6594059005880843,0.0,2.0,en,EAS,Asia
 '584f92b341',extremes,Wildfire,#d60d2b,esawfa,Wildfire Iraq,2023-10-12T02:39:00+00:00,Iraq,0.6593997481442996,0.0,2.0,en,WCA,Asia
 '7f426032e8',extremes,Drought,#edc291,edo,Dry Spell Bhutan,2023-09-12T08:56:00+00:00,Bhutan,0.6593762146125913,1.0,2.0,en,TIB,Asia
+'b994dcebdd',extremes,Drought,#edc291,edo,Dry Spell Bulgaria,2023-10-18T07:59:00+00:00,Bulgaria,0.6593653132019717,1.0,1.0,en,MED,Europe
 '1d9c104bbb',extremes,Storm,#b3b2b1,wmo,Storm Lithuania,2023-09-19T08:46:00+00:00,Lithuania,0.6593291368499977,0.0,2.0,en,WCE,Europe
 '7e10db4c75',extremes,Storm,#b3b2b1,wmo,Storm Pardubický kraj,2023-10-13T11:58:00+00:00,Czechia,0.6593036648674722,1.0,1.0,en,WCE,Europe
 'ca05149c65',extremes,Drought,#edc291,edo,Dry Spell Afghanistan,2023-09-12T15:06:00+00:00,Afghanistan,0.6592661722239446,1.0,2.0,en,WCA,Asia
@@ -1558,7 +1558,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '340e896835',extremes,Storm,#b3b2b1,wmo,Storm The Quark,2023-10-06T02:39:00+00:00,Sweden,0.6045254332016253,0.0,2.0,en,NEU,Europe
 'd71e91211d',extremes,Snow&Ice,#d60d2b,wmo,Snow Southern Erie,2023-10-23T02:39:00+00:00,United States,0.6045130269294523,0.0,2.0,en,CNA,North-America
 '485794e3d4',extremes,Earthquake,#870007,usgs,Earthquake Canada,2023-09-19T08:45:00+00:00,Canada,0.6044889717535494,1.0,3.0,en,NWN,North-America
-'63663feccd',extremes,Drought,#edc291,edo,Lack of Rain Moldova,2023-09-12T15:06:00+00:00,Moldova,0.6044647171320648,1.0,1.0,en,WCE,Europe
 '09d0026389',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Danzhou City,2023-10-18T02:40:00+00:00,China,0.6043511562735103,0.0,2.0,en,EAS,Asia
 '21ba3fca57',extremes,Storm,#b3b2b1,wmo,Storm Southern Gulf of California,2023-10-23T02:39:00+00:00,United States,0.604344656388087,0.0,2.0,en,CNA,North-America
 '075d3faeae',extremes,Storm,#b3b2b1,wmo,Storm Glarus Süd Grosstal,2023-10-19T02:39:00+00:00,Switzerland,0.6042793859065748,0.0,2.0,en,WCE,Europe
@@ -1838,7 +1837,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bff7a4c3ed',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Western Transdanubia,2023-10-22T02:40:00+00:00,Hungary,0.5858584147190514,0.0,2.0,en,WCE,Europe
 'a68daa1e89',extremes,Storm,#b3b2b1,wmo,Storm A Mariña,2023-09-08T02:38:00+00:00,Spain,0.5858433613082554,0.0,2.0,en,MED,Europe
 'a137179a38',extremes,Storm Surge,#834fa1,wmo,Storm Surge Maryland Beaches,2023-09-24T09:45:00+00:00,United States,0.5857945083233477,0.0,2.0,en,CNA,North-America
-'e166ae6ea3',extremes,Drought,#edc291,edo,Lack of Rain French Guiana,2023-09-12T15:06:00+00:00,French Guiana,0.5857934715632884,1.0,1.0,en,NSA,South-America
 'e784340040',extremes,Earthquake,#870007,usgs,M 5.5,2023-10-01T06:36:00+00:00,,0.5857529456539478,0.0,2.0,en,SIO,Indian Ocean
 '20b993b700',extremes,Precipitation,#d60d2b,wmo,Torrential Rain West Vancouver Island,2023-10-17T02:40:00+00:00,Canada,0.5856738862515756,0.0,2.0,en,NEN,North-America
 'd36f69058c',extremes,Flood,#030ba1,fema,Flood Maine,2023-09-06T02:38:00+00:00,United States,0.58564382205677,0.0,2.0,en,ENA,North-America
