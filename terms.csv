@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a2e0dc05c',extremes,Storm,#b3b2b1,wmo,Storm Hungary,2023-09-13T02:39:00+00:00,Hungary,0.7350315826764814,1.0,1.0,en,WCE,Europe
 'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2023-10-01T10:03:00+00:00,New Zealand,0.7349721532073056,1.0,1.0,en,NZ,Oceania
 '52a2fddad0',extremes,Wildfire,#d60d2b,wmo,Wildfire Altai Republic,2023-09-11T13:20:00+00:00,Russian Federation,0.7349390871284176,1.0,1.0,en,ESB,Europe
-'df79ad9ae7',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa El Hierro,2023-10-22T02:40:00+00:00,Spain,0.7349239743904131,0.0,2.0,en,MED,Europe
 'cd193fce00',extremes,Wildfire,#d60d2b,wmo,Wildfire Chechen Republic,2023-10-06T02:39:00+00:00,Russian Federation,0.7347958403554572,0.0,2.0,en,ESB,Europe
 'e5d7355849',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa Fuerteventura,2023-10-21T02:38:00+00:00,Spain,0.7347586053713259,0.0,2.0,en,MED,Europe
 '8982a15e86',extremes,Wildfire,#d60d2b,wmo,Wildfire Northern Territory Barkly North,2023-10-13T13:17:00+00:00,Australia,0.7342833126308661,0.0,2.0,en,CAU,Oceania
@@ -1414,6 +1413,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee3251f277',extremes,Storm,#b3b2b1,wmo,Storm New South Wales Eden Coast,2023-10-01T06:37:00+00:00,Australia,0.6247776711762544,0.0,2.0,en,CAU,Oceania
 '871e4a0db1',extremes,Storm,#b3b2b1,wmo,Storm Jewell Mitchell,2023-10-13T11:58:00+00:00,United States,0.624722232279429,0.0,2.0,en,CNA,North-America
 '123bea0a59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Central Brooks Range,2023-10-23T02:39:00+00:00,United States,0.6247011301277614,0.0,2.0,en,CNA,North-America
+'df79ad9ae7',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa El Hierro,2023-10-22T02:40:00+00:00,Spain,0.6246853782318511,1.0,1.0,en,MED,Europe
 '25851e8376',extremes,Storm,#b3b2b1,wmo,Storm Western Australia Esperance Coast,2023-10-05T02:40:00+00:00,Australia,0.624517632596461,0.0,2.0,en,CAU,Oceania
 'c966c085b5',extremes,Storm,#b3b2b1,wmo,Storm Kattegat,2023-09-18T02:38:00+00:00,Sweden,0.6244853573273074,0.0,2.0,en,NEU,Europe
 '85c7df9939',extremes,Landslide,#572c03,wmo,Rockslide Eryuan County,2023-10-13T11:58:00+00:00,China,0.6243948947819133,0.0,2.0,en,EAS,Asia
@@ -6293,7 +6293,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a0bf26efc9',extremes,Thunderstorm,#53785a,wmo,Severe Weather Abruzzo,2023-09-20T02:39:00+00:00,Italy,0.5175152534975123,0.0,2.0,en,MED,Europe
 '8009981fb6',extremes,Thunderstorm,#53785a,wmo,Hail Campania,2023-09-23T02:38:00+00:00,Italy,0.5175123710973342,0.0,2.0,en,MED,Europe
 '6035c81bf9',extremes,Thunderstorm,#53785a,wmo,Severe Weather Wien Simmering,2023-09-12T13:53:00+00:00,Austria,0.517512330255315,0.0,2.0,en,WCE,Europe
-'5d2a1e2d1a',extremes,Wildfire,#d60d2b,meteo,Wildfire Lithuania,2023-09-10T10:30:00+00:00,Lithuania,0.51751031831508,1.0,2.0,en,WCE,Europe
 '80d727e09b',extremes,Fog,#d60d2b,wmo,Fog Považská Bystrica,2023-10-12T02:38:00+00:00,Slovakia,0.5175036103741845,0.0,2.0,en,WCE,Europe
 '7511d1851e',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Wien Favoriten,2023-09-12T17:03:00+00:00,Austria,0.5174877418558872,0.0,2.0,en,WCE,Europe
 'e268275c93',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Serranía de Guadalajara,2023-09-15T02:38:00+00:00,Spain,0.5174828995548644,0.0,2.0,en,MED,Europe
@@ -9579,7 +9578,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c79249d5f',extremes,Thunderstorm,#53785a,wmo,Hail Ireland,2023-09-10T17:50:00+00:00,Ireland,0.482498060374431,0.0,2.0,en,NEU,Europe
 'cd335c7fe1',extremes,Fog,#d60d2b,wmo,Fog Sinan County,2023-09-21T02:38:00+00:00,China,0.4824785268048722,1.0,1.0,en,EAS,Asia
 '5c51c94dae',extremes,Fog,#d60d2b,wmo,Fog Yiyang County,2023-10-08T02:40:00+00:00,China,0.4824671846849338,1.0,1.0,en,EAS,Asia
-'298a7f2421',extremes,Flood,#030ba1,relief,Flooding Colombia,2023-09-10T10:29:00+00:00,Colombia,0.482453965119334,1.0,2.0,en,NWS,South-America
 'e74171b1a1',extremes,Snow&Ice,#d60d2b,wmo,Frost Hequ County,2023-10-13T08:18:00+00:00,China,0.4824240740682635,0.0,2.0,en,EAS,Asia
 'f93df854ee',extremes,Wildfire,#d60d2b,esawfa,Wildfire North Macedonia,2023-10-15T02:40:00+00:00,North Macedonia,0.4823912048919389,0.0,2.0,en,MED,Europe
 'bd49390a6e',extremes,Wildfire,#d60d2b,effis,Wild Fire Timpa dei Palombi,2023-09-10T02:38:00+00:00,Italy,0.482362319648727,0.0,2.0,en,MED,Europe
