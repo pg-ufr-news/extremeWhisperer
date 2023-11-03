@@ -148,7 +148,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ebb38977b1',extremes,Flood,#030ba1,wmo,Flood Juneau,2023-10-29T02:40:00+00:00,United States,0.736005745088124,0.0,2.0,en,CNA,North-America
 'db87a5b0e6',extremes,Earthquake,#870007,usgs,Earthquake Manatutu,2023-10-30T02:38:00+00:00,Timor Leste,0.7356876237130184,0.0,2.0,en,SEA,Asia
 '53a3fc4fb7',extremes,Wildfire,#d60d2b,wmo,Wildfire Irkutsk Region,2023-10-10T02:38:00+00:00,Russian Federation,0.7356762457993109,0.0,2.0,en,ESB,Europe
-'4a933d762d',extremes,Flood,#030ba1,wmo,Flooding Hunt Rockwall,2023-10-29T02:40:00+00:00,United States,0.7354676665173964,0.0,2.0,en,CNA,North-America
 'b0ae2a0bb2',extremes,Precipitation,#d60d2b,wmo,Precipitation Luxembourg South,2023-10-26T11:11:00+00:00,Luxembourg,0.7354079046656011,0.0,2.0,en,WCE,Europe
 '4c99b963c4',extremes,Earthquake,#870007,usgs,Earthquake Lospalos,2023-09-20T02:38:00+00:00,Timor Leste,0.735336161933542,0.0,2.0,en,SEA,Asia
 'e76945a454',extremes,Snow&Ice,#d60d2b,wmo,Ice United States of America,2023-10-25T02:39:00+00:00,United States,0.7352187799994755,0.0,2.0,en,CNA,North-America
@@ -2297,6 +2296,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb8a53e6c0',extremes,Flood,#030ba1,relief,Flood Solomon Islands,2023-10-17T02:39:00+00:00,Solomon Islands,0.6252033655717071,1.0,2.0,en,EPO,Pacific Ocean
 'c98330318c',extremes,Drought,#edc291,edo,Dryness French Guiana,2023-10-23T02:40:00+00:00,French Guiana,0.6251783707431661,0.0,2.0,en,NSA,South-America
 'a810e68ad7',extremes,Earthquake,#870007,usgs,Earthquake Tateyama,2023-10-16T02:39:00+00:00,Japan,0.625153443317985,1.0,2.0,en,NPO,Pacific Ocean
+'4a933d762d',extremes,Flood,#030ba1,wmo,Flooding Hunt Rockwall,2023-10-29T02:40:00+00:00,United States,0.625147516539787,1.0,1.0,en,CNA,North-America
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record cold,2023-09-17T02:37:00+00:00,,0.6250984223389416,0.0,2.0,en,,
 'a64864e198',extremes,Storm,#b3b2b1,wmo,Storm Coast of ​​Okhotsk Sea,2023-09-17T02:38:00+00:00,Russia,0.6250940855094483,0.0,2.0,en,ESB,Europe
 '1b5f270e24',extremes,Storm,#b3b2b1,eswd,Strong Wind Finland,2023-09-21T02:37:00+00:00,Finland,0.6250150342847358,0.0,2.0,en,NEU,Europe
@@ -4032,7 +4032,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '38dff1744b',extremes,Storm,#b3b2b1,wmo,Storm Inland New Hanover,2023-09-22T02:38:00+00:00,United States,0.5647681129893745,0.0,2.0,en,CNA,North-America
 '3a07d43dc5',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Inland Vancouver Island,2023-10-18T07:18:00+00:00,Canada,0.5647112230522284,0.0,2.0,en,NEN,North-America
 '338210c31a',extremes,Flood,#030ba1,wmo,Flashflood Somerset; Wicomico,2023-09-24T02:38:00+00:00,United States,0.5646963806026403,0.0,2.0,en,CNA,North-America
-'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,Rain India,2023-09-12T08:56:00+00:00,India,0.5646927253824054,1.0,3.0,en,SAS,Asia
 'bb7070a11f',extremes,Flood,#030ba1,wmo,Flood deler av Sør-Norge,2023-09-19T02:38:00+00:00,Norway,0.5646731224853463,0.0,2.0,en,NEU,Europe
 '0a2f84e468',extremes,Precipitation,#d60d2b,meteo,Precipitation Montenegro,2023-10-21T02:38:00+00:00,Montenegro,0.5646618121411955,0.0,2.0,en,MED,Europe
 'dc1e55e3c8',extremes,Storm,#b3b2b1,wmo,Storm Halifax,2023-09-23T02:38:00+00:00,United States,0.5646493145234306,0.0,2.0,en,CNA,North-America
@@ -5613,7 +5612,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1e47701e6',extremes,Thunderstorm,#53785a,wmo,Hail Kauno apskritis,2023-09-19T08:46:00+00:00,Lithuania,0.5319291886716468,0.0,2.0,en,WCE,Europe
 '5f4b144fe0',extremes,Storm,#b3b2b1,wmo,Storm Xuwen County,2023-09-25T02:38:00+00:00,China,0.5319146935570156,0.0,2.0,en,EAS,Asia
 'b07bedc561',extremes,Earthquake,#870007,usgs,M 4.9 - ,2023-09-19T08:45:00+00:00,,0.5318966679676967,0.0,2.0,en,SPO,Pacific Ocean
-'20e28d41d5',extremes,Thunderstorm,#53785a,wmo,Severe Weather From Haa Alifu Atoll to Faafu Atoll,2023-09-24T09:45:00+00:00,Maldives,0.5318828362553035,1.0,1.0,en,EIO,Indian Ocean
 '8acc1fb0f6',extremes,Precipitation,#d60d2b,wmo,Downpour Amriswil,2023-09-22T02:38:00+00:00,Switzerland,0.5318624069629501,0.0,2.0,en,WCE,Europe
 '9c72621a30',extremes,Storm,#b3b2b1,wmo,Storm Mengjin District,2023-09-19T08:46:00+00:00,China,0.5318595133860303,0.0,2.0,en,EAS,Asia
 'b7874c6075',extremes,Precipitation,#d60d2b,wmo,Precipitation Basse-Gruyère,2023-09-22T02:38:00+00:00,Switzerland,0.5318530642108678,0.0,2.0,en,WCE,Europe
