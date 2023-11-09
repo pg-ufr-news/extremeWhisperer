@@ -1,8 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2023-10-22T02:39:00+00:00,Fiji,0.7782760530264006,0.0,2.0,en,SPO,Pacific Ocean
-'9574ba8ffb',extremes,Wildfire,#d60d2b,esawfa,Bushfire Burkina Faso,2023-11-01T02:42:00+00:00,Burkina Faso,0.774523461723049,0.0,2.0,en,WAF,Africa
-'2605c418d3',extremes,Thunderstorm,#53785a,eswd,Heavy Rain Albania,2023-11-04T02:37:00+00:00,Albania,0.7670181842518523,0.0,2.0,en,MED,Europe
-'5bec5214dc',extremes,Fog,#d60d2b,meteo,Fog Egypt,2023-11-09T02:40:00+00:00,Egypt,0.7618612071272931,0.0,2.0,en,MED,Africa
 '211cb14393',extremes,Precipitation,#d60d2b,wmo,Rain Belgium,2023-10-21T02:38:00+00:00,Belgium,0.7549136279414383,0.0,2.0,en,WCE,Europe
 '33030ebc24',extremes,Flood,#030ba1,meteo,Flooding France,2023-11-07T02:40:00+00:00,France,0.7523462413822903,0.0,2.0,en,WCE,Europe
 'bcddabaf5d',extremes,Storm,#b3b2b1,wmo,Storm Red Bay to L'Anse au Clair,2023-11-08T10:49:00+00:00,Canada,0.7513184349593732,1.0,1.0,en,NEN,North-America
@@ -1163,10 +1159,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,Fog Lombardia,2023-11-08T02:40:00+00:00,Italy,0.6617094924874682,0.0,2.0,en,MED,Europe
 'bf2b5a5b4b',extremes,Fog,#d60d2b,wmo,Fog Ionion Islands,2023-10-25T02:39:00+00:00,Greece,0.6616829523928354,0.0,2.0,en,MED,Europe
 'b4b0014349',extremes,Storm,#b3b2b1,eswd,Severe Wind Denmark,2023-10-21T02:37:00+00:00,Denmark,0.6616787683566915,0.0,2.0,en,NEU,Europe
+'5bec5214dc',extremes,Fog,#d60d2b,meteo,Fog Egypt,2023-11-09T02:40:00+00:00,Egypt,0.6616241351491082,1.0,3.0,en,MED,Africa
 '4c27149807',extremes,Cold Wave,#a7e9fa,wmo,Freezing Fengcheng City,2023-10-20T02:38:00+00:00,China,0.6615910789927217,0.0,2.0,en,EAS,Asia
 '8b486c8c1b',extremes,Storm,#b3b2b1,wmo,Storm Malibu Coast,2023-10-12T02:38:00+00:00,United States,0.6615736524396453,0.0,2.0,en,CNA,North-America
 'cb207f7e4e',extremes,Drought,#edc291,edo,Lack of Rain Argentina,2023-10-18T07:59:00+00:00,Argentina,0.6615527925912408,1.0,1.0,en,SES,South-America
 '7458ec96fd',extremes,Drought,#edc291,edo,Dry Spell Ghana,2023-10-21T02:38:00+00:00,Ghana,0.6615509731489624,0.0,2.0,en,WAF,Africa
+'3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2023-10-22T02:39:00+00:00,Fiji,0.6615347050724404,1.0,1.0,en,SPO,Pacific Ocean
 '13b9894532',extremes,Storm,#b3b2b1,wmo,Storm Foca,2023-09-22T02:38:00+00:00,Bosnia and Herzegovina,0.6615178326577233,0.0,2.0,en,MED,Europe
 '276f377ae2',extremes,Drought,#edc291,edo,Dryness Peru,2023-10-18T07:59:00+00:00,Peru,0.6614613100128801,1.0,1.0,en,NWS,South-America
 'a35c425385',extremes,Storm,#b3b2b1,wmo,Storm Visegrad,2023-10-18T02:40:00+00:00,Bosnia and Herzegovina,0.6614119684790578,0.0,2.0,en,MED,Europe
@@ -1275,6 +1273,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bf47c699a6',extremes,Fog,#d60d2b,wmo,Fog Lubelskie Province Świdnicki County,2023-10-24T02:38:00+00:00,Poland,0.6584230077167966,0.0,2.0,en,WCE,Europe
 'e28a9df0f7',extremes,Storm,#b3b2b1,wmo,Storm Gros de Vaud,2023-10-13T13:17:00+00:00,Switzerland,0.6583876350573559,0.0,2.0,en,WCE,Europe
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2023-10-30T02:39:00+00:00,Canada,0.6583730923355319,1.0,3.0,en,NEN,North-America
+'9574ba8ffb',extremes,Wildfire,#d60d2b,esawfa,Bushfire Burkina Faso,2023-11-01T02:42:00+00:00,Burkina Faso,0.6583449424645916,1.0,1.0,en,WAF,Africa
 '386f71a7fb',extremes,Precipitation,#d60d2b,wmo,Rain Costa Rica,2023-11-01T02:42:00+00:00,Costa Rica,0.6583079882512357,1.0,2.0,en,SCA,North-America
 'd1c9ff439b',extremes,Storm,#b3b2b1,wmo,Storm Republic of Tatarstan,2023-10-13T11:58:00+00:00,Russian Federation,0.6582519786445493,0.0,2.0,en,ESB,Europe
 'd7de784867',extremes,Flood,#030ba1,wmo,Flood Philippines,2023-09-27T02:38:00+00:00,Philippines,0.6582407681394549,1.0,3.0,en,SEA,Asia
@@ -1425,6 +1424,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de22dfb1f6',extremes,Cold Wave,#a7e9fa,wmo,Freezing Xuzhou City,2023-11-05T02:41:00+00:00,China,0.6534435336724348,0.0,2.0,en,EAS,Asia
 '83d5f3e86a',extremes,Storm,#b3b2b1,wmo,Storm Karachay Cherkess Republic,2023-10-26T02:39:00+00:00,Russia,0.6533400042676413,0.0,2.0,en,ESB,Europe
 '7b737bdb17',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Dunklin Pemiscot,2023-11-01T02:42:00+00:00,United States,0.6533186641478246,0.0,2.0,en,CNA,North-America
+'2605c418d3',extremes,Thunderstorm,#53785a,eswd,Heavy Rain Albania,2023-11-04T02:37:00+00:00,Albania,0.6533155916140745,1.0,2.0,en,MED,Europe
 'e9dfb70c24',extremes,Storm,#b3b2b1,wmo,Storm Tasmania Far North West Coast,2023-11-03T02:40:00+00:00,Australia,0.6532745460934786,0.0,2.0,en,CAU,Oceania
 'f97b94b956',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Uruguay,2023-10-23T02:39:00+00:00,Uruguay,0.6532545969005451,1.0,1.0,en,SES,South-America
 '2c9529db77',extremes,Wildfire,#d60d2b,wmo,Wildfire Liling City,2023-10-18T07:18:00+00:00,China,0.6532267196774,0.0,2.0,en,EAS,Asia
