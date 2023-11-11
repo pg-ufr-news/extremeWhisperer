@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'e4fb681831',extremes,Wildfire,#d60d2b,esawfa,Wildfire Burkina Faso,2023-11-02T02:39:00+00:00,Burkina Faso,0.7788207145234755,0.0,2.0,en,WAF,Africa
 '99d4e507ba',extremes,Wildfire,#d60d2b,esawfa,Wildfire South Sudan,2023-10-24T02:39:00+00:00,South Sudan,0.7701961058017154,0.0,2.0,en,NEAF,Africa
 'a724fe9ab3',extremes,Wildfire,#d60d2b,esawfa,Wildfire Russia,2023-11-03T02:41:00+00:00,Russia,0.7553289381169215,0.0,2.0,en,ESB,Europe
 '2e552653c5',extremes,Heat Wave,#c40202,wmo,Heat Wave Territorio nacional.,2023-11-10T02:40:00+00:00,Paraguay,0.7552440340939589,0.0,2.0,en,SES,South-America
@@ -1095,6 +1094,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4debcfa461',extremes,Snow&Ice,#d60d2b,wmo,Frost Västerbotten county inland,2023-10-13T13:17:00+00:00,Sweden,0.6622005671558909,0.0,2.0,en,NEU,Europe
 '8838c82d96',extremes,Heat Wave,#c40202,meteo,High Temperature Egypt,2023-10-27T02:37:00+00:00,Egypt,0.6621878346077179,1.0,2.0,en,MED,Africa
 '6f2b07cea7',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lake Of The Woods North Beltrami,2023-10-27T02:38:00+00:00,United States,0.6621733020156396,0.0,2.0,en,CNA,North-America
+'e4fb681831',extremes,Wildfire,#d60d2b,esawfa,Wildfire Burkina Faso,2023-11-02T02:39:00+00:00,Burkina Faso,0.6621476223449542,1.0,2.0,en,WAF,Africa
 'd26e5262a3',extremes,Drought,#edc291,edo,Dry Spell South Africa,2023-10-18T07:59:00+00:00,South Africa,0.6621142771208917,1.0,1.0,en,WSAF,Africa
 'a7fc074cb1',extremes,Wildfire,#d60d2b,wmo,Wildfire Chengbu Miao Autonomous County,2023-10-15T02:40:00+00:00,China,0.6621047053671165,0.0,2.0,en,EAS,Asia
 '541f5b6e8f',extremes,Fog,#d60d2b,wmo,Fog Podlaskie Province Suwałki County,2023-10-24T02:38:00+00:00,Poland,0.6620375847169613,0.0,2.0,en,WCE,Europe
@@ -2867,7 +2867,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2d360f1fc5',extremes,Storm,#b3b2b1,wmo,Storm South of Sakha Republic,2023-10-14T02:38:00+00:00,Russian Federation,0.6236457812162566,0.0,2.0,en,ESB,Europe
 '798cfc202f',extremes,Storm,#b3b2b1,wmo,Storm Central Baltic,2023-11-03T02:40:00+00:00,Sweden,0.6236119706506669,0.0,2.0,en,NEU,Europe
 '84d339527a',extremes,Thunderstorm,#53785a,wmo,Severe Weather Bosnia and Herzegovina,2023-10-20T02:38:00+00:00,Bosnia and Herzegovina,0.6236045451126585,0.0,2.0,en,MED,Europe
-'f006bc815e',extremes,Heat Wave,#c40202,wmo,Heat Wave Madeira Costa Norte,2023-10-01T06:37:00+00:00,Portugal,0.6235315780907963,1.0,1.0,en,MED,Europe
 '8c608f3d6a',extremes,Flood,#030ba1,wmo,Flood Rimavská Sobota,2023-10-28T02:38:00+00:00,Slovakia,0.6234967194402666,1.0,1.0,en,WCE,Europe
 '238ae3b175',extremes,Fog,#d60d2b,wmo,Fog Penza Region,2023-10-13T11:58:00+00:00,Russia,0.6234734814298721,1.0,1.0,en,ESB,Europe
 '92c00d328d',extremes,Cold Wave,#a7e9fa,wmo,Freezing Shenxian,2023-11-05T02:41:00+00:00,China,0.6234696438092929,0.0,2.0,en,EAS,Asia
@@ -3015,7 +3014,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5bed54ca9f',extremes,Storm,#b3b2b1,wmo,Storm Friesland,2023-10-15T02:40:00+00:00,Netherlands,0.6193848525259547,0.0,2.0,en,NEU,Europe
 'e04ed8cf9c',extremes,Cold Wave,#a7e9fa,wmo,Freezing Longxian,2023-11-06T02:42:00+00:00,China,0.6193837127119128,0.0,2.0,en,EAS,Asia
 'd0da547bd3',extremes,Storm,#b3b2b1,wmo,Storm Victoria West Coast,2023-10-21T02:38:00+00:00,Australia,0.6193274179515872,0.0,2.0,en,CAU,Oceania
-'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2023-10-01T06:37:00+00:00,New Zealand,0.619307556944438,1.0,1.0,en,NZ,Oceania
 '18e3f6670e',extremes,Landslide,#572c03,wmo,Mudslide Lvchun County,2023-10-15T02:40:00+00:00,China,0.6192876295507926,0.0,2.0,en,EAS,Asia
 '7385efc9e1',extremes,Drought,#edc291,edo,Lack of Rain Peru,2023-10-19T02:39:00+00:00,Peru,0.6192862163603795,0.0,2.0,en,NWS,South-America
 '63731eb995',extremes,Earthquake,#870007,usgs,Earthquake Pul e Khumrī,2023-10-13T11:57:00+00:00,Afghanistan,0.6192624875504017,0.0,2.0,en,WCA,Asia
