@@ -1829,7 +1829,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '99e3dc1b31',extremes,Earthquake,#870007,usgs,Earthquake off the coast of Ecuador,2023-10-11T02:37:00+00:00,,0.6449982867434528,0.0,2.0,en,EPO,Pacific Ocean
 'ae4e2b4f4c',extremes,Storm Surge,#834fa1,wmo,Storm Surge New South Wales Byron Coast,2023-10-13T02:41:00+00:00,Australia,0.6449644141822461,1.0,1.0,en,CAU,Oceania
 'c94fc1a2fe',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa Suroeste de A Coruña,2023-10-12T02:38:00+00:00,Spain,0.6449618135951164,1.0,1.0,en,MED,Europe
-'3b679570e2',extremes,Flood,#030ba1,floodlist,Thousands Displaced by Floods After Cyclone Tej Dumps 400mm of Rain,2023-10-26T10:42:00+00:00,Yemen,0.6449110971230202,1.0,1.0,en,ARP,Asia
 '028b26aea2',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Lindis Pass SH8,2023-10-26T11:11:00+00:00,New Zealand,0.6448595820725265,1.0,1.0,en,NZ,Oceania
 '59b529f428',extremes,Thunderstorm,#53785a,random,hailstorm,2023-11-08T10:48:00+00:00,,0.6448461983415698,0.0,2.0,en,,
 'e59c52c0b9',extremes,Wildfire,#d60d2b,wmo,Wildfire Qingxin District,2023-10-31T02:39:00+00:00,China,0.6447902166233511,0.0,2.0,en,EAS,Asia
@@ -5312,6 +5311,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '98ca3c3252',extremes,Thunderstorm,#53785a,wmo,Severe Weather China,2023-10-11T02:38:00+00:00,China,0.5482235812095053,0.0,2.0,en,EAS,Asia
 '6ff51fd445',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Cheyenne Greeley Sherman Wallace,2023-10-13T11:58:00+00:00,United States,0.5482178457747143,1.0,1.0,en,CNA,North-America
 '5c28b92bbd',extremes,Earthquake,#870007,usgs,Earthquake Iheya,2023-10-16T02:39:00+00:00,Japan,0.548185618704792,0.0,2.0,en,EAS,Asia
+'3b679570e2',extremes,Flood,#030ba1,floodlist,Thousands Displaced by Floods After Cyclone Tej Dumps 400mm of Rain,2023-10-26T10:42:00+00:00,Yemen,0.5481744325545671,2.0,1.0,en,ARP,Asia
 '5bda06e30a',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Stadt Wernigerode,2023-10-13T08:18:00+00:00,Germany,0.5481418809191693,0.0,2.0,en,WCE,Europe
 '0c458db891',extremes,Storm,#b3b2b1,wmo,Storm Ibérica zaragozana,2023-10-18T07:18:00+00:00,Spain,0.5481001551521151,0.0,2.0,en,MED,Europe
 'f1f5379109',extremes,Storm Surge,#834fa1,wmo,Storm Surge Queensland Gold Coast Waters,2023-10-04T10:28:00+00:00,Australia,0.5480254204728567,0.0,2.0,en,CAU,Oceania
@@ -11156,7 +11156,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d9e2cf6d8',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Yuping Dong Autonomous County,2023-11-10T02:40:00+00:00,China,0.4236627778141594,0.0,2.0,en,EAS,Asia
 'fd92b22ea2',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Wa Autonomous County of Cangyuan,2023-10-13T13:17:00+00:00,China,0.4235799843722627,0.0,2.0,en,EAS,Asia
 '964558f4f4',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Luanchuan County,2023-10-19T02:39:00+00:00,China,0.4235419315264884,0.0,2.0,en,EAS,Asia
-'32b9929ca5',extremes,Storm,#b3b2b1,wmo,Storm White Mountains,2023-10-01T06:37:00+00:00,United States,0.4235004255104392,1.0,2.0,en,CNA,North-America
 '10e698f248',extremes,Thunderstorm,#53785a,wmo,Severe Weather Dengta,2023-10-13T13:17:00+00:00,China,0.4232604778122296,0.0,2.0,en,EAS,Asia
 'f68f0e2ce5',extremes,Thunderstorm,#53785a,wmo,Severe Weather Dongying district,2023-10-13T13:17:00+00:00,China,0.42325469520073,0.0,2.0,en,EAS,Asia
 'e2031cb3f0',extremes,Precipitation,#d60d2b,wmo,Downpour Veľký Krtíš,2023-10-26T11:11:00+00:00,Slovakia,0.4232427222931045,0.0,2.0,en,WCE,Europe
@@ -11324,42 +11323,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ab5197febe',extremes,Wildfire,#d60d2b,effis,Wild Fire Buca İzmir,2023-10-02T02:38:00+00:00,Turkey,0.3092054227069928,0.0,2.0,en,MED,Asia
 '60ab1c8f9d',extremes,Wildfire,#d60d2b,effis,Wildfire Tito Potanza,2023-10-02T08:26:00+00:00,Italy,0.3060686366209668,0.0,2.0,en,MED,Europe
 'a5d12a2437',extremes,Earthquake,#870007,usgs,Earthquake False Pass,2023-10-01T10:02:00+00:00,Alaska,0.3047765237294005,0.0,2.0,en,NWN,North-America
-'106966621c',extremes,Wildfire,#d60d2b,effis,Bushfire Limassol Cyprus,2023-10-01T06:36:00+00:00,Cyprus,0.2986927904148867,0.0,2.0,en,MED,Europe
-'132ee7536f',extremes,Wildfire,#d60d2b,effis,Bushfire Fthiotida Greece,2023-10-01T06:36:00+00:00,Greece,0.2973467864699087,0.0,2.0,en,MED,Europe
 '4d54bbb3dc',extremes,Wildfire,#d60d2b,effis,Bushfire Grosseto Italy,2023-10-01T10:03:00+00:00,Italy,0.2973067697238525,0.0,2.0,en,MED,Europe
 '410136ddb9',extremes,Wildfire,#d60d2b,effis,Bushfire Potanza Italy,2023-10-04T02:38:00+00:00,Italy,0.296779818527067,0.0,2.0,en,MED,Europe
-'37ca06feeb',extremes,Wildfire,#d60d2b,effis,Wildfire Grosseto Italy,2023-10-01T06:36:00+00:00,Italy,0.2957230553297585,0.0,2.0,en,MED,Europe
 '5470d11b7f',extremes,Wildfire,#d60d2b,effis,Bushfire Monte Argentario Grosseto,2023-10-01T10:03:00+00:00,Italy,0.2939438368878892,0.0,2.0,en,MED,Europe
-'3f161c293f',extremes,Wildfire,#d60d2b,effis,Bushfire ​​Akrountas Limassol,2023-10-01T06:36:00+00:00,Cyprus,0.2939131660999892,0.0,2.0,en,MED,Europe
-'b2bc293c2b',extremes,Wildfire,#d60d2b,effis,Wildfire Monte Argentario Grosseto,2023-10-01T06:36:00+00:00,Italy,0.2938656840705596,0.0,2.0,en,MED,Europe
-'6d183b8963',extremes,Wildfire,#d60d2b,effis,Wildfire Serres Greece,2023-10-01T06:36:00+00:00,Greece,0.2935817582448077,0.0,2.0,en,MED,Europe
-'07b874fb7a',extremes,Wildfire,#d60d2b,effis,Bushfire Dibri Fthiotida,2023-10-01T06:36:00+00:00,Greece,0.2934966053453112,0.0,2.0,en,MED,Europe
 '9b6574eab1',extremes,Wildfire,#d60d2b,effis,Wildfire Limassol Cyprus,2023-10-01T10:03:00+00:00,Cyprus,0.2929834869776988,0.0,2.0,en,MED,Europe
 '9e0a429421',extremes,Wildfire,#d60d2b,effis,Bushfire Tito Potanza,2023-10-04T02:38:00+00:00,Italy,0.2919313878136897,0.0,2.0,en,MED,Europe
 '3e0ba046af',extremes,Wildfire,#d60d2b,effis,Wild Fire Fthiotida Greece,2023-10-02T08:26:00+00:00,Greece,0.2911882542914872,0.0,2.0,en,MED,Europe
 '263294e26f',extremes,Wildfire,#d60d2b,effis,Wild Fire Grosseto Italy,2023-10-02T08:26:00+00:00,Italy,0.2898488710920401,0.0,2.0,en,MED,Europe
 'bb32927ae4',extremes,Wildfire,#d60d2b,effis,Wildfire Fthiotida Greece,2023-10-02T02:38:00+00:00,Greece,0.2897168424595611,0.0,2.0,en,MED,Europe
-'9614d1ee81',extremes,Wildfire,#d60d2b,effis,Wild Fire Kefalonia Greece,2023-10-01T06:36:00+00:00,Greece,0.2882730031539892,0.0,2.0,en,MED,Europe
-'ec7b748e69',extremes,Wildfire,#d60d2b,effis,Bushfire Çanakkale Turkey,2023-10-01T06:36:00+00:00,Turkey,0.2878201030701553,0.0,2.0,en,MED,Asia
-'feddc29d29',extremes,Wildfire,#d60d2b,effis,Wildfire Amfipoli Serres,2023-10-01T06:36:00+00:00,Greece,0.287124836161703,0.0,2.0,en,MED,Europe
 'c16d29a58b',extremes,Wildfire,#d60d2b,effis,Wildfire ​​Akrountas Limassol,2023-10-01T10:03:00+00:00,Cyprus,0.2868342621620316,0.0,2.0,en,MED,Europe
-'5ad69c65c1',extremes,Wildfire,#d60d2b,effis,Bushfire Gelibolu Çanakkale,2023-10-01T06:36:00+00:00,Turkey,0.286415305360923,0.0,2.0,en,MED,Asia
 '3e27bcd0c8',extremes,Wildfire,#d60d2b,effis,Wild Fire Monte Argentario Grosseto,2023-10-02T08:26:00+00:00,Italy,0.2862807212637605,0.0,2.0,en,MED,Europe
 '0cf89200f6',extremes,Wildfire,#d60d2b,effis,Wild Fire Dibri Fthiotida,2023-10-02T08:26:00+00:00,Greece,0.285780975457722,0.0,2.0,en,MED,Europe
-'5fd2c29a05',extremes,Wildfire,#d60d2b,effis,Wild Fire Saint Michel d'Alajou,2023-10-01T06:36:00+00:00,France,0.2857766283740025,0.0,2.0,en,MED,Europe
-'f145f26286',extremes,Wildfire,#d60d2b,effis,Wild Fire Saint Jean Saint Maurice sur Loire,2023-10-01T06:36:00+00:00,France,0.2854608954418138,0.0,2.0,en,WCE,Europe
 '3c4dd8ba0a',extremes,Wildfire,#d60d2b,effis,Wildfire Kefalonia Greece,2023-10-01T10:03:00+00:00,Greece,0.2852632673428099,0.0,2.0,en,MED,Europe
 '2bf21c28c5',extremes,Wildfire,#d60d2b,effis,Wildfire Saint Michel d'Alajou,2023-10-01T10:03:00+00:00,France,0.2844484163200495,0.0,2.0,en,MED,Europe
-'6f2e5d5252',extremes,Wildfire,#d60d2b,effis,Wild Fire Saint Vincent de Paul,2023-10-01T06:36:00+00:00,France,0.2836647229786445,0.0,2.0,en,MED,Europe
 '4d9dc3bde6',extremes,Wildfire,#d60d2b,effis,Wildfire Dibri Fthiotida,2023-10-02T02:38:00+00:00,Greece,0.2835476568971704,0.0,2.0,en,MED,Europe
-'42a2c95a12',extremes,Wildfire,#d60d2b,effis,Wild Fire Skala Kefalonia,2023-10-01T06:36:00+00:00,Greece,0.2819643487733638,0.0,2.0,en,MED,Europe
 'a43d01e3d3',extremes,Wildfire,#d60d2b,effis,Wildfire Skala Kefalonia,2023-10-01T10:03:00+00:00,Greece,0.2819410314298727,0.0,2.0,en,MED,Europe
 '5576b6811e',extremes,Wildfire,#d60d2b,effis,Wildfire Çanakkale Turkey,2023-10-01T10:03:00+00:00,Turkey,0.2802976687274818,0.0,2.0,en,MED,Asia
 '6cfdb79aa0',extremes,Wildfire,#d60d2b,effis,Bushfire Saint Vincent de Paul,2023-10-01T10:03:00+00:00,France,0.2782671438540702,0.0,2.0,en,MED,Europe
-'d2b24f3e77',extremes,Wildfire,#d60d2b,effis,Bushfire Çeşme Turkey,2023-10-01T06:36:00+00:00,Turkey,0.2772245223535727,0.0,2.0,en,MED,Asia
 'e66b40a70f',extremes,Wildfire,#d60d2b,effis,Wildfire Gelibolu Çanakkale,2023-10-01T10:03:00+00:00,Turkey,0.2767404035444901,0.0,2.0,en,MED,Asia
-'19ca2ca71e',extremes,Earthquake,#870007,usgs,Earthquake Afghanistan Tajikistan border region,2023-10-01T06:36:00+00:00,Tajikistan,0.2758569476860852,0.0,2.0,en,WCA,Asia
 '7ab568b988',extremes,Wildfire,#d60d2b,effis,Wild Fire Çeşme Turkey,2023-10-01T10:03:00+00:00,Turkey,0.2754718326009958,0.0,2.0,en,MED,Asia
-'7d56b9239f',extremes,Wildfire,#d60d2b,effis,Bushfire Alaçatı Çeşme,2023-10-01T06:36:00+00:00,Turkey,0.2725282226990005,0.0,2.0,en,MED,Asia
 '0bbb002595',extremes,Wildfire,#d60d2b,effis,Wild Fire Alaçatı Çeşme,2023-10-01T10:03:00+00:00,Turkey,0.2682614384873658,0.0,2.0,en,MED,Asia
-'8084b0ffc3',extremes,Earthquake,#870007,usgs,Earthquake Sumbawa region Indonesia,2023-10-01T06:36:00+00:00,Indonesia,0.2650443153060268,0.0,2.0,en,SEA,Asia
