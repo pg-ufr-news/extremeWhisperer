@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'379f250742',extremes,Flood,#030ba1,relief,Flooding South Sudan,2023-10-27T02:37:00+00:00,South Sudan,0.7648552517594931,0.0,2.0,en,NEAF,Africa
 '3e863a900a',extremes,Drought,#edc291,edo,Drought Mauritania,2023-10-22T02:40:00+00:00,Mauritania,0.7622683142122649,0.0,2.0,en,SAH,Africa
 '4c19a49f3d',extremes,Flood,#030ba1,acwe,flooding Tasmania,2023-11-12T02:42:00+00:00,Australia,0.7619647618729068,0.0,2.0,en,SAU,Oceania
 '61bcd02de5',extremes,Drought,#edc291,edo,Drought Mozambique,2023-10-18T08:18:00+00:00,Mozambique,0.7618005958549879,0.0,2.0,en,ESAF,Africa
@@ -113,7 +112,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ddf77a2af',extremes,Flood,#030ba1,wmo,Flooding Mason,2023-11-13T02:42:00+00:00,United States,0.7424388569214408,0.0,2.0,en,CNA,North-America
 '015e2084d7',extremes,Storm,#b3b2b1,eswd,Severe Wind Bulgaria,2023-11-05T02:40:00+00:00,Bulgaria,0.7422042464311702,0.0,2.0,en,MED,Europe
 '1eacf041e2',extremes,Landslide,#572c03,relief,Land Slide Uruguay,2023-11-12T02:40:00+00:00,Uruguay,0.7420093355470331,0.0,2.0,en,SES,South-America
-'4e05c1f518',extremes,Earthquake,#870007,usgs,Earthquake Pacific Antarctic Ridge,2023-10-01T06:36:00+00:00,,0.741746018633785,1.0,1.0,en,SPO,Pacific Ocean
 '7c1556f6e6',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Hamoon,2023-10-25T02:37:00+00:00,,0.7415682537017652,1.0,2.0,en,BOB,Indian Ocean
 'f7d8a87ccf',extremes,Cold Wave,#a7e9fa,meteo,Cold Wave Russia,2023-10-17T02:40:00+00:00,Russia,0.7413208022389915,1.0,1.0,en,WCE,Europe
 '5ce25f1d21',extremes,Flood,#030ba1,relief,Flash Flood Pakistan,2023-11-12T02:40:00+00:00,Pakistan,0.7412571220115383,0.0,2.0,en,SAS,Asia
@@ -1670,6 +1668,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6caca9b6a7',extremes,Cold Wave,#a7e9fa,wmo,Freezing yuanbaoshan,2023-10-18T02:40:00+00:00,China,0.6501788226357097,0.0,2.0,en,EAS,Asia
 '61fcfd817d',extremes,Storm,#b3b2b1,wmo,Storm Ivanovo Region,2023-10-06T02:39:00+00:00,Russia,0.6501393647654492,0.0,2.0,en,ESB,Europe
 'd3bdc49581',extremes,Drought,#edc291,edo,Lack of Rain Greenland,2023-10-19T02:39:00+00:00,Greenland,0.6501317841779003,1.0,2.0,en,GIC,North-America
+'379f250742',extremes,Flood,#030ba1,relief,Flooding South Sudan,2023-10-27T02:37:00+00:00,South Sudan,0.6501273389955692,1.0,1.0,en,NEAF,Africa
 'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,Storm Southeastern region,2023-10-10T02:38:00+00:00,North Macedonia,0.6501006441003199,0.0,2.0,en,MED,Europe
 '1375321fd3',extremes,Flood,#030ba1,relief,Flood Nigeria,2023-10-14T02:37:00+00:00,Nigeria,0.650063704748554,1.0,3.0,en,WAF,Africa
 'aa38978c0b',extremes,Heat Wave,#c40202,wmo,Heat Wave Gualeguaychu y alrededores,2023-10-17T20:30:00+00:00,Argentina,0.6500570431907918,1.0,1.0,en,SES,South-America
@@ -11389,32 +11388,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27549cf772',extremes,Storm,#b3b2b1,relief,Severe Local Storm United States,2023-10-04T10:27:00+00:00,United States,0.3519539623868696,0.0,2.0,en,CNA,North-America
 '3ecdbb5002',extremes,Wildfire,#d60d2b,effis,Bushfire Messinia Italy,2023-10-02T02:38:00+00:00,Italy,0.3510295081665909,0.0,2.0,en,MED,Europe
 'fd699b3a09',extremes,Wildfire,#d60d2b,effis,Wild Fire Messinia Italy,2023-10-01T10:03:00+00:00,Italy,0.3500190592756527,0.0,2.0,en,MED,Europe
-'23b55c4f19',extremes,Earthquake,#870007,usgs,Earthquake Mindoro Philippines,2023-10-01T06:36:00+00:00,,0.3496573921182681,0.0,2.0,en,SEA,Asia
-'5c6e7fae87',extremes,Wildfire,#d60d2b,effis,Wildfire Messinia Italy,2023-10-01T06:36:00+00:00,Italy,0.3474676963345437,0.0,2.0,en,MED,Europe
-'4137a6e113',extremes,Earthquake,#870007,usgs,Earthquake Colombia Venezuela border region,2023-10-01T06:36:00+00:00,Colombia,0.3459505326187599,0.0,2.0,en,NWS,South-America
 '0edf2853cd',extremes,Wildfire,#d60d2b,effis,Bushfire Acquaficara Messinia,2023-10-02T02:38:00+00:00,Italy,0.3448374484824106,0.0,2.0,en,MED,Europe
-'daf028cbb2',extremes,Wildfire,#d60d2b,effis,Wild Fire Borgomaro,2023-10-01T06:36:00+00:00,Italy,0.3447586204882982,0.0,2.0,en,MED,Europe
 '21f973705e',extremes,Wildfire,#d60d2b,effis,Wild Fire Xanthi Greece,2023-10-04T10:28:00+00:00,Greece,0.3440126024284066,0.0,2.0,en,MED,Europe
-'8079827e71',extremes,Wildfire,#d60d2b,effis,Wildfire Acquaficara Messinia,2023-10-01T06:36:00+00:00,Italy,0.3437345515773052,0.0,2.0,en,MED,Europe
 'd9d7e38dad',extremes,Wildfire,#d60d2b,effis,Wild Fire Acquaficara Messinia,2023-10-01T10:03:00+00:00,Italy,0.3419528419593194,0.0,2.0,en,MED,Europe
 '472215ecb1',extremes,Wildfire,#d60d2b,effis,Wild Fire Thalassia Xanthi,2023-10-04T10:28:00+00:00,Greece,0.339687394534767,0.0,2.0,en,MED,Europe
 '0fe982de02',extremes,Drought,#edc291,edo,Dryness Finland,2023-10-26T02:39:00+00:00,Finland,0.3314192359590624,0.0,2.0,en,NEU,Europe
-'729451c0a2',extremes,Wildfire,#d60d2b,effis,Wild Fire Maronia Crete,2023-10-01T06:36:00+00:00,Greece,0.3312778903050316,0.0,2.0,en,MED,Europe
-'337a881d63',extremes,Wildfire,#d60d2b,effis,Bushfire Fondi,2023-10-01T06:36:00+00:00,Italy,0.3301945310075131,0.0,2.0,en,MED,Europe
 'dfe8753c8a',extremes,Wildfire,#d60d2b,effis,Wildfire Maronia Crete,2023-10-02T02:38:00+00:00,Greece,0.3282342405932411,0.0,2.0,en,MED,Europe
-'3477662ae1',extremes,Wildfire,#d60d2b,effis,Wildfire Pontonx sur l’Adour,2023-10-01T06:36:00+00:00,France,0.3278558777054872,0.0,2.0,en,MED,Europe
 'd14b1dbd0f',extremes,Earthquake,#870007,usgs,Earthquake Marradi,2023-10-08T02:39:00+00:00,Italy,0.3270211522160939,0.0,2.0,en,MED,Europe
 '1864a2f56b',extremes,Wildfire,#d60d2b,effis,Bushfire Maronia Crete,2023-10-01T10:03:00+00:00,Greece,0.3267344236937084,0.0,2.0,en,MED,Europe
 '18100c764b',extremes,Wildfire,#d60d2b,effis,Wild Fire Pontonx sur l’Adour,2023-10-01T10:03:00+00:00,France,0.324911562957647,0.0,2.0,en,MED,Europe
 '7c0f2684de',extremes,Wildfire,#d60d2b,effis,Bushfire Patti,2023-10-02T08:26:00+00:00,Italy,0.3216331685767154,0.0,2.0,en,MED,Europe
 'c21ddd8575',extremes,Earthquake,#870007,usgs,Earthquake Hiroo,2023-10-10T02:37:00+00:00,Japan,0.3205175311356431,0.0,2.0,en,EAS,Asia
-'046de84cff',extremes,Wildfire,#d60d2b,effis,Wildfire İzmir Turkey,2023-10-01T06:36:00+00:00,Turkey,0.3197912907440723,0.0,2.0,en,MED,Asia
-'6137387c5d',extremes,Wildfire,#d60d2b,effis,Wild Fire Potanza Italy,2023-10-01T06:36:00+00:00,Italy,0.3180580412215561,0.0,2.0,en,MED,Europe
 '032c32cd73',extremes,Wildfire,#d60d2b,effis,Bushfire Pontonx sur l’Adour,2023-10-02T08:26:00+00:00,France,0.3168163853813662,0.0,2.0,en,MED,Europe
 '52c7967da4',extremes,Wildfire,#d60d2b,effis,Wild Fire İzmir Turkey,2023-10-02T02:38:00+00:00,Turkey,0.31671252726073,0.0,2.0,en,MED,Asia
 '9074be8300',extremes,Wildfire,#d60d2b,effis,Bushfire İzmir Turkey,2023-10-01T10:03:00+00:00,Turkey,0.3157770851954923,0.0,2.0,en,MED,Asia
-'4119f57236',extremes,Wildfire,#d60d2b,effis,Wildfire Buca İzmir,2023-10-01T06:36:00+00:00,Turkey,0.3139218661334598,0.0,2.0,en,MED,Asia
-'7b6b014ecb',extremes,Wildfire,#d60d2b,effis,Wild Fire Tito Potanza,2023-10-01T06:36:00+00:00,Italy,0.3133704690594548,0.0,2.0,en,MED,Europe
 '709a78a5a4',extremes,Wildfire,#d60d2b,effis,Wildfire Potanza Italy,2023-10-02T08:26:00+00:00,Italy,0.312532491980987,0.0,2.0,en,MED,Europe
 'd8b07f20eb',extremes,Wildfire,#d60d2b,effis,Bushfire Buca İzmir,2023-10-01T10:03:00+00:00,Turkey,0.3105945400448936,0.0,2.0,en,MED,Asia
 '6c46f2e628',extremes,Earthquake,#870007,usgs,Earthquake Yamada,2023-10-07T02:37:00+00:00,Japan,0.3097242566649275,0.0,2.0,en,EAS,Asia
