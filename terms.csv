@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'73add3035e',extremes,Precipitation,#d60d2b,wmo,Precipitation Denmark,2023-11-14T02:40:00+00:00,Denmark,0.7512206007550739,0.0,2.0,en,NEU,Europe
 'f0b5fd8a6c',extremes,Flood,#030ba1,wmo,Flooding Wood,2023-10-26T02:39:00+00:00,United States,0.7510036229148106,1.0,1.0,en,CNA,North-America
 '58d6e392a7',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Denmark,2023-11-14T02:40:00+00:00,Denmark,0.7509842804696701,0.0,2.0,en,NEU,Europe
 '86d557bb4e',extremes,Storm,#b3b2b1,wmo,Storm Blanc Sablon,2023-10-22T02:40:00+00:00,Canada,0.7506085640361088,1.0,1.0,en,NEN,North-America
@@ -669,6 +668,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dbf0f95de1',extremes,Cold Wave,#a7e9fa,wmo,Freezing Hexigten Banner,2023-11-03T02:40:00+00:00,China,0.6827340061481694,0.0,2.0,en,EAS,Asia
 '199a71ffe8',extremes,Heat Wave,#c40202,meteo,Heat Wave Montenegro,2023-11-06T02:42:00+00:00,Montenegro,0.6827237688809286,0.0,2.0,en,MED,Europe
 '3e4d084bdd',extremes,Cold Wave,#a7e9fa,wmo,Freezing Bahrain Right Banner,2023-10-18T07:59:00+00:00,China,0.6827049209399868,0.0,2.0,en,EAS,Asia
+'73add3035e',extremes,Precipitation,#d60d2b,wmo,Precipitation Denmark,2023-11-14T02:40:00+00:00,Denmark,0.6824447584989557,1.0,2.0,en,NEU,Europe
 'bd7e58b60c',extremes,Earthquake,#870007,usgs,Earthquake Uzbekistan,2023-11-12T02:41:00+00:00,Uzbekistan,0.682301601901118,0.0,2.0,en,WCA,Asia
 'a87531563e',extremes,Cold Wave,#a7e9fa,wmo,Freezing Chengwu County,2023-11-05T02:41:00+00:00,China,0.6822822603142529,0.0,2.0,en,EAS,Asia
 '6436f5ee1e',extremes,Storm Surge,#834fa1,meteo,Coastal Event Denmark,2023-10-21T02:38:00+00:00,Denmark,0.6822449082050318,1.0,2.0,en,NEU,Europe
@@ -11491,36 +11491,27 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e41a7acc31',extremes,Thunderstorm,#53785a,wmo,Severe Weather Huanjiang Maonan Autonomous County,2023-10-02T02:38:00+00:00,China,0.3998141491761958,0.0,2.0,en,EAS,Asia
 '495e17f83e',extremes,Thunderstorm,#53785a,wmo,Hail Minqing County,2023-10-01T10:03:00+00:00,China,0.3993954079339635,0.0,2.0,en,EAS,Asia
 'c41da901c3',extremes,Thunderstorm,#53785a,wmo,Hail Heqing County,2023-10-01T10:03:00+00:00,China,0.3992270732364723,0.0,2.0,en,EAS,Asia
-'428c796967',extremes,Earthquake,#870007,relief,Earthquake Spain,2023-10-01T06:36:00+00:00,Spain,0.3991515432452304,0.0,2.0,en,MED,Europe
 '0a97719394',extremes,Thunderstorm,#53785a,wmo,Hail Yangshuo County,2023-10-02T02:38:00+00:00,China,0.3990942751417644,0.0,2.0,en,EAS,Asia
 '4768f123ef',extremes,Thunderstorm,#53785a,wmo,Hail Dingnan County,2023-10-01T10:03:00+00:00,China,0.3988105554491906,0.0,2.0,en,EAS,Asia
-'6a5a3d3be2',extremes,Thunderstorm,#53785a,wmo,Hail Nansha District,2023-10-01T06:37:00+00:00,China,0.398696176031641,0.0,2.0,en,EAS,Asia
-'7595d22568',extremes,Thunderstorm,#53785a,wmo,Severe Weather Yongan City,2023-10-01T06:37:00+00:00,China,0.3984704737655817,0.0,2.0,en,EAS,Asia
 '931a7ced0e',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Sanming City,2023-10-01T10:03:00+00:00,China,0.3984050730411106,0.0,2.0,en,EAS,Asia
 '2268757a2c',extremes,Thunderstorm,#53785a,wmo,Hail Huaan County,2023-10-01T10:03:00+00:00,China,0.3982125749906439,0.0,2.0,en,EAS,Asia
 'f1789a5129',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Ruili,2023-10-01T10:03:00+00:00,China,0.3981349431178891,0.0,2.0,en,EAS,Asia
-'6070f8564e',extremes,Thunderstorm,#53785a,wmo,Severe Weather shaowu city,2023-10-01T06:37:00+00:00,China,0.3979407044135489,0.0,2.0,en,EAS,Asia
 '4253da7ee8',extremes,Drought,#edc291,edo,Dry Spell Burundi,2023-10-18T08:18:00+00:00,Burundi,0.3979294775373151,0.0,2.0,en,SEAF,Africa
 '47b5618325',extremes,Thunderstorm,#53785a,wmo,Severe Weather Ruoergai County,2023-10-01T10:03:00+00:00,China,0.3977255191025737,0.0,2.0,en,EAS,Asia
 'ab6744a8b9',extremes,Thunderstorm,#53785a,wmo,Severe Weather Zhaoping County,2023-10-02T02:38:00+00:00,China,0.3975367951800238,0.0,2.0,en,EAS,Asia
-'34c65dda0e',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Luzhai County,2023-10-01T06:37:00+00:00,China,0.3974462845426979,0.0,2.0,en,EAS,Asia
 '23cd9ac0b9',extremes,Thunderstorm,#53785a,wmo,Severe Weather Zengcheng District,2023-10-02T02:38:00+00:00,China,0.3973939529126135,0.0,2.0,en,EAS,Asia
 'd69a810584',extremes,Thunderstorm,#53785a,wmo,Severe Weather maojian district,2023-10-01T10:03:00+00:00,China,0.3969354472727767,0.0,2.0,en,EAS,Asia
-'2d76a3747c',extremes,Thunderstorm,#53785a,wmo,Hail Pingnan County,2023-10-01T06:37:00+00:00,China,0.3969273575483455,0.0,2.0,en,EAS,Asia
 '66bfc2dfd3',extremes,Earthquake,#870007,usgs,Earthquake Trà My,2023-10-01T10:02:00+00:00,Vietnam,0.3969259142527075,0.0,2.0,en,SEA,Asia
 'ac3c4acf58',extremes,Thunderstorm,#53785a,wmo,Hail Jianchuan County,2023-10-01T10:03:00+00:00,China,0.3968976103320425,0.0,2.0,en,EAS,Asia
-'abc33f22cb',extremes,Thunderstorm,#53785a,wmo,Hail maojian district,2023-10-01T06:37:00+00:00,China,0.3967457322748579,0.0,2.0,en,EAS,Asia
 '8c4e48e005',extremes,Storm,#b3b2b1,relief,Severe Local Storm Turkey,2023-10-01T10:02:00+00:00,Turkey,0.3962076109108114,0.0,2.0,en,MED,Asia
 '4321c70c01',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Seda County,2023-10-01T10:03:00+00:00,China,0.3957779499465958,0.0,2.0,en,EAS,Asia
 'a5a21be2cb',extremes,Flood,#030ba1,relief,Torrential Rain Afghanistan,2023-10-11T02:37:00+00:00,Afghanistan,0.3956592236930276,0.0,2.0,en,WCA,Asia
 'c79b58a65e',extremes,Thunderstorm,#53785a,wmo,Hail Pingle County,2023-10-01T10:03:00+00:00,China,0.3950769132637904,0.0,2.0,en,EAS,Asia
-'7753ba1eab',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Pubei County,2023-10-01T06:37:00+00:00,China,0.3950283963877589,0.0,2.0,en,EAS,Asia
 'fd28fb0682',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Blackwater County,2023-10-01T10:03:00+00:00,China,0.3947687532687122,0.0,2.0,en,EAS,Asia
 '17124d5787',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Zhangping City,2023-10-01T10:03:00+00:00,China,0.3945893179921535,0.0,2.0,en,EAS,Asia
 '86ed4914ab',extremes,Thunderstorm,#53785a,wmo,Severe Weather Taining County,2023-10-01T10:03:00+00:00,China,0.3944687980108817,0.0,2.0,en,EAS,Asia
 'a594994d83',extremes,Thunderstorm,#53785a,wmo,Severe Weather Maduo County,2023-10-01T10:03:00+00:00,China,0.3937712645040105,0.0,2.0,en,EAS,Asia
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspiration,2023-10-27T02:37:00+00:00,,0.3932009047438162,0.0,2.0,en,,
-'ae9081e0e4',extremes,Earthquake,#870007,usgs,Earthquake Saipan region Northern Mariana Islands,2023-10-01T06:36:00+00:00,,0.3922730526849748,0.0,2.0,en,NPO,Pacific Ocean
 '52af874334',extremes,Drought,#edc291,random,aridity,2023-10-30T02:38:00+00:00,,0.3901678739717651,0.0,2.0,en,,
 '3229c2d52c',extremes,Drought,#edc291,edo,Drought Finland,2023-10-20T02:38:00+00:00,Finland,0.387607232762602,0.0,2.0,en,NEU,Europe
 '7b549e8eef',extremes,Flood,#030ba1,relief,Flood Turkey,2023-10-01T10:02:00+00:00,Turkey,0.3852852503888629,0.0,2.0,en,MED,Asia
@@ -11531,11 +11522,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,whirlwind,2023-10-27T02:37:00+00:00,,0.3794985998042238,0.0,2.0,en,,
 'a958ff45c7',extremes,Drought,#edc291,edo,Dry Spell Kyrgyzstan,2023-10-18T08:18:00+00:00,Kyrgyzstan,0.3793445495032131,0.0,2.0,en,WCA,Asia
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,blowing snow,2023-10-26T10:42:00+00:00,,0.3775421495763024,0.0,2.0,en,,
-'e496f99a3a',extremes,Earthquake,#870007,usgs,Earthquake Norsup,2023-10-01T06:36:00+00:00,Vanuatu,0.3770492324619275,0.0,2.0,en,SPO,Oceania
 '09667df8ee',extremes,Earthquake,#870007,usgs,Earthquake Chile Bolivia border region,2023-10-03T02:37:00+00:00,Chile,0.3730661597149293,0.0,2.0,en,SWS,South-America
 'e722855f5f',extremes,Wildfire,#d60d2b,esawfa,Wildfire Germany,2023-10-02T02:39:00+00:00,Germany,0.3709955433304949,0.0,2.0,en,WCE,Europe
 'd1966a4a52',extremes,Flood,#030ba1,floodlist,Flash Flood South Africa,2023-10-13T08:18:00+00:00,South Africa,0.3575297958075921,0.0,2.0,en,ESAF,Africa
-'1d66175ab4',extremes,Earthquake,#870007,usgs,Earthquake off the coast of Costa Rica,2023-10-01T06:36:00+00:00,,0.3544939468180735,0.0,2.0,en,SCA,South-America
 '13a7eba025',extremes,Earthquake,#870007,usgs,Earthquake Victoria,2023-10-01T10:02:00+00:00,Philippines,0.3524649863660381,0.0,2.0,en,SEA,Asia
 '27549cf772',extremes,Storm,#b3b2b1,relief,Severe Local Storm United States,2023-10-04T10:27:00+00:00,United States,0.3519539623868696,0.0,2.0,en,CNA,North-America
 '3ecdbb5002',extremes,Wildfire,#d60d2b,effis,Bushfire Messinia Italy,2023-10-02T02:38:00+00:00,Italy,0.3510295081665909,0.0,2.0,en,MED,Europe
