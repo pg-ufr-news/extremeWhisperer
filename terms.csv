@@ -1,13 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'86d557bb4e',extremes,Storm,#b3b2b1,wmo,Storm Blanc Sablon,2023-10-22T02:40:00+00:00,Canada,0.7506085640361088,1.0,1.0,en,NEN,North-America
-'f9e0c400a2',extremes,Flood,#030ba1,wmo,Flood Gillespie,2023-10-26T11:11:00+00:00,United States,0.7505078332896675,1.0,1.0,en,CNA,North-America
-'0e407c3e26',extremes,Flood,#030ba1,wmo,Flooding Dallas,2023-10-26T10:43:00+00:00,United States,0.7504713013244725,1.0,1.0,en,CNA,North-America
-'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2023-10-13T11:58:00+00:00,Australia,0.7503335103715761,1.0,1.0,en,CAU,Oceania
-'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Argentina,2023-10-27T02:38:00+00:00,Argentina,0.7500575463250776,1.0,1.0,en,SES,South-America
-'c9ae172e4e',extremes,Storm Surge,#834fa1,wmo,Storm Surge Icy Strait,2023-11-08T10:49:00+00:00,United States,0.7497740385961857,1.0,1.0,en,CNA,North-America
-'5017edaa15',extremes,Storm Surge,#834fa1,wmo,Storm Surge Ventura County Beaches,2023-11-08T10:49:00+00:00,United States,0.7496289442275682,1.0,1.0,en,CNA,North-America
-'31919931b3',extremes,Landslide,#572c03,wmo,Rockslide China,2023-10-10T02:38:00+00:00,China,0.7488368591655195,1.0,1.0,en,EAS,Asia
-'df46e82ae4',extremes,Storm Surge,#834fa1,wmo,Storm Surge Northern Chatham Strait,2023-11-08T10:49:00+00:00,United States,0.748808593930897,1.0,1.0,en,CNA,North-America
+'df46e82ae4',extremes,Storm Surge,#834fa1,wmo,Storm Surge Northern Chatham Strait,2023-11-08T10:49:00+00:00,United States,0.748808593930897,6.0,1.0,en,CNA,North-America
 '3f2072bd89',extremes,Flood,#030ba1,wmo,Flooding Jackson,2023-10-27T02:38:00+00:00,United States,0.7486699158410635,1.0,1.0,en,CNA,North-America
 '492807029c',extremes,Flood,#030ba1,wmo,Flashflood Ellis Kaufman,2023-10-26T10:43:00+00:00,United States,0.7485418988297482,1.0,1.0,en,CNA,North-America
 '28f941a7a2',extremes,Storm Surge,#834fa1,wmo,Storm Surge Northern Seward Peninsula,2023-11-13T02:42:00+00:00,United States,0.7485314244048171,1.0,1.0,en,CNA,North-America
@@ -18,48 +10,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a0b54b1db',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Ulukhaktok,2023-11-11T03:02:00+00:00,Canada,0.7482661466181137,1.0,1.0,en,NEN,North-America
 'f3ee5ec5be',extremes,Storm Surge,#834fa1,wmo,Storm Surge Sodus Bay to Mexico Bay NY,2023-11-11T03:02:00+00:00,United States,0.7482452286982239,1.0,1.0,en,CNA,North-America
 '1a31b1982f',extremes,Snow&Ice,#d60d2b,wmo,Ice Lewis Pass SH7,2023-10-25T02:39:00+00:00,New Zealand,0.7482096683699894,1.0,1.0,en,NZ,Oceania
-'539106875a',extremes,Wildfire,#d60d2b,wmo,Wildfire Dundy,2023-11-13T02:42:00+00:00,United States,0.7474262251543586,0.0,2.0,en,CNA,North-America
-'55d43065c5',extremes,Precipitation,#d60d2b,wmo,Downpour Chis Tamps Ver. Oax,2023-11-14T02:40:00+00:00,Mexico,0.7472695364007291,0.0,2.0,en,NCA,North-America
-'614aacfa91',extremes,Thunderstorm,#53785a,wmo,Severe Weather Iran,2023-11-16T02:44:00+00:00,Iran,0.7469418912124688,0.0,2.0,en,WCA,Asia
 '957a7a09df',extremes,Earthquake,#870007,usgs,Earthquake Attu Station,2023-11-05T02:40:00+00:00,Alaska,0.7466458415572017,1.0,1.0,en,NPO,Pacific Ocean
-'d2a49025cf',extremes,Precipitation,#d60d2b,wmo,Downpour Syd og Sønderjylland,2023-11-14T02:40:00+00:00,Denmark,0.746645637792826,0.0,2.0,en,NEU,Europe
-'07e9c27471',extremes,Drought,#edc291,relief,Drought Sudan,2023-11-12T02:40:00+00:00,Sudan,0.7466035715019236,0.0,2.0,en,SAH,Africa
-'0511e6ef31',extremes,Drought,#edc291,edo,Dry Spell Estonia,2023-10-18T08:18:00+00:00,Estonia,0.7462819970027971,0.0,2.0,en,NEU,Europe
-'8cb94d7155',extremes,Earthquake,#870007,usgs,Earthquake San Pablo,2023-11-10T02:39:00+00:00,Peru,0.7461918932909564,0.0,2.0,en,NWS,South-America
-'7dbbb6176e',extremes,Earthquake,#870007,usgs,Earthquake Rabaul,2023-11-13T02:41:00+00:00,Papua New Guinea,0.74615588171282,0.0,2.0,en,EPO,Pacific Ocean
-'9176092b51',extremes,Wildfire,#d60d2b,wmo,Wildfire Cheyenne Sherman Wallace,2023-11-13T02:42:00+00:00,United States,0.7461291033861577,0.0,2.0,en,CNA,North-America
-'0ed7c6c2c2',extremes,Flood,#030ba1,wmo,Flashflood Miami Dade,2023-11-16T02:44:00+00:00,United States,0.7460020201217402,0.0,2.0,en,CNA,North-America
-'325e64665c',extremes,Flood,#030ba1,wmo,Flood Bering Strait Coast,2023-11-14T02:40:00+00:00,United States,0.745838842036164,0.0,2.0,en,CNA,North-America
-'1f6e7a7c88',extremes,Flood,#030ba1,wmo,Flashflood Aurora,2023-10-01T10:03:00+00:00,Philippines,0.7456767104615876,0.0,2.0,en,SEA,Asia
-'dce6db7107',extremes,Drought,#edc291,relief,Drought Zimbabwe,2023-10-14T02:37:00+00:00,Zimbabwe,0.7455597337738241,0.0,2.0,en,ESAF,Africa
-'d3db36f454',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Fyn,2023-11-14T02:40:00+00:00,Denmark,0.7454913187016672,0.0,2.0,en,NEU,Europe
-'769beb8506',extremes,Flood,#030ba1,wmo,Flashflood Broward Miami Dade,2023-11-16T02:44:00+00:00,United States,0.7454879155607572,0.0,2.0,en,CNA,North-America
-'1bb771b849',extremes,Snow&Ice,#d60d2b,wmo,Ice Whitehorse,2023-11-14T02:40:00+00:00,Canada,0.7454368080338093,0.0,2.0,en,NEN,North-America
-'aab660bd46',extremes,Flood,#030ba1,wmo,Flashflood Yukon Delta Coast,2023-11-13T02:42:00+00:00,United States,0.7454360368619652,0.0,2.0,en,CNA,North-America
-'b26829887e',extremes,Earthquake,#870007,usgs,Earthquake Jordán,2023-11-06T02:41:00+00:00,Colombia,0.7449151427329201,0.0,2.0,en,NWS,South-America
-'31ce9c9678',extremes,Flood,#030ba1,wmo,Flooding Inland Southern Brevard,2023-11-16T02:44:00+00:00,United States,0.7448570572408941,0.0,2.0,en,CNA,North-America
-'7b9affc003',extremes,Storm Surge,#834fa1,wmo,Storm Surge Coastal Palm Beach County,2023-11-02T02:38:00+00:00,United States,0.7448401906017718,0.0,2.0,en,CNA,North-America
-'3d7bb780ca',extremes,Earthquake,#870007,usgs,Earthquake Port Olry,2023-11-05T02:40:00+00:00,Vanuatu,0.7448217125541414,0.0,2.0,en,SPO,Pacific Ocean
-'74c8af07b6',extremes,Earthquake,#870007,usgs,Earthquake Sumatra,2023-10-17T02:39:00+00:00,Indonesia,0.744812692498981,0.0,2.0,en,SEA,Asia
-'b3b1658329',extremes,Fog,#d60d2b,wmo,Fog Germany,2023-11-12T02:41:00+00:00,Germany,0.7445858882607876,0.0,2.0,en,WCE,Europe
 '24b660695f',extremes,Landslide,#572c03,wmo,Mudslide China,2023-10-10T02:38:00+00:00,China,0.7444768720884641,1.0,2.0,en,EAS,Asia
-'b6da6c0851',extremes,Wildfire,#d60d2b,wmo,Wildfire Cheyenne,2023-10-12T02:38:00+00:00,United States,0.7444476625693538,0.0,2.0,en,CNA,North-America
-'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2023-11-03T02:40:00+00:00,Papua New Guinea,0.7443695106761984,0.0,2.0,en,SEA,Oceania
-'0c7788d025',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Manning Skagit Valley,2023-11-11T03:02:00+00:00,Canada,0.7440987210956165,0.0,2.0,en,NEN,North-America
-'5ec55bb1fd',extremes,Drought,#edc291,edo,Dryness Jordan,2023-11-11T03:03:00+00:00,Jordan,0.7440882168866088,0.0,2.0,en,MED,Asia
-'53e17b7a15',extremes,Earthquake,#870007,usgs,Earthquake Houma,2023-10-26T02:38:00+00:00,Tonga,0.7437088559375199,0.0,2.0,en,SPO,Pacific Ocean
-'deb4d35fc2',extremes,Drought,#edc291,edo,Lack of Rain Guyana,2023-10-24T02:39:00+00:00,Guyana,0.7429082784642879,0.0,2.0,en,NSA,South-America
-'4df78aaa26',extremes,Earthquake,#870007,usgs,Earthquake northern Mid Atlantic Ridge,2023-10-30T02:38:00+00:00,,0.742790347286204,0.0,2.0,en,NAO,Atlantic Ocean
-'cf6843b4bb',extremes,Snow&Ice,#d60d2b,wmo,Freezing Kugluktuk,2023-11-13T02:42:00+00:00,Canada,0.7426784567683015,0.0,2.0,en,NEN,North-America
-'8ddf77a2af',extremes,Flood,#030ba1,wmo,Flooding Mason,2023-11-13T02:42:00+00:00,United States,0.7424388569214408,0.0,2.0,en,CNA,North-America
-'015e2084d7',extremes,Storm,#b3b2b1,eswd,Severe Wind Bulgaria,2023-11-05T02:40:00+00:00,Bulgaria,0.7422042464311702,0.0,2.0,en,MED,Europe
-'1eacf041e2',extremes,Landslide,#572c03,relief,Land Slide Uruguay,2023-11-12T02:40:00+00:00,Uruguay,0.7420093355470331,0.0,2.0,en,SES,South-America
 '7c1556f6e6',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Hamoon,2023-10-25T02:37:00+00:00,,0.7415682537017652,1.0,2.0,en,BOB,Indian Ocean
-'5b1d8d337b',extremes,Flood,#030ba1,wmo,Flashflood Monroe Upper Keys,2023-11-02T02:38:00+00:00,United States,0.7413681380909466,0.0,2.0,en,CNA,North-America
 'f7d8a87ccf',extremes,Cold Wave,#a7e9fa,meteo,Cold Wave Russia,2023-10-17T02:40:00+00:00,Russia,0.7413208022389915,1.0,1.0,en,WCE,Europe
-'5ce25f1d21',extremes,Flood,#030ba1,relief,Flash Flood Pakistan,2023-11-12T02:40:00+00:00,Pakistan,0.7412571220115383,0.0,2.0,en,SAS,Asia
-'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flooding Australia,2023-10-02T02:39:00+00:00,Australia,0.7410743224140625,0.0,2.0,en,SAU,Oceania
-'3dd50004c2',extremes,Earthquake,#870007,usgs,Earthquake Dominican Republic,2023-11-11T03:02:00+00:00,Dominican Republic,0.7407678146538305,0.0,2.0,en,CAR,North-America
 '610afa9ecf',extremes,Earthquake,#870007,usgs,Earthquake Las Matas de Santa Cruz,2023-11-12T02:41:00+00:00,Dominican Republic,0.7405713398989734,0.0,2.0,en,CAR,North-America
 '46dd9fca3e',extremes,Landslide,#572c03,relief,Landslide Mexico,2023-11-12T02:40:00+00:00,Mexico,0.7404190220621406,0.0,2.0,en,NCA,North-America
 '4cc094cb47',extremes,Drought,#edc291,edo,Lack of Rain New Zealand,2023-10-18T08:18:00+00:00,New Zealand,0.7403714829966868,0.0,2.0,en,NZ,Oceania
@@ -624,6 +578,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8654d13a60',extremes,Cold Wave,#a7e9fa,wmo,Freezing Zhaosu County,2023-10-15T02:40:00+00:00,China,0.6872197134131413,0.0,2.0,en,EAS,Asia
 'f90601fa23',extremes,Volcano,#b83202,random,volcano eruption,2023-11-01T02:40:00+00:00,,0.6871548159151925,0.0,2.0,en,,
 '51a9796cec',extremes,Snow&Ice,#d60d2b,wmo,Avalanche South Africa,2023-10-30T02:39:00+00:00,South Africa,0.68712751076425,1.0,2.0,en,WSAF,Africa
+'3dd50004c2',extremes,Earthquake,#870007,usgs,Earthquake Dominican Republic,2023-11-11T03:02:00+00:00,Dominican Republic,0.687102762455756,1.0,2.0,en,CAR,North-America
 '61f75af107',extremes,Snow&Ice,#d60d2b,wmo,Snow Phillips,2023-10-31T02:39:00+00:00,United States,0.6870285088107397,0.0,2.0,en,CNA,North-America
 '6ce9a88a1f',extremes,Flood,#030ba1,wmo,Flood Inland New Hanover,2023-10-01T10:03:00+00:00,United States,0.6870253245456729,0.0,2.0,en,CNA,North-America
 '68856a7a5b',extremes,Cold Wave,#a7e9fa,wmo,Freezing Xinbin Manchu Autonomous County,2023-10-15T02:40:00+00:00,China,0.6870063673216862,0.0,2.0,en,EAS,Asia
@@ -1547,6 +1502,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec71b1af93',extremes,Tsunami,#690191,usgs,Tsunami Madang,2023-10-08T02:39:00+00:00,Papua New Guinea,0.6540624217039687,1.0,1.0,en,SEA,Oceania
 '4f47a705c6',extremes,Wildfire,#d60d2b,esawfa,Bushfire South Africa,2023-10-12T02:39:00+00:00,South Africa,0.6540487210367031,0.0,2.0,en,ESAF,Africa
 '191ad94db4',extremes,Wildfire,#d60d2b,esawfa,Bushfire Sudan,2023-10-27T02:38:00+00:00,Sudan,0.6540424172888742,1.0,1.0,en,NEAF,Africa
+'0e407c3e26',extremes,Flood,#030ba1,wmo,Flooding Dallas,2023-10-26T10:43:00+00:00,United States,0.6540009661258016,2.0,2.0,en,CNA,North-America
 '0b762f7be3',extremes,Earthquake,#870007,usgs,Earthquake Pangai,2023-10-17T02:39:00+00:00,Tonga,0.6539907320732585,1.0,1.0,en,SPO,Pacific Ocean
 'a037e54a9b',extremes,Drought,#edc291,edo,Drought Tunisia,2023-10-22T02:40:00+00:00,Tunisia,0.6539834113853928,1.0,1.0,en,MED,Africa
 'f2330f8adb',extremes,Snow&Ice,#d60d2b,wmo,Ice North of Khabarovsk Krai,2023-11-10T02:40:00+00:00,Russia,0.6539552510745734,0.0,2.0,en,ESB,Europe
@@ -1635,6 +1591,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,Heat Wave Resistencia y alrededores,2023-10-13T13:17:00+00:00,Argentina,0.6519058854793768,1.0,1.0,en,SES,South-America
 '87403be846',extremes,Snow&Ice,#d60d2b,wmo,Snow South Africa,2023-10-28T02:38:00+00:00,South Africa,0.6518822503983346,1.0,3.0,en,WSAF,Africa
 '8a442a950f',extremes,Heat Wave,#c40202,wmo,Heat Wave Bahia Blanca y alrededores,2023-10-13T13:17:00+00:00,Argentina,0.6518614457304902,1.0,1.0,en,SES,South-America
+'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2023-10-13T11:58:00+00:00,Australia,0.6518300779067489,2.0,2.0,en,CAU,Oceania
 '1d6da9893b',extremes,Heat Wave,#c40202,wmo,Heat Wave Junin y alrededores,2023-10-14T02:38:00+00:00,Argentina,0.6518073220257736,1.0,1.0,en,SES,South-America
 'c2079b8ec3',extremes,Snow&Ice,#d60d2b,wmo,Snow Union,2023-10-31T02:39:00+00:00,United States,0.6517696465521807,0.0,2.0,en,CNA,North-America
 'ef632ad219',extremes,Thunderstorm,#53785a,wmo,Severe Weather Sumadija,2023-11-04T02:38:00+00:00,Serbia,0.6517091585759822,0.0,2.0,en,MED,Europe
@@ -2278,6 +2235,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6bd5b92af',extremes,Storm Surge,#834fa1,wmo,Storm Surge Madeira Porto Santo,2023-10-16T02:40:00+00:00,Portugal,0.6396696395341483,1.0,1.0,en,MED,Europe
 '15685b2c20',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Dingtao District,2023-11-04T02:38:00+00:00,China,0.6396457488996043,0.0,2.0,en,EAS,Asia
 'dc91176dd6',extremes,Cold Wave,#a7e9fa,wmo,Freezing Balikun Kazakh Autonomous County,2023-11-04T02:38:00+00:00,China,0.6395710997916538,0.0,2.0,en,EAS,Asia
+'07e9c27471',extremes,Drought,#edc291,relief,Drought Sudan,2023-11-12T02:40:00+00:00,Sudan,0.6395637107766351,1.0,2.0,en,SAH,Africa
 '6977541e84',extremes,Drought,#edc291,relief,Drought Madagascar,2023-10-15T02:38:00+00:00,Madagascar,0.6395535104559392,1.0,1.0,en,MDG,Africa
 '32fcc8850e',extremes,Storm,#b3b2b1,wmo,Storm MASCARA,2023-11-03T02:40:00+00:00,Algeria,0.6395337673461504,1.0,1.0,en,SAH,Africa
 '1a787f170e',extremes,Fog,#d60d2b,meteo,Fog United Kingdom,2023-10-25T02:38:00+00:00,United Kingdom,0.6395255445522796,1.0,2.0,en,NEU,Europe
@@ -2361,6 +2319,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '04b2c6b6a8',extremes,Heat Wave,#c40202,wmo,Heat Wave Sumadija,2023-10-11T02:38:00+00:00,Serbia,0.638752642982225,1.0,1.0,en,MED,Europe
 'eb7533b732',extremes,Precipitation,#d60d2b,wmo,Downpour Blue Crane Route Somerset East,2023-10-22T02:40:00+00:00,South Africa,0.6387300967594066,0.0,2.0,en,WSAF,Africa
 '9cc64820e5',extremes,Storm Surge,#834fa1,wmo,Storm Surge Valdez Arm,2023-11-08T02:40:00+00:00,United States,0.6387024683560409,1.0,1.0,en,CNA,North-America
+'f9e0c400a2',extremes,Flood,#030ba1,wmo,Flood Gillespie,2023-10-26T11:11:00+00:00,United States,0.6386817332962174,2.0,1.0,en,CNA,North-America
 '5cdea4e4af',extremes,Drought,#edc291,edo,Dry Spell Cambodia,2023-10-19T02:39:00+00:00,Cambodia,0.6386460579203878,0.0,2.0,en,SEA,Asia
 'bcddabaf5d',extremes,Storm,#b3b2b1,wmo,Storm Red Bay to L'Anse au Clair,2023-11-08T10:49:00+00:00,Canada,0.6386206697154673,2.0,1.0,en,NEN,North-America
 'cfc6cf22ef',extremes,Storm Surge,#834fa1,wmo,Storm Surge Mississippi Sound South Mobile Bay,2023-11-16T02:44:00+00:00,United States,0.6386206108411737,1.0,1.0,en,CNA,North-America
@@ -2376,6 +2335,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be4d73b58c',extremes,Flood,#030ba1,wmo,Flashflood Lake Volusia,2023-10-26T02:39:00+00:00,United States,0.6385091144020493,1.0,1.0,en,CNA,North-America
 'cb013bbb78',extremes,Snow&Ice,#d60d2b,wmo,Snow Dalsland and middle Bohuslän,2023-10-27T02:38:00+00:00,Sweden,0.6384644641712791,0.0,2.0,en,NEU,Europe
 'c67fc28e53',extremes,Storm Surge,#834fa1,wmo,Storm Surge Baldwin Coastal Mobile Coastal,2023-11-14T02:40:00+00:00,United States,0.6384612450011294,1.0,1.0,en,CNA,North-America
+'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Argentina,2023-10-27T02:38:00+00:00,Argentina,0.6384490043763159,2.0,1.0,en,SES,South-America
 'cd17a9a37b',extremes,Storm,#b3b2b1,wmo,Storm Omsk Region,2023-10-13T11:58:00+00:00,Russian Federation,0.6384336327013632,0.0,2.0,en,ESB,Europe
 '2c96546107',extremes,Storm,#b3b2b1,wmo,Storm Republic of Khakassia,2023-10-26T10:43:00+00:00,Russia,0.6384091136712442,0.0,2.0,en,ESB,Europe
 'd8763b554a',extremes,Precipitation,#d60d2b,relief,Flash Flood Tanzania,2023-10-18T07:16:00+00:00,Tanzania,0.6384032131753722,0.0,2.0,en,SEAF,Africa
@@ -2405,6 +2365,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ebe5b6d280',extremes,Wildfire,#d60d2b,effis,Wild Fire Calheta Portugal,2023-10-13T02:41:00+00:00,Portugal,0.6380564134262156,1.0,1.0,en,NAO,Europe
 '8faa89e158',extremes,Earthquake,#870007,usgs,Earthquake Intipucá,2023-10-11T02:37:00+00:00,El Salvador,0.6380550183996531,0.0,2.0,en,SCA,North-America
 '1f666d6ccf',extremes,Earthquake,#870007,usgs,Earthquake Wallis and Futuna,2023-10-31T02:38:00+00:00,Wallis and Futuna,0.6380355196695493,1.0,1.0,en,SPO,Pacific Ocean
+'86d557bb4e',extremes,Storm,#b3b2b1,wmo,Storm Blanc Sablon,2023-10-22T02:40:00+00:00,Canada,0.6380172794306924,2.0,1.0,en,NEN,North-America
 'b9c2e3872c',extremes,Storm Surge,#834fa1,wmo,Storm Surge Northern Lynn Canal,2023-11-07T02:41:00+00:00,United States,0.6380131683127963,1.0,1.0,en,CNA,North-America
 '0fd7d5cfe0',extremes,Drought,#edc291,edo,Dry Spell Malta,2023-11-14T02:41:00+00:00,Malta,0.6380065009251745,0.0,2.0,en,MED,Europe
 'fbc93f3c81',extremes,Storm Surge,#834fa1,wmo,Storm Surge Koror Palau Coastal Waters,2023-11-15T02:44:00+00:00,United States,0.6379954483599155,1.0,1.0,en,CNA,North-America
@@ -2425,6 +2386,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1458b5b69e',extremes,Storm Surge,#834fa1,wmo,Storm Surge Southern Chatham Strait,2023-11-08T02:40:00+00:00,United States,0.6378850548189073,1.0,1.0,en,CNA,North-America
 'dc8c8f5bda',extremes,Storm Surge,#834fa1,wmo,Storm Surge Norton Sound greater than 15 NM,2023-10-29T02:40:00+00:00,United States,0.6378829058000404,1.0,1.0,en,CNA,North-America
 '79ba421297',extremes,Storm,#b3b2b1,wmo,Storm Slovenia Sea,2023-10-24T02:38:00+00:00,Slovenia,0.6378815601655734,1.0,1.0,en,WCE,Europe
+'b3b1658329',extremes,Fog,#d60d2b,wmo,Fog Germany,2023-11-12T02:41:00+00:00,Germany,0.6378490250216695,1.0,2.0,en,WCE,Europe
 '61b08b6876',extremes,Storm Surge,#834fa1,wmo,Storm Surge Victoria Central Gippsland Coast,2023-10-30T02:39:00+00:00,Australia,0.6378441533804402,1.0,2.0,en,CAU,Oceania
 '054f4c1126',extremes,Fog,#d60d2b,wmo,Fog Izrael Valley,2023-11-16T02:44:00+00:00,Israel,0.6378431036382125,1.0,1.0,en,MED,Asia
 'd28fade057',extremes,Storm Surge,#834fa1,wmo,Storm Surge Eastern Clay Inland St. Johns,2023-10-18T02:40:00+00:00,United States,0.6378421995361647,1.0,1.0,en,CNA,North-America
@@ -2460,6 +2422,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bec7ce2d19',extremes,Heat Wave,#c40202,wmo,Heat Wave Jugoistocna Srbija,2023-10-13T02:41:00+00:00,Serbia,0.6374974280020234,1.0,1.0,en,MED,Europe
 'a4a485a1e1',extremes,Storm,#b3b2b1,wmo,Storm IJsselmeergebied,2023-10-13T13:17:00+00:00,Netherlands,0.6374942619514049,0.0,2.0,en,NEU,Europe
 '8eeb008ccb',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Hami City,2023-11-04T02:38:00+00:00,China,0.6374906062566936,0.0,2.0,en,EAS,Asia
+'dce6db7107',extremes,Drought,#edc291,relief,Drought Zimbabwe,2023-10-14T02:37:00+00:00,Zimbabwe,0.6374761487077505,1.0,2.0,en,ESAF,Africa
+'c9ae172e4e',extremes,Storm Surge,#834fa1,wmo,Storm Surge Icy Strait,2023-11-08T10:49:00+00:00,United States,0.6374579478067579,2.0,1.0,en,CNA,North-America
 '368aedbc2a',extremes,Landslide,#572c03,relief,Landslide Philippines,2023-10-12T02:37:00+00:00,Philippines,0.6374487175437121,1.0,2.0,en,SEA,Asia
 '2fb9460ac9',extremes,Snow&Ice,#d60d2b,wmo,Snow South Eastern part of Mongolia,2023-11-05T02:41:00+00:00,Mongolia,0.6374425948243562,1.0,1.0,en,ESB,Asia
 '0356e59abd',extremes,Storm Surge,#834fa1,wmo,Storm Surge Puget Sound and Hood Canal,2023-11-03T02:40:00+00:00,United States,0.637438990080908,1.0,1.0,en,CNA,North-America
@@ -2484,6 +2448,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '644b9190d6',extremes,Flood,#030ba1,wmo,Flashflood Slovakia,2023-10-28T02:38:00+00:00,Slovakia,0.6372133098914735,1.0,1.0,en,WCE,Europe
 '37cf6e532c',extremes,Storm Surge,#834fa1,wmo,Storm Surge Açores Grupo Oriental,2023-11-03T02:40:00+00:00,Portugal,0.6371969603648705,1.0,1.0,en,MED,Europe
 '83f4747707',extremes,Snow&Ice,#d60d2b,wmo,Ice Lowndes,2023-11-01T02:42:00+00:00,United States,0.6371878653493847,0.0,2.0,en,CNA,North-America
+'5017edaa15',extremes,Storm Surge,#834fa1,wmo,Storm Surge Ventura County Beaches,2023-11-08T10:49:00+00:00,United States,0.637184602593433,2.0,1.0,en,CNA,North-America
 '621e62df68',extremes,Storm Surge,#834fa1,wmo,Storm Surge Chiniak Bay,2023-11-01T02:42:00+00:00,United States,0.6371752511958182,1.0,1.0,en,CNA,North-America
 '079662e394',extremes,Cold Wave,#a7e9fa,wmo,Freezing Liuba County,2023-11-05T02:41:00+00:00,China,0.6371729985132798,0.0,2.0,en,EAS,Asia
 '2a9a03c797',extremes,Storm Surge,#834fa1,wmo,Storm Surge Majuro Coastal Waters,2023-11-08T02:40:00+00:00,United States,0.6371696095979683,1.0,1.0,en,CNA,North-America
@@ -2540,6 +2505,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f0951cbcd9',extremes,Storm,#b3b2b1,wmo,Storm Grand and Battlement Mesas,2023-10-29T02:40:00+00:00,United States,0.6365444830582778,0.0,2.0,en,CNA,North-America
 '41fc562ee6',extremes,Storm,#b3b2b1,wmo,Storm North of Kuril islands,2023-11-05T02:41:00+00:00,Russia,0.6365299419708798,0.0,2.0,en,ESB,Europe
 '2826ce9f12',extremes,Storm Surge,#834fa1,wmo,Storm Surge Port Wing to Sand Island WI,2023-11-13T02:42:00+00:00,United States,0.6365264652329331,1.0,1.0,en,CNA,North-America
+'31919931b3',extremes,Landslide,#572c03,wmo,Rockslide China,2023-10-10T02:38:00+00:00,China,0.6365113302906915,2.0,1.0,en,EAS,Asia
 'db781cebdc',extremes,Drought,#edc291,relief,Drought Morocco,2023-11-08T02:39:00+00:00,Morocco,0.6365023586763954,1.0,1.0,en,MED,Africa
 'fe1d20ed70',extremes,Snow&Ice,#d60d2b,wmo,Ice South Laramie Range,2023-10-29T02:40:00+00:00,United States,0.6364884738928928,0.0,2.0,en,CNA,North-America
 'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,Frost Milford Road SH94,2023-10-06T02:39:00+00:00,New Zealand,0.6364758276741785,1.0,1.0,en,NZ,Oceania
@@ -2629,6 +2595,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd001928b9f',extremes,Snow&Ice,#d60d2b,wmo,Ice Beaver Cimarron Texas,2023-10-29T02:40:00+00:00,United States,0.6353457192360222,0.0,2.0,en,CNA,North-America
 '81b90f9456',extremes,Storm Surge,#834fa1,wmo,Storm Surge Admiralty Inlet,2023-11-04T02:38:00+00:00,United States,0.6353170294394439,1.0,1.0,en,CNA,North-America
 'a4237e9d0a',extremes,Precipitation,#d60d2b,wmo,Precipitation Belgium,2023-11-03T02:40:00+00:00,Belgium,0.6353129158406301,0.0,2.0,en,WCE,Europe
+'539106875a',extremes,Wildfire,#d60d2b,wmo,Wildfire Dundy,2023-11-13T02:42:00+00:00,United States,0.6353122913812048,1.0,1.0,en,CNA,North-America
 '46b8a6085a',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Zlínský kraj,2023-10-18T02:40:00+00:00,Czechia,0.6352860575390311,0.0,2.0,en,WCE,Europe
 'd7e0a0c281',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Lowndes,2023-11-01T02:42:00+00:00,United States,0.6352503725557326,0.0,2.0,en,CNA,North-America
 'c9c70ede70',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa Ibiza y Formentera,2023-10-18T02:40:00+00:00,Spain,0.6352500410136789,1.0,1.0,en,MED,Europe
@@ -2638,6 +2605,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '89263eaf94',extremes,Snow&Ice,#d60d2b,wmo,Ice Utenos apskritis,2023-10-28T02:38:00+00:00,Lithuania,0.635192036689609,0.0,2.0,en,WCE,Europe
 '01f6f46d4d',extremes,Cold Wave,#a7e9fa,wmo,Freezing Shuocheng District,2023-11-05T02:41:00+00:00,China,0.6351847251016554,0.0,2.0,en,EAS,Asia
 'f086f50dcb',extremes,Precipitation,#d60d2b,meteo,Rain Flood Egypt,2023-11-14T02:40:00+00:00,Egypt,0.6351841926851372,0.0,2.0,en,ARP,Africa
+'55d43065c5',extremes,Precipitation,#d60d2b,wmo,Downpour Chis Tamps Ver. Oax,2023-11-14T02:40:00+00:00,Mexico,0.6351791059406198,1.0,1.0,en,NCA,North-America
 '56590d155d',extremes,Landslide,#572c03,wmo,Landslide Deler av Sør og Østlandet,2023-11-04T02:38:00+00:00,Norway,0.6351544728186933,1.0,1.0,en,NEU,Europe
 '674f73e548',extremes,Precipitation,#d60d2b,meteo,Precipitation United Kingdom,2023-10-28T02:38:00+00:00,United Kingdom,0.6351522698269434,0.0,2.0,en,NEU,Europe
 'c6051c16dc',extremes,Wildfire,#d60d2b,wmo,Wildfire Shenzhen City,2023-11-11T03:02:00+00:00,China,0.6351120328324212,0.0,2.0,en,EAS,Asia
@@ -2651,6 +2619,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10e591e669',extremes,Storm Surge,#834fa1,wmo,Storm Surge Yakutat Bay,2023-10-30T02:39:00+00:00,United States,0.6349499388314935,1.0,1.0,en,CNA,North-America
 'f9309fbe9b',extremes,Landslide,#572c03,wmo,Landslide enping,2023-10-23T02:39:00+00:00,China,0.6349409656722103,0.0,2.0,en,EAS,Asia
 '1eb7a3a4d3',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Costa Rica,2023-10-24T02:38:00+00:00,Costa Rica,0.6349231935341842,1.0,2.0,en,SCA,North-America
+'614aacfa91',extremes,Thunderstorm,#53785a,wmo,Severe Weather Iran,2023-11-16T02:44:00+00:00,Iran,0.6349008775305984,1.0,1.0,en,WCA,Asia
 '4d446959e2',extremes,Drought,#edc291,edo,Drought Estonia,2023-10-18T08:18:00+00:00,Estonia,0.6348829827009485,0.0,2.0,en,NEU,Europe
 '4d51911b1d',extremes,Earthquake,#870007,usgs,Earthquake Sola,2023-10-29T02:39:00+00:00,Vanuatu,0.634872020088,1.0,1.0,en,SPO,Pacific Ocean
 'e904012ec2',extremes,Snow&Ice,#d60d2b,wmo,Snow Quaqtaq,2023-11-01T02:42:00+00:00,Canada,0.6348574238471929,1.0,1.0,en,NEN,North-America
@@ -2663,6 +2632,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e336dd95ba',extremes,Storm Surge,#834fa1,wmo,Storm Surge Madeira Costa Sul,2023-10-21T02:38:00+00:00,Portugal,0.6347302745427033,1.0,1.0,en,MED,Europe
 '1c472d780b',extremes,Wildfire,#d60d2b,esawfa,Bushfire Guyana,2023-10-17T20:31:00+00:00,Guyana,0.634712361617179,1.0,1.0,en,NSA,South-America
 '196091e24a',extremes,Storm,#b3b2b1,wmo,Storm Flensburg bis Fehmarn,2023-10-22T02:40:00+00:00,Germany,0.6347019733267195,0.0,2.0,en,WCE,Europe
+'d2a49025cf',extremes,Precipitation,#d60d2b,wmo,Downpour Syd og Sønderjylland,2023-11-14T02:40:00+00:00,Denmark,0.6346487921239021,1.0,1.0,en,NEU,Europe
 'd6c9359044',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa Litoral de Barcelona,2023-10-17T20:30:00+00:00,Spain,0.6346302921043021,1.0,1.0,en,MED,Europe
 '4445811829',extremes,Snow&Ice,#d60d2b,wmo,Avalanche B.C. North Peace River Fort Nelson,2023-11-05T02:41:00+00:00,Canada,0.6345739105432433,1.0,1.0,en,NEN,North-America
 '1c681861de',extremes,Precipitation,#d60d2b,wmo,Downpour Iceland,2023-10-29T02:40:00+00:00,Iceland,0.634543532291173,1.0,1.0,en,GIC,Europe
@@ -2674,14 +2644,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e3d0bfe94',extremes,Earthquake,#870007,usgs,Earthquake La Libertad,2023-10-13T02:40:00+00:00,Honduras,0.6344082672382758,1.0,1.0,en,SCA,North-America
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,Downpour Costa Rica,2023-10-31T02:39:00+00:00,Costa Rica,0.6344068221238323,1.0,2.0,en,SCA,North-America
 'd4f156192d',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Urat banner,2023-11-05T02:41:00+00:00,China,0.6344006869847705,0.0,2.0,en,EAS,Asia
+'7dbbb6176e',extremes,Earthquake,#870007,usgs,Earthquake Rabaul,2023-11-13T02:41:00+00:00,Papua New Guinea,0.634382514455897,1.0,2.0,en,EPO,Pacific Ocean
 '340e896835',extremes,Storm,#b3b2b1,wmo,Storm The Quark,2023-10-06T02:39:00+00:00,Sweden,0.6343815422481961,0.0,2.0,en,NEU,Europe
 'f33a00ab2f',extremes,Cold Wave,#a7e9fa,wmo,Freezing gaoping,2023-11-05T02:41:00+00:00,China,0.6343512278021192,0.0,2.0,en,EAS,Asia
 '23ad2bb822',extremes,Earthquake,#870007,usgs,Earthquake Russia,2023-10-10T02:37:00+00:00,Russia,0.6343501219023271,1.0,2.0,en,EAS,Asia
 'c160bff221',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa Litoral sur de Alicante,2023-10-18T02:40:00+00:00,Spain,0.6343444556636771,1.0,1.0,en,MED,Europe
 'cf99db758d',extremes,Fog,#d60d2b,meteo,Fog Latvia,2023-10-23T02:39:00+00:00,Latvia,0.6343405010476171,1.0,1.0,en,NEU,Europe
+'0511e6ef31',extremes,Drought,#edc291,edo,Dry Spell Estonia,2023-10-18T08:18:00+00:00,Estonia,0.6343397124523775,1.0,1.0,en,NEU,Europe
 '1bc4d21d65',extremes,Storm Surge,#834fa1,wmo,Storm Surge Hérault,2023-10-23T02:39:00+00:00,France,0.6343166265706651,1.0,1.0,en,WCE,Europe
+'8cb94d7155',extremes,Earthquake,#870007,usgs,Earthquake San Pablo,2023-11-10T02:39:00+00:00,Peru,0.6342631092973129,1.0,1.0,en,NWS,South-America
 'fcafe27158',extremes,Wildfire,#d60d2b,wmo,Wildfire Liuhe County,2023-10-29T02:40:00+00:00,China,0.6342489475950377,0.0,2.0,en,EAS,Asia
 'f23b65c558',extremes,Heat Wave,#c40202,meteo,High Temperature Serbia,2023-10-11T02:38:00+00:00,Serbia,0.6342230881409374,1.0,1.0,en,WCE,Europe
+'9176092b51',extremes,Wildfire,#d60d2b,wmo,Wildfire Cheyenne Sherman Wallace,2023-11-13T02:42:00+00:00,United States,0.634209737878234,1.0,1.0,en,CNA,North-America
 '906e1aa76a',extremes,Cold Wave,#a7e9fa,wmo,Freezing Beijing,2023-11-05T02:41:00+00:00,China,0.6341991044059084,0.0,2.0,en,EAS,Asia
 '225e8ff373',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Inland Valleys,2023-10-18T07:59:00+00:00,United States,0.6341980721271943,1.0,1.0,en,CNA,North-America
 'd8dd401e98',extremes,Wildfire,#d60d2b,esawfa,Wildfire Canada,2023-10-22T02:40:00+00:00,Canada,0.6341953929076639,0.0,2.0,en,NWN,North-America
@@ -2691,6 +2665,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5eb55cff90',extremes,Snow&Ice,#d60d2b,wmo,Freezing Eagle River,2023-11-09T02:40:00+00:00,Canada,0.6341711841081349,1.0,1.0,en,NEN,North-America
 'cf6d133a6a',extremes,Storm Surge,#834fa1,wmo,Storm Surge Açores Grupo Central,2023-11-05T02:41:00+00:00,Portugal,0.634169188975634,1.0,1.0,en,MED,Europe
 'e8744f544f',extremes,Storm Surge,#834fa1,wmo,Storm Surge Mississippi Sound,2023-10-30T02:39:00+00:00,United States,0.634124256276933,1.0,1.0,en,CNA,North-America
+'325e64665c',extremes,Flood,#030ba1,wmo,Flood Bering Strait Coast,2023-11-14T02:40:00+00:00,United States,0.6341130307307394,1.0,2.0,en,CNA,North-America
+'0ed7c6c2c2',extremes,Flood,#030ba1,wmo,Flashflood Miami Dade,2023-11-16T02:44:00+00:00,United States,0.6341017171034792,1.0,1.0,en,CNA,North-America
 'b54eadec11',extremes,Storm Surge,#834fa1,wmo,Storm Surge Anne Arundel,2023-10-15T02:40:00+00:00,United States,0.6340918604601515,1.0,1.0,en,CNA,North-America
 '3f909a6521',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa Litoral sur de Castellón,2023-10-18T02:40:00+00:00,Spain,0.634086881199013,1.0,1.0,en,MED,Europe
 'd31ff06460',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa Melilla,2023-10-18T02:40:00+00:00,Spain,0.6340680688425947,1.0,1.0,en,MED,Europe
@@ -2705,10 +2681,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3607197db3',extremes,Storm Surge,#834fa1,wmo,Storm Surge Cook Inlet North Kalgin Island,2023-11-09T02:40:00+00:00,United States,0.6338071887252044,1.0,1.0,en,CNA,North-America
 'f50cb8f7e3',extremes,Cold Wave,#a7e9fa,wmo,Freezing bazhou city,2023-11-05T02:41:00+00:00,China,0.6337731968048137,0.0,2.0,en,EAS,Asia
 '55a60ce2db',extremes,Earthquake,#870007,usgs,Earthquake Covenant Life,2023-10-29T02:39:00+00:00,Alaska,0.6337068633693551,1.0,2.0,en,NWN,North-America
+'d3db36f454',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Fyn,2023-11-14T02:40:00+00:00,Denmark,0.633667620896417,1.0,1.0,en,NEU,Europe
+'769beb8506',extremes,Flood,#030ba1,wmo,Flashflood Broward Miami Dade,2023-11-16T02:44:00+00:00,United States,0.6336647282266437,1.0,1.0,en,CNA,North-America
 'c6348723af',extremes,Earthquake,#870007,usgs,Earthquake Taquile,2023-10-12T02:37:00+00:00,Peru,0.6336372947631826,1.0,1.0,en,SAM,South-America
 '117f9d3937',extremes,Heat Wave,#c40202,meteo,High Temperature Bulgaria,2023-10-18T08:18:00+00:00,Bulgaria,0.6336296939317372,1.0,1.0,en,MED,Europe
 '837e9f2540',extremes,Storm,#b3b2b1,wmo,Storm Western US Arctic Offshore,2023-10-23T02:39:00+00:00,United States,0.633627006409862,0.0,2.0,en,CNA,North-America
 'a4a1e77be1',extremes,Flood,#030ba1,wmo,Flood Naguabo,2023-10-29T02:40:00+00:00,United States,0.633621911150961,1.0,1.0,en,CNA,North-America
+'1bb771b849',extremes,Snow&Ice,#d60d2b,wmo,Ice Whitehorse,2023-11-14T02:40:00+00:00,Canada,0.6336213168287379,1.0,1.0,en,NEN,North-America
+'aab660bd46',extremes,Flood,#030ba1,wmo,Flashflood Yukon Delta Coast,2023-11-13T02:42:00+00:00,United States,0.6336206313326704,1.0,1.0,en,CNA,North-America
 'ec0f18ed75',extremes,Snow&Ice,#d60d2b,wmo,Snow Parts of Østlandet,2023-10-22T02:40:00+00:00,Norway,0.6336204485487125,0.0,2.0,en,NEU,Europe
 '39079c18c2',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa Levante mallorquín,2023-10-17T20:30:00+00:00,Spain,0.6336181129504423,1.0,1.0,en,MED,Europe
 '82debe26d2',extremes,Thunderstorm,#53785a,eswd,Heavy Rain France,2023-10-25T02:38:00+00:00,France,0.6335885055561385,1.0,2.0,en,MED,Europe
@@ -2731,15 +2711,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6f51ef75b8',extremes,Cold Wave,#a7e9fa,wmo,Freezing Taigu District,2023-11-05T02:41:00+00:00,China,0.6332341369014829,0.0,2.0,en,EAS,Asia
 '418f251680',extremes,Cold Wave,#a7e9fa,wmo,Freezing Bayan Obo,2023-11-05T02:41:00+00:00,China,0.6331966666345316,0.0,2.0,en,EAS,Asia
 '4ee317610e',extremes,Thunderstorm,#53785a,wmo,Hail Russian Federation,2023-11-12T02:41:00+00:00,Russian Federation,0.6331881318193292,0.0,2.0,en,ESB,Europe
+'b26829887e',extremes,Earthquake,#870007,usgs,Earthquake Jordán,2023-11-06T02:41:00+00:00,Colombia,0.6331778713229821,1.0,1.0,en,NWS,South-America
 'aa3c1bb22d',extremes,Snow&Ice,#d60d2b,wmo,Freezing Šiaulių apskritis,2023-10-26T02:39:00+00:00,Lithuania,0.6331754520796754,0.0,2.0,en,WCE,Europe
 'b376c4667f',extremes,Storm,#b3b2b1,wmo,Storm Eagle River to Manitou Island MI,2023-10-10T02:38:00+00:00,United States,0.633160483239372,0.0,2.0,en,CNA,North-America
 '052d9fa0c5',extremes,Storm,#b3b2b1,aidr,Storm Thunderstorm Asthma Victoria,2023-10-31T02:40:00+00:00,Australia,0.6331485964859388,1.0,1.0,en,SAU,Oceania
 '2f44bd0ad0',extremes,Snow&Ice,#d60d2b,wmo,Snow Crawford,2023-10-23T02:39:00+00:00,United States,0.6331474844684845,0.0,2.0,en,CNA,North-America
 '319b437885',extremes,Cold Wave,#a7e9fa,wmo,Freezing Five counties,2023-11-05T02:41:00+00:00,China,0.6331326766905416,0.0,2.0,en,EAS,Asia
+'31ce9c9678',extremes,Flood,#030ba1,wmo,Flooding Inland Southern Brevard,2023-11-16T02:44:00+00:00,United States,0.63312849865476,1.0,1.0,en,CNA,North-America
 '3a6a9f56be',extremes,Flood,#030ba1,wmo,Flood Pas de Calais,2023-11-04T02:38:00+00:00,France,0.63311638102555,1.0,1.0,en,WCE,Europe
+'7b9affc003',extremes,Storm Surge,#834fa1,wmo,Storm Surge Coastal Palm Beach County,2023-11-02T02:38:00+00:00,United States,0.633114177011506,1.0,1.0,en,CNA,North-America
+'3d7bb780ca',extremes,Earthquake,#870007,usgs,Earthquake Port Olry,2023-11-05T02:40:00+00:00,Vanuatu,0.6330984556710202,1.0,1.0,en,SPO,Pacific Ocean
+'74c8af07b6',extremes,Earthquake,#870007,usgs,Earthquake Sumatra,2023-10-17T02:39:00+00:00,Indonesia,0.6330909086241339,1.0,1.0,en,SEA,Asia
 'baab320da6',extremes,Snow&Ice,#d60d2b,wmo,Ice Delaware Otsego Southern Oneida,2023-11-08T10:49:00+00:00,United States,0.633089102767183,0.0,2.0,en,CNA,North-America
 '769f6491e1',extremes,Flood,#030ba1,relief,Flooding United Republic of Tanzania,2023-10-18T07:58:00+00:00,United Republic of Tanzania,0.6330854733953433,1.0,1.0,en,SEAF,Africa
 '37d17dd9bc',extremes,Flood,#030ba1,wmo,Flashflood Sweden,2023-11-03T02:40:00+00:00,Sweden,0.6330838130027998,1.0,1.0,en,NEU,Europe
+'b6da6c0851',extremes,Wildfire,#d60d2b,wmo,Wildfire Cheyenne,2023-10-12T02:38:00+00:00,United States,0.6330805431839507,1.0,2.0,en,CNA,North-America
 'a1fdba0d05',extremes,Earthquake,#870007,usgs,Earthquake New Caledonia,2023-10-27T02:37:00+00:00,New Caledonia,0.6330677654483509,1.0,1.0,en,SPO,Pacific Ocean
 '60b84c9141',extremes,Cold Wave,#a7e9fa,wmo,Freezing Tumoteyouqi,2023-11-04T02:38:00+00:00,China,0.6330645692899219,0.0,2.0,en,EAS,Asia
 '3fda4eee85',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa Sur de Mallorca,2023-10-17T20:30:00+00:00,Spain,0.6330632610920268,1.0,1.0,en,MED,Europe
@@ -2761,17 +2747,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'af786d008e',extremes,Wildfire,#d60d2b,wmo,Wildfire Krasnodar Krai,2023-10-06T02:39:00+00:00,Russia,0.6327379866085494,1.0,1.0,en,ESB,Europe
 '2366b44b51',extremes,Storm,#b3b2b1,wmo,Storm Chelyabinsk Region,2023-10-26T02:39:00+00:00,Russia,0.6327339403292969,0.0,2.0,en,ESB,Europe
 '520d580734',extremes,Wildfire,#d60d2b,wmo,Wildfire Huinan County,2023-10-28T02:38:00+00:00,China,0.6327322453989048,0.0,2.0,en,EAS,Asia
+'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2023-11-03T02:40:00+00:00,Papua New Guinea,0.6327143240747686,1.0,1.0,en,SEA,Oceania
 '8f7448a485',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Lantian County,2023-11-06T02:42:00+00:00,China,0.6327133051666987,0.0,2.0,en,EAS,Asia
 '91c1aa08db',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Western Prince William Sound,2023-11-09T02:40:00+00:00,United States,0.6326979738784174,0.0,2.0,en,CNA,North-America
 '3b8e34315d',extremes,Earthquake,#870007,usgs,Earthquake Asan Maina Village,2023-10-25T02:38:00+00:00,Guam,0.6326866979721747,0.0,2.0,en,NPO,Pacific Ocean
 '302e5ee660',extremes,Flood,#030ba1,wmo,Flashflood Czechia,2023-11-04T02:38:00+00:00,Czechia,0.6326856714620867,1.0,1.0,en,WCE,Europe
 '306cea1fa2',extremes,Snow&Ice,#d60d2b,wmo,Frost Středočeský kraj,2023-10-17T02:40:00+00:00,Czechia,0.632679631165427,0.0,2.0,en,WCE,Europe
 'bd1fbededf',extremes,Storm Surge,#834fa1,wmo,Storm Surge Calvert,2023-10-15T02:40:00+00:00,United States,0.6326322332266079,1.0,1.0,en,CNA,North-America
+'5ec55bb1fd',extremes,Drought,#edc291,edo,Dryness Jordan,2023-11-11T03:03:00+00:00,Jordan,0.6326249993536174,1.0,2.0,en,MED,Asia
 'ca076579cc',extremes,Landslide,#572c03,relief,Landslide Pakistan,2023-10-25T02:37:00+00:00,Pakistan,0.6325660562604347,1.0,2.0,en,SAS,Asia
 'ee76108475',extremes,Wildfire,#d60d2b,effis,Bushfire Greece,2023-10-16T02:39:00+00:00,Greece,0.6325363238410677,1.0,1.0,en,MED,Europe
 '666d5f75bb',extremes,Storm,#b3b2b1,wmo,Storm Nordjylland,2023-10-13T13:17:00+00:00,Denmark,0.632512226115249,0.0,2.0,en,NEU,Europe
 'fead59c6be',extremes,Landslide,#572c03,wmo,Mudslide Ruili,2023-10-13T02:41:00+00:00,China,0.6325074753389952,0.0,2.0,en,EAS,Asia
 'c55f440864',extremes,Storm,#b3b2b1,wmo,Storm Fisher,2023-10-04T02:39:00+00:00,Norway,0.6325003586559182,0.0,2.0,en,NEU,Europe
+'0c7788d025',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Manning Skagit Valley,2023-11-11T03:02:00+00:00,Canada,0.632483912931274,1.0,1.0,en,NEN,North-America
 '5e2031ea8a',extremes,Snow&Ice,#d60d2b,wmo,Ice Fiordland,2023-10-25T02:39:00+00:00,New Zealand,0.6324528998595057,1.0,1.0,en,NZ,Oceania
 'e876b3ff36',extremes,Earthquake,#870007,usgs,Earthquake Abra Pampa,2023-10-12T02:37:00+00:00,Argentina,0.6324527599537965,1.0,1.0,en,SES,South-America
 'e6319151cd',extremes,Cold Wave,#a7e9fa,wmo,Freezing Heshun County,2023-11-05T02:41:00+00:00,China,0.6324467769087714,0.0,2.0,en,EAS,Asia
@@ -2786,6 +2775,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4497a9e108',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Liaoyang City,2023-10-19T02:39:00+00:00,China,0.6322176497852008,0.0,2.0,en,EAS,Asia
 '5446f55ff0',extremes,Storm Surge,#834fa1,wmo,Storm Surge Grand Portage to Grand Marais MN,2023-11-03T02:40:00+00:00,United States,0.6322080780669422,1.0,1.0,en,CNA,North-America
 '37c2e926d2',extremes,Drought,#edc291,edo,Dryness Ghana,2023-10-18T08:18:00+00:00,Ghana,0.6321749837789937,0.0,2.0,en,WAF,Africa
+'53e17b7a15',extremes,Earthquake,#870007,usgs,Earthquake Houma,2023-10-26T02:38:00+00:00,Tonga,0.6321525275468919,1.0,1.0,en,SPO,Pacific Ocean
 '535c5a0ca6',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa Bizkaia litoral,2023-10-18T07:18:00+00:00,Spain,0.632100407181352,1.0,1.0,en,MED,Europe
 '68b02f4311',extremes,Snow&Ice,#d60d2b,wmo,Ice Bibb Greene Hale Sumter,2023-10-31T02:39:00+00:00,United States,0.6320540353692623,0.0,2.0,en,CNA,North-America
 '9bfd635de2',extremes,Cold Wave,#a7e9fa,wmo,Freezing Laoshan District,2023-11-05T02:41:00+00:00,China,0.6320535192177202,0.0,2.0,en,EAS,Asia
@@ -2814,6 +2804,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9641156d0',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Xincheng District,2023-11-04T02:38:00+00:00,China,0.6316986019921894,0.0,2.0,en,EAS,Asia
 '9e08fd88ec',extremes,Precipitation,#d60d2b,wmo,Precipitation Luxembourg North,2023-10-26T10:43:00+00:00,Luxembourg,0.6316957506033432,1.0,1.0,en,WCE,Europe
 'd350ab126e',extremes,Storm Surge,#834fa1,wmo,Storm Surge Nord,2023-11-02T02:38:00+00:00,France,0.6316941930258863,1.0,1.0,en,WCE,Europe
+'4df78aaa26',extremes,Earthquake,#870007,usgs,Earthquake northern Mid Atlantic Ridge,2023-10-30T02:38:00+00:00,,0.6316718251932734,1.0,2.0,en,NAO,Atlantic Ocean
 'bfdd2b1e9f',extremes,Precipitation,#d60d2b,wmo,Rain Russia,2023-10-26T02:39:00+00:00,Russia,0.6316583653566302,0.0,2.0,en,ESB,Europe
 '6249fcd61f',extremes,Fog,#d60d2b,wmo,Fog United Kingdom of Great Britain and Northern Ireland,2023-10-25T02:39:00+00:00,United Kingdom,0.6316456629237158,1.0,1.0,en,NEU,Europe
 'df43bf11fa',extremes,Cold Wave,#a7e9fa,wmo,Freezing Siziwangqi,2023-11-02T02:38:00+00:00,China,0.6316350274150524,0.0,2.0,en,EAS,Asia
@@ -2823,6 +2814,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5467238a1d',extremes,Storm Surge,#834fa1,wmo,Storm Surge Lake Okeechobee,2023-11-03T02:40:00+00:00,United States,0.6315661191685463,1.0,1.0,en,CNA,North-America
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,Downpour Saudi Arabia,2023-10-10T02:38:00+00:00,Saudi Arabia,0.6315213683486338,1.0,1.0,en,ARP,Asia
 'f3708e9d60',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa Litoral sur de Girona,2023-10-18T02:40:00+00:00,Spain,0.6314937021932305,1.0,1.0,en,MED,Europe
+'deb4d35fc2',extremes,Drought,#edc291,edo,Lack of Rain Guyana,2023-10-24T02:39:00+00:00,Guyana,0.6314720366946447,1.0,1.0,en,NSA,South-America
 '48c8405b2f',extremes,Storm Surge,#834fa1,wmo,Storm Surge Western coastal zone,2023-10-08T02:40:00+00:00,Poland,0.6314668172097059,1.0,1.0,en,WCE,Europe
 'ad65094d7c',extremes,Storm,#b3b2b1,meteo,Wind Switzerland,2023-10-24T02:38:00+00:00,Switzerland,0.6314478284404756,0.0,2.0,en,WCE,Europe
 '4dfa449462',extremes,Landslide,#572c03,wmo,Landslide Jinggu,2023-10-07T02:38:00+00:00,China,0.6314353859105063,0.0,2.0,en,EAS,Asia
@@ -2835,6 +2827,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df64368f69',extremes,Storm,#b3b2b1,wmo,Storm Iqaluit,2023-11-05T02:41:00+00:00,Canada,0.6313034603687411,1.0,1.0,en,NEN,North-America
 '099ef1d940',extremes,Cold Wave,#a7e9fa,wmo,Freezing Chaoyang District,2023-11-05T02:41:00+00:00,China,0.6312952251790499,0.0,2.0,en,EAS,Asia
 '6a43dee088',extremes,Storm,#b3b2b1,wmo,Storm Central Coast coastal sections,2023-11-05T02:41:00+00:00,Canada,0.6312903281830776,1.0,2.0,en,NEN,North-America
+'cf6843b4bb',extremes,Snow&Ice,#d60d2b,wmo,Freezing Kugluktuk,2023-11-13T02:42:00+00:00,Canada,0.6312766882530563,1.0,1.0,en,NEN,North-America
 'b1a2df86c5',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa Oeste de La Palma,2023-10-21T02:38:00+00:00,Spain,0.6312371700593723,1.0,1.0,en,MED,Europe
 '265f040473',extremes,Snow&Ice,#d60d2b,wmo,Snow Finland,2023-10-29T02:40:00+00:00,Finland,0.6312163483693924,1.0,2.0,en,NEU,Europe
 'b122b58bbf',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa Litoral norte de Alicante,2023-10-17T20:30:00+00:00,Spain,0.6312070251753658,1.0,1.0,en,MED,Europe
@@ -2846,6 +2839,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '304ec5fdd5',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Huairen city,2023-11-05T02:41:00+00:00,China,0.6311422850589712,0.0,2.0,en,EAS,Asia
 '43820e1b8d',extremes,Snow&Ice,#d60d2b,wmo,Ice Cimarron,2023-10-13T11:58:00+00:00,United States,0.6311139285745944,0.0,2.0,en,CNA,North-America
 '59bf84a5dd',extremes,Fog,#d60d2b,wmo,Fog Khanty Mansi Autonomous District,2023-11-07T02:41:00+00:00,Russian Federation,0.6310831734217061,1.0,1.0,en,ESB,Europe
+'8ddf77a2af',extremes,Flood,#030ba1,wmo,Flooding Mason,2023-11-13T02:42:00+00:00,United States,0.6310732983832247,1.0,1.0,en,CNA,North-America
 '98f5eea1e4',extremes,Storm,#b3b2b1,wmo,Storm Voronezh Region,2023-10-26T02:39:00+00:00,Russia,0.6310323186821436,0.0,2.0,en,ESB,Europe
 'fa66cc2cdd',extremes,Flood,#030ba1,wmo,Flood Northeast Northwest,2023-10-28T02:38:00+00:00,United States,0.6310201884411486,1.0,1.0,en,CNA,North-America
 'e2c8d55263',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa Noroeste de A Coruña,2023-10-13T02:41:00+00:00,Spain,0.6310188271841083,1.0,1.0,en,MED,Europe
@@ -2857,6 +2851,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2d0fb12d74',extremes,Storm,#b3b2b1,wmo,Storm OULED DJELLAL,2023-11-04T02:38:00+00:00,Algeria,0.6308906727211222,1.0,1.0,en,SAH,Africa
 'ed395c3b8a',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa Poniente y Almería Capital,2023-10-18T07:18:00+00:00,Spain,0.6308871335241774,1.0,1.0,en,MED,Europe
 '30bc906e71',extremes,Precipitation,#d60d2b,wmo,Rain Indonesia,2023-10-10T02:38:00+00:00,Indonesia,0.6308813814397582,0.0,2.0,en,SEA,Asia
+'015e2084d7',extremes,Storm,#b3b2b1,eswd,Severe Wind Bulgaria,2023-11-05T02:40:00+00:00,Bulgaria,0.6308736394664947,1.0,1.0,en,MED,Europe
 '6aa7385856',extremes,Flood,#030ba1,wmo,Flood Jackson Woodruff,2023-11-05T02:41:00+00:00,United States,0.630867976115387,1.0,1.0,en,CNA,North-America
 '3c84c6273d',extremes,Earthquake,#870007,usgs,Earthquake Belén,2023-10-30T02:38:00+00:00,Nicaragua,0.6308663216979914,0.0,2.0,en,SCA,North-America
 '654dcf0f25',extremes,Cold Wave,#a7e9fa,wmo,Freezing Yanggao County,2023-11-05T02:41:00+00:00,China,0.6308631371854747,0.0,2.0,en,EAS,Asia
@@ -2873,6 +2868,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4368fc0204',extremes,Storm Surge,#834fa1,wmo,Storm Surge Madeira Costa Norte,2023-10-18T07:18:00+00:00,Portugal,0.6307398297549562,1.0,1.0,en,MED,Europe
 '64fd8ec7f5',extremes,Storm Surge,#834fa1,wmo,Storm Surge Costa A Mariña,2023-10-13T02:41:00+00:00,Spain,0.6307224285761617,1.0,1.0,en,MED,Europe
 'e346e42ead',extremes,Storm,#b3b2b1,wmo,Storm Kursk Region,2023-10-26T02:39:00+00:00,Russian Federation,0.630717531281677,0.0,2.0,en,ESB,Europe
+'1eacf041e2',extremes,Landslide,#572c03,relief,Land Slide Uruguay,2023-11-12T02:40:00+00:00,Uruguay,0.6307079352149781,1.0,1.0,en,SES,South-America
 '4e9dbcf2fc',extremes,Heat Wave,#c40202,relief,Heat Wave Bangladesh,2023-10-19T02:38:00+00:00,Bangladesh,0.6306974829785866,0.0,2.0,en,SAS,Asia
 '5bb87daf8b',extremes,Cold Wave,#a7e9fa,wmo,Freezing Xifeng County,2023-10-24T02:38:00+00:00,China,0.6306952798885038,0.0,2.0,en,EAS,Asia
 '6d62f38a7b',extremes,Snow&Ice,#d60d2b,wmo,Freezing Potomac Seeley Lake Region,2023-11-15T02:44:00+00:00,United States,0.63069327965825,0.0,2.0,en,CNA,North-America
@@ -2911,11 +2907,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0174dede4c',extremes,Thunderstorm,#53785a,wmo,Severe Weather Eastern region,2023-11-04T02:38:00+00:00,North Macedonia,0.6302270467721597,0.0,2.0,en,MED,Europe
 '07769a4d6d',extremes,Storm,#b3b2b1,wmo,Storm Chuvash Republic,2023-10-17T20:30:00+00:00,Russia,0.630200512688539,0.0,2.0,en,ESB,Europe
 '65d103c340',extremes,Precipitation,#d60d2b,meteo,Rain North Macedonia,2023-11-08T02:40:00+00:00,North Macedonia,0.6301699916390465,0.0,2.0,en,MED,Europe
+'5b1d8d337b',extremes,Flood,#030ba1,wmo,Flashflood Monroe Upper Keys,2023-11-02T02:38:00+00:00,United States,0.6301629173773046,1.0,1.0,en,CNA,North-America
 '48fb3feb4a',extremes,Storm,#b3b2b1,wmo,Storm Lower Yukon River,2023-11-15T02:44:00+00:00,United States,0.6301541031838823,0.0,2.0,en,CNA,North-America
 '7a1037534d',extremes,Heat Wave,#c40202,wmo,Heat Wave North Bay Interior Valleys,2023-10-18T07:59:00+00:00,United States,0.6301385026206024,1.0,1.0,en,CNA,North-America
 'bb960b1994',extremes,Drought,#edc291,edo,Dryness Moldova,2023-10-26T11:11:00+00:00,Moldova,0.6301115796690127,0.0,2.0,en,WCE,Europe
 '59e248893c',extremes,Cold Wave,#a7e9fa,wmo,Freezing Qingxu County,2023-11-05T02:41:00+00:00,China,0.6300996839007923,0.0,2.0,en,EAS,Asia
 'e08f1bc502',extremes,Flood,#030ba1,wmo,Flood Camarines Norte Camarines Sur,2023-11-02T02:38:00+00:00,Philippines,0.6300814023939113,1.0,1.0,en,SEA,Asia
+'5ce25f1d21',extremes,Flood,#030ba1,relief,Flash Flood Pakistan,2023-11-12T02:40:00+00:00,Pakistan,0.6300685837098076,1.0,1.0,en,SAS,Asia
 'ea08f83680',extremes,Snow&Ice,#d60d2b,wmo,Freezing Norfolk Portsmouth Virginia Beach,2023-11-03T02:40:00+00:00,United States,0.6300635950111418,0.0,2.0,en,CNA,North-America
 '501bfa6d9e',extremes,Precipitation,#d60d2b,relief,Flash Flood Viet Nam,2023-10-13T02:40:00+00:00,Viet Nam,0.6300615466596257,0.0,2.0,en,SEA,Asia
 '619706adbe',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Dongying district,2023-11-04T02:38:00+00:00,China,0.6300577494495666,0.0,2.0,en,EAS,Asia
