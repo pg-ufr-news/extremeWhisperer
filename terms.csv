@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4e9391e6b8',extremes,Drought,#edc291,edo,Drought Botswana,2023-11-09T02:40:00+00:00,Botswana,0.7767519087293274,0.0,2.0,en,WSAF,Africa
 'ba9b41e35b',extremes,Drought,#edc291,edo,Dry Spell Guinea,2023-11-11T03:03:00+00:00,Guinea,0.7744174838438012,0.0,2.0,en,WAF,Africa
 '5c10856280',extremes,Flood,#030ba1,relief,Flash Flood Kenya,2023-11-27T14:54:00+00:00,Kenya,0.7733221185609113,0.0,2.0,en,SEAF,Africa
 'c23d4d162c',extremes,Wildfire,#d60d2b,esawfa,Wildfire Gambia,2023-11-27T02:44:00+00:00,Gambia,0.7715489662554733,0.0,2.0,en,WAF,Africa
@@ -1379,6 +1378,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92e2638c77',extremes,Flood,#030ba1,meteo,Flooding Israel,2023-10-29T02:40:00+00:00,Israel,0.662400275752834,1.0,3.0,en,MED,Asia
 'b3eb9a33c1',extremes,Cold Wave,#a7e9fa,wmo,Freezing Zhengxiangbaiqi,2023-10-18T02:40:00+00:00,China,0.6623981852715664,0.0,2.0,en,EAS,Asia
 'db9fae8845',extremes,Storm,#b3b2b1,eswd,Severe Wind United Kingdom,2023-10-20T02:37:00+00:00,United Kingdom,0.6623922346120981,0.0,2.0,en,NEU,Europe
+'4e9391e6b8',extremes,Drought,#edc291,edo,Drought Botswana,2023-11-09T02:40:00+00:00,Botswana,0.6623393324199284,1.0,2.0,en,WSAF,Africa
 '69f6b18bc8',extremes,Drought,#edc291,edo,Lack of Rain Bangladesh,2023-10-18T07:59:00+00:00,Bangladesh,0.6623239956715395,1.0,1.0,en,SAS,Asia
 'f5f43ae319',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Xifeng County,2023-10-26T02:39:00+00:00,China,0.662275908934725,0.0,2.0,en,EAS,Asia
 'c72d433f69',extremes,Fog,#d60d2b,wmo,Fog Pomoravlje,2023-11-09T02:40:00+00:00,Serbia,0.6622620892301665,0.0,2.0,en,MED,Europe
@@ -3851,7 +3851,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2023-10-13T02:41:00+00:00,New Zealand,0.6237747856223955,1.0,2.0,en,NZ,Oceania
 '0291fba1bb',extremes,Snow&Ice,#d60d2b,wmo,Freezing St. Stephan Lenk,2023-11-17T02:43:00+00:00,Switzerland,0.6237502494143456,0.0,2.0,en,WCE,Europe
 'aec83c381a',extremes,Snow&Ice,#d60d2b,wmo,Freezing Mazowieckie Province Miński County,2023-11-19T02:44:00+00:00,Poland,0.6237463078243377,0.0,2.0,en,WCE,Europe
-'d3a17f14fa',extremes,Flood,#030ba1,relief,Flood Madagascar,2023-10-17T20:29:00+00:00,Madagascar,0.6237252136259649,1.0,1.0,en,MDG,Africa
 'ec8915a391',extremes,Cold Wave,#a7e9fa,wmo,Freezing Luzhou District,2023-11-05T02:41:00+00:00,China,0.6237097828838957,0.0,2.0,en,EAS,Asia
 '87364c3a10',extremes,Snow&Ice,#d60d2b,wmo,Frost Evenkiyskiy m.r.,2023-10-26T10:43:00+00:00,Russian Federation,0.6237085316155889,0.0,2.0,en,ESB,Europe
 '9218069c7f',extremes,Storm,#b3b2b1,wmo,Storm Cook Inlet North Kalgin Island,2023-11-07T02:41:00+00:00,United States,0.6237052445359802,0.0,2.0,en,CNA,North-America
@@ -5849,7 +5848,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4b4ecd0b6',extremes,Snow&Ice,#d60d2b,wmo,Frost Schams,2023-11-03T02:40:00+00:00,Switzerland,0.5803208468022929,0.0,2.0,en,WCE,Europe
 '186530961d',extremes,Storm,#b3b2b1,wmo,Storm Obergoms,2023-10-20T02:38:00+00:00,Switzerland,0.5803035847479563,0.0,2.0,en,WCE,Europe
 'a2ea2d10b2',extremes,Storm,#b3b2b1,eswd,Strong Wind Switzerland,2023-11-18T02:41:00+00:00,Switzerland,0.580284326479952,0.0,2.0,en,WCE,Europe
-'88fe72134f',extremes,Cold Wave,#a7e9fa,wmo,Freezing Taipusiqi,2023-10-17T20:30:00+00:00,China,0.580265608430714,1.0,1.0,en,EAS,Asia
 '540632b130',extremes,Fog,#d60d2b,wmo,Fog Kursk Region,2023-10-20T02:38:00+00:00,Russian Federation,0.5802647227564145,1.0,1.0,en,ESB,Europe
 'fe732a9082',extremes,Storm,#b3b2b1,wmo,Storm Śląskie Province Chorzów County,2023-11-23T02:42:00+00:00,Poland,0.580224232652001,0.0,2.0,en,WCE,Europe
 '2c24c83eef',extremes,Storm,#b3b2b1,wmo,Storm Mazowieckie Province Lipski County,2023-11-23T02:42:00+00:00,Poland,0.5802240369444998,0.0,2.0,en,WCE,Europe
