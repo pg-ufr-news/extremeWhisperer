@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'faab0c2db8',extremes,Flood,#030ba1,wmo,Flood Barbados,2023-12-19T02:43:00+00:00,Barbados,0.7609602098266085,0.0,2.0,en,CAR,North-America
 '19442a5e39',extremes,Precipitation,#d60d2b,wmo,Torrential Rain United Republic of Tanzania,2023-12-05T02:44:00+00:00,United Republic of Tanzania,0.7609089851565387,0.0,2.0,en,SEAF,Africa
 'df8cc67977',extremes,Flood,#030ba1,wmo,Flood Saint Vincent and the Grenadines,2023-12-19T02:43:00+00:00,Saint Vincent and the Grenadines,0.7600951684773248,0.0,2.0,en,CAR,North-America
 '085e8a0e5f',extremes,Thunderstorm,#53785a,wmo,Hail Timor Leste Island,2023-12-19T02:43:00+00:00,Timor Leste,0.7593749969397537,0.0,2.0,en,SEA,Oceania
@@ -1271,6 +1270,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c129ea183f',extremes,Storm,#b3b2b1,wmo,Storm Námestovo,2023-11-20T02:44:00+00:00,Slovakia,0.681601886042822,0.0,2.0,en,WCE,Europe
 '5ef5d20728',extremes,Snow&Ice,#d60d2b,wmo,Frost Northwest Iceland,2023-12-14T02:43:00+00:00,Iceland,0.68157497650705,2.0,1.0,en,GIC,Europe
 '898959c048',extremes,Tsunami,#690191,usgs,Tsunami Banda Sea,2023-11-08T10:48:00+00:00,,0.6815356416820583,0.0,2.0,en,SEA,Asia
+'faab0c2db8',extremes,Flood,#030ba1,wmo,Flood Barbados,2023-12-19T02:43:00+00:00,Barbados,0.6814996466859505,1.0,2.0,en,CAR,North-America
 '4cc87c3c84',extremes,Snow&Ice,#d60d2b,wmo,Snow Southwestern region,2023-11-27T02:43:00+00:00,North Macedonia,0.6814874341631382,0.0,2.0,en,MED,Europe
 'b8281eeb3a',extremes,Storm,#b3b2b1,wmo,Storm Surge Northeastern Mendocino Interior,2023-12-18T02:44:00+00:00,United States,0.6814221523258355,0.0,2.0,en,CNA,North-America
 '6abcf58de1',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Meiringen Gadmertal,2023-11-26T02:44:00+00:00,Switzerland,0.6812726911107131,0.0,2.0,en,WCE,Europe
@@ -2720,7 +2720,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '09ec142c56',extremes,Precipitation,#d60d2b,floodlist,Heavy Rains and Floods Take Their Toll in Somalia Ethiopia Kenya Burundi and Malawi,2023-11-11T03:02:00+00:00,East Africa,0.6469078596482747,1.0,1.0,en,,Africa
 '15f47ab975',extremes,Storm,#b3b2b1,wmo,Storm Surge COSTA SIERRA Y AMAZONÍA,2023-12-07T02:44:00+00:00,Ecuador,0.646907199244175,1.0,1.0,en,NWS,South-America
 '691e5e54b9',extremes,Snow&Ice,#d60d2b,wmo,Freezing Alytaus apskritis,2023-11-26T02:44:00+00:00,Lithuania,0.6468147788583609,0.0,2.0,en,WCE,Europe
-'5a2bb6f1f7',extremes,Heat Wave,#c40202,acwe,heatwave Tasmania,2023-11-11T03:03:00+00:00,Australia,0.646801899545719,2.0,1.0,en,SAU,Oceania
 '01f0f04dd7',extremes,Heat Wave,#c40202,wmo,Heat Wave Caba y alrededores,2023-11-26T02:44:00+00:00,Argentina,0.6467753511833105,1.0,1.0,en,SES,South-America
 '47a38cc7a1',extremes,Storm,#b3b2b1,wmo,Storm Surge Volgograd Region,2023-12-09T02:41:00+00:00,Russia,0.6467705989052545,0.0,2.0,en,ESB,Europe
 '541f94f477',extremes,Storm,#b3b2b1,wmo,Storm TOUGGOURT,2023-12-14T02:43:00+00:00,Algeria,0.6467675829898089,1.0,1.0,en,SAH,Africa
@@ -3770,16 +3769,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9bbc170ac1',extremes,Storm,#b3b2b1,wmo,Storm Surge Natashquan Chevery Blanc Sablon,2023-12-12T02:45:00+00:00,Canada,0.6361479430790854,1.0,1.0,en,NEN,North-America
 '957c870453',extremes,Drought,#edc291,edo,Dryness Iceland,2023-12-05T02:44:00+00:00,Iceland,0.6361472432426676,1.0,1.0,en,GIC,Europe
 'd5a558a9ea',extremes,Cold Wave,#a7e9fa,wmo,Freezing Zell am See,2023-11-29T02:44:00+00:00,Austria,0.6361457912014593,0.0,2.0,en,WCE,Europe
-'3db0fef8cb',extremes,Earthquake,#870007,usgs,Earthquake Vailoatai,2023-11-11T03:02:00+00:00,American Samoa,0.6361258481414964,2.0,1.0,en,SPO,Pacific Ocean
 '9b17f70bf9',extremes,Flood,#030ba1,wmo,Flashflood Leon Wakulla,2023-12-03T02:43:00+00:00,United States,0.6361151155778014,1.0,1.0,en,CNA,North-America
 '3823e57a9d',extremes,Snow&Ice,#d60d2b,wmo,Frost Slovenia,2023-11-30T02:44:00+00:00,Slovenia,0.6361069824584855,1.0,1.0,en,WCE,Europe
 '03e4809fa6',extremes,Earthquake,#870007,usgs,Earthquake Wana,2023-12-05T02:43:00+00:00,Pakistan,0.6360967787777693,0.0,2.0,en,WCA,Asia
 '1cb4c7e00e',extremes,Flood,#030ba1,wmo,Flooding Geneva Houston,2023-12-03T02:43:00+00:00,United States,0.6360898762245222,1.0,1.0,en,CNA,North-America
 '9b68ca0edf',extremes,Snow&Ice,#d60d2b,wmo,Avalanche East of Sakha Republic,2023-11-26T02:44:00+00:00,Russia,0.6360881662663821,0.0,2.0,en,ESB,Europe
 '2015d8e837',extremes,Precipitation,#d60d2b,wmo,Precipitation Qatar,2023-11-04T02:38:00+00:00,Qatar,0.6360798734345814,1.0,2.0,en,ARP,Asia
-'0a0b54b1db',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Ulukhaktok,2023-11-11T03:02:00+00:00,Canada,0.6360262246253967,2.0,1.0,en,NEN,North-America
 'ed4dd578f2',extremes,Flood,#030ba1,wmo,Flashflood Wahkiakum,2023-12-05T02:44:00+00:00,United States,0.6360113323747084,1.0,1.0,en,CNA,North-America
-'f3ee5ec5be',extremes,Storm Surge,#834fa1,wmo,Storm Surge Sodus Bay to Mexico Bay NY,2023-11-11T03:02:00+00:00,United States,0.6360084443934902,2.0,1.0,en,CNA,North-America
 'd7cf8fadc4',extremes,Earthquake,#870007,usgs,Earthquake Marihatag,2023-12-03T02:43:00+00:00,Philippines,0.6359978346476782,0.0,2.0,en,SEA,Asia
 'f7f511c0cc',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Yushe County,2023-11-05T02:41:00+00:00,China,0.6359594737945656,0.0,2.0,en,EAS,Asia
 'c2831c5fd1',extremes,Storm,#b3b2b1,wmo,Storm Surge Parts of Troms and Finnmark,2023-12-15T02:44:00+00:00,Norway,0.6359494417757037,0.0,2.0,en,NEU,Europe
@@ -4432,7 +4428,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ca1f8ee565',extremes,Drought,#edc291,edo,Dry Spell Nepal,2023-12-01T02:48:00+00:00,Nepal,0.6268709311665452,0.0,2.0,en,TIB,Asia
 'bf5bce1fed',extremes,Fog,#d60d2b,wmo,Fog LPR,2023-11-24T02:41:00+00:00,Russia,0.6268251329822038,1.0,1.0,en,ESB,Europe
 '172ec7d3bb',extremes,Precipitation,#d60d2b,wmo,Rain Devon Dorset Somerset,2023-12-09T02:41:00+00:00,United Kingdom,0.6268174710902706,0.0,2.0,en,NEU,Europe
-'5484f48de4',extremes,Earthquake,#870007,usgs,Earthquake Mid Indian Ridge,2023-11-11T03:02:00+00:00,,0.6268160520391554,2.0,1.0,en,SIO,Indian Ocean
 '99303f1999',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Podlaskie Province Łomżyński County,2023-11-20T02:44:00+00:00,Poland,0.6268116720733868,0.0,2.0,en,WCE,Europe
 'e7ff8a551b',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Penglai City,2023-11-04T02:38:00+00:00,China,0.6267783278383174,0.0,2.0,en,EAS,Asia
 '3a4976f125',extremes,Cold Wave,#a7e9fa,wmo,Freezing Xiwuzhumuqin flag,2023-11-05T02:41:00+00:00,China,0.6267285348809876,0.0,2.0,en,EAS,Asia
