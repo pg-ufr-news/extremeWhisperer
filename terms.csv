@@ -1,10 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'7978d58b02',extremes,Precipitation,#d60d2b,wmo,Rain Brazil,2024-01-07T02:47:00+00:00,Brazil,0.7648042373219822,0.0,2.0,en,SAM,South-America
-'2fbb3e12ae',extremes,Heat Wave,#c40202,wmo,Heat Wave Concordia y alrededores,2024-01-17T02:45:00+00:00,Argentina,0.7647849092081432,0.0,2.0,en,SES,South-America
-'6adcc55c0a',extremes,Storm,#b3b2b1,wmo,Storm Surge ADRAR,2024-01-22T02:49:00+00:00,Algeria,0.7647640262804982,0.0,2.0,en,SAH,Africa
-'8eda16e30e',extremes,Fog,#d60d2b,wmo,Fog Patna district of Bihar,2024-01-16T02:45:00+00:00,India,0.7647312121426663,0.0,2.0,en,SAS,Asia
-'c62fbce176',extremes,Wildfire,#d60d2b,wmo,Wildfire Himachal Pradesh,2024-01-12T02:45:00+00:00,India,0.7646673914223142,0.0,2.0,en,SAS,Asia
-'e87932e2b8',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Iceland,2023-12-27T02:42:00+00:00,Iceland,0.764640624663681,0.0,2.0,en,GIC,Europe
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2024-01-16T02:45:00+00:00,India,0.76455864882699,0.0,2.0,en,SAS,Asia
 'ffcd544f8e',extremes,Snow&Ice,#d60d2b,wmo,Frost Faxafloi Southwest Iceland,2024-01-21T02:47:00+00:00,Iceland,0.7645411430606053,0.0,2.0,en,GIC,Europe
 '60c561f711',extremes,Thunderstorm,#53785a,wmo,Severe Weather New Zealand,2023-12-12T02:45:00+00:00,New Zealand,0.7645139248857997,0.0,2.0,en,NZ,Oceania
@@ -65,6 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2024-01-19T02:46:00+00:00,India,0.7631947463219984,0.0,2.0,en,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,Storm Surge India,2024-01-17T02:45:00+00:00,India,0.7631429222120124,0.0,2.0,en,SAS,Asia
 'd2ec8b29c3',extremes,Precipitation,#d60d2b,wmo,Precipitation Westland north of Haast,2024-01-17T02:45:00+00:00,New Zealand,0.763135553975982,0.0,2.0,en,NZ,Oceania
+'8eda16e30e',extremes,Fog,#d60d2b,wmo,Fog Patna district of Bihar,2024-01-16T02:45:00+00:00,India,0.7631215903212663,1.0,2.0,en,SAS,Asia
 '614aacfa91',extremes,Thunderstorm,#53785a,wmo,Severe Weather Iran,2023-12-13T10:37:00+00:00,Iran,0.7631080162665488,0.0,2.0,en,WCA,Asia
 'b8eb530829',extremes,Precipitation,#d60d2b,wmo,Downpour شمال البلاد حتى شمال الصعيد,2024-01-22T02:49:00+00:00,Egypt,0.7630733938234914,0.0,2.0,en,SAH,Africa
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,Downpour Saudi Arabia,2023-12-29T02:40:00+00:00,Saudi Arabia,0.7630432636225793,0.0,2.0,en,ARP,Asia
@@ -250,7 +245,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33a502b717',extremes,Wildfire,#d60d2b,wmo,Wildfire South Australia Murraylands,2024-01-13T02:43:00+00:00,Australia,0.7559803699117404,0.0,2.0,en,CAU,Oceania
 '3d6ee57641',extremes,Flood,#030ba1,wmo,Flashflood Luxembourg South,2024-01-04T02:43:00+00:00,Luxembourg,0.7559163072527737,0.0,2.0,en,WCE,Europe
 '00ae724501',extremes,Snow&Ice,#d60d2b,wmo,Ice North Macedonia,2023-12-16T02:41:00+00:00,North Macedonia,0.7559046317144723,0.0,2.0,en,MED,Europe
-'9257dfc98d',extremes,Flood,#030ba1,meteo,Flooding Germany,2023-12-22T02:41:00+00:00,Germany,0.7558709082179292,0.0,2.0,en,WCE,Europe
 '1a199d3cb5',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Belgium,2024-01-02T02:43:00+00:00,Belgium,0.7558619502597221,0.0,2.0,en,WCE,Europe
 '9a1adca2a8',extremes,Storm,#b3b2b1,wmo,Storm Syd og Sønderjylland,2023-12-20T02:38:00+00:00,Denmark,0.7558320299139808,0.0,2.0,en,NEU,Europe
 'b1d851a406',extremes,Storm,#b3b2b1,wmo,Storm Surge EL BAYADH,2023-12-15T02:44:00+00:00,Algeria,0.7558081704781981,0.0,2.0,en,SAH,Africa
@@ -930,9 +924,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2931ec0999',extremes,Snow&Ice,#d60d2b,wmo,Ice France,2023-12-15T02:44:00+00:00,France,0.732668353257908,0.0,2.0,en,WCE,Europe
 '4df78aaa26',extremes,Earthquake,#870007,usgs,Earthquake northern Mid Atlantic Ridge,2023-12-15T02:43:00+00:00,,0.732665759192778,0.0,2.0,en,NAO,Atlantic Ocean
 '2d3ce90aa6',extremes,Fog,#d60d2b,wmo,Fog Královéhradecký kraj,2023-12-18T02:44:00+00:00,Czechia,0.7326602740084174,0.0,2.0,en,WCE,Europe
+'9257dfc98d',extremes,Flood,#030ba1,meteo,Flooding Germany,2023-12-22T02:41:00+00:00,Germany,0.7326243551670579,1.0,2.0,en,WCE,Europe
 'a7ac655ec8',extremes,Storm,#b3b2b1,wmo,Storm Surge Kangirsuk Aupaluk,2024-01-18T02:45:00+00:00,Canada,0.7325740368132982,0.0,2.0,en,NEN,North-America
 '81e25b481e',extremes,Storm,#b3b2b1,wmo,Storm Queensland Capricornia Coast,2023-12-11T02:44:00+00:00,Australia,0.7325282487133586,0.0,2.0,en,CAU,Oceania
 '643c47ee4f',extremes,Precipitation,#d60d2b,wmo,Precipitation Namur,2024-01-02T02:43:00+00:00,Belgium,0.7325262108976301,0.0,2.0,en,WCE,Europe
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,Rain Brazil,2024-01-07T02:47:00+00:00,Brazil,0.7323082789964122,1.0,3.0,en,SAM,South-America
 '1711ea9ac2',extremes,Thunderstorm,#53785a,wmo,Severe Weather Benton Tippah,2023-12-10T02:44:00+00:00,United States,0.732207062653146,0.0,2.0,en,CNA,North-America
 '58a2d2881a',extremes,Heat Wave,#c40202,acwe,heat wave New South Wales,2023-12-10T02:45:00+00:00,Australia,0.7320884018557587,0.0,2.0,en,EAU,Oceania
 '9dde14ce15',extremes,Snow&Ice,#d60d2b,wmo,Ice Czechia,2023-12-21T02:42:00+00:00,Czechia,0.7320849801622147,0.0,2.0,en,WCE,Europe
@@ -1096,6 +1092,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4e5e4292b1',extremes,Thunderstorm,#53785a,eswd,Hail Libya,2023-12-21T02:42:00+00:00,Libya,0.7256345448583272,0.0,2.0,en,MED,Africa
 '981fd4045a',extremes,Thunderstorm,#53785a,wmo,Severe Weather Hungary,2023-12-22T02:42:00+00:00,Hungary,0.7256004547834997,0.0,2.0,en,WCE,Europe
 'ec708f5a0b',extremes,Earthquake,#870007,relief,Earthquake Morocco,2023-12-15T02:43:00+00:00,Morocco,0.7255767879321577,0.0,2.0,en,MED,Africa
+'e87932e2b8',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Iceland,2023-12-27T02:42:00+00:00,Iceland,0.7255445909641288,1.0,2.0,en,GIC,Europe
 'd890273641',extremes,Flood,#030ba1,wmo,Flashflood Berkeley Georgetown Williamsburg,2024-01-11T02:45:00+00:00,United States,0.7255295757258501,0.0,2.0,en,CNA,North-America
 '1c6f676a4c',extremes,Storm,#b3b2b1,wmo,Storm Gatineau,2023-12-04T02:44:00+00:00,Canada,0.7254820132474505,0.0,2.0,en,NEN,North-America
 '604323f364',extremes,Snow&Ice,#d60d2b,wmo,Frost Arviat,2024-01-16T02:45:00+00:00,Canada,0.7254804340887512,0.0,2.0,en,NEN,North-America
@@ -4006,6 +4003,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f0e5ced70e',extremes,Fog,#d60d2b,wmo,Fog Republic of Ingushetia,2023-12-22T02:42:00+00:00,Russian Federation,0.6507430209798111,1.0,1.0,en,ESB,Europe
 '4c930b2606',extremes,Storm,#b3b2b1,wmo,Storm Surge Huron Islands to Marquette MI,2023-12-08T02:44:00+00:00,United States,0.6507387907986788,0.0,2.0,en,CNA,North-America
 'e459d95f42',extremes,Snow&Ice,#d60d2b,wmo,Freezing Graham Haywood Madison Swain,2023-12-18T02:44:00+00:00,United States,0.650726653144948,0.0,2.0,en,CNA,North-America
+'c62fbce176',extremes,Wildfire,#d60d2b,wmo,Wildfire Himachal Pradesh,2024-01-12T02:45:00+00:00,India,0.6507173577089671,1.0,2.0,en,SAS,Asia
 '47d1948db9',extremes,Precipitation,#d60d2b,wmo,Downpour Açores Grupo Ocidental,2023-12-05T02:44:00+00:00,Portugal,0.6507109198335282,0.0,2.0,en,MED,Europe
 '61dc15b950',extremes,Storm,#b3b2b1,wmo,Storm South Laramie Range,2023-12-25T02:43:00+00:00,United States,0.6507103772701149,0.0,2.0,en,CNA,North-America
 '2c8849b608',extremes,Cold Wave,#a7e9fa,wmo,Freezing Graz Umgebung,2023-12-03T02:43:00+00:00,Austria,0.6506909624885133,0.0,2.0,en,WCE,Europe
@@ -4059,9 +4057,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2de1728bca',extremes,Storm,#b3b2b1,wmo,Storm Surge Eswatini,2024-01-18T02:45:00+00:00,Eswatini,0.6500878553399587,1.0,1.0,en,ESAF,Africa
 'a1d8cfab43',extremes,Cold Wave,#a7e9fa,wmo,Freezing Daoxian County,2024-01-20T02:44:00+00:00,China,0.6500809161038129,0.0,2.0,en,EAS,Asia
 '80d7fcdbf1',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Portugal,2024-01-11T02:45:00+00:00,Portugal,0.6500706547748812,0.0,2.0,en,MED,Europe
+'2fbb3e12ae',extremes,Heat Wave,#c40202,wmo,Heat Wave Concordia y alrededores,2024-01-17T02:45:00+00:00,Argentina,0.6500671728269217,1.0,1.0,en,SES,South-America
 '64d0be9b6f',extremes,Tropical Cyclone,#4f4f4f,aidr,Severe Tropical Cyclone Claudia Northern Territory January 2020,2023-12-13T02:44:00+00:00,Australia,0.6500586685374806,1.0,1.0,en,NAU,Oceania
 '5bf22c9ac4',extremes,Storm,#b3b2b1,wmo,Storm Galanta,2023-12-22T02:42:00+00:00,Slovakia,0.6500566657990172,0.0,2.0,en,WCE,Europe
 '01e4b0cc71',extremes,Earthquake,#870007,usgs,Earthquake Kuril’sk,2024-01-03T02:41:00+00:00,Russia,0.6500540618733598,0.0,2.0,en,EAS,Asia
+'6adcc55c0a',extremes,Storm,#b3b2b1,wmo,Storm Surge ADRAR,2024-01-22T02:49:00+00:00,Algeria,0.6500494223384234,1.0,1.0,en,SAH,Africa
 'd958df557a',extremes,Landslide,#572c03,relief,Landslide Madagascar,2024-01-04T02:41:00+00:00,Madagascar,0.6500377802783719,1.0,2.0,en,MDG,Africa
 'a492c1f826',extremes,Storm,#b3b2b1,wmo,Storm Lake Okeechobee,2023-12-15T02:44:00+00:00,United States,0.650016963623195,0.0,2.0,en,CNA,North-America
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,Heat Wave Paraguay,2023-12-15T02:44:00+00:00,Paraguay,0.6500112099360372,1.0,1.0,en,SES,South-America
