@@ -475,9 +475,10 @@ def inqRandomNews():
 
     rndKey = termsDF.sample()
     randomNumber = random.random()
-  
-    #randomNumber = 0.1 # unsearched first
-    #randomNumber = 0.55
+    if(unsearchedTerms.ratio.max()>0.76):
+      randomNumber = 0.1   
+    ## randomNumber = 0.1 # unsearched first
+    #randomNumber = 0.55 # succesors first
     #randomNumber = 0.7
     #randomNumber = 0.99 # seldoms first
 
