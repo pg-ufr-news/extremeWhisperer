@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'9c3c67bbc2',extremes,Storm,#b3b2b1,meteo,Wind Ireland,2024-01-20T02:44:00+00:00,Ireland,0.7897781140710407,0.0,2.0,en,NAO,Atlantic Ocean
-'7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2023-12-14T02:44:00+00:00,Australia,0.7863317791742378,0.0,2.0,en,CAU,Oceania
 '2b20a18bcb',extremes,Drought,#edc291,edo,Dry Spell Morocco,2023-12-06T02:44:00+00:00,Morocco,0.7816957634535541,0.0,2.0,en,MED,Africa
 '96a8b19a4b',extremes,Drought,#edc291,edo,Dry Spell Turkmenistan,2023-12-06T02:44:00+00:00,Turkmenistan,0.7767932524778685,0.0,2.0,en,WCA,Asia
 '9349bd9c5e',extremes,Drought,#edc291,edo,Dryness Equatorial Guinea,2024-01-13T02:43:00+00:00,Equatorial Guinea,0.7729319357440847,0.0,2.0,en,CAF,Africa
@@ -1693,6 +1691,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '37737cb9be',extremes,Flood,#030ba1,wmo,Flood Bukidnon Misamis Oriental,2024-01-18T02:45:00+00:00,Philippines,0.7051786101097733,0.0,2.0,en,SEA,Asia
 'f16752a1cc',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Southeastern region,2024-01-20T02:44:00+00:00,North Macedonia,0.7051736089939276,0.0,2.0,en,MED,Europe
 '2b315601ab',extremes,Storm,#b3b2b1,wmo,Storm Porto,2023-12-31T02:43:00+00:00,Portugal,0.7051624434191065,0.0,2.0,en,MED,Europe
+'7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2023-12-14T02:44:00+00:00,Australia,0.705151124116284,1.0,2.0,en,CAU,Oceania
 '59bf84a5dd',extremes,Fog,#d60d2b,wmo,Fog Khanty Mansi Autonomous District,2023-12-23T02:39:00+00:00,Russia,0.7050687358113025,0.0,2.0,en,ESB,Europe
 'b674665a8e',extremes,Flood,#030ba1,wmo,Flooding Brunswick,2023-12-29T02:40:00+00:00,United States,0.7050130060560619,0.0,2.0,en,CNA,North-America
 'e5e31cad33',extremes,Flood,#030ba1,wmo,Flashflood Alachua Columbia,2023-12-24T02:44:00+00:00,United States,0.7050091965976804,0.0,2.0,en,CNA,North-America
@@ -2540,6 +2539,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '328f37bc1c',extremes,Storm,#b3b2b1,wmo,Storm Surge Casco Bay Penobscot Bay,2023-12-15T02:44:00+00:00,United States,0.6808801372113501,0.0,2.0,en,CNA,North-America
 'c9540df905',extremes,Flood,#030ba1,wmo,Flashflood Bristol Plymouth,2024-01-12T02:45:00+00:00,United States,0.6808396633140622,0.0,2.0,en,CNA,North-America
 '97cf4c213d',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Serbia,2023-12-13T10:37:00+00:00,Serbia,0.6808178330462521,0.0,2.0,en,MED,Europe
+'9c3c67bbc2',extremes,Storm,#b3b2b1,meteo,Wind Ireland,2024-01-20T02:44:00+00:00,Ireland,0.6808115615058391,1.0,2.0,en,NAO,Atlantic Ocean
 '9418b3e25e',extremes,Flood,#030ba1,wmo,Flashflood Giles,2024-01-10T02:44:00+00:00,United States,0.6807757582473007,0.0,2.0,en,CNA,North-America
 'fbb39259cf',extremes,Cold Wave,#a7e9fa,meteo,Low Temperature Hungary,2024-01-10T02:44:00+00:00,Hungary,0.6807609689063843,0.0,2.0,en,WCE,Europe
 '12545c3510',extremes,Earthquake,#870007,usgs,Earthquake Hengchun,2024-01-18T02:44:00+00:00,Taiwan,0.6807498541806682,0.0,2.0,en,EAS,Asia
@@ -10420,7 +10420,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de568908db',extremes,Snow&Ice,#d60d2b,wmo,Snow Fuliang County,2023-12-21T02:42:00+00:00,China,0.5533696160485448,0.0,2.0,en,EAS,Asia
 'a935f88023',extremes,Snow&Ice,#d60d2b,wmo,Ice Val d'Hérens,2023-12-05T02:44:00+00:00,Switzerland,0.5533523769293527,0.0,2.0,en,WCE,Europe
 '363d9edd3c',extremes,Fog,#d60d2b,wmo,Fog Yunxi County,2024-01-02T02:43:00+00:00,China,0.553330857233726,0.0,2.0,en,EAS,Asia
-'56b0f39c90',extremes,Storm,#b3b2b1,wmo,Storm Surge Yakutat Bay,2023-12-13T10:37:00+00:00,United States,0.5533002764052461,1.0,1.0,en,CNA,North-America
 'f2015d4adb',extremes,Flood,#030ba1,wmo,Flashflood Metro Palm Beach County,2023-12-16T02:41:00+00:00,United States,0.5532692921602389,0.0,2.0,en,CNA,North-America
 'd41530d163',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Puyang City,2023-12-15T02:44:00+00:00,China,0.5532674305253454,0.0,2.0,en,EAS,Asia
 'e4630b5646',extremes,Snow&Ice,#d60d2b,wmo,Ice Campania,2024-01-19T02:46:00+00:00,Italy,0.5532537395065902,0.0,2.0,en,MED,Europe
@@ -10534,7 +10533,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ade083664',extremes,Storm,#b3b2b1,wmo,Storm Surge Ilava,2024-01-06T02:41:00+00:00,Slovakia,0.551878278883144,0.0,2.0,en,WCE,Europe
 '9ab429a647',extremes,Snow&Ice,#d60d2b,wmo,Snow Bruck an der Leitha,2024-01-05T02:43:00+00:00,Austria,0.5518683652342518,0.0,2.0,en,WCE,Europe
 'adf71bc472',extremes,Drought,#edc291,edo,Lack of Rain Central African Republic,2023-12-05T02:44:00+00:00,Central African Republic,0.5518653806585158,0.0,2.0,en,CAF,Africa
-'5791c35664',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Cape Melville to Cardwell,2023-12-13T10:37:00+00:00,Australia,0.551859976069382,1.0,1.0,en,CAU,Oceania
 '61d2acb9be',extremes,Snow&Ice,#d60d2b,wmo,Freezing Mazowieckie Province Otwocki County,2023-12-11T02:44:00+00:00,Poland,0.5518296093380017,0.0,2.0,en,WCE,Europe
 '9f5b01a0ad',extremes,Storm,#b3b2b1,wmo,Storm Stoett Loedingen,2024-01-18T02:45:00+00:00,Norway,0.5518264776598809,0.0,2.0,en,NEU,Europe
 'f9222d1b8c',extremes,Cold Wave,#a7e9fa,wmo,Freezing Shun county,2023-12-15T02:44:00+00:00,China,0.5518255350005944,0.0,2.0,en,EAS,Asia
