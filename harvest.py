@@ -475,6 +475,8 @@ def inqRandomNews():
 
     rndKey = termsDF.sample()
     randomNumber = random.random()
+    if(termsDF3.ratio.max()>0.78):
+      randomNumber = 0.5   
     if(unsearchedTerms.ratio.max()>0.76):
       randomNumber = 0.1   
     ## randomNumber = 0.1 # unsearched first
@@ -484,21 +486,21 @@ def inqRandomNews():
 
     print(['randomNumber: ',randomNumber])
     if(not keywordsNewsDF2.empty):
-      if(randomNumber>0.9):
+      if(randomNumber>0.85):
         print("DF2 seldoms")
         rndKey = keywordsNewsDF2.sample()
       if(randomNumber>0.95):
         print("DF2 last")
         rndKey = keywordsNewsDF2.head(1).sample()
     if(not termsDF3.empty):
-      if(randomNumber<0.85): 
+      if(randomNumber<0.75): 
         print("DF3 successors")
         rndKey = termsDF3.sample()
-      if(randomNumber<0.65):
+      if(randomNumber<0.55):
         print("DF3 first")
         rndKey = termsDF3.head(1).sample()
-    if(not termsDF3.empty):
-      if(randomNumber<0.5):
+    if(not unsearchedTerms.empty):
+      if(randomNumber<0.45):
         print("unsearched")
         rndKey = unsearchedTerms.sample()
       if(randomNumber<0.2):
