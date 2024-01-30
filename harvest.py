@@ -477,10 +477,10 @@ def inqRandomNews():
     randomNumber = random.random()
     if(termsDF3.ratio.max()>0.78):
       randomNumber = 0.5   
-    if(unsearchedTerms.ratio.max()>0.76):
+    if(unsearchedTerms.ratio.max()>0.757):    #0.765(?)  #0.759:36;3; 0.758:55;21 , 0.757:83;47 , 0.75:215
       randomNumber = 0.1   
     ## randomNumber = 0.1 # unsearched first
-    #randomNumber = 0.55 # succesors first
+    #randomNumber = 0.5 # succesors first
     #randomNumber = 0.7
     #randomNumber = 0.99 # seldoms first
 
