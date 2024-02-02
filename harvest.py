@@ -199,7 +199,7 @@ def storeCollection():
 # 
 async def saveArchive(saveUrl):
     async with aiohttp.ClientSession() as session:
-      async with session.get(saveUrl, timeout=120) as response:
+      async with session.get(saveUrl, timeout=10) as response:    #120
         print("x")   
 
 async def getArchives(urlList):
@@ -477,7 +477,7 @@ def inqRandomNews():
     randomNumber = random.random()
     if(termsDF3.ratio.max()>0.78):
       randomNumber = 0.5   
-    if(unsearchedTerms.ratio.max()>0.757):    #0.765(?)  #0.759:36;3; 0.758:55;21 , 0.757:83;47 , 0.75:215
+    if(unsearchedTerms.ratio.max()>0.755):    #0.765(?)  #0.759:36;3; 0.758:55;21 , 0.757:83;47 , 0.75:215
       randomNumber = 0.1   
     ## randomNumber = 0.1 # unsearched first
     #randomNumber = 0.5 # succesors first
