@@ -466,18 +466,18 @@ def getLatestFileAge():
     return minAge        
 
 
-def inqRandomNews():
-    apiKey = os.getenv('NEWSAPI_KEY')
-    if(apiKey == '1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7'): 
-        print('Please set newsapi.org key in file: mysecrets.py');
-        return None
-
-
+def inqRandomNews(maxCount=1):
+  apiKey = os.getenv('NEWSAPI_KEY')
+  if(apiKey == '1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7'): 
+      print('Please set newsapi.org key in file: mysecrets.py');
+      return None
+  while(maxCount>0):
+    maxCount -= 1
     rndKey = termsDF.sample()
     randomNumber = random.random()
     if(termsDF3.ratio.max()>0.78):
       randomNumber = 0.5   
-    if(unsearchedTerms.ratio.max()>0.755):    #0.765(?)  #0.759:36;3; 0.758:55;21 , 0.757:83;47 , 0.75:215
+    if(unsearchedTerms.ratio.max()>0.754):    #0.765(?)  #0.759:36;3; 0.758:55;21 , 0.757:83;47 , 0.75:215
       randomNumber = 0.1   
     ## randomNumber = 0.1 # unsearched first
     #randomNumber = 0.5 # succesors first
@@ -564,6 +564,8 @@ def inqRandomNews():
              if(jsonData['totalResults']>0):
               currRatio = jsonData['totalResults']/1E7
               if(len(jsonData['articles']) > 0):
+                #print(['found it', len(jsonData['articles']), maxCount])
+                maxCount = 0
                 currRatio += len(jsonData['articles'])/1E3
                 deltaLimit = 0
                 #newLimit = limitPages
@@ -606,6 +608,7 @@ def inqRandomNews():
               print(response.text)
               if(jsonData['code'] == 'maximumResultsReached'):
                 deltaLimit = -1
+                maxCount = 0
                 newLimit =  max(1,currPage+deltaLimit)
               # {"status":"error","code":"maximumResultsReached","message":"You have requested too many results. Developer accounts are limited to a max of 100 results. You are trying to request results 100 to 150. Please upgrade to a paid plan if you need more results."}
     #print(rndKey.index)
@@ -645,7 +648,7 @@ print(age)
 if(age>60*60*5*0):
     inqRandomNews()
 '''
-inqRandomNews()
+inqRandomNews(4)
 
 
 
