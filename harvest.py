@@ -467,6 +467,11 @@ def getLatestFileAge():
 
 
 def inqRandomNews(maxCount=1):
+  #global termsDF
+  global termsDF3
+  global unsearchedTerms
+  global keywordsNewsDF2
+
   apiKey = os.getenv('NEWSAPI_KEY')
   if(apiKey == '1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7'): 
       print('Please set newsapi.org key in file: mysecrets.py');
@@ -475,9 +480,9 @@ def inqRandomNews(maxCount=1):
     maxCount -= 1
     rndKey = termsDF.sample()
     randomNumber = random.random()
-    if(termsDF3.ratio.max()>0.78):
+    if(termsDF3.ratio.max()>0.77):
       randomNumber = 0.5   
-    if(unsearchedTerms.ratio.max()>0.754):    #0.765(?)  #0.759:36;3; 0.758:55;21 , 0.757:83;47 , 0.75:215
+    if(unsearchedTerms.ratio.max()>0.750):    #0.765(?)  #0.759:36;3; 0.758:55;21 , 0.757:83;47 , 0.75:215
       randomNumber = 0.1   
     ## randomNumber = 0.1 # unsearched first
     #randomNumber = 0.5 # succesors first
@@ -616,6 +621,18 @@ def inqRandomNews(maxCount=1):
     termsDF.loc[termsDF['index'] == crc, 'pages'] = newLimit 
     termsDF.loc[termsDF['index'] == crc, 'counter'] = newCounter 
     termsDF.loc[termsDF['index'] == crc, 'ratio'] = currRatio*0.15+ratioNew*0.85
+
+    unsearchedTerms.loc[unsearchedTerms['index'] == crc, 'unsearched'] = -1E9
+    unsearchedTerms.loc[unsearchedTerms['index'] == crc, 'ratio'] = -1E9
+    unsearchedTerms = unsearchedTerms.sort_values(by=['unsearched'], ascending=False) 
+
+    #    if(not termsDF3.empty):
+    termsDF3.loc[termsDF3['index'] == crc, 'ratio'] = -1E9
+    termsDF3 = termsDF3.sort_values(by=['ratio'], ascending=False) 
+
+    keywordsNewsDF2.loc[keywordsNewsDF2['index'] == crc, 'ratio'] = -1E9
+    keywordsNewsDF2 = keywordsNewsDF2.sort_values(by=['ratio'], ascending=False) 
+
     print(['xxx','crc',crc,'currRatio',currRatio,'ratioNew',ratioNew,'currPage: ',currPage,' limitPages: ',limitPages,' new Limit: ', newLimit])  
 
         
