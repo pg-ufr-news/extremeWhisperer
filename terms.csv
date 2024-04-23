@@ -1,9 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'eabe6169ab',extremes,Earthquake,#870007,usgs,Earthquake Tonga,2024-04-14T03:46:00+00:00,Tonga,0.7936225373483671,1.0,2.0,en,SPO,Pacific Ocean
 'c5e6fcc877',extremes,Precipitation,#d60d2b,wmo,Rain Mount Taranaki,2024-04-11T02:40:00+00:00,New Zealand,0.7892096979132583,1.0,2.0,en,NZ,Oceania
-'c1940327ca',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Slovenia,2024-04-16T02:39:00+00:00,Slovenia,0.7517670864205049,0.0,2.0,en,WCE,Europe
-'9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,Freezing Eastfjords,2024-04-03T02:38:00+00:00,Iceland,0.7517028871144882,0.0,2.0,en,GIC,Europe
-'7106d0ba4f',extremes,Storm,#b3b2b1,wmo,Storm Surge Belgium,2024-04-15T04:11:00+00:00,Belgium,0.7516089288481045,0.0,2.0,en,WCE,Europe
 'dadd7aa1d0',extremes,Heat Wave,#c40202,wmo,Heat Wave Tver Region,2024-04-12T02:41:00+00:00,Russia,0.7511360974733929,0.0,2.0,en,ESB,Europe
 '010f6e1809',extremes,Snow&Ice,#d60d2b,wmo,Freezing Slovenia,2024-04-21T02:41:00+00:00,Slovenia,0.7511239470803687,0.0,2.0,en,WCE,Europe
 '5dab6216e8',extremes,Thunderstorm,#53785a,wmo,Thunderstorm From Kaafu Atoll to Addu City,2024-04-22T02:41:00+00:00,Maldives,0.7511137906488171,0.0,2.0,en,EIO,Indian Ocean
@@ -3332,16 +3329,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4189c0a405',extremes,Heat Wave,#c40202,wmo,Heat Wave China,2024-03-05T02:38:00+00:00,China,0.6475071013296256,1.0,3.0,en,EAS,Asia
 '3ca4f8385d',extremes,Storm,#b3b2b1,wmo,Storm Majuro,2024-03-08T02:38:00+00:00,United States,0.6475054694850756,0.0,2.0,en,CNA,North-America
 '1b4b7616cd',extremes,Precipitation,#d60d2b,wmo,Rain Fiordland,2024-04-10T02:42:00+00:00,New Zealand,0.6474966865636326,1.0,1.0,en,NZ,Oceania
-'a04011f18d',extremes,Snow&Ice,#d60d2b,wmo,Ice Western Millard and Juab Counties,2024-03-04T03:13:00+00:00,United States,0.647496549686853,0.0,2.0,en,CNA,North-America
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,Downpour Tanzania,2024-03-20T02:37:00+00:00,Tanzania,0.6474833774679079,1.0,2.0,en,SEAF,Africa
 '91067d4481',extremes,Drought,#edc291,edo,Lack of Rain Zimbabwe,2024-03-18T02:37:00+00:00,Zimbabwe,0.6474823495357445,1.0,1.0,en,ESAF,Africa
 '24837af7e4',extremes,Storm,#b3b2b1,wmo,Storm Inland Berkeley,2024-03-23T02:38:00+00:00,United States,0.6474782908164999,0.0,2.0,en,CNA,North-America
-'d74b952270',extremes,Storm,#b3b2b1,wmo,Storm Surge Harney County Malheur County,2024-03-04T03:13:00+00:00,United States,0.6474757967707141,0.0,2.0,en,CNA,North-America
 'f0d2304d88',extremes,Snow&Ice,#d60d2b,wmo,Ice Republic of Buryatia,2024-03-26T02:39:00+00:00,Russia,0.6474499458307734,0.0,2.0,en,ESB,Europe
 'fc504c6276',extremes,Storm,#b3b2b1,wmo,Storm Surge Hamlin Beach to Sodus Bay NY,2024-03-10T02:40:00+00:00,United States,0.6474157008067534,0.0,2.0,en,CNA,North-America
 'b64451d0c0',extremes,Drought,#edc291,edo,Drought Burkina Faso,2024-03-28T02:40:00+00:00,Burkina Faso,0.6474149471271494,0.0,2.0,en,WAF,Africa
 'b2e526b22c',extremes,Precipitation,#d60d2b,wmo,Downpour Galanta,2024-04-22T02:41:00+00:00,Slovakia,0.6474021265160693,0.0,2.0,en,WCE,Europe
-'bd95a3da5c',extremes,Snow&Ice,#d60d2b,wmo,Frost Novosibirsk Region,2024-03-04T03:13:00+00:00,Russian Federation,0.647384137771339,0.0,2.0,en,ESB,Europe
 'dc23b42740',extremes,Storm,#b3b2b1,wmo,Storm Surge Kurgan Region,2024-03-24T02:40:00+00:00,Russia,0.6473714153127101,0.0,2.0,en,ESB,Europe
 'db2fe27b15',extremes,Drought,#edc291,edo,Dry Spell Western Sahara,2024-03-28T02:40:00+00:00,Western Sahara,0.6473303345488818,1.0,1.0,en,SAH,Africa
 '1ee6ea079f',extremes,Snow&Ice,#d60d2b,wmo,Ice Le Sueur Waseca,2024-03-22T02:37:00+00:00,United States,0.6473125527815724,0.0,2.0,en,CNA,North-America
@@ -3381,11 +3375,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '11d9dce642',extremes,Snow&Ice,#d60d2b,wmo,Snow Hardanger,2024-03-09T02:38:00+00:00,Norway,0.646884887159289,0.0,2.0,en,NEU,Europe
 '5b23ce2f5d',extremes,Flood,#030ba1,wmo,Flashflood Virginia Beach,2024-03-27T02:37:00+00:00,United States,0.6468764380729395,0.0,2.0,en,CNA,North-America
 'a63efd7f21',extremes,Heat Wave,#c40202,wmo,Heat Wave Tartagal y alrededores,2024-03-29T02:38:00+00:00,Argentina,0.6468642063603848,1.0,1.0,en,SES,South-America
-'5b3103f011',extremes,Flood,#030ba1,wmo,Flashflood Brunswick VA,2024-03-04T03:13:00+00:00,United States,0.6468448815672262,0.0,2.0,en,CNA,North-America
 'b2307fb8ba',extremes,Snow&Ice,#d60d2b,wmo,Ice Coastal Hancock Coastal Washington,2024-03-23T02:38:00+00:00,United States,0.6468429398112145,0.0,2.0,en,CNA,North-America
 '63bb5f4c02',extremes,Precipitation,#d60d2b,wmo,Downpour many area s of Singapore,2024-04-12T02:41:00+00:00,Singapore,0.6468412497038096,1.0,1.0,en,SEA,Asia
 'cfa0e5eb9a',extremes,Precipitation,#d60d2b,wmo,Rain Bellinzonese,2024-04-01T02:44:00+00:00,Switzerland,0.646839833489136,0.0,2.0,en,WCE,Europe
-'3eaf564840',extremes,Snow&Ice,#d60d2b,wmo,Frost Trollheimen,2024-03-04T03:13:00+00:00,Norway,0.6468329608757651,0.0,2.0,en,NEU,Europe
 '0c5bdedd88',extremes,Storm,#b3b2b1,wmo,Storm Surge Republic of Ingushetia,2024-03-14T02:39:00+00:00,Russian Federation,0.6468016761614966,0.0,2.0,en,ESB,Europe
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2024-04-14T03:46:00+00:00,Solomon Islands,0.6467802479115284,1.0,1.0,en,EPO,Oceania
 'cb805a2aaf',extremes,Storm,#b3b2b1,wmo,Storm Surge Irkutsk Region,2024-03-22T02:37:00+00:00,Russian Federation,0.6467453452362384,0.0,2.0,en,ESB,Europe
@@ -3475,7 +3467,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe93b004f0',extremes,Storm,#b3b2b1,wmo,Storm Surge Wien Brigittenau,2024-03-22T02:37:00+00:00,Austria,0.6452863385207125,0.0,2.0,en,WCE,Europe
 'df72d93bb7',extremes,Storm,#b3b2b1,wmo,Storm Surge Municipality of Skagway,2024-03-31T02:39:00+00:00,United States,0.6452848715628587,0.0,2.0,en,CNA,North-America
 '93517b8aa8',extremes,Snow&Ice,#d60d2b,wmo,Freezing Northeast Iceland,2024-04-02T02:40:00+00:00,Iceland,0.6452690048413137,1.0,1.0,en,GIC,Europe
-'cd21fd8496',extremes,Storm,#b3b2b1,wmo,Storm Surge Corse du Sud,2024-03-04T03:13:00+00:00,France,0.6452669547511061,0.0,2.0,en,WCE,Europe
 'b9576a4c93',extremes,Storm,#b3b2b1,wmo,Storm Surge Trinidad and Tobago,2024-03-13T02:38:00+00:00,Trinidad and Tobago,0.6452585275156235,1.0,2.0,en,NSA,North-America
 '491a82f8c3',extremes,Drought,#edc291,edo,Dry Spell Cameroon,2024-04-11T02:40:00+00:00,Cameroon,0.6452509989573258,0.0,2.0,en,CAF,Africa
 'd1c4d04c9d',extremes,Flood,#030ba1,floodlist,Thousands Evacuate as River Reaches Record High in Florida Department,2024-03-28T02:40:00+00:00,Uruguay,0.6452454922125829,1.0,1.0,en,SES,South-America
@@ -3486,8 +3477,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82eac3d1c9',extremes,Snow&Ice,#d60d2b,wmo,Frost Finnmarkskysten,2024-04-09T02:39:00+00:00,Norway,0.6451373269241651,0.0,2.0,en,NEU,Europe
 '99e70937bb',extremes,Heat Wave,#c40202,wmo,Heat Wave Punta Indio y alrededores,2024-03-27T02:37:00+00:00,Argentina,0.6451288171702544,1.0,1.0,en,SES,South-America
 '238ae3b175',extremes,Fog,#d60d2b,wmo,Fog Penza Region,2024-03-25T02:39:00+00:00,Russian Federation,0.6450293437274777,1.0,1.0,en,ESB,Europe
-'61638d8200',extremes,Storm,#b3b2b1,wmo,Storm Surge Costa Miño de Pontevedra,2024-03-04T03:13:00+00:00,Spain,0.6450202068577531,0.0,2.0,en,MED,Europe
-'292b5f6349',extremes,Snow&Ice,#d60d2b,wmo,Snow La Garita Mountains Above 10000 Ft,2024-03-04T03:13:00+00:00,United States,0.6450143189252707,0.0,2.0,en,CNA,North-America
 'f3b5197efe',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Fuyun County,2024-03-14T02:39:00+00:00,China,0.6450098650951218,1.0,1.0,en,EAS,Asia
 'a9e6417fcb',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Northern Arctic Coast,2024-04-15T04:11:00+00:00,United States,0.6450095340633599,0.0,2.0,en,CNA,North-America
 '38af90da81',extremes,Storm,#b3b2b1,wmo,Storm Surge South Australia Spencer Gulf,2024-04-07T02:40:00+00:00,Australia,0.6449964388446466,0.0,2.0,en,CAU,Oceania
@@ -3607,7 +3596,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e87932e2b8',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Iceland,2024-03-16T02:38:00+00:00,Iceland,0.6436996563323257,1.0,2.0,en,GIC,Europe
 '86ee1cb1d5',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Insular,2024-03-16T02:38:00+00:00,Ecuador,0.6436976269076558,1.0,1.0,en,NWS,South-America
 'a5c4bf54b7',extremes,Storm,#b3b2b1,wmo,Storm Surge Slovenia North East,2024-03-23T02:38:00+00:00,Slovenia,0.6436967986617693,0.0,2.0,en,WCE,Europe
-'b117a41b76',extremes,Snow&Ice,#d60d2b,wmo,Snow Richland,2024-03-04T03:13:00+00:00,United States,0.6436827080424186,0.0,2.0,en,CNA,North-America
 '606db143fb',extremes,Wildfire,#d60d2b,wmo,Wildfire Qian an County,2024-04-05T02:38:00+00:00,China,0.643668703771147,0.0,2.0,en,EAS,Asia
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,Frost Iceland,2024-04-10T02:42:00+00:00,Iceland,0.6436501704575558,1.0,1.0,en,GIC,Europe
 '4fbc5a28e6',extremes,Earthquake,#870007,usgs,Earthquake Colonia,2024-04-20T02:37:00+00:00,Micronesia,0.6436064120491048,1.0,1.0,en,NPO,Pacific Ocean
@@ -3675,7 +3663,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a97041b52',extremes,Cold Wave,#a7e9fa,relief,Cold Wave United States of America,2024-03-22T02:36:00+00:00,United States of America,0.6428665471834907,1.0,2.0,en,CNA,North-America
 'b302b14a55',extremes,Storm,#b3b2b1,eswd,Severe Wind Georgia,2024-03-15T02:37:00+00:00,Georgia,0.6428574006003938,1.0,1.0,en,WCA,Asia
 '5022ceabea',extremes,Storm,#b3b2b1,wmo,Storm Surge Abruzzo,2024-03-30T02:40:00+00:00,Italy,0.6428509041612647,0.0,2.0,en,MED,Europe
-'9ba71973b1',extremes,Thunderstorm,#53785a,wmo,Hail West Peloponnisos,2024-03-04T03:13:00+00:00,Greece,0.6428322547168219,0.0,2.0,en,MED,Europe
 '49f7d30adf',extremes,Heat Wave,#c40202,wmo,Heat Wave Y.S.R. district of Andhra Pradesh,2024-04-01T02:44:00+00:00,India,0.6428044779626844,1.0,1.0,en,SAS,Asia
 '84b54205ab',extremes,Heat Wave,#c40202,wmo,Heat Wave Yingjiang County,2024-04-15T04:11:00+00:00,China,0.6427650519804046,0.0,2.0,en,EAS,Asia
 '3ef5de96c3',extremes,Snow&Ice,#d60d2b,wmo,Ice Rusk Chippewa,2024-03-30T02:40:00+00:00,United States,0.64271812167299,0.0,2.0,en,CNA,North-America
@@ -3884,7 +3871,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '00aaa81565',extremes,Snow&Ice,#d60d2b,wmo,Frost Romania,2024-03-25T02:39:00+00:00,Romania,0.640425287422488,1.0,1.0,en,WCE,Europe
 'e90bfc8a6a',extremes,Storm,#b3b2b1,wmo,Storm Surge Gospic region,2024-03-31T02:39:00+00:00,Croatia,0.6404224939468667,0.0,2.0,en,WCE,Europe
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2024-04-08T02:41:00+00:00,New Zealand,0.6404212633354689,1.0,1.0,en,NZ,Oceania
-'a5f5964c7d',extremes,Storm,#b3b2b1,fema,Vermont R1 Severe Storms and Flooding 12172023,2024-03-04T03:13:00+00:00,United States,0.6404190811671082,0.0,2.0,en,ENA,North-America
 '9cdcd6fdc1',extremes,Storm,#b3b2b1,eswd,Severe Wind Armenia,2024-04-21T02:41:00+00:00,Armenia,0.6404129008403064,1.0,1.0,en,WCA,Asia
 '5c1bd23e01',extremes,Wildfire,#d60d2b,wmo,Wildfire Eryuan County,2024-04-04T02:42:00+00:00,China,0.6403950838171504,1.0,1.0,en,EAS,Asia
 'c62fbce176',extremes,Wildfire,#d60d2b,wmo,Wildfire Himachal Pradesh,2024-04-05T02:38:00+00:00,India,0.6403793145511311,1.0,1.0,en,SAS,Asia
@@ -4003,13 +3989,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c110d7e75a',extremes,Storm,#b3b2b1,wmo,Storm West Flanders,2024-04-15T04:11:00+00:00,Belgium,0.6391810760600217,1.0,1.0,en,WCE,Europe
 'd154e6cb31',extremes,Snow&Ice,#d60d2b,wmo,Ice Braga,2024-03-26T02:39:00+00:00,Portugal,0.6391799478455344,0.0,2.0,en,MED,Europe
 'a4f740835f',extremes,Storm,#b3b2b1,wmo,Storm Piemonte,2024-04-20T02:38:00+00:00,Italy,0.6391725664815928,0.0,2.0,en,MED,Europe
+'7106d0ba4f',extremes,Storm,#b3b2b1,wmo,Storm Surge Belgium,2024-04-15T04:11:00+00:00,Belgium,0.6391676195208889,1.0,2.0,en,WCE,Europe
 'bf291c85f6',extremes,Storm,#b3b2b1,wmo,Storm Southern Seward Peninsula Coast,2024-03-17T02:38:00+00:00,United States,0.6391675634067333,0.0,2.0,en,CNA,North-America
 '43d8582040',extremes,Storm,#b3b2b1,wmo,Storm Surge East Makedonia,2024-03-07T02:38:00+00:00,Greece,0.639161231215202,0.0,2.0,en,MED,Europe
 '1a5e4bce35',extremes,Drought,#edc291,edo,Lack of Rain Kuwait,2024-04-02T02:40:00+00:00,Kuwait,0.6391546617246775,1.0,2.0,en,ARP,Asia
 'b0d5644fb3',extremes,Fog,#d60d2b,wmo,Fog Leningrad Region,2024-03-25T02:39:00+00:00,Russia,0.6391319443459296,1.0,1.0,en,ESB,Europe
 '0429b6757f',extremes,Flood,#030ba1,wmo,Flooding Smith TX Upshur TX Wood TX,2024-03-28T02:40:00+00:00,United States,0.6391313133229521,1.0,1.0,en,CNA,North-America
 '8709e232e1',extremes,Wildfire,#d60d2b,wmo,Wildfire Karachay Cherkess Republic,2024-04-02T02:40:00+00:00,Russian Federation,0.639125095988029,1.0,1.0,en,ESB,Europe
-'17a0f16267',extremes,Snow&Ice,#d60d2b,wmo,Ice Ochoco John Day Highlands,2024-03-04T03:13:00+00:00,United States,0.6391153237580467,0.0,2.0,en,CNA,North-America
 'e2fe2371dc',extremes,Earthquake,#870007,usgs,Earthquake Tadine,2024-03-22T02:37:00+00:00,New Caledonia,0.6391101096354205,1.0,1.0,en,SPO,Pacific Ocean
 'a4ef3a85d3',extremes,Flood,#030ba1,wmo,Flooding Queensland Archer and Coen Rivers,2024-03-17T02:38:00+00:00,Australia,0.6391090558970377,1.0,1.0,en,CAU,Oceania
 '65f7c78b07',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Garrett Western Highland,2024-04-06T02:38:00+00:00,United States,0.639085690753787,0.0,2.0,en,CNA,North-America
@@ -4028,6 +4014,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1260f3a52f',extremes,Heat Wave,#c40202,wmo,Heat Wave Moscow,2024-04-12T02:41:00+00:00,Russian Federation,0.6389932559784709,1.0,1.0,en,ESB,Europe
 '79b755bf34',extremes,Storm,#b3b2b1,wmo,Storm Center of Krasnoyarsk Krai,2024-03-12T02:38:00+00:00,Russian Federation,0.6389652427490744,0.0,2.0,en,ESB,Europe
 '5b50053eeb',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Maldives,2024-04-16T02:39:00+00:00,Maldives,0.6389580433486475,1.0,1.0,en,EIO,Indian Ocean
+'9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,Freezing Eastfjords,2024-04-03T02:38:00+00:00,Iceland,0.6389474540473149,1.0,1.0,en,GIC,Europe
 '6cf0886571',extremes,Storm,#b3b2b1,wmo,Storm Coastal Brunswick,2024-04-11T02:40:00+00:00,United States,0.638939912687798,0.0,2.0,en,CNA,North-America
 'e43f41cf48',extremes,Snow&Ice,#d60d2b,wmo,Avalanche East Glacier Park Region,2024-04-15T04:11:00+00:00,United States,0.6389362426185947,0.0,2.0,en,CNA,North-America
 'fbd72868aa',extremes,Flood,#030ba1,wmo,Flooding Queensland Endeavour River,2024-04-01T02:44:00+00:00,Australia,0.6389020011910354,1.0,1.0,en,CAU,Oceania
@@ -4134,7 +4121,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2703e8202a',extremes,Snow&Ice,#d60d2b,wmo,Frost Salten,2024-03-26T02:39:00+00:00,Norway,0.6374878388291922,0.0,2.0,en,NEU,Europe
 '851e7f751b',extremes,Storm,#b3b2b1,wmo,Storm Valle d'Aosta,2024-03-29T02:38:00+00:00,Italy,0.637483104647949,0.0,2.0,en,MED,Europe
 '938fef97d4',extremes,Earthquake,#870007,usgs,Earthquake Neiafu,2024-04-21T02:40:00+00:00,Tonga,0.637474615484156,1.0,1.0,en,SPO,Pacific Ocean
-'4aaac465b6',extremes,Storm,#b3b2b1,wmo,Storm Surge Côtes d'Armor Finistère Morbihan,2024-03-04T03:13:00+00:00,France,0.6374699574869191,0.0,2.0,en,WCE,Europe
 'ed410db17d',extremes,Storm,#b3b2b1,wmo,Storm Surge Galway Mayo,2024-04-06T02:38:00+00:00,Ireland,0.637463536991691,1.0,1.0,en,NEU,Europe
 'b01241e7a2',extremes,Storm,#b3b2b1,eswd,Strong Wind Greenland,2024-04-05T02:38:00+00:00,Greenland,0.6374323638015635,1.0,2.0,en,GIC,North-America
 'ceb4a488b0',extremes,Snow&Ice,#d60d2b,wmo,Ice Basse Gruyère,2024-03-05T02:38:00+00:00,Switzerland,0.6373820366197943,0.0,2.0,en,WCE,Europe
@@ -4192,7 +4178,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e4e17e9bd',extremes,Storm,#b3b2b1,wmo,Storm Estonia,2024-03-14T02:39:00+00:00,Estonia,0.6367287403202455,1.0,2.0,en,NEU,Europe
 '6db7bb9023',extremes,Flood,#030ba1,wmo,Flooding Monroe OH Tyler WV Wetzel WV,2024-04-04T02:42:00+00:00,United States,0.6367212744268078,1.0,1.0,en,CNA,North-America
 'a70c4181c9',extremes,Precipitation,#d60d2b,relief,Flash Flood Brazil,2024-03-23T02:37:00+00:00,Brazil,0.6366819358142412,0.0,2.0,en,SAM,South-America
-'fa9e452d04',extremes,Precipitation,#d60d2b,random,rainstorm,2024-03-04T03:12:00+00:00,,0.636663736516559,0.0,2.0,en,,
 'fa74d8bb9a',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lugnez Valsertal,2024-04-10T02:42:00+00:00,Switzerland,0.6366514491908667,0.0,2.0,en,WCE,Europe
 'bc5bf057cd',extremes,Storm,#b3b2b1,wmo,Storm Surge TIMIMOUN,2024-03-24T02:40:00+00:00,Algeria,0.6366375134139914,1.0,1.0,en,SAH,Africa
 '2f553a1a06',extremes,Storm,#b3b2b1,wmo,Storm Surge Haut val de Bagnes,2024-03-09T02:38:00+00:00,Switzerland,0.6366332760545365,0.0,2.0,en,WCE,Europe
@@ -4270,7 +4255,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,mercury drops,2024-03-12T02:37:00+00:00,,0.6352592576057102,1.0,2.0,en,,
 'd5d7a11479',extremes,Drought,#edc291,edo,Drought Cyprus,2024-04-02T02:40:00+00:00,Cyprus,0.6352382042652687,0.0,2.0,en,MED,Europe
 '152914913d',extremes,Heat Wave,#c40202,acwe,heat wave Tasmania,2024-03-12T02:39:00+00:00,Australia,0.635234505959011,1.0,2.0,en,SAU,Oceania
-'7fb1cfc9c2',extremes,Storm,#b3b2b1,wmo,Storm Surge Cascade Foothills in Lane County,2024-03-04T03:13:00+00:00,United States,0.6351986480132708,0.0,2.0,en,CNA,North-America
 '49810125f2',extremes,Snow&Ice,#d60d2b,wmo,Ice Łódzkie Province Opoczyński County,2024-04-19T02:40:00+00:00,Poland,0.6351983478629182,0.0,2.0,en,WCE,Europe
 '82a7e84a45',extremes,Snow&Ice,#d60d2b,wmo,Snow Rostov Region,2024-03-09T02:38:00+00:00,Russian Federation,0.6351611628129462,0.0,2.0,en,ESB,Europe
 'e170240d00',extremes,Cold Wave,#a7e9fa,wmo,Freezing Guangling County,2024-03-17T02:38:00+00:00,China,0.63515730595794,0.0,2.0,en,EAS,Asia
@@ -4362,7 +4346,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9dfca63fa6',extremes,Storm,#b3b2b1,wmo,Storm Surge Pomorskie Province Chojnicki County,2024-04-02T02:40:00+00:00,Poland,0.6337081570424147,0.0,2.0,en,WCE,Europe
 '4dd543cb74',extremes,Flood,#030ba1,wmo,Flood Queensland Olive and Pascoe Rivers,2024-03-22T02:37:00+00:00,Australia,0.6336949251697405,0.0,2.0,en,CAU,Oceania
 '7b288a3cb8',extremes,Storm,#b3b2b1,wmo,Storm Surge Morena y Condado,2024-03-26T02:39:00+00:00,Spain,0.6336087775102082,0.0,2.0,en,MED,Europe
-'6575158ed2',extremes,Storm,#b3b2b1,wmo,Storm Forties,2024-03-04T03:13:00+00:00,Norway,0.6336083331170985,0.0,2.0,en,NEU,Europe
 'e3d8d13b1d',extremes,Storm,#b3b2b1,wmo,Storm Sarganserland,2024-03-08T02:38:00+00:00,Switzerland,0.6336060919846589,0.0,2.0,en,WCE,Europe
 '59b529f428',extremes,Thunderstorm,#53785a,random,hailstorm,2024-03-29T02:37:00+00:00,,0.6335989666614849,0.0,2.0,en,,
 '0acbe34997',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Partizánske,2024-04-22T02:41:00+00:00,Slovakia,0.6335939951593594,0.0,2.0,en,WCE,Europe
@@ -4382,7 +4365,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a23bf7f252',extremes,Earthquake,#870007,usgs,Earthquake Donaji,2024-03-22T02:37:00+00:00,Mexico,0.6333389341740523,0.0,2.0,en,SCA,North-America
 'ac8472e9b0',extremes,Snow&Ice,#d60d2b,wmo,Ice Martigny Verbier,2024-04-19T02:40:00+00:00,Switzerland,0.6332674378791222,0.0,2.0,en,WCE,Europe
 'b5dec9d924',extremes,Storm,#b3b2b1,wmo,Storm Surge Velebit channel region,2024-03-26T02:39:00+00:00,Croatia,0.6332558312283314,0.0,2.0,en,WCE,Europe
-'e80251fe17',extremes,Fog,#d60d2b,wmo,Fog Shixing County,2024-03-04T03:13:00+00:00,China,0.6332485190174613,0.0,2.0,en,EAS,Asia
 '51e518197d',extremes,Storm,#b3b2b1,wmo,Storm Surge Flensburg bis Fehmarn,2024-03-17T02:38:00+00:00,Germany,0.6332230043683681,0.0,2.0,en,WCE,Europe
 '5678edeede',extremes,Storm,#b3b2b1,wmo,Storm Andenes Loppa,2024-04-03T02:38:00+00:00,Norway,0.6332038619245057,0.0,2.0,en,NEU,Europe
 '642448c2be',extremes,Storm,#b3b2b1,wmo,Storm Costa Noroeste de A Coruña,2024-04-16T02:39:00+00:00,Spain,0.6331738067638083,0.0,2.0,en,MED,Europe
@@ -4401,7 +4383,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e50b52be17',extremes,Snow&Ice,#d60d2b,wmo,Freezing West Makedonia,2024-04-20T02:38:00+00:00,Greece,0.6329327715757092,0.0,2.0,en,MED,Europe
 '7a177b0824',extremes,Earthquake,#870007,usgs,Earthquake Puerto Ayora,2024-03-14T02:38:00+00:00,Ecuador,0.6329025627804663,1.0,1.0,en,EPO,Pacific Ocean
 '749b3dbe9a',extremes,Storm,#b3b2b1,wmo,Storm Grand Valley,2024-04-06T02:38:00+00:00,United States,0.6328994346633521,0.0,2.0,en,CNA,North-America
-'79e45f617c',extremes,Snow&Ice,#d60d2b,wmo,Frost Heiane,2024-03-04T03:13:00+00:00,Norway,0.6328812968202829,0.0,2.0,en,NEU,Europe
 '6b85127ced',extremes,Flood,#030ba1,wmo,Flooding Eastern Aleutians,2024-03-21T02:39:00+00:00,United States,0.6328615887324464,0.0,2.0,en,CNA,North-America
 'ab00e5ee86',extremes,Storm,#b3b2b1,wmo,Storm Surge Costa Costa granadina,2024-03-22T02:37:00+00:00,Spain,0.6327970457812712,0.0,2.0,en,MED,Europe
 '70e9978e6f',extremes,Snow&Ice,#d60d2b,wmo,Freezing Gospic region,2024-04-16T02:39:00+00:00,Croatia,0.6327888740307641,0.0,2.0,en,WCE,Europe
@@ -4708,7 +4689,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '07e9c27471',extremes,Drought,#edc291,edo,Drought Sudan,2024-04-11T02:40:00+00:00,Sudan,0.6266100809720369,0.0,2.0,en,SAH,Africa
 'fb449820a2',extremes,Precipitation,#d60d2b,wmo,Downpour Istocna Srbija,2024-03-07T02:38:00+00:00,Serbia,0.6265794210573417,0.0,2.0,en,MED,Europe
 'da9ff67b4b',extremes,Precipitation,#d60d2b,wmo,Downpour Tuva Republic,2024-03-31T02:39:00+00:00,Russian Federation,0.6265375208648308,0.0,2.0,en,ESB,Europe
-'0354e527ac',extremes,Precipitation,#d60d2b,acwe,precipitation Australia,2024-03-04T03:14:00+00:00,Australia,0.6265282515004825,0.0,2.0,en,CAU,Oceania
 '99eef5d2b3',extremes,Snow&Ice,#d60d2b,wmo,Ice Wyoming,2024-03-10T02:40:00+00:00,United States,0.6265213209050221,0.0,2.0,en,CNA,North-America
 '8706b69abf',extremes,Wildfire,#d60d2b,wmo,Wildfire Helong,2024-03-17T02:38:00+00:00,China,0.6265051039542722,0.0,2.0,en,EAS,Asia
 '34a94d4768',extremes,Storm,#b3b2b1,wmo,Storm Nantucket Sound,2024-03-11T02:38:00+00:00,United States,0.6264629905790415,0.0,2.0,en,CNA,North-America
@@ -4718,7 +4698,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d71d4c81a',extremes,Storm,#b3b2b1,wmo,Storm Podlaskie Province Sejneński County,2024-04-03T02:38:00+00:00,Poland,0.626354525733932,0.0,2.0,en,WCE,Europe
 '25cc3b5c61',extremes,Wildfire,#d60d2b,esawfa,Bushfire Brazil,2024-03-13T02:39:00+00:00,Brazil,0.6263409758309616,0.0,2.0,en,NSA,South-America
 '5c75be7e13',extremes,Snow&Ice,#d60d2b,wmo,Ice Rockbridge,2024-04-22T02:41:00+00:00,United States,0.6263283643819177,0.0,2.0,en,CNA,North-America
-'9d3897fbb6',extremes,Storm,#b3b2b1,meteo,Storm Albania,2024-03-04T03:13:00+00:00,Albania,0.6263235999278164,0.0,2.0,en,MED,Europe
 'b377630b78',extremes,Storm,#b3b2b1,wmo,Storm Surge Costa El Hierro,2024-03-28T02:40:00+00:00,Spain,0.6263072693107321,0.0,2.0,en,MED,Europe
 '1c5d076d94',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Emilia e Romagna,2024-03-06T02:37:00+00:00,Italy,0.6263047527459941,0.0,2.0,en,MED,Europe
 'b3f95478f2',extremes,Snow&Ice,#d60d2b,wmo,Snow Lauterbrunnen Wilderswil,2024-03-24T02:40:00+00:00,Switzerland,0.6262274917098644,0.0,2.0,en,WCE,Europe
@@ -4775,7 +4754,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '30bfee89f7',extremes,Flood,#030ba1,wmo,Flooding Queensland Bulloo River QLD,2024-03-23T02:38:00+00:00,Australia,0.6250073554651823,0.0,2.0,en,CAU,Oceania
 '66a15fc25a',extremes,Snow&Ice,#d60d2b,wmo,Frost East Sterea Evvoia,2024-03-05T02:38:00+00:00,Greece,0.6249347951258538,0.0,2.0,en,MED,Europe
 'b6a88c8853',extremes,Storm,#b3b2b1,wmo,Storm Wien Hietzing,2024-03-09T02:38:00+00:00,Austria,0.62492922812987,0.0,2.0,en,WCE,Europe
-'840271d3f1',extremes,Fog,#d60d2b,wmo,Fog Yongning District,2024-03-04T03:13:00+00:00,China,0.6249262627809904,0.0,2.0,en,EAS,Asia
 '97e99265ea',extremes,Storm,#b3b2b1,wmo,Storm Northwestern Nye County,2024-04-13T02:38:00+00:00,United States,0.6248955424547938,0.0,2.0,en,CNA,North-America
 'aa6c1672ad',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Upper Weiser River Malheur County,2024-03-05T02:38:00+00:00,United States,0.6248883958663495,0.0,2.0,en,CNA,North-America
 '9c5ba69aeb',extremes,Cold Wave,#a7e9fa,wmo,Freezing Qimen County,2024-03-18T02:37:00+00:00,China,0.6248866091645103,0.0,2.0,en,EAS,Asia
@@ -4831,7 +4809,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '25757efce8',extremes,Storm,#b3b2b1,wmo,Storm Surge Mendrisiotto,2024-04-01T02:44:00+00:00,Switzerland,0.6238372917562324,0.0,2.0,en,WCE,Europe
 '6a402fbe62',extremes,Storm,#b3b2b1,wmo,Storm Storegga,2024-03-17T02:38:00+00:00,Norway,0.6238329628537724,0.0,2.0,en,NEU,Europe
 '17184964dd',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Podlaskie Province Bielski County,2024-03-18T02:37:00+00:00,Poland,0.623825044956823,0.0,2.0,en,WCE,Europe
-'19a4f892d8',extremes,Fog,#d60d2b,wmo,Fog Bobai County,2024-03-04T03:13:00+00:00,China,0.6237885645605221,0.0,2.0,en,EAS,Asia
 '7592facbb8',extremes,Snow&Ice,#d60d2b,wmo,Snow Viana do Castelo,2024-03-28T02:40:00+00:00,Portugal,0.623787787723378,0.0,2.0,en,MED,Europe
 'bd0d4df56c',extremes,Flood,#030ba1,wmo,Flooding Queensland Gilbert River,2024-03-22T02:37:00+00:00,Australia,0.6237406481117093,0.0,2.0,en,CAU,Oceania
 '0d58dbac87',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Sobrance,2024-03-08T02:38:00+00:00,Slovakia,0.6236491654720658,0.0,2.0,en,WCE,Europe
@@ -4962,10 +4939,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7385ae708d',extremes,Drought,#edc291,edo,Dryness Myanmar,2024-04-06T02:38:00+00:00,Myanmar,0.6209236911868707,0.0,2.0,en,EAS,Asia
 '7c0413d7fc',extremes,Snow&Ice,#d60d2b,wmo,Avalanche West of Sakha Republic,2024-03-20T02:37:00+00:00,Russia,0.6209233094430578,0.0,2.0,en,ESB,Europe
 '2645b53cb0',extremes,Storm,#b3b2b1,wmo,Storm Pomorskie Province Słupsk County,2024-04-02T02:40:00+00:00,Poland,0.6208463844142099,0.0,2.0,en,WCE,Europe
-'189a80997a',extremes,Fog,#d60d2b,wmo,Fog Chongyi County,2024-03-04T03:13:00+00:00,China,0.620807682593874,0.0,2.0,en,EAS,Asia
 '8ce6d6576f',extremes,Snow&Ice,#d60d2b,wmo,Ice Indre Fjordane,2024-04-18T02:41:00+00:00,Norway,0.6207969525206917,0.0,2.0,en,NEU,Europe
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,Storm Surge Wien Währing,2024-03-09T02:38:00+00:00,Austria,0.6207680311449923,0.0,2.0,en,WCE,Europe
-'ae0abbed1f',extremes,Fog,#d60d2b,wmo,Fog Tuyun City,2024-03-04T03:13:00+00:00,China,0.6207457137571881,0.0,2.0,en,EAS,Asia
 'f35c1fcd9a',extremes,Wildfire,#d60d2b,esawfa,Wildfire Mali,2024-03-08T02:39:00+00:00,Mali,0.6206702701459461,0.0,2.0,en,WAF,Africa
 'b814893fcc',extremes,Snow&Ice,#d60d2b,wmo,Avalanche north of Amur Region,2024-03-28T02:40:00+00:00,Russian Federation,0.6206592316569374,0.0,2.0,en,ESB,Europe
 '5af9c71590',extremes,Snow&Ice,#d60d2b,wmo,Freezing Łódzkie Province Poddębicki County,2024-04-21T02:41:00+00:00,Poland,0.6206294462209356,0.0,2.0,en,WCE,Europe
@@ -4981,7 +4956,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '34047b560e',extremes,Storm,#b3b2b1,wmo,Storm Surge Kirchdorf an der Krems,2024-03-22T02:37:00+00:00,Austria,0.6203961196534625,0.0,2.0,en,WCE,Europe
 '99af765fb9',extremes,Storm,#b3b2b1,wmo,Storm Surge Oksoey Lindesnes,2024-03-09T02:38:00+00:00,Norway,0.6203841533844632,0.0,2.0,en,NEU,Europe
 'db9244a045',extremes,Drought,#edc291,acwe,dry spell Victoria,2024-03-26T02:39:00+00:00,Australia,0.6203627474339491,0.0,2.0,en,SAU,Oceania
-'a8d2c40d7f',extremes,Fog,#d60d2b,wmo,Fog enping,2024-03-04T03:13:00+00:00,China,0.6202805676901961,0.0,2.0,en,EAS,Asia
 '88e034f869',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Vallée du Trient,2024-03-05T02:38:00+00:00,Switzerland,0.620240508284183,0.0,2.0,en,WCE,Europe
 '10b4e59648',extremes,Snow&Ice,#d60d2b,wmo,Freezing East Glacier Park Region,2024-03-11T02:38:00+00:00,United States,0.6202381475783562,0.0,2.0,en,CNA,North-America
 'b6da14e319',extremes,Storm,#b3b2b1,aidr,Storm Severe Storm South East Queensland Northern New South Wales Northern Western Australia Northern Territory 2004,2024-03-20T02:38:00+00:00,Australia,0.6202315274938205,0.0,2.0,en,NAU,Oceania
@@ -5012,7 +4986,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0c5731291',extremes,Storm,#b3b2b1,wmo,Storm Surge Grand Marais to Whitefish Point MI,2024-03-24T02:40:00+00:00,United States,0.6196041970598443,0.0,2.0,en,CNA,North-America
 'a4891be1e5',extremes,Flood,#030ba1,fema,Rhode Island Severe Storms and Flooding,2024-03-22T02:37:00+00:00,United States,0.6195938106006221,0.0,2.0,en,ENA,North-America
 '1f75faaeb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Wasatch Mountains I 80 North,2024-03-14T02:39:00+00:00,United States,0.6195520439589005,0.0,2.0,en,CNA,North-America
-'f1e36c14e7',extremes,Fog,#d60d2b,wmo,Fog qingcheng district,2024-03-04T03:13:00+00:00,China,0.6195321318550804,0.0,2.0,en,EAS,Asia
 '89ac060265',extremes,Storm,#b3b2b1,wmo,Storm Surge Kauno apskritis,2024-04-02T02:40:00+00:00,Lithuania,0.6195269398808458,0.0,2.0,en,WCE,Europe
 'bd42029055',extremes,Heat Wave,#c40202,meteo,High Temperature Spain,2024-04-12T02:41:00+00:00,Spain,0.6195235129753507,0.0,2.0,en,MED,Europe
 '30f7444e18',extremes,Storm,#b3b2b1,wmo,Storm Puglia,2024-03-23T02:38:00+00:00,Italy,0.6194913772301364,0.0,2.0,en,MED,Europe
@@ -5113,7 +5086,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'af41edc909',extremes,Storm,#b3b2b1,wmo,Storm Surge Vertiente cantábrica de Navarra,2024-03-08T02:38:00+00:00,Spain,0.6174526092067791,0.0,2.0,en,MED,Europe
 'e00f915abf',extremes,Snow&Ice,#d60d2b,wmo,Frost Voss,2024-04-13T02:38:00+00:00,Norway,0.6174262523130372,0.0,2.0,en,NEU,Europe
 '0e8f392ce9',extremes,Drought,#edc291,edo,Drought Libya,2024-03-12T02:38:00+00:00,Libya,0.6174216367363088,0.0,2.0,en,SAH,Africa
-'cbbb5e6bb7',extremes,Fog,#d60d2b,wmo,Fog Heshan City,2024-03-04T03:13:00+00:00,China,0.6174205490035796,0.0,2.0,en,EAS,Asia
 '1cb183fa37',extremes,Snow&Ice,#d60d2b,wmo,Ice Mazowieckie Province Mławski County,2024-03-18T02:37:00+00:00,Poland,0.6174132710922337,0.0,2.0,en,WCE,Europe
 '6be39bcbb6',extremes,Storm,#b3b2b1,wmo,Storm Surge Eastern Lincoln County,2024-04-16T02:39:00+00:00,United States,0.6173874052112134,0.0,2.0,en,CNA,North-America
 '6fea2877df',extremes,Storm,#b3b2b1,wmo,Storm Podlaskie Province Suwalski County,2024-04-03T02:38:00+00:00,Poland,0.6173817258567187,0.0,2.0,en,WCE,Europe
@@ -5221,14 +5193,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c6f2fb4b2',extremes,Storm,#b3b2b1,wmo,Storm Surge Nové Zámky,2024-03-22T02:37:00+00:00,Slovakia,0.6151237438724867,0.0,2.0,en,WCE,Europe
 '3d11510eb1',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Kecamatan Kimaam Merauke Papua,2024-03-12T02:38:00+00:00,Indonesia,0.6151096244534882,0.0,2.0,en,SEA,Asia
 '6e105d4f83',extremes,Snow&Ice,#d60d2b,wmo,Freezing Svartisen,2024-04-08T02:41:00+00:00,Norway,0.6150997386623479,0.0,2.0,en,NEU,Europe
-'1a388c5c32',extremes,Fog,#d60d2b,wmo,Fog Gaoming District,2024-03-04T03:13:00+00:00,China,0.6150869147812809,0.0,2.0,en,EAS,Asia
 'f92054766b',extremes,Storm,#b3b2b1,wmo,Storm Mercer,2024-04-09T02:39:00+00:00,United States,0.6150766538032634,0.0,2.0,en,CNA,North-America
 '138af6b154',extremes,Storm,#b3b2b1,wmo,Storm South of Kamchatka Krai,2024-04-19T02:40:00+00:00,Russian Federation,0.6150476568539743,0.0,2.0,en,ESB,Europe
 '000af0663c',extremes,Storm,#b3b2b1,wmo,Storm Surge Steyr Land,2024-03-30T02:40:00+00:00,Austria,0.6150158735914338,0.0,2.0,en,WCE,Europe
 '9b987e6ee6',extremes,Storm,#b3b2b1,wmo,Storm Thraki,2024-03-12T02:38:00+00:00,Greece,0.6150051468876431,0.0,2.0,en,MED,Europe
-'fd9ef2074f',extremes,Fog,#d60d2b,wmo,Fog dongyuan county,2024-03-04T03:13:00+00:00,China,0.6149850326770233,0.0,2.0,en,EAS,Asia
 '04267871ab',extremes,Storm,#b3b2b1,wmo,Storm Surge Obrestad Slaatteroey,2024-04-14T03:46:00+00:00,Norway,0.614969347208928,0.0,2.0,en,NEU,Europe
-'11602cf78e',extremes,Fog,#d60d2b,wmo,Fog Nandan County,2024-03-04T03:13:00+00:00,China,0.614937099898978,0.0,2.0,en,EAS,Asia
 'e43c116e31',extremes,Storm,#b3b2b1,wmo,Storm nördliches Tavetsch,2024-03-27T02:37:00+00:00,Switzerland,0.6149221929797652,0.0,2.0,en,WCE,Europe
 '2c65951a8c',extremes,Thunderstorm,#53785a,wmo,Hail Veneto,2024-03-09T02:38:00+00:00,Italy,0.6148866357131032,0.0,2.0,en,MED,Europe
 '28fe251747',extremes,Storm,#b3b2b1,wmo,Storm Surge Campiña gaditana,2024-03-27T02:37:00+00:00,Spain,0.6148834752817869,0.0,2.0,en,MED,Europe
@@ -5296,7 +5265,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1448de486',extremes,Storm,#b3b2b1,wmo,Storm La Gomera,2024-03-22T02:37:00+00:00,Spain,0.6134231204724091,0.0,2.0,en,MED,Europe
 '29a9cd9746',extremes,Storm,#b3b2b1,wmo,Storm Surge Northern Chatham Strait,2024-04-07T02:40:00+00:00,United States,0.6133719001576742,0.0,2.0,en,CNA,North-America
 '3689b6a996',extremes,Storm,#b3b2b1,wmo,Storm Manitou Island to Point Isabelle MI,2024-03-25T02:39:00+00:00,United States,0.6133556246656524,0.0,2.0,en,CNA,North-America
-'669b358a51',extremes,Drought,#edc291,edo,Lack of Rain Algeria,2024-03-04T03:13:00+00:00,Algeria,0.6133232106785445,0.0,2.0,en,SAH,Africa
 '43a62fc7f0',extremes,Flood,#030ba1,wmo,Flooding Jefferson Belmont Ohio,2024-04-03T02:38:00+00:00,United States,0.6133176288954779,0.0,2.0,en,CNA,North-America
 '1d404c9d9b',extremes,Storm,#b3b2b1,wmo,Storm Surge Mari El Republic,2024-03-24T02:40:00+00:00,Russian Federation,0.6132903282979898,0.0,2.0,en,ESB,Europe
 '4b2df6a526',extremes,Storm,#b3b2b1,wmo,Storm Surge Stoett Loedingen Bodoe Melbu,2024-04-07T02:40:00+00:00,Norway,0.6132322036870135,0.0,2.0,en,NEU,Europe
@@ -5325,7 +5293,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f336193e73',extremes,Snow&Ice,#d60d2b,wmo,Snow Košice okolie,2024-03-08T07:57:00+00:00,Slovakia,0.6126673537467546,0.0,2.0,en,WCE,Europe
 'c175d439ec',extremes,Storm,#b3b2b1,wmo,Storm East Carteret,2024-03-26T02:39:00+00:00,United States,0.6125943973774863,0.0,2.0,en,CNA,North-America
 '948ad64ab9',extremes,Storm,#b3b2b1,wmo,Storm Surge Pirineo de Lleida,2024-03-27T02:37:00+00:00,Spain,0.6125404979225932,0.0,2.0,en,MED,Europe
-'80cabc454c',extremes,Fog,#d60d2b,wmo,Fog Chancheng district,2024-03-04T03:13:00+00:00,China,0.6125240729731066,0.0,2.0,en,EAS,Asia
 '322ce535f5',extremes,Storm,#b3b2b1,wmo,Storm Surge Karmoey Fedje,2024-03-18T02:37:00+00:00,Norway,0.6125223410963783,0.0,2.0,en,NEU,Europe
 '6aa1c68950',extremes,Cold Wave,#a7e9fa,meteo,Cold Wave Slovenia,2024-03-24T02:39:00+00:00,Slovenia,0.6125049019507145,0.0,2.0,en,WCE,Europe
 '20dd47ddbf',extremes,Storm,#b3b2b1,meteo,Wind Slovakia,2024-03-07T02:38:00+00:00,Slovakia,0.6124919486816163,0.0,2.0,en,WCE,Europe
@@ -5349,13 +5316,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a058a50e3e',extremes,Storm,#b3b2b1,wmo,Storm Meseta de Soria,2024-03-28T02:40:00+00:00,Spain,0.6122479902677781,0.0,2.0,en,MED,Europe
 '3938c0f52f',extremes,Drought,#edc291,edo,Drought Lesotho,2024-04-20T02:38:00+00:00,Lesotho,0.6122422991040178,0.0,2.0,en,ESAF,Africa
 '932ca6dbba',extremes,Snow&Ice,#d60d2b,wmo,Frost McKean Elk,2024-03-11T02:38:00+00:00,United States,0.6122396396574901,0.0,2.0,en,CNA,North-America
-'0fd9b90c9f',extremes,Precipitation,#d60d2b,wmo,Precipitation Vologda Region,2024-03-04T03:13:00+00:00,Russian Federation,0.6122392307237517,0.0,2.0,en,ESB,Europe
 'c37c97dd5a',extremes,Storm,#b3b2b1,wmo,Storm Coastal Palm Beach County,2024-04-10T02:42:00+00:00,United States,0.6122246203626239,0.0,2.0,en,CNA,North-America
 '08b51a1270',extremes,Snow&Ice,#d60d2b,wmo,Frost Innsbruck Land,2024-04-10T02:42:00+00:00,Austria,0.6122183103957045,0.0,2.0,en,WCE,Europe
 '7ecc400eec',extremes,Snow&Ice,#d60d2b,wmo,Frost Opolskie Province Strzelecki County,2024-04-21T02:41:00+00:00,Poland,0.6122048133087806,0.0,2.0,en,WCE,Europe
 '8c3f0462db',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Śląskie Province Bytom County,2024-04-21T02:41:00+00:00,Poland,0.612135436558432,0.0,2.0,en,WCE,Europe
 '2dbc36143a',extremes,Snow&Ice,#d60d2b,wmo,Ice Rožňava,2024-03-08T07:57:00+00:00,Slovakia,0.6121263476080645,0.0,2.0,en,WCE,Europe
-'b3498ecedd',extremes,Fog,#d60d2b,wmo,Fog Lu Chuan County,2024-03-04T03:13:00+00:00,China,0.6120583785605639,0.0,2.0,en,EAS,Asia
 '4f7f4eaf5c',extremes,Storm,#b3b2b1,wmo,Storm Wien Simmering,2024-03-23T02:38:00+00:00,Austria,0.6120445768642124,0.0,2.0,en,WCE,Europe
 '0e11501646',extremes,Storm,#b3b2b1,wmo,Storm Emilia e Romagna,2024-03-23T02:38:00+00:00,Italy,0.6120263629079409,0.0,2.0,en,MED,Europe
 'e79fead5ca',extremes,Storm,#b3b2b1,wmo,Storm Surge Elbe von Hamburg bis Cuxhaven,2024-04-19T02:40:00+00:00,Germany,0.6120228976855403,0.0,2.0,en,WCE,Europe
@@ -5471,7 +5436,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dee4b45640',extremes,Storm,#b3b2b1,wmo,Storm Mono,2024-04-13T02:38:00+00:00,United States,0.6093125754915377,0.0,2.0,en,CNA,North-America
 '06d4034b7e',extremes,Storm,#b3b2b1,wmo,Storm Surge Sistema Central de Salamanca,2024-03-07T02:38:00+00:00,Spain,0.6093003164305189,0.0,2.0,en,MED,Europe
 'dd585daf5f',extremes,Storm,#b3b2b1,wmo,Storm Surge Teton and Gros Ventre Mountains,2024-04-04T02:42:00+00:00,United States,0.6092982731826883,0.0,2.0,en,CNA,North-America
-'2022b76598',extremes,Earthquake,#870007,usgs,Earthquake Bengkulu,2024-03-04T03:12:00+00:00,Indonesia,0.6092804089266006,0.0,2.0,en,SEA,Asia
 'e48cdb874e',extremes,Storm,#b3b2b1,wmo,Storm Surge Oberwart,2024-03-09T02:38:00+00:00,Austria,0.609278685725605,0.0,2.0,en,WCE,Europe
 '8ac40ca1e0',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Belarus,2024-04-05T02:38:00+00:00,Belarus,0.6092354427199099,0.0,2.0,en,WCE,Europe
 '4420765fec',extremes,Storm,#b3b2b1,wmo,Storm Cinco Villas de Zaragoza,2024-03-07T02:38:00+00:00,Spain,0.6092203196233358,0.0,2.0,en,MED,Europe
@@ -5487,7 +5451,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dedc8ea618',extremes,Snow&Ice,#d60d2b,wmo,Snow Małopolskie Province Brzeski County,2024-04-19T02:40:00+00:00,Poland,0.6089468081600324,0.0,2.0,en,WCE,Europe
 'f81ed149e0',extremes,Storm,#b3b2b1,wmo,Storm Surge Partizánske,2024-03-26T02:39:00+00:00,Slovakia,0.6089424853331179,0.0,2.0,en,WCE,Europe
 'd2218cf1bc',extremes,Fog,#d60d2b,wmo,Fog Luochuan County,2024-03-05T02:38:00+00:00,China,0.6089234695576966,0.0,2.0,en,EAS,Asia
-'9a407be0a5',extremes,Fog,#d60d2b,wmo,Fog lechang city,2024-03-04T03:13:00+00:00,China,0.6089126761808186,0.0,2.0,en,EAS,Asia
 '9ab9abeb83',extremes,Storm,#b3b2b1,wmo,Storm Wind River Mountains East,2024-03-14T02:39:00+00:00,United States,0.608910227109706,0.0,2.0,en,CNA,North-America
 'acc2fed673',extremes,Snow&Ice,#d60d2b,wmo,Avalanche East Peloponnisos,2024-03-08T02:38:00+00:00,Greece,0.6088969971690237,0.0,2.0,en,MED,Europe
 '34f2c26ba0',extremes,Fog,#d60d2b,wmo,Fog Yuanqu County,2024-03-06T02:37:00+00:00,China,0.6088811686546787,0.0,2.0,en,EAS,Asia
@@ -5526,7 +5489,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4574162833',extremes,Snow&Ice,#d60d2b,wmo,Freezing Pomorskie Province Gdański County,2024-03-18T02:37:00+00:00,Poland,0.6083303380688493,0.0,2.0,en,WCE,Europe
 '2cd5bcee3b',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Mazowieckie Province Siedlce County,2024-03-18T02:37:00+00:00,Poland,0.6083267179487103,0.0,2.0,en,WCE,Europe
 '3228eb0e0a',extremes,Storm,#b3b2b1,wmo,Storm THUNDER WITH RAIN,2024-04-06T02:38:00+00:00,India,0.6083204357792404,0.0,2.0,en,SAS,Asia
-'2adac29f34',extremes,Precipitation,#d60d2b,wmo,Precipitation Omsk Region,2024-03-04T03:13:00+00:00,Russia,0.6083006982233763,0.0,2.0,en,ESB,Europe
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,torrential rain,2024-04-16T02:38:00+00:00,,0.6082835054444873,0.0,2.0,en,,
 'ee5f7af755',extremes,Snow&Ice,#d60d2b,wmo,Freezing Locarnese,2024-03-10T02:40:00+00:00,Switzerland,0.6082758808767643,0.0,2.0,en,WCE,Europe
 '7e75eeeaab',extremes,Precipitation,#d60d2b,wmo,Downpour Eastern region,2024-03-11T02:38:00+00:00,North Macedonia,0.6082615690977193,0.0,2.0,en,MED,Europe
@@ -5591,7 +5553,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '628bf5d4cb',extremes,Storm,#b3b2b1,wmo,Storm Central coastal zone,2024-04-10T02:42:00+00:00,Poland,0.6068104913449879,0.0,2.0,en,WCE,Europe
 '62a4d09d14',extremes,Drought,#edc291,edo,Drought New Zealand,2024-03-07T02:38:00+00:00,New Zealand,0.6067931243724923,0.0,2.0,en,NZ,Oceania
 '60bd1c44e3',extremes,Snow&Ice,#d60d2b,wmo,Snow Centennial Mountains Island Park,2024-03-12T02:38:00+00:00,United States,0.6067510086119257,0.0,2.0,en,CNA,North-America
-'f9eb244a9a',extremes,Drought,#edc291,edo,Lack of Rain Italy,2024-03-04T03:13:00+00:00,Italy,0.6067438146549269,0.0,2.0,en,MED,Europe
 '5b90f60ca1',extremes,Earthquake,#870007,usgs,Earthquake Modisi,2024-03-16T02:38:00+00:00,Indonesia,0.6067432647175962,0.0,2.0,en,SEA,Asia
 '46bb9586b2',extremes,Flood,#030ba1,wmo,Flooding Jefferson Brooke,2024-04-03T02:38:00+00:00,United States,0.6067091796959936,0.0,2.0,en,CNA,North-America
 'e1e808e1ee',extremes,Snow&Ice,#d60d2b,wmo,Freezing Leventina,2024-03-30T02:40:00+00:00,Switzerland,0.6066824827563704,0.0,2.0,en,WCE,Europe
@@ -5628,7 +5589,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a69a5f382',extremes,Storm,#b3b2b1,wmo,Storm Surge Oak Point to Saxon Harbor WI,2024-04-07T02:40:00+00:00,United States,0.6059478512001852,0.0,2.0,en,CNA,North-America
 '04e6590d28',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Natrona County Lower Elevations,2024-04-07T02:40:00+00:00,United States,0.6059458461869324,0.0,2.0,en,CNA,North-America
 'bb24a4fbb7',extremes,Precipitation,#d60d2b,wmo,Downpour Austria,2024-04-15T04:11:00+00:00,Austria,0.6059212705014008,0.0,2.0,en,WCE,Europe
-'290d0f33a2',extremes,Fog,#d60d2b,wmo,Fog New Fengxian County,2024-03-04T03:13:00+00:00,China,0.6058822623301314,0.0,2.0,en,EAS,Asia
 '56a28e6f41',extremes,Storm,#b3b2b1,wmo,Storm Karlovac region,2024-04-15T04:11:00+00:00,Croatia,0.6058637175768146,0.0,2.0,en,WCE,Europe
 '0a1f6918a1',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Kemerovo Region,2024-03-07T02:38:00+00:00,Russia,0.6058286669644898,0.0,2.0,en,ESB,Europe
 '1b4fa92e08',extremes,Snow&Ice,#d60d2b,wmo,Frost Zuoz,2024-03-06T02:37:00+00:00,Switzerland,0.6058255307181495,0.0,2.0,en,WCE,Europe
@@ -5809,7 +5769,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4ebf462432',extremes,Storm,#b3b2b1,wmo,Storm Surge Bivio Avers,2024-03-10T02:40:00+00:00,Switzerland,0.6016236879634974,0.0,2.0,en,WCE,Europe
 '52af874334',extremes,Drought,#edc291,random,aridity,2024-03-25T02:39:00+00:00,,0.6015900751670139,0.0,2.0,en,,
 'e31ab38b80',extremes,Storm,#b3b2b1,wmo,Storm Cordillera Cantábrica de Burgos,2024-03-27T02:37:00+00:00,Spain,0.6015240940292532,0.0,2.0,en,MED,Europe
-'469f1c3ab9',extremes,Drought,#edc291,edo,Dryness Niger,2024-03-04T03:13:00+00:00,Niger,0.601484926911596,0.0,2.0,en,SAH,Africa
 '5164507b55',extremes,Drought,#edc291,edo,Dryness Kuwait,2024-04-03T02:38:00+00:00,Kuwait,0.6014524677412032,0.0,2.0,en,ARP,Asia
 '24ca87aeaf',extremes,Snow&Ice,#d60d2b,wmo,Ice Savognin,2024-03-05T02:38:00+00:00,Switzerland,0.6014387217504096,0.0,2.0,en,WCE,Europe
 '781eb68d4d',extremes,Fog,#d60d2b,wmo,Fog Harbor District,2024-03-26T02:39:00+00:00,China,0.6014063650165501,0.0,2.0,en,EAS,Asia
