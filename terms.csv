@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'97c9a671c8',extremes,Precipitation,#d60d2b,floodlist,Dozens Rescued 12 Dead After Heavy Rain Triggers Flash Floods Oman,2024-04-17T02:41:00+00:00,Oman,0.7995316041376715,0.0,2.0,en,ARP,Asia
-'468d448d4d',extremes,Thunderstorm,#53785a,eswd,Hail Georgia,2024-04-24T03:22:00+00:00,Georgia,0.7921959028328613,0.0,2.0,en,WCA,Asia
 '4b950e38b8',extremes,Thunderstorm,#53785a,meteo,Thunderstorm Albania,2024-04-07T02:40:00+00:00,Albania,0.7792141161205295,0.0,2.0,en,MED,Europe
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2024-04-09T02:39:00+00:00,Ireland,0.7778717752399416,0.0,2.0,en,NEU,Europe
 '3938c0f52f',extremes,Drought,#edc291,edo,Drought Lesotho,2024-04-20T02:38:00+00:00,Lesotho,0.7769399188455495,0.0,2.0,en,ESAF,Africa
@@ -1469,6 +1467,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '074a9424c0',extremes,Flood,#030ba1,wmo,Flood Queensland Moonie River,2024-04-04T02:42:00+00:00,Australia,0.705688473003549,0.0,2.0,en,CAU,Oceania
 '0995f86efd',extremes,Flood,#030ba1,wmo,Flooding Cass TX Marion TX,2024-04-15T04:11:00+00:00,United States,0.7056640534038443,0.0,2.0,en,CNA,North-America
 '58520c51cc',extremes,Flood,#030ba1,wmo,Flood Franklin LA,2024-04-20T02:38:00+00:00,United States,0.705645133325342,0.0,2.0,en,CNA,North-America
+'468d448d4d',extremes,Thunderstorm,#53785a,eswd,Hail Georgia,2024-04-24T03:22:00+00:00,Georgia,0.7055899346806593,1.0,2.0,en,WCA,Asia
 '35008bd929',extremes,Flood,#030ba1,wmo,Flood Brazos TX Grimes TX Madison TX,2024-04-12T02:41:00+00:00,United States,0.70558274368507,0.0,2.0,en,CNA,North-America
 '8a7ab871d3',extremes,Storm,#b3b2b1,wmo,Storm Cork Kerry,2024-03-04T03:13:00+00:00,Ireland,0.7055721293674427,0.0,2.0,en,NEU,Europe
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,sleet,2024-03-20T02:37:00+00:00,,0.7055703641776238,0.0,2.0,en,,
@@ -9506,10 +9505,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e83eec10ea',extremes,Storm,#b3b2b1,wmo,Storm Surge Sanjiang Dong Autonomous County,2024-04-20T02:38:00+00:00,China,0.4959954887480152,0.0,2.0,en,EAS,Asia
 '0c094855e0',extremes,Storm,#b3b2b1,wmo,Storm Surge Ceheng County,2024-03-27T02:37:00+00:00,China,0.4959737671257933,0.0,2.0,en,EAS,Asia
 'd615e0079d',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Bryansk Region,2024-04-22T02:41:00+00:00,Russian Federation,0.4959606062865648,0.0,2.0,en,ESB,Europe
-'ab2a5574f9',extremes,Storm,#b3b2b1,wmo,Storm Surge Ning an City,2024-03-08T07:57:00+00:00,China,0.4959369261794571,0.0,2.0,en,EAS,Asia
 '39bab6b4e3',extremes,Drought,#edc291,edo,Drought Turkey,2024-04-06T02:38:00+00:00,Turkey,0.4959313258272388,0.0,2.0,en,MED,Asia
 '8acd41f962',extremes,Storm,#b3b2b1,wmo,Storm Surge laiwu district,2024-03-21T02:39:00+00:00,China,0.4959140092572753,0.0,2.0,en,EAS,Asia
-'dcd2b07131',extremes,Storm,#b3b2b1,wmo,Storm Surge Hongta,2024-03-08T07:57:00+00:00,China,0.4959083493077375,0.0,2.0,en,EAS,Asia
 '25ca2338c6',extremes,Precipitation,#d60d2b,wmo,Downpour Oeste de La Palma,2024-03-22T02:37:00+00:00,Spain,0.4958686762084641,0.0,2.0,en,MED,Europe
 '73cded3808',extremes,Thunderstorm,#53785a,wmo,Hail Brest Region,2024-04-06T02:38:00+00:00,Belarus,0.4958607780919064,0.0,2.0,en,WCE,Europe
 'd39d3eca84',extremes,Storm,#b3b2b1,wmo,Storm Surge Haiyuan County,2024-03-26T02:39:00+00:00,China,0.4958253952325204,0.0,2.0,en,EAS,Asia
@@ -9734,7 +9731,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a61e07e09c',extremes,Storm,#b3b2b1,wmo,Storm Surge Luntai County,2024-03-31T02:39:00+00:00,China,0.4910279845229408,0.0,2.0,en,EAS,Asia
 'b15174a95b',extremes,Snow&Ice,#d60d2b,wmo,Snow Qumalai County,2024-03-24T02:40:00+00:00,China,0.4910146226198477,0.0,2.0,en,EAS,Asia
 '29f3ae2bb7',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Fuchuan Yao Autonomous County,2024-04-20T02:38:00+00:00,China,0.4909324246358743,0.0,2.0,en,EAS,Asia
-'afba0b349c',extremes,Flood,#030ba1,aidr,Flood Alice Springs and Central Northern Territory,2024-03-08T07:57:00+00:00,Australia,0.4909320564942538,0.0,2.0,en,NAU,Oceania
 'f1bb3121a7',extremes,Storm,#b3b2b1,wmo,Storm Wenquan County,2024-04-10T02:42:00+00:00,China,0.4909119868476626,0.0,2.0,en,EAS,Asia
 'e528fa5783',extremes,Storm,#b3b2b1,wmo,Storm Aletai area,2024-04-10T02:42:00+00:00,China,0.4909071704373396,0.0,2.0,en,EAS,Asia
 '5e82327197',extremes,Storm,#b3b2b1,wmo,Storm Lichuan city,2024-04-16T02:39:00+00:00,China,0.4909057126161585,0.0,2.0,en,EAS,Asia
@@ -9911,7 +9907,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ea45aced6',extremes,Storm,#b3b2b1,wmo,Storm Surge Hami City,2024-04-10T02:42:00+00:00,China,0.4879014726129624,0.0,2.0,en,EAS,Asia
 '725411782b',extremes,Snow&Ice,#d60d2b,wmo,Frost Huguan County,2024-03-25T02:39:00+00:00,China,0.4879014239752739,0.0,2.0,en,EAS,Asia
 '34a5844354',extremes,Flood,#030ba1,wmo,Flooding Northern Territory Tanami Desert,2024-03-26T02:39:00+00:00,Australia,0.4878763465970095,0.0,2.0,en,CAU,Oceania
-'8f32d18b40',extremes,Storm,#b3b2b1,wmo,Storm Eryuan County,2024-03-08T07:57:00+00:00,China,0.4878711934336331,0.0,2.0,en,EAS,Asia
 '57de0acccb',extremes,Storm,#b3b2b1,wmo,Storm Jingxing County,2024-03-11T02:38:00+00:00,China,0.4878590156087437,0.0,2.0,en,EAS,Asia
 'fb988b6dec',extremes,Snow&Ice,#d60d2b,wmo,Frost Tianjun County,2024-04-01T02:44:00+00:00,China,0.487844619085734,0.0,2.0,en,EAS,Asia
 'a793728cd0',extremes,Storm,#b3b2b1,wmo,Storm Surge Huachuan County,2024-03-17T02:38:00+00:00,China,0.4877990118227494,0.0,2.0,en,EAS,Asia
@@ -9967,7 +9962,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1926443629',extremes,Storm,#b3b2b1,wmo,Storm Surge Bayan County,2024-03-15T02:38:00+00:00,China,0.4870096287712093,0.0,2.0,en,EAS,Asia
 '3786fcd187',extremes,Storm,#b3b2b1,wmo,Storm Suiping County,2024-03-18T02:37:00+00:00,China,0.4870084948993248,0.0,2.0,en,EAS,Asia
 'c13032d11e',extremes,Snow&Ice,#d60d2b,wmo,Ice Longjiang County,2024-03-23T02:38:00+00:00,China,0.4869351997222493,0.0,2.0,en,EAS,Asia
-'de2d3c5be7',extremes,Snow&Ice,#d60d2b,wmo,Snow Kaihua County,2024-03-08T07:57:00+00:00,China,0.486922104722336,0.0,2.0,en,EAS,Asia
 '8bf2a712a2',extremes,Thunderstorm,#53785a,wmo,Severe Weather Taihe County,2024-03-15T02:38:00+00:00,China,0.4868957432034067,0.0,2.0,en,EAS,Asia
 'dd6242c972',extremes,Storm,#b3b2b1,wmo,Storm Yifeng County,2024-03-28T02:40:00+00:00,China,0.4868911281267944,0.0,2.0,en,EAS,Asia
 'bd8195975b',extremes,Storm,#b3b2b1,wmo,Storm Xianxian County,2024-03-17T02:38:00+00:00,China,0.4868906737252294,0.0,2.0,en,EAS,Asia
@@ -10100,7 +10094,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '58f09b81d2',extremes,Snow&Ice,#d60d2b,wmo,Freezing Tash Kurgan Taj J Autonomous County,2024-04-23T02:46:00+00:00,China,0.4850883292259018,0.0,2.0,en,EAS,Asia
 '4522be5a6f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm chibi city,2024-03-25T02:39:00+00:00,China,0.4850623104610032,0.0,2.0,en,EAS,Asia
 '4ab4aceb75',extremes,Snow&Ice,#d60d2b,wmo,Frost Guanghe County,2024-04-14T03:46:00+00:00,China,0.4850568259282269,0.0,2.0,en,EAS,Asia
-'bd7f130d9c',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Hongyuan County,2024-03-08T07:57:00+00:00,China,0.4850331339525278,0.0,2.0,en,EAS,Asia
 '16f632246d',extremes,Storm,#b3b2b1,wmo,Storm Xintian County,2024-04-01T02:44:00+00:00,China,0.4850229791081016,0.0,2.0,en,EAS,Asia
 '6956d52f07',extremes,Snow&Ice,#d60d2b,wmo,Ice Tianzhen County,2024-04-14T03:46:00+00:00,China,0.4849966921756114,0.0,2.0,en,EAS,Asia
 'e6e6c28f1c',extremes,Precipitation,#d60d2b,wmo,Precipitation Deqin County,2024-04-21T02:41:00+00:00,China,0.4849924646209989,0.0,2.0,en,EAS,Asia
@@ -10191,12 +10184,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1930c8ecac',extremes,Storm,#b3b2b1,wmo,Storm Surge Yugan County,2024-04-02T02:40:00+00:00,China,0.4836313829523004,0.0,2.0,en,EAS,Asia
 '37e557ae2f',extremes,Snow&Ice,#d60d2b,wmo,Snow Junction County,2024-04-23T02:46:00+00:00,China,0.4836116247249318,0.0,2.0,en,EAS,Asia
 'daef0193dd',extremes,Snow&Ice,#d60d2b,wmo,Frost Zhalaiteqi,2024-03-22T02:37:00+00:00,China,0.4836034104250481,0.0,2.0,en,EAS,Asia
-'5666705b08',extremes,Storm,#b3b2b1,wmo,Storm Surge Guandu District,2024-03-08T07:57:00+00:00,China,0.4835867562506905,0.0,2.0,en,EAS,Asia
 '3507a081a3',extremes,Precipitation,#d60d2b,meteo,Precipitation Romania,2024-04-21T02:41:00+00:00,Romania,0.4835661248747901,0.0,2.0,en,MED,Europe
 '715013929f',extremes,Storm,#b3b2b1,wmo,Storm Surge Qian an County,2024-03-29T02:38:00+00:00,China,0.48352388159829,0.0,2.0,en,EAS,Asia
 'ab60016aa6',extremes,Storm,#b3b2b1,wmo,Storm Hanchuan City,2024-03-18T02:37:00+00:00,China,0.4835232059721482,0.0,2.0,en,EAS,Asia
 'eae165ea68',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Guangling County,2024-04-23T02:46:00+00:00,China,0.4835170356978944,0.0,2.0,en,EAS,Asia
-'170464d0f0',extremes,Storm,#b3b2b1,wmo,Storm Surge Ninglang Yi Autonomous County,2024-03-08T07:57:00+00:00,China,0.4835080748781625,0.0,2.0,en,EAS,Asia
 '3a1401e8c0',extremes,Storm,#b3b2b1,wmo,Storm Laiyuan County,2024-03-11T02:38:00+00:00,China,0.4835040789236458,0.0,2.0,en,EAS,Asia
 '1405131905',extremes,Thunderstorm,#53785a,random,hailstone,2024-04-15T04:11:00+00:00,,0.4834643870616515,0.0,2.0,en,,
 '9b6e850d8e',extremes,Storm,#b3b2b1,wmo,Storm Fengxian,2024-03-27T02:37:00+00:00,China,0.4834600711413798,0.0,2.0,en,EAS,Asia
@@ -10235,7 +10226,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69cc172b23',extremes,Storm,#b3b2b1,wmo,Storm Shizuishan,2024-03-10T02:40:00+00:00,China,0.48299074617562,0.0,2.0,en,EAS,Asia
 '9c7c679c0c',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Dubrovnik region,2024-04-16T02:39:00+00:00,Croatia,0.4829709310244475,0.0,2.0,en,WCE,Europe
 '9c75b2bfa3',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Guichi District,2024-03-26T02:39:00+00:00,China,0.4829661772659115,0.0,2.0,en,EAS,Asia
-'d1ee22e8b2',extremes,Storm,#b3b2b1,wmo,Storm Muli Tibetan Autonomous County,2024-03-08T07:57:00+00:00,China,0.482953541826929,0.0,2.0,en,EAS,Asia
 '2d89f28c2f',extremes,Storm,#b3b2b1,wmo,Storm Zepu County,2024-03-14T02:39:00+00:00,China,0.4829175497993468,0.0,2.0,en,EAS,Asia
 '7bfb3dd783',extremes,Storm,#b3b2b1,wmo,Storm Xishan District,2024-04-04T02:42:00+00:00,China,0.4828906426961844,0.0,2.0,en,EAS,Asia
 'af2b36f83c',extremes,Storm,#b3b2b1,wmo,Storm Surge Tanghe County,2024-03-24T02:40:00+00:00,China,0.4828849835550192,0.0,2.0,en,EAS,Asia
@@ -10352,10 +10342,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '452e52c63d',extremes,Flood,#030ba1,relief,Flooding Burundi,2024-03-24T02:39:00+00:00,Burundi,0.4813904970549654,0.0,2.0,en,SEAF,Africa
 '9c9889732b',extremes,Storm,#b3b2b1,wmo,Storm Renhua county,2024-04-05T02:38:00+00:00,China,0.4813901021232601,0.0,2.0,en,EAS,Asia
 'a4cf00bd00',extremes,Storm,#b3b2b1,wmo,Storm Surge Shunping,2024-03-27T02:37:00+00:00,China,0.4813835931221014,0.0,2.0,en,EAS,Asia
-'61c58bc4e1',extremes,Snow&Ice,#d60d2b,wmo,Freezing Zhuji City,2024-03-08T07:57:00+00:00,China,0.481346649604653,0.0,2.0,en,EAS,Asia
 '8da90f2f09',extremes,Snow&Ice,#d60d2b,wmo,Snow Gangba County,2024-03-21T02:39:00+00:00,China,0.4813338470240151,0.0,2.0,en,EAS,Asia
 '82c19b8ab1',extremes,Storm,#b3b2b1,wmo,Storm Surge Xingan County,2024-03-24T02:40:00+00:00,China,0.4813328649580234,0.0,2.0,en,EAS,Asia
-'eec4b72074',extremes,Storm,#b3b2b1,wmo,Storm Surge Wuding County,2024-03-08T07:57:00+00:00,China,0.4813135127973483,0.0,2.0,en,EAS,Asia
 '620f2f3136',extremes,Storm,#b3b2b1,wmo,Storm Surge Qiuxian,2024-04-03T02:38:00+00:00,China,0.4813077542588201,0.0,2.0,en,EAS,Asia
 'b33a45a426',extremes,Storm,#b3b2b1,wmo,Storm Jiaohe City,2024-03-30T02:40:00+00:00,China,0.481307567158092,0.0,2.0,en,EAS,Asia
 'e094a25b4b',extremes,Storm,#b3b2b1,wmo,Storm Wulateqianqi,2024-03-21T02:39:00+00:00,China,0.4812956932978119,0.0,2.0,en,EAS,Asia
@@ -10449,7 +10437,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7b1af0577e',extremes,Storm,#b3b2b1,wmo,Storm Lingqiu County,2024-04-10T02:42:00+00:00,China,0.4802737799351768,0.0,2.0,en,EAS,Asia
 '1b9d5902b4',extremes,Storm,#b3b2b1,wmo,Storm Surge Linchuan,2024-04-19T02:40:00+00:00,China,0.4802671251697142,0.0,2.0,en,EAS,Asia
 'c8cbe4e899',extremes,Storm,#b3b2b1,wmo,Storm Surge Lixian County,2024-03-19T02:38:00+00:00,China,0.4802442578332068,0.0,2.0,en,EAS,Asia
-'402de08186',extremes,Storm,#b3b2b1,wmo,Storm Surge Anze County,2024-03-08T07:57:00+00:00,China,0.4802319231961175,0.0,2.0,en,EAS,Asia
 'b6e088b113',extremes,Storm,#b3b2b1,wmo,Storm linhe district,2024-03-15T02:38:00+00:00,China,0.4802144629031335,0.0,2.0,en,EAS,Asia
 '00c82bc6b8',extremes,Storm,#b3b2b1,wmo,Storm Surge Longling County,2024-04-07T02:40:00+00:00,China,0.4802068598871579,0.0,2.0,en,EAS,Asia
 '1c1ce55614',extremes,Snow&Ice,#d60d2b,wmo,Frost Jingle County,2024-04-23T02:46:00+00:00,China,0.480198074753825,0.0,2.0,en,EAS,Asia
@@ -10477,7 +10464,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1652f777ac',extremes,Precipitation,#d60d2b,wmo,Precipitation Guiping,2024-04-07T02:40:00+00:00,China,0.4799015476041546,0.0,2.0,en,EAS,Asia
 'e2423c076a',extremes,Storm,#b3b2b1,wmo,Storm District of Yunfu City,2024-04-21T02:41:00+00:00,China,0.4798881345065837,0.0,2.0,en,EAS,Asia
 '8b2f960277',extremes,Iceberg,#d60d2b,eonet,Iceberg D29B,2023-07-14 00:00:0+00:00,,0.4798842381397566,1.0,1.0,en,EAN,
-'3a84c3160c',extremes,Storm,#b3b2b1,wmo,Storm Surge Shishi City,2024-03-08T07:57:00+00:00,China,0.4798835934406981,0.0,2.0,en,EAS,Asia
 '2525638d2d',extremes,Earthquake,#870007,usgs,Earthquake Tiblawan,2024-03-17T02:38:00+00:00,Philippines,0.4798831789677846,0.0,2.0,en,SEA,Asia
 'a6b8ecf96f',extremes,Storm,#b3b2b1,wmo,Storm Surge Suichang County,2024-04-14T03:46:00+00:00,China,0.4798821559919423,0.0,2.0,en,EAS,Asia
 'd7268e4a70',extremes,Precipitation,#d60d2b,wmo,Precipitation Le County,2024-04-16T02:39:00+00:00,China,0.479880575711053,0.0,2.0,en,EAS,Asia
@@ -10515,7 +10501,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a217eb5935',extremes,Storm,#b3b2b1,meteo,Coastal Event France,2024-03-26T02:39:00+00:00,France,0.4795118188010003,0.0,2.0,en,WCE,Europe
 'f589dd1612',extremes,Storm,#b3b2b1,wmo,Storm Tokson County,2024-04-17T02:41:00+00:00,China,0.4795061929197225,0.0,2.0,en,EAS,Asia
 '4cd232a948',extremes,Storm,#b3b2b1,wmo,Storm Surge Hekou Yao Autonomous County,2024-04-07T02:40:00+00:00,China,0.4795028256870201,0.0,2.0,en,EAS,Asia
-'3095dd4a45',extremes,Drought,#edc291,aidr,Environment Eastern Australia drought,2024-03-08T07:57:00+00:00,Australia,0.4794826463524569,0.0,2.0,en,CAU,Oceania
 '90f0fa795c',extremes,Storm,#b3b2b1,wmo,Storm Surge Qingyuan County,2024-04-03T02:38:00+00:00,China,0.4794818070171809,0.0,2.0,en,EAS,Asia
 'd4aff039d8',extremes,Storm,#b3b2b1,wmo,Storm Surge Xinxian County,2024-03-25T02:39:00+00:00,China,0.4794750219201228,0.0,2.0,en,EAS,Asia
 '206dac8d82',extremes,Thunderstorm,#53785a,wmo,Hail Ningdu County,2024-03-09T02:38:00+00:00,China,0.479458573320269,0.0,2.0,en,EAS,Asia
@@ -10583,7 +10568,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '663bcf0c09',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Mackay Queensland 1955,2024-03-23T02:39:00+00:00,,0.4788777833277763,0.0,2.0,en,EAU,Oceania
 '555b88b92f',extremes,Storm,#b3b2b1,wmo,Storm Benxi City,2024-04-06T02:38:00+00:00,China,0.4788758055487786,0.0,2.0,en,EAS,Asia
 '37899daa24',extremes,Storm,#b3b2b1,wmo,Storm Tianzhen County,2024-03-30T02:40:00+00:00,China,0.4788744714007826,0.0,2.0,en,EAS,Asia
-'9113634db6',extremes,Storm,#b3b2b1,wmo,Storm Yongren County,2024-03-08T07:57:00+00:00,China,0.4788741489566252,0.0,2.0,en,EAS,Asia
 '8503f91b38',extremes,Storm,#b3b2b1,wmo,Storm Surge Liaoyuan City,2024-03-31T02:39:00+00:00,China,0.4788642825470045,0.0,2.0,en,EAS,Asia
 'f35234c011',extremes,Storm,#b3b2b1,wmo,Storm xinhui district,2024-04-19T02:40:00+00:00,China,0.4788511618211484,0.0,2.0,en,EAS,Asia
 'dfc6da7e7e',extremes,Storm,#b3b2b1,wmo,Storm Surge Lulong County,2024-03-28T02:40:00+00:00,China,0.4788266785485324,0.0,2.0,en,EAS,Asia
@@ -10602,7 +10586,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a0212adef8',extremes,Storm,#b3b2b1,wmo,Storm Surge Luochuan County,2024-04-20T02:38:00+00:00,China,0.4787223697370794,0.0,2.0,en,EAS,Asia
 'ef8ea97375',extremes,Storm,#b3b2b1,wmo,Storm Surge Yongxiu County,2024-04-02T02:40:00+00:00,China,0.4787177420697742,0.0,2.0,en,EAS,Asia
 '63f9f5908a',extremes,Storm,#b3b2b1,wmo,Storm Puding County,2024-03-24T02:40:00+00:00,China,0.4786988024083484,0.0,2.0,en,EAS,Asia
-'df494d746f',extremes,Storm,#b3b2b1,wmo,Storm Surge Changhai County,2024-03-08T07:57:00+00:00,China,0.4786972529119128,0.0,2.0,en,EAS,Asia
 'a44e76a170',extremes,Storm,#b3b2b1,wmo,Storm Surge Changning City,2024-03-22T02:37:00+00:00,China,0.4786966683476924,0.0,2.0,en,EAS,Asia
 'bf23c92efd',extremes,Storm,#b3b2b1,wmo,Storm Surge Sanhe,2024-04-08T02:41:00+00:00,China,0.4786902664608961,0.0,2.0,en,EAS,Asia
 '312cda729b',extremes,Wildfire,#d60d2b,esawfa,Wildfire Saudi Arabia,2024-04-11T02:40:00+00:00,Saudi Arabia,0.4786365595235685,0.0,2.0,en,ARP,Asia
@@ -10665,10 +10648,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad00e12c30',extremes,Storm,#b3b2b1,wmo,Storm Haishu district,2024-03-26T02:39:00+00:00,China,0.4780485277220864,0.0,2.0,en,EAS,Asia
 'cb35358d9a',extremes,Snow&Ice,#d60d2b,wmo,Frost Dandong City,2024-03-22T02:37:00+00:00,China,0.4780369261864682,0.0,2.0,en,EAS,Asia
 '5687791d59',extremes,Storm,#b3b2b1,wmo,Storm Surge Jiahe County,2024-04-07T02:40:00+00:00,China,0.4780325883385098,0.0,2.0,en,EAS,Asia
-'089b79bad2',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Cyclone Glenda Queensland 1967,2024-03-08T07:57:00+00:00,Australia,0.4780280604377597,0.0,2.0,en,EAU,Oceania
 'e562717787',extremes,Iceberg,#d60d2b,eonet,Iceberg A78,2023-07-14 00:00:0+00:00,Antarctica,0.478021048251436,1.0,1.0,en,EAN,Antarctica
 '987556bbac',extremes,Storm,#b3b2b1,wmo,Storm Surge Donghe District,2024-03-22T02:37:00+00:00,China,0.4780136387799424,0.0,2.0,en,EAS,Asia
-'1f48ea6912',extremes,Storm,#b3b2b1,wmo,Storm Chaoyang City,2024-03-08T07:57:00+00:00,China,0.4780114663054693,0.0,2.0,en,EAS,Asia
 'e4ed7ae5ed',extremes,Drought,#edc291,acwe,drought Northern Territory,2024-04-23T02:47:00+00:00,Australia,0.4780037934899034,0.0,2.0,en,NAU,Oceania
 '6409da36cc',extremes,Iceberg,#d60d2b,nasaEonet,Iceberg A76M,2023-06-30 00:00:0+00:00,,0.4780030217377997,1.0,1.0,en,SOO,
 '0bbef5813b',extremes,Thunderstorm,#53785a,wmo,Severe Weather Tunxi District,2024-04-02T02:40:00+00:00,China,0.4780003397318374,0.0,2.0,en,EAS,Asia
@@ -10744,7 +10725,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd9a642efa9',extremes,Storm,#b3b2b1,wmo,Storm Surge Jingyu County,2024-03-30T02:40:00+00:00,China,0.4773175422042482,0.0,2.0,en,EAS,Asia
 'fbaf8fa1d8',extremes,Snow&Ice,#d60d2b,wmo,Snow Pingnan County,2024-03-20T02:37:00+00:00,China,0.4773120623833345,0.0,2.0,en,EAS,Asia
 'b5b61a954b',extremes,Storm,#b3b2b1,wmo,Storm Longxian,2024-04-01T02:44:00+00:00,China,0.4772939620938862,0.0,2.0,en,EAS,Asia
-'5a4d3f4b1d',extremes,Storm,#b3b2b1,wmo,Storm Ji an City,2024-03-08T07:57:00+00:00,China,0.4772667718877945,0.0,2.0,en,EAS,Asia
 '22503704fa',extremes,Snow&Ice,#d60d2b,wmo,Snow Changbai Korean Autonomous County,2024-03-20T02:37:00+00:00,China,0.4772654318314507,0.0,2.0,en,EAS,Asia
 '18e5756418',extremes,Storm,#b3b2b1,wmo,Storm Jianhe County,2024-03-22T02:37:00+00:00,China,0.4772436598597262,0.0,2.0,en,EAS,Asia
 '1fa0bee211',extremes,Storm,#b3b2b1,wmo,Storm Jinggu,2024-03-20T02:37:00+00:00,China,0.477239406861257,0.0,2.0,en,EAS,Asia
@@ -10760,7 +10740,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd91e953249',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Yunan County,2024-04-21T02:41:00+00:00,China,0.4771620179295745,0.0,2.0,en,EAS,Asia
 'aea44a1173',extremes,Flood,#030ba1,aidr,Flood Western Sydney 1974,2024-04-02T02:41:00+00:00,Australia,0.4771456247983373,0.0,2.0,en,EAU,Oceania
 'd683eca5cd',extremes,Iceberg,#d60d2b,eonet,Iceberg B46,2023-07-14 00:00:0+00:00,Antarctica,0.4771427683729776,1.0,1.0,en,WAN,Antarctica
-'ca68c7bb2b',extremes,Snow&Ice,#d60d2b,wmo,Frost Xianju County,2024-03-08T07:57:00+00:00,China,0.4771384067832811,0.0,2.0,en,EAS,Asia
 'df44626d54',extremes,Storm,#b3b2b1,wmo,Storm Baokang County,2024-03-29T02:38:00+00:00,China,0.477135154019961,0.0,2.0,en,EAS,Asia
 '31757c32cf',extremes,Snow&Ice,#d60d2b,wmo,Frost Shigatse City,2024-03-21T02:39:00+00:00,China,0.477106409505466,0.0,2.0,en,EAS,Asia
 '37383013cc',extremes,Storm,#b3b2b1,wmo,Storm Surge Taihu County,2024-04-04T02:42:00+00:00,China,0.4770967816323003,0.0,2.0,en,EAS,Asia
@@ -10806,7 +10785,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3b12b63df5',extremes,Storm,#b3b2b1,wmo,Storm Surge yushui district,2024-03-24T02:40:00+00:00,China,0.4767052926891135,0.0,2.0,en,EAS,Asia
 'f15513e7a1',extremes,Storm,#b3b2b1,wmo,Storm Bin,2024-03-16T02:38:00+00:00,China,0.4766956242954032,0.0,2.0,en,EAS,Asia
 'ce8b11b04f',extremes,Storm,#b3b2b1,wmo,Storm Manchuria City,2024-03-28T02:40:00+00:00,China,0.4766906657910907,0.0,2.0,en,EAS,Asia
-'d8e3b4bb16',extremes,Storm,#b3b2b1,wmo,Storm Licheng County,2024-03-08T07:57:00+00:00,China,0.4766898314129407,0.0,2.0,en,EAS,Asia
 '92c982b4db',extremes,Storm,#b3b2b1,wmo,Storm hailin city,2024-04-09T02:39:00+00:00,China,0.4766668805063877,0.0,2.0,en,EAS,Asia
 '081c2ede90',extremes,Storm,#b3b2b1,wmo,Storm Surge Newly built District,2024-03-26T02:39:00+00:00,China,0.4766594245004344,0.0,2.0,en,EAS,Asia
 '335428acda',extremes,Storm,#b3b2b1,wmo,Storm Surge wugang city,2024-04-02T02:40:00+00:00,China,0.4766465811175601,0.0,2.0,en,EAS,Asia
@@ -10922,7 +10900,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f00e88af8b',extremes,Storm,#b3b2b1,wmo,Storm Surge Lingbao City,2024-04-13T02:38:00+00:00,China,0.4756470292071472,0.0,2.0,en,EAS,Asia
 '55a8be8f6a',extremes,Storm,#b3b2b1,wmo,Storm Guangzong County,2024-04-02T02:40:00+00:00,China,0.4756398944959861,0.0,2.0,en,EAS,Asia
 '9d62a5044a',extremes,Storm,#b3b2b1,wmo,Storm Luqiao District,2024-04-09T02:39:00+00:00,China,0.4756223407968062,0.0,2.0,en,EAS,Asia
-'7ec92468ee',extremes,Storm,#b3b2b1,wmo,Storm Surge Eshan Yi Autonomous County,2024-03-08T07:57:00+00:00,China,0.4756045279488377,0.0,2.0,en,EAS,Asia
 '73e0e24175',extremes,Storm,#b3b2b1,wmo,Storm Shexian,2024-03-31T02:39:00+00:00,China,0.4756032424574787,0.0,2.0,en,EAS,Asia
 'b8bcb46270',extremes,Iceberg,#d60d2b,eonet,Iceberg D29A,2023-07-14 00:00:0+00:00,,0.4756014876043901,1.0,1.0,en,EAN,
 '7149091287',extremes,Storm,#b3b2b1,wmo,Storm Surge huaxi district,2024-03-21T02:39:00+00:00,China,0.4755939450113958,0.0,2.0,en,EAS,Asia
@@ -11021,7 +10998,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a895077be7',extremes,Storm,#b3b2b1,wmo,Storm Surge binhai new area,2024-03-24T02:40:00+00:00,China,0.4745454297147862,0.0,2.0,en,EAS,Asia
 '4399d3a3df',extremes,Storm,#b3b2b1,wmo,Storm Surge Liuhe County,2024-04-06T02:38:00+00:00,China,0.4745402146100516,0.0,2.0,en,EAS,Asia
 '0aae6fff51',extremes,Storm,#b3b2b1,wmo,Storm Hengnan County,2024-03-23T02:38:00+00:00,China,0.4745111046747277,0.0,2.0,en,EAS,Asia
-'ef61def351',extremes,Snow&Ice,#d60d2b,wmo,Ice Yilan County,2024-03-08T07:57:00+00:00,China,0.4744985608191238,0.0,2.0,en,EAS,Asia
 '85b6f9f697',extremes,Storm,#b3b2b1,wmo,Storm Dafang County,2024-03-12T02:38:00+00:00,China,0.4744903058864265,0.0,2.0,en,EAS,Asia
 '921ba6ff94',extremes,Storm,#b3b2b1,wmo,Storm Dabancheng District,2024-04-01T02:44:00+00:00,China,0.4744700238333741,0.0,2.0,en,EAS,Asia
 '9735bcc8ec',extremes,Storm,#b3b2b1,wmo,Storm Ning an City,2024-03-31T02:39:00+00:00,China,0.4744615980487264,0.0,2.0,en,EAS,Asia
@@ -11103,7 +11079,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd84bf62b75',extremes,Precipitation,#d60d2b,relief,Flash Flood Vietnam,2024-03-11T02:37:00+00:00,Vietnam,0.473645333556509,0.0,2.0,en,SEA,Asia
 'e1083e900c',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Xinyang City,2024-03-25T02:39:00+00:00,China,0.4736393023087995,0.0,2.0,en,EAS,Asia
 'cc90ca92cf',extremes,Storm,#b3b2b1,meteo,Wind Hungary,2024-03-29T02:37:00+00:00,Hungary,0.4736319774949307,0.0,2.0,en,WCE,Europe
-'d5aeb6c5c7',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Deqing County,2024-03-08T07:57:00+00:00,China,0.4735913258024364,0.0,2.0,en,EAS,Asia
 'e96d12db30',extremes,Snow&Ice,#d60d2b,wmo,Snow Ruoergai County,2024-03-14T02:39:00+00:00,China,0.4735881518380109,0.0,2.0,en,EAS,Asia
 'dd81e1bf67',extremes,Storm,#b3b2b1,wmo,Storm Guiping,2024-04-02T02:40:00+00:00,China,0.4735115156814518,0.0,2.0,en,EAS,Asia
 '3ec1e96fa9',extremes,Storm,#b3b2b1,wmo,Storm Surge Nanfeng County,2024-04-03T02:38:00+00:00,China,0.4735086494287526,0.0,2.0,en,EAS,Asia
@@ -11288,7 +11263,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b9352829a',extremes,Storm,#b3b2b1,wmo,Storm Surge Wuzhai County,2024-03-21T02:39:00+00:00,China,0.4714758992525837,0.0,2.0,en,EAS,Asia
 '0012c76d67',extremes,Storm,#b3b2b1,wmo,Storm Surge Qijiang District,2024-04-04T02:42:00+00:00,China,0.4714595376545994,0.0,2.0,en,EAS,Asia
 '0a073b94ba',extremes,Storm,#b3b2b1,wmo,Storm Ruijin City,2024-03-31T02:39:00+00:00,China,0.4714397109074357,0.0,2.0,en,EAS,Asia
-'2dac9b9548',extremes,Storm,#b3b2b1,wmo,Storm Yangbi,2024-03-08T07:57:00+00:00,China,0.4714290446731187,0.0,2.0,en,EAS,Asia
 '594b36657c',extremes,Thunderstorm,#53785a,wmo,Hail Huili City,2024-03-27T02:37:00+00:00,China,0.4714228241819665,0.0,2.0,en,EAS,Asia
 'a118a492bc',extremes,Storm,#b3b2b1,wmo,Storm Maiji District,2024-03-15T02:38:00+00:00,China,0.4714222131360333,0.0,2.0,en,EAS,Asia
 '15a9c61e3e',extremes,Landslide,#572c03,random,rockslide,2024-03-23T02:37:00+00:00,,0.4714135879963773,0.0,2.0,en,,
@@ -11352,7 +11326,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '659fdd44bf',extremes,Drought,#edc291,relief,Drought Republic of Korea,2024-03-16T02:37:00+00:00,Republic of Korea,0.4709212797084321,0.0,2.0,en,EAS,Asia
 '9b7f14f8fb',extremes,Storm,#b3b2b1,wmo,Storm Surge Shizong County,2024-03-14T02:39:00+00:00,China,0.4709211707624088,0.0,2.0,en,EAS,Asia
 'fe28bbeb7b',extremes,Storm,#b3b2b1,wmo,Storm Surge Xianghe County,2024-03-27T02:37:00+00:00,China,0.4709163573233949,0.0,2.0,en,EAS,Asia
-'90a2fafde9',extremes,Wildfire,#d60d2b,eonet,Smokehouse Creek Fire Texas US,2024-03-08T07:56:00+00:00,United States,0.4709105487284308,0.0,2.0,en,CNA,North-America
 '600d7b381a',extremes,Storm,#b3b2b1,wmo,Storm Linxi County,2024-03-24T02:40:00+00:00,China,0.4709090472555469,0.0,2.0,en,EAS,Asia
 '0f8825e60d',extremes,Storm,#b3b2b1,wmo,Storm Surge changshou district,2024-04-16T02:39:00+00:00,China,0.4708858671982975,0.0,2.0,en,EAS,Asia
 'ba7952dfc6',extremes,Storm,#b3b2b1,wmo,Storm Surge Jiangkou County,2024-04-11T02:40:00+00:00,China,0.4708848248240608,0.0,2.0,en,EAS,Asia
@@ -11691,7 +11664,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f036babbfb',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Dongxing City,2024-04-19T02:40:00+00:00,China,0.467409790343162,0.0,2.0,en,EAS,Asia
 'd3191184d0',extremes,Storm,#b3b2b1,wmo,Storm Jianou City,2024-03-31T02:39:00+00:00,China,0.4674025677535107,0.0,2.0,en,EAS,Asia
 '23429a9ae9',extremes,Precipitation,#d60d2b,wmo,Downpour Shawan,2024-04-17T02:41:00+00:00,China,0.4673849710508677,0.0,2.0,en,EAS,Asia
-'b672368aba',extremes,Storm,#b3b2b1,wmo,Storm Surge Chuxiong City,2024-03-08T07:57:00+00:00,China,0.4673812919639932,0.0,2.0,en,EAS,Asia
 '5375dc566e',extremes,Storm,#b3b2b1,wmo,Storm Surge Buerjin County,2024-04-19T02:40:00+00:00,China,0.4673809408325886,0.0,2.0,en,EAS,Asia
 'ba2b829693',extremes,Storm,#b3b2b1,wmo,Storm Surge Danzhai County,2024-04-15T04:11:00+00:00,China,0.4673747175516152,0.0,2.0,en,EAS,Asia
 '6d82d996c8',extremes,Storm,#b3b2b1,wmo,Storm Luobei County,2024-03-17T02:38:00+00:00,China,0.4673690334252819,0.0,2.0,en,EAS,Asia
@@ -11766,7 +11738,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e4af33abd',extremes,Storm,#b3b2b1,wmo,Storm Surge Anxin County,2024-03-16T02:38:00+00:00,China,0.4667373905242878,0.0,2.0,en,EAS,Asia
 '175a2d5b3a',extremes,Precipitation,#d60d2b,wmo,Rain Qiyang County,2024-04-19T02:40:00+00:00,China,0.4667302082144651,0.0,2.0,en,EAS,Asia
 'c8552f410f',extremes,Storm,#b3b2b1,wmo,Storm Surge Baqiao District,2024-03-16T02:38:00+00:00,China,0.4667001541905242,0.0,2.0,en,EAS,Asia
-'3297261b61',extremes,Storm,#b3b2b1,wmo,Storm Yunxiao County,2024-03-08T07:57:00+00:00,China,0.4666898365500897,0.0,2.0,en,EAS,Asia
 '2c4e31167f',extremes,Storm,#b3b2b1,wmo,Storm Surge Zhaoyuan County,2024-04-06T02:38:00+00:00,China,0.4666704759756928,0.0,2.0,en,EAS,Asia
 '7abd893197',extremes,Storm,#b3b2b1,wmo,Storm Surge Daning County,2024-04-15T04:11:00+00:00,China,0.4666500829790606,0.0,2.0,en,EAS,Asia
 'bdfaa3e95f',extremes,Storm,#b3b2b1,wmo,Storm Boli County,2024-03-15T02:38:00+00:00,China,0.4666401560738679,0.0,2.0,en,EAS,Asia
@@ -11915,7 +11886,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eee4e91379',extremes,Storm,#b3b2b1,wmo,Storm Wuhua County,2024-04-05T02:38:00+00:00,China,0.4650298852178266,0.0,2.0,en,EAS,Asia
 '7f509011b9',extremes,Storm,#b3b2b1,wmo,Storm Surge Shangqiu City,2024-04-23T02:46:00+00:00,China,0.4650276598372344,0.0,2.0,en,EAS,Asia
 'e1d165ff53',extremes,Precipitation,#d60d2b,wmo,Downpour Nansha District,2024-04-21T02:41:00+00:00,China,0.4650226900523596,0.0,2.0,en,EAS,Asia
-'4b3e1a21e0',extremes,Storm,#b3b2b1,wmo,Storm Surge Jinning County,2024-03-08T07:57:00+00:00,China,0.4649961850107539,0.0,2.0,en,EAS,Asia
 'c12962c40e',extremes,Storm,#b3b2b1,wmo,Storm Surge Ziyang District,2024-04-04T02:42:00+00:00,China,0.4649926785635698,0.0,2.0,en,EAS,Asia
 'ecfd258db1',extremes,Storm,#b3b2b1,wmo,Storm Litang County,2024-03-18T02:37:00+00:00,China,0.4649905190784559,0.0,2.0,en,EAS,Asia
 '40f88a4b67',extremes,Snow&Ice,#d60d2b,wmo,Frost Huolingol Shi,2024-03-22T02:37:00+00:00,China,0.4649889431818908,0.0,2.0,en,EAS,Asia
@@ -12053,7 +12023,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3c098ff56',extremes,Snow&Ice,#d60d2b,wmo,Frost Ansai District,2024-03-25T02:39:00+00:00,China,0.4631395200367768,0.0,2.0,en,EAS,Asia
 'aa2e08f4d0',extremes,Landslide,#572c03,relief,Land Slide Philippines,2024-04-14T03:45:00+00:00,Philippines,0.4630995703765524,0.0,2.0,en,SEA,Asia
 '13e8eb800c',extremes,Storm,#b3b2b1,wmo,Storm Surge Jiulong County,2024-04-19T02:40:00+00:00,China,0.4630485358576382,0.0,2.0,en,EAS,Asia
-'5c4f02ffd3',extremes,Storm,#b3b2b1,wmo,Storm Surge Yunlong County,2024-03-08T07:57:00+00:00,China,0.4630439192719042,0.0,2.0,en,EAS,Asia
 '429a6526c1',extremes,Storm,#b3b2b1,wmo,Storm Zigui County,2024-03-18T02:37:00+00:00,China,0.4630363880911865,0.0,2.0,en,EAS,Asia
 '4cc4fc6cb4',extremes,Storm,#b3b2b1,wmo,Storm Yuping Dong Autonomous County,2024-03-23T02:38:00+00:00,China,0.4630354309931236,0.0,2.0,en,EAS,Asia
 '4e1879aef8',extremes,Storm,#b3b2b1,wmo,Storm Hanshan District,2024-04-14T03:46:00+00:00,China,0.4630171483072379,0.0,2.0,en,EAS,Asia
@@ -12129,7 +12098,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fd1cc2e81f',extremes,Storm,#b3b2b1,wmo,Storm Fuhai County,2024-04-09T02:39:00+00:00,China,0.4620010131209907,0.0,2.0,en,EAS,Asia
 '7920bba3a9',extremes,Precipitation,#d60d2b,meteo,Precipitation France,2024-04-01T02:44:00+00:00,France,0.4620005407282607,0.0,2.0,en,WCE,Europe
 'b4f29c8763',extremes,Precipitation,#d60d2b,wmo,Precipitation Zhongkai District,2024-04-23T02:46:00+00:00,China,0.4619906076320383,0.0,2.0,en,EAS,Asia
-'e332af7b3d',extremes,Storm,#b3b2b1,wmo,Storm Surge Xiangning County,2024-03-08T07:57:00+00:00,China,0.4619692792478948,0.0,2.0,en,EAS,Asia
 'f3929e2052',extremes,Storm,#b3b2b1,wmo,Storm Surge Xinhe County,2024-04-18T02:41:00+00:00,China,0.4619681182444992,0.0,2.0,en,EAS,Asia
 'c864c37bb2',extremes,Storm,#b3b2b1,wmo,Storm Xundian,2024-04-13T02:38:00+00:00,China,0.4619613073793669,0.0,2.0,en,EAS,Asia
 '55e48db202',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Rockhampton Queensland,2024-03-24T02:40:00+00:00,Australia,0.4619462885202441,0.0,2.0,en,EAU,Oceania
@@ -12405,12 +12373,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '720797dc0e',extremes,Storm,#b3b2b1,wmo,Storm Surge yingjiang district,2024-03-17T02:38:00+00:00,China,0.457272655637745,0.0,2.0,en,EAS,Asia
 '9f0423d739',extremes,Drought,#edc291,random,dryness,2024-04-07T02:39:00+00:00,,0.4572591148859242,0.0,2.0,en,,
 '2d5a6dc53d',extremes,Snow&Ice,#d60d2b,wmo,Frost Jiayin County,2024-03-30T02:40:00+00:00,China,0.4572486812992871,0.0,2.0,en,EAS,Asia
-'e9f7fed1b7',extremes,Snow&Ice,#d60d2b,wmo,Frost Wuxing District,2024-03-08T07:57:00+00:00,China,0.4572441242831094,0.0,2.0,en,EAS,Asia
 'df0b075b0c',extremes,Storm,#b3b2b1,wmo,Storm Beita District,2024-03-23T02:38:00+00:00,China,0.4572217831855685,0.0,2.0,en,EAS,Asia
 '74be5342ac',extremes,Storm,#b3b2b1,wmo,Storm Surge Panlong District,2024-04-09T02:39:00+00:00,China,0.4572211136502501,0.0,2.0,en,EAS,Asia
 '437f91f809',extremes,Thunderstorm,#53785a,wmo,Severe Weather Shenzhen City,2024-03-30T02:40:00+00:00,China,0.4571624940023805,0.0,2.0,en,EAS,Asia
 '0186b1149d',extremes,Storm,#b3b2b1,wmo,Storm Meihekou,2024-03-17T02:38:00+00:00,China,0.4571425250526069,0.0,2.0,en,EAS,Asia
-'af538a6de2',extremes,Storm,#b3b2b1,wmo,Storm Heqing County,2024-03-08T07:57:00+00:00,China,0.4571334429176005,0.0,2.0,en,EAS,Asia
 '05d0f31527',extremes,Storm,#b3b2b1,wmo,Storm Surge Pacification County,2024-03-19T02:38:00+00:00,China,0.4571323164836957,0.0,2.0,en,EAS,Asia
 '38d940a511',extremes,Storm,#b3b2b1,wmo,Storm Fenghua District,2024-03-26T02:39:00+00:00,China,0.4571250857883512,0.0,2.0,en,EAS,Asia
 '423ed630d9',extremes,Storm,#b3b2b1,wmo,Storm Jingbian County,2024-03-21T02:39:00+00:00,China,0.4571197108519007,0.0,2.0,en,EAS,Asia
@@ -12427,7 +12393,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5bebf906e1',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Linxiang District,2024-03-27T02:37:00+00:00,China,0.456886869057513,0.0,2.0,en,EAS,Asia
 '5defa4f345',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Putuo District,2024-03-28T02:40:00+00:00,China,0.4568855748814991,0.0,2.0,en,EAS,Asia
 '455c4f6835',extremes,Storm,#b3b2b1,wmo,Storm Surge Xiajin County,2024-03-27T02:37:00+00:00,China,0.4568828783417606,0.0,2.0,en,EAS,Asia
-'23998cbd35',extremes,Snow&Ice,#d60d2b,wmo,Snow Ninghai County,2024-03-08T07:57:00+00:00,China,0.4568772663828992,0.0,2.0,en,EAS,Asia
 'c7a84314c6',extremes,Storm,#b3b2b1,wmo,Storm Guyang County,2024-04-15T04:11:00+00:00,China,0.4568557623135326,0.0,2.0,en,EAS,Asia
 'cb7c6b63a5',extremes,Precipitation,#d60d2b,wmo,Precipitation Tonglu County,2024-04-03T02:38:00+00:00,China,0.4568525658424757,0.0,2.0,en,EAS,Asia
 'ec06b11752',extremes,Snow&Ice,#d60d2b,wmo,Freezing Xiaoshan District,2024-03-13T02:38:00+00:00,China,0.4568331798101588,0.0,2.0,en,EAS,Asia
@@ -12491,7 +12456,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0295d23d82',extremes,Storm,#b3b2b1,wmo,Storm Yining County,2024-03-15T02:38:00+00:00,China,0.4557005674414677,0.0,2.0,en,EAS,Asia
 '43452bbb13',extremes,Storm,#b3b2b1,wmo,Storm Surge Qiaojia County,2024-03-24T02:40:00+00:00,China,0.4556942034875317,0.0,2.0,en,EAS,Asia
 '860df8396a',extremes,Storm,#b3b2b1,wmo,Storm Surge Biyang County,2024-03-24T02:40:00+00:00,China,0.4556650390835318,0.0,2.0,en,EAS,Asia
-'be13a69238',extremes,Snow&Ice,#d60d2b,wmo,Ice Haiyan County,2024-03-08T07:57:00+00:00,China,0.4556225889446907,0.0,2.0,en,EAS,Asia
 '63ff031fbc',extremes,Storm,#b3b2b1,wmo,Storm Xiayi County,2024-03-21T02:39:00+00:00,China,0.4556199230019735,0.0,2.0,en,EAS,Asia
 '7943bb79c8',extremes,Fog,#d60d2b,wmo,Fog longzihu district,2024-03-16T02:38:00+00:00,China,0.4556165687369255,0.0,2.0,en,EAS,Asia
 '0ef083bba6',extremes,Snow&Ice,#d60d2b,wmo,Snow Jinyun County,2024-03-10T02:40:00+00:00,China,0.4556028290818844,0.0,2.0,en,EAS,Asia
@@ -12599,7 +12563,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '78441fb3d8',extremes,Snow&Ice,#d60d2b,meteo,Snow or Ice Croatia,2024-03-24T02:39:00+00:00,Croatia,0.4530319870534265,0.0,2.0,en,WCE,Europe
 '19099e9fc9',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Longnan City,2024-03-31T02:39:00+00:00,China,0.4529995080727738,0.0,2.0,en,EAS,Asia
 '0c12463669',extremes,Snow&Ice,#d60d2b,wmo,Frost Zeku County,2024-03-24T02:40:00+00:00,China,0.4529977702267596,0.0,2.0,en,EAS,Asia
-'7a1db31e64',extremes,Snow&Ice,#d60d2b,wmo,Ice Wuyi County,2024-03-08T07:57:00+00:00,China,0.4529932327993148,0.0,2.0,en,EAS,Asia
 '7595d22568',extremes,Thunderstorm,#53785a,wmo,Severe Weather Yongan City,2024-04-04T02:42:00+00:00,China,0.4529596995285436,0.0,2.0,en,EAS,Asia
 'e6f1e1b846',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Songxi County,2024-03-30T02:40:00+00:00,China,0.4529576848548853,0.0,2.0,en,EAS,Asia
 'a9f3ebd6b6',extremes,Precipitation,#d60d2b,wmo,Precipitation Yueyang Economic Development Zone,2024-04-13T02:38:00+00:00,China,0.4529260867713769,0.0,2.0,en,EAS,Asia
@@ -12652,7 +12615,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '493a4c49ec',extremes,Drought,#edc291,acwe,drought Tasmania,2024-04-23T02:47:00+00:00,Australia,0.4516114066926429,0.0,2.0,en,SAU,Oceania
 'b83fefb90d',extremes,Storm,#b3b2b1,wmo,Storm Surge Guiyang City,2024-03-27T02:37:00+00:00,China,0.4515217505901075,0.0,2.0,en,EAS,Asia
 'e2252654b0',extremes,Thunderstorm,#53785a,wmo,Hail Xianju County,2024-04-03T02:38:00+00:00,China,0.4514492635406767,0.0,2.0,en,EAS,Asia
-'ecc77b8820',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Xinchang County,2024-03-08T07:57:00+00:00,China,0.4514465389894303,0.0,2.0,en,EAS,Asia
 '5eaa7a26dd',extremes,Thunderstorm,#53785a,wmo,Severe Weather Yongfu County,2024-04-04T02:42:00+00:00,China,0.4514276181509852,0.0,2.0,en,EAS,Asia
 '2276e3b51b',extremes,Precipitation,#d60d2b,wmo,Rain Guangchang County,2024-03-31T02:39:00+00:00,China,0.4513988432002263,0.0,2.0,en,EAS,Asia
 '12b7e72e9d',extremes,Snow&Ice,#d60d2b,wmo,Avalanche ABA County,2024-03-09T02:38:00+00:00,China,0.4512983051607943,0.0,2.0,en,EAS,Asia
@@ -12675,7 +12637,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c80fe818a',extremes,Storm,#b3b2b1,wmo,Storm Baixiang County,2024-04-02T02:40:00+00:00,China,0.450815086622068,0.0,2.0,en,EAS,Asia
 '8228b52c29',extremes,Storm,#b3b2b1,wmo,Storm Jiange County,2024-03-24T02:40:00+00:00,China,0.4507860267342423,0.0,2.0,en,EAS,Asia
 '5116548b6d',extremes,Storm,#b3b2b1,wmo,Storm Surge Zanhuang County,2024-03-19T02:38:00+00:00,China,0.4507797795892124,0.0,2.0,en,EAS,Asia
-'ffcbd3140e',extremes,Snow&Ice,#d60d2b,wmo,Frost xihu district,2024-03-08T07:57:00+00:00,China,0.450776998247905,0.0,2.0,en,EAS,Asia
 '68aaaf0433',extremes,Snow&Ice,#d60d2b,wmo,Frost Tex County,2024-03-14T02:39:00+00:00,China,0.4507683899575295,0.0,2.0,en,EAS,Asia
 '739607677e',extremes,Snow&Ice,#d60d2b,wmo,Ice Huinan County,2024-03-11T02:38:00+00:00,China,0.4507629874337786,0.0,2.0,en,EAS,Asia
 '2fa9116266',extremes,Earthquake,#870007,usgs,Earthquake Port Alsworth,2024-03-12T02:38:00+00:00,United States,0.4507083958891189,0.0,2.0,en,NWN,North-America
@@ -12688,9 +12649,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa9ff4d65a',extremes,Precipitation,#d60d2b,wmo,Precipitation Fengxin County,2024-03-31T02:39:00+00:00,China,0.4505890731029948,0.0,2.0,en,EAS,Asia
 'cab668f505',extremes,Storm,#b3b2b1,wmo,Storm Surge Yangxian County,2024-03-22T02:37:00+00:00,China,0.4504987783526282,0.0,2.0,en,EAS,Asia
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,frost,2024-04-03T02:37:00+00:00,,0.4504684662536314,0.0,2.0,en,,
-'666683b058',extremes,Snow&Ice,#d60d2b,wmo,Freezing Fushun City,2024-03-08T07:57:00+00:00,China,0.4504499308125793,0.0,2.0,en,EAS,Asia
 '7553d94496',extremes,Flood,#030ba1,floodlist,Deadly Floods and Landslides in West Sumatra After 300mm of Rain in 6 Hours,2024-03-23T02:37:00+00:00,Indonesia,0.4504376160595283,0.0,2.0,en,SEA,Asia
-'34ecf7b82b',extremes,Snow&Ice,#d60d2b,wmo,Ice yuyao city,2024-03-08T07:57:00+00:00,China,0.450403703642705,0.0,2.0,en,EAS,Asia
 '7f8fa74bb6',extremes,Drought,#edc291,edo,Lack of Rain Russia,2024-04-11T02:40:00+00:00,Russia,0.4503801871655575,0.0,2.0,en,ESB,Europe
 '20481951c5',extremes,Storm,#b3b2b1,wmo,Storm Surge Hohhot City,2024-03-27T02:37:00+00:00,China,0.4503493177564945,0.0,2.0,en,EAS,Asia
 '0603846440',extremes,Precipitation,#d60d2b,wmo,Rain Huludao City,2024-04-23T02:46:00+00:00,China,0.4503329095931854,0.0,2.0,en,EAS,Asia
@@ -12699,7 +12658,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '74e2872051',extremes,Thunderstorm,#53785a,wmo,Severe Weather Alar City,2024-03-26T02:39:00+00:00,China,0.4503064861770999,0.0,2.0,en,EAS,Asia
 '232ef9dd29',extremes,Storm,#b3b2b1,eswd,Tornado Turkey,2024-04-21T02:41:00+00:00,Turkey,0.4502816957782236,0.0,2.0,en,MED,Asia
 'd0b7d6bf35',extremes,Storm,#b3b2b1,wmo,Storm Dehui,2024-03-27T02:37:00+00:00,China,0.4502634193445786,0.0,2.0,en,EAS,Asia
-'b5ff9b3403',extremes,Snow&Ice,#d60d2b,wmo,Freezing Jiashan County,2024-03-08T07:57:00+00:00,China,0.450260352983825,0.0,2.0,en,EAS,Asia
 '923c3e8c37',extremes,Precipitation,#d60d2b,wmo,Precipitation Yongfu County,2024-04-05T02:38:00+00:00,China,0.4502385005622293,0.0,2.0,en,EAS,Asia
 '1940c7286e',extremes,Storm,#b3b2b1,wmo,Storm Muping District,2024-03-22T02:37:00+00:00,China,0.4502232680428192,0.0,2.0,en,EAS,Asia
 '050da084be',extremes,Storm,#b3b2b1,wmo,Storm Surge Neihuang County,2024-03-25T02:39:00+00:00,China,0.4502197491951882,0.0,2.0,en,EAS,Asia
