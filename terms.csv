@@ -1,11 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'de0e57fde9',extremes,Thunderstorm,#53785a,eswd,Heavy Rain Romania,2024-04-19T02:40:00+00:00,Romania,0.8000479214122898,1.0,2.0,en,MED,Europe
 '9f3b29621a',extremes,Earthquake,#870007,usgs,Earthquake central Mid Atlantic Ridge,2024-04-27T02:39:00+00:00,,0.7867214965811555,1.0,2.0,en,EAO,Atlantic Ocean
-'e730b98a72',extremes,Thunderstorm,#53785a,meteo,Thunderstorm Romania,2024-05-08T02:38:00+00:00,Romania,0.7659082898669596,0.0,2.0,en,WCE,Europe
-'c865135df6',extremes,Cold Wave,#a7e9fa,meteo,Cold Wave Czechia,2024-04-19T02:40:00+00:00,Czechia,0.7655181217049924,0.0,2.0,en,WCE,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,Downpour Brazil,2024-04-24T03:22:00+00:00,Brazil,0.7645261225275597,1.0,2.0,en,SAM,South-America
-'a913df0ecd',extremes,Thunderstorm,#53785a,wmo,Severe Weather Waikato Waitomo Taranaki,2024-05-15T02:45:00+00:00,New Zealand,0.7642906490536617,0.0,2.0,en,NZ,Oceania
-'cdb863dc26',extremes,Drought,#edc291,edo,Drought Liberia,2024-04-10T02:42:00+00:00,Liberia,0.7640573695667847,0.0,2.0,en,WAF,Africa
 'd8dd401e98',extremes,Wildfire,#d60d2b,esawfa,Wildfire Canada,2024-04-17T02:42:00+00:00,Canada,0.7634383031649563,0.0,2.0,en,NEN,North-America
 'f03296aeea',extremes,Drought,#edc291,edo,Lack of Rain Suriname,2024-04-25T03:13:00+00:00,Suriname,0.7621388158220018,0.0,2.0,en,NSA,South-America
 '37329dbc5a',extremes,Thunderstorm,#53785a,eswd,Heavy Rain United Kingdom,2024-05-14T02:42:00+00:00,United Kingdom,0.7614996952028109,0.0,2.0,en,NEU,Europe
@@ -3680,6 +3676,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,Storm Southeastern region,2024-05-08T02:38:00+00:00,North Macedonia,0.6507731674470953,0.0,2.0,en,MED,Europe
 '575528762c',extremes,Storm,#b3b2b1,wmo,Storm Kimble TX Mason TX San Saba TX,2024-05-05T02:42:00+00:00,United States,0.6507712045091719,0.0,2.0,en,CNA,North-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,Precipitation Argentina,2024-04-24T03:22:00+00:00,Argentina,0.6507028697923879,1.0,1.0,en,SES,South-America
+'c865135df6',extremes,Cold Wave,#a7e9fa,meteo,Cold Wave Czechia,2024-04-19T02:40:00+00:00,Czechia,0.6506904334492436,1.0,1.0,en,WCE,Europe
 '6a59952f74',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Tyumen Region,2024-04-07T02:40:00+00:00,Russian Federation,0.6506872696807432,0.0,2.0,en,ESB,Europe
 '39f308302e',extremes,Snow&Ice,#d60d2b,wmo,Frost Noatak Valley,2024-05-15T02:45:00+00:00,United States,0.6506851756766876,0.0,2.0,en,CNA,North-America
 '4178569bd4',extremes,Storm,#b3b2b1,wmo,Storm Surge Guarda,2024-03-28T02:40:00+00:00,Portugal,0.6506817791988146,0.0,2.0,en,MED,Europe
@@ -3729,11 +3726,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02711610b5',extremes,Storm,#b3b2b1,wmo,Storm Argentina,2024-04-17T02:41:00+00:00,Argentina,0.6497658412414579,1.0,2.0,en,SES,South-America
 '3bc9b9f4cc',extremes,Storm,#b3b2b1,wmo,Storm Surge Costa Poniente y Almería Capital,2024-05-01T02:44:00+00:00,Spain,0.6497549145791489,0.0,2.0,en,MED,Europe
 '95e4eb7693',extremes,Storm,#b3b2b1,wmo,Storm Surge Vologda Region,2024-04-25T03:13:00+00:00,Russia,0.6497529103906131,0.0,2.0,en,ESB,Europe
+'cdb863dc26',extremes,Drought,#edc291,edo,Drought Liberia,2024-04-10T02:42:00+00:00,Liberia,0.649748794131767,1.0,2.0,en,WAF,Africa
 '37070627de',extremes,Landslide,#572c03,wmo,Mudslide Yuanyang County,2024-05-10T02:45:00+00:00,China,0.6497481905618709,0.0,2.0,en,EAS,Asia
 'a62e788c6c',extremes,Storm,#b3b2b1,wmo,Storm North of Khabarovsk Krai,2024-04-19T02:40:00+00:00,Russia,0.6497310536865455,0.0,2.0,en,ESB,Europe
 '3df0c7132d',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Qatar,2024-04-16T02:39:00+00:00,Qatar,0.6497198836506569,1.0,1.0,en,ARP,Asia
 '5ad7849383',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Longhua County,2024-04-15T04:11:00+00:00,China,0.6497177505350258,0.0,2.0,en,EAS,Asia
 '49891f2f26',extremes,Storm,#b3b2b1,wmo,Storm Boston Harbor,2024-04-03T02:38:00+00:00,United States,0.6497152991451385,0.0,2.0,en,CNA,North-America
+'a913df0ecd',extremes,Thunderstorm,#53785a,wmo,Severe Weather Waikato Waitomo Taranaki,2024-05-15T02:45:00+00:00,New Zealand,0.6496470516956124,1.0,1.0,en,NZ,Oceania
 'e663314eb1',extremes,Storm,#b3b2b1,wmo,Storm Jugozapadna Srbija,2024-03-31T02:39:00+00:00,Serbia,0.6496116831967156,0.0,2.0,en,MED,Europe
 '7332260c20',extremes,Snow&Ice,#d60d2b,wmo,Snow Humenné,2024-05-13T02:45:00+00:00,Slovakia,0.6496021248518012,0.0,2.0,en,WCE,Europe
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,Storm Surge South Africa,2024-04-14T03:46:00+00:00,South Africa,0.6495719795989408,1.0,3.0,en,WSAF,Africa
