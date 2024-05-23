@@ -1,12 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'de0e57fde9',extremes,Thunderstorm,#53785a,eswd,Heavy Rain Romania,2024-04-19T02:40:00+00:00,Romania,0.8000479214122898,1.0,2.0,en,MED,Europe
 'd97b98f7b8',extremes,Precipitation,#d60d2b,wmo,Downpour Coastal zone,2024-05-16T02:43:00+00:00,Belgium,0.7952431578720219,1.0,2.0,en,WCE,Europe
-'9ed2f770b4',extremes,Precipitation,#d60d2b,relief,Flash Flood United States of America,2024-05-11T02:39:00+00:00,United States of America,0.7914366334178591,0.0,2.0,en,CNA,North-America
 '9f3b29621a',extremes,Earthquake,#870007,usgs,Earthquake central Mid Atlantic Ridge,2024-04-27T02:39:00+00:00,,0.7867214965811555,1.0,2.0,en,EAO,Atlantic Ocean
-'693106c8af',extremes,Heat Wave,#c40202,relief,Heat Wave Kazakhstan,2024-05-21T02:43:00+00:00,Kazakhstan,0.7810324927740517,0.0,2.0,en,WSB,Asia
 'd8dd401e98',extremes,Wildfire,#d60d2b,esawfa,Wildfire Canada,2024-04-17T02:42:00+00:00,Canada,0.772058965872031,1.0,3.0,en,NEN,North-America
-'5fc897f848',extremes,Precipitation,#d60d2b,wmo,Downpour Tairawhiti Gisborne,2024-05-21T02:44:00+00:00,New Zealand,0.7690391170636466,0.0,2.0,en,NZ,Oceania
-'a8c2fe0070',extremes,Snow&Ice,#d60d2b,wmo,Frost Westfjords,2024-05-23T02:44:00+00:00,Iceland,0.7671501292442469,0.0,2.0,en,GIC,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,Downpour Brazil,2024-04-24T03:22:00+00:00,Brazil,0.7645261225275597,1.0,2.0,en,SAM,South-America
 '6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Australia,2024-05-16T02:43:00+00:00,Australia,0.7621255345007845,0.0,2.0,en,CAU,Oceania
 '72187991a7',extremes,Snow&Ice,#d60d2b,wmo,Frost Lyngen,2024-05-04T02:39:00+00:00,Norway,0.7531174721291456,0.0,2.0,en,NEU,Europe
@@ -3040,6 +3036,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea8a134a93',extremes,Snow&Ice,#d60d2b,wmo,Ice Brezno,2024-05-16T02:43:00+00:00,Slovakia,0.6639383898233605,0.0,2.0,en,WCE,Europe
 '9218069c7f',extremes,Storm,#b3b2b1,wmo,Storm Cook Inlet North Kalgin Island,2024-05-10T02:45:00+00:00,United States,0.6639296432014472,0.0,2.0,en,CNA,North-America
 'a738824723',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave yuanbaoshan,2024-04-14T03:46:00+00:00,China,0.6639277025436348,0.0,2.0,en,EAS,Asia
+'693106c8af',extremes,Heat Wave,#c40202,relief,Heat Wave Kazakhstan,2024-05-21T02:43:00+00:00,Kazakhstan,0.6638776788579439,1.0,1.0,en,WSB,Asia
 'd329a7ae6e',extremes,Heat Wave,#c40202,wmo,Heat Wave Madeira Regiões Montanhosas,2024-04-11T02:40:00+00:00,Portugal,0.6638508666740204,0.0,2.0,en,MED,Europe
 '5c6845871b',extremes,Drought,#edc291,edo,Dry Spell Mexico,2024-05-14T02:43:00+00:00,Mexico,0.6638090513500222,0.0,2.0,en,NCA,North-America
 '669b358a51',extremes,Drought,#edc291,edo,Lack of Rain Algeria,2024-04-17T02:41:00+00:00,Algeria,0.6638060408659812,0.0,2.0,en,SAH,Africa
@@ -3563,6 +3560,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '191282e733',extremes,Thunderstorm,#53785a,wmo,Severe Weather Wien Donaustadt,2024-05-06T02:44:00+00:00,Austria,0.6537509500901626,0.0,2.0,en,WCE,Europe
 'd712e4a7c9',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Svartisen,2024-05-07T02:47:00+00:00,Norway,0.6537387710691328,0.0,2.0,en,NEU,Europe
 'c269c088f2',extremes,Wildfire,#d60d2b,esawfa,Bushfire Canada,2024-04-12T02:42:00+00:00,Canada,0.6537356351268003,1.0,1.0,en,NEN,North-America
+'5fc897f848',extremes,Precipitation,#d60d2b,wmo,Downpour Tairawhiti Gisborne,2024-05-21T02:44:00+00:00,New Zealand,0.6536832495040996,1.0,1.0,en,NZ,Oceania
 '97b311c23a',extremes,Precipitation,#d60d2b,wmo,Rain United Republic of Tanzania,2024-05-04T02:39:00+00:00,United Republic of Tanzania,0.6536772591372464,1.0,1.0,en,SEAF,Africa
 '6dc3fb64a2',extremes,Volcano,#b83202,relief,Volcano Vanuatu,2024-05-06T02:43:00+00:00,Vanuatu,0.6536429320081905,1.0,1.0,en,SPO,Pacific Ocean
 '2ed30206ff',extremes,Snow&Ice,#d60d2b,wmo,Avalanche South of Kamchatka Krai,2024-04-09T02:39:00+00:00,Russia,0.6536173144075381,0.0,2.0,en,ESB,Europe
@@ -3646,6 +3644,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d01caced3',extremes,Drought,#edc291,edo,Dryness Belize,2024-04-18T02:41:00+00:00,Belize,0.6522021977410745,1.0,1.0,en,SCA,North-America
 '836bb023cd',extremes,Storm,#b3b2b1,wmo,Storm Surge Fisher,2024-05-01T02:44:00+00:00,Norway,0.652115899056973,0.0,2.0,en,NEU,Europe
 '899b6cb615',extremes,Storm,#b3b2b1,wmo,Storm Surge Kyklades,2024-04-23T02:46:00+00:00,Greece,0.6520962920096511,0.0,2.0,en,MED,Europe
+'a8c2fe0070',extremes,Snow&Ice,#d60d2b,wmo,Frost Westfjords,2024-05-23T02:44:00+00:00,Iceland,0.6520776098576098,1.0,1.0,en,GIC,Europe
 'dfc5873efe',extremes,Landslide,#572c03,wmo,Mudslide Chaling County,2024-04-25T03:13:00+00:00,China,0.6520495243805938,0.0,2.0,en,EAS,Asia
 '4e62a1ef72',extremes,Storm,#b3b2b1,wmo,Storm Surge Hiiu maakond Saare maakond,2024-04-22T02:41:00+00:00,Estonia,0.652049520603296,0.0,2.0,en,NEU,Europe
 '0cfb65b58d',extremes,Fog,#d60d2b,wmo,Fog China,2024-04-15T04:11:00+00:00,China,0.6520448055926508,1.0,2.0,en,EAS,Asia
