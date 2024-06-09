@@ -1,8 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'47463689ec',extremes,Storm,#b3b2b1,relief,Severe Local Storm Viet Nam,2024-05-20T02:45:00+00:00,Viet Nam,0.781086090642837,0.0,2.0,en,SEA,Asia
-'ed4448c975',extremes,Flood,#030ba1,relief,Flood Guatemala,2024-06-06T02:45:00+00:00,Guatemala,0.7743396114130117,0.0,2.0,en,SCA,North-America
-'66c8040be7',extremes,Precipitation,#d60d2b,relief,Torrential Rain Kenya,2024-05-21T02:43:00+00:00,Kenya,0.7701719605578201,0.0,2.0,en,SEAF,Africa
-'bed53cc600',extremes,Precipitation,#d60d2b,wmo,Downpour Brazil,2024-06-06T02:46:00+00:00,Brazil,0.7700684152157657,0.0,2.0,en,SAM,South-America
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2024-05-18T02:42:00+00:00,New Zealand,0.7693671865391207,0.0,2.0,en,NZ,Oceania
 '931844255b',extremes,Storm,#b3b2b1,eswd,Storm Turkey,2024-05-13T02:44:00+00:00,Turkey,0.7670711055795899,0.0,2.0,en,WCA,Asia
 '817305da13',extremes,Thunderstorm,#53785a,eswd,Hail Turkey,2024-05-24T02:44:00+00:00,Turkey,0.7670523004933661,0.0,2.0,en,MED,Asia
@@ -3097,6 +3093,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '689f33c248',extremes,Heat Wave,#c40202,wmo,Heat Wave Yanling County,2024-05-18T02:42:00+00:00,China,0.6582256169732874,0.0,2.0,en,EAS,Asia
 '39b677607a',extremes,Flood,#030ba1,wmo,Flashflood Adams Union Clarke Taylor,2024-05-21T02:44:00+00:00,United States,0.6581969126672371,0.0,2.0,en,CNA,North-America
 '9450e8095f',extremes,Landslide,#572c03,wmo,Mudslide Shuicheng District,2024-05-20T02:46:00+00:00,China,0.658193423240177,0.0,2.0,en,EAS,Asia
+'ed4448c975',extremes,Flood,#030ba1,relief,Flood Guatemala,2024-06-06T02:45:00+00:00,Guatemala,0.65818877470106,1.0,1.0,en,SCA,North-America
 '46792f17df',extremes,Heat Wave,#c40202,meteo,High Temperature Palestinian Territory,2024-05-21T02:44:00+00:00,Palestinian Territory,0.6581498149730146,0.0,2.0,en,MED,Asia
 'f61e35bb40',extremes,Snow&Ice,#d60d2b,wmo,Freezing Southeastern Mendocino Interior,2024-05-06T02:44:00+00:00,United States,0.6581296310935388,0.0,2.0,en,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2024-05-16T02:43:00+00:00,United States,0.6581032732143789,1.0,2.0,en,CNA,North-America
@@ -3261,10 +3258,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '928a0e1221',extremes,Storm,#b3b2b1,wmo,Storm Komi Republic,2024-05-08T02:38:00+00:00,Russian Federation,0.6547168317223547,0.0,2.0,en,ESB,Europe
 '8e320526c1',extremes,Heat Wave,#c40202,wmo,Heat Wave Jiaocheng,2024-05-18T02:42:00+00:00,China,0.6547055978038127,0.0,2.0,en,EAS,Asia
 '8df18a8426',extremes,Fog,#d60d2b,wmo,Fog Krasnodar Krai,2024-04-29T02:41:00+00:00,Russia,0.654704979981678,1.0,1.0,en,ESB,Europe
+'66c8040be7',extremes,Precipitation,#d60d2b,relief,Torrential Rain Kenya,2024-05-21T02:43:00+00:00,Kenya,0.6546462864741471,1.0,1.0,en,SEAF,Africa
 '8453d47a83',extremes,Thunderstorm,#53785a,eswd,Heavy Rain Russia,2024-04-28T02:43:00+00:00,Russia,0.654642789947025,1.0,3.0,en,WCE,Europe
 'c85db986fe',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Madagascar,2024-06-01T02:49:00+00:00,Madagascar,0.6546361842322254,1.0,1.0,en,MDG,Africa
 '82732fd6fe',extremes,Storm,#b3b2b1,wmo,Storm Surge Costa Estrecho,2024-04-20T02:38:00+00:00,Spain,0.6546129091347457,0.0,2.0,en,MED,Europe
 '500172fc71',extremes,Snow&Ice,#d60d2b,wmo,Freezing Russia,2024-04-19T02:40:00+00:00,Russia,0.6545735980685042,1.0,3.0,en,ESB,Europe
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,Downpour Brazil,2024-06-06T02:46:00+00:00,Brazil,0.6545583179334009,1.0,1.0,en,SAM,South-America
 'bace52ae95',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Mogilev Region,2024-04-26T02:40:00+00:00,Belarus,0.6545458059315865,0.0,2.0,en,WCE,Europe
 '6a814a5817',extremes,Drought,#edc291,acwe,low water level New South Wales,2024-05-05T02:43:00+00:00,Australia,0.6545430832277079,0.0,2.0,en,EAU,Oceania
 '4f4ef57666',extremes,Landslide,#572c03,relief,Landslide Bolivia,2024-05-09T02:43:00+00:00,Bolivia,0.6545384452377461,1.0,1.0,en,SAM,South-America
