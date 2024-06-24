@@ -1,10 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'df214f7453',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Russia,2024-05-05T02:42:00+00:00,Russia,0.8114076070010051,1.0,2.0,en,ESB,Europe
 '520d37d7b0',extremes,Fog,#d60d2b,wmo,Fog Belarus,2024-05-19T02:45:00+00:00,Belarus,0.7897483353055653,1.0,2.0,en,WCE,Europe
-'66c759e545',extremes,Wildfire,#d60d2b,wmo,Wildfire Judea Mountains,2024-06-15T02:46:00+00:00,Israel,0.7728446842224898,0.0,2.0,en,MED,Asia
-'46e78fc4cd',extremes,Precipitation,#d60d2b,wmo,Downpour Maldives,2024-06-22T02:44:00+00:00,Maldives,0.7726032233559007,0.0,2.0,en,EIO,Indian Ocean
-'b94ec333b6',extremes,Landslide,#572c03,wmo,Mudslide Wanzai County,2024-06-24T02:48:00+00:00,China,0.7723621702836185,0.0,2.0,en,EAS,Asia
-'c0fcfe9ea7',extremes,Storm,#b3b2b1,relief,Severe Local Storm Nigeria,2024-06-23T02:47:00+00:00,Nigeria,0.7721630909119088,0.0,2.0,en,WAF,Africa
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,Downpour Ecuador,2024-06-22T02:44:00+00:00,Ecuador,0.7718950969161472,0.0,2.0,en,NWS,South-America
 '240affaefb',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Ecuador continental,2024-06-20T02:46:00+00:00,Ecuador,0.7718412062136263,0.0,2.0,en,NWS,South-America
 '9330418237',extremes,Precipitation,#d60d2b,wmo,Rain Uruguay,2024-06-21T02:47:00+00:00,Uruguay,0.7717661288303717,0.0,2.0,en,SES,South-America
@@ -3352,6 +3348,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '869f1d30c6',extremes,Storm,#b3b2b1,wmo,Storm Dornbirn,2024-06-20T02:46:00+00:00,Austria,0.6567983483937873,0.0,2.0,en,WCE,Europe
 'f7c09e3177',extremes,Heat Wave,#c40202,wmo,Heat Wave Yicheng City,2024-05-17T02:43:00+00:00,China,0.6567859424456322,0.0,2.0,en,EAS,Asia
 'a1709a649b',extremes,Wildfire,#d60d2b,esawfa,Wildfire Nicaragua,2024-05-12T02:44:00+00:00,Nicaragua,0.6567342990442386,0.0,2.0,en,SCA,North-America
+'46e78fc4cd',extremes,Precipitation,#d60d2b,wmo,Downpour Maldives,2024-06-22T02:44:00+00:00,Maldives,0.6567127398525155,1.0,1.0,en,EIO,Indian Ocean
 '3a51d87cdf',extremes,Heat Wave,#c40202,relief,Heat Wave Myanmar,2024-05-29T02:45:00+00:00,Myanmar,0.6567101963392569,0.0,2.0,en,SAS,Asia
 '01ebf8055b',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Bahraich shrawasti,2024-05-08T02:38:00+00:00,India,0.6566803710988739,0.0,2.0,en,SAS,Asia
 '77a2edf319',extremes,Wildfire,#d60d2b,esawfa,Wildfire Laos,2024-05-19T02:45:00+00:00,Laos,0.6566481020866355,0.0,2.0,en,SEA,Asia
@@ -3364,11 +3361,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b517f7ba58',extremes,Landslide,#572c03,relief,Land Slide Papua New Guinea,2024-06-07T02:47:00+00:00,Papua New Guinea,0.656541581693023,0.0,2.0,en,SEA,Oceania
 'deae275e45',extremes,Storm,#b3b2b1,wmo,Storm Vologda Region,2024-05-30T02:47:00+00:00,Russian Federation,0.6565210234188177,0.0,2.0,en,ESB,Europe
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Ecuador,2024-06-22T02:44:00+00:00,Ecuador,0.6565147922999985,1.0,2.0,en,NWS,South-America
+'b94ec333b6',extremes,Landslide,#572c03,wmo,Mudslide Wanzai County,2024-06-24T02:48:00+00:00,China,0.6565078447410757,1.0,1.0,en,EAS,Asia
 'b14e22f820',extremes,Thunderstorm,#53785a,wmo,Severe Weather Saratov Region,2024-06-06T02:46:00+00:00,Russia,0.6564874308648823,0.0,2.0,en,ESB,Europe
 '0ad7446485',extremes,Fog,#d60d2b,wmo,Fog Three gate County,2024-05-21T02:44:00+00:00,China,0.6564755230674759,0.0,2.0,en,EAS,Asia
 '215dec8f17',extremes,Fog,#d60d2b,wmo,Fog Xiushui County,2024-06-10T02:49:00+00:00,China,0.6563983147399912,0.0,2.0,en,EAS,Asia
 'a98c3b7a2c',extremes,Heat Wave,#c40202,wmo,Heat Wave Steyr Land,2024-06-19T02:48:00+00:00,Austria,0.6563981711809074,0.0,2.0,en,WCE,Europe
 '512294f09a',extremes,Fog,#d60d2b,wmo,Fog Jingde County,2024-05-24T02:45:00+00:00,China,0.6563575181102079,0.0,2.0,en,EAS,Asia
+'c0fcfe9ea7',extremes,Storm,#b3b2b1,relief,Severe Local Storm Nigeria,2024-06-23T02:47:00+00:00,Nigeria,0.6563386272751225,1.0,1.0,en,WAF,Africa
 'a01de43491',extremes,Landslide,#572c03,wmo,Mudslide Liling City,2024-05-27T02:45:00+00:00,China,0.6563348302104552,0.0,2.0,en,EAS,Asia
 'ad7b24bdef',extremes,Storm,#b3b2b1,aidr,Storm NSW East Coast Low storm 2016,2024-05-14T02:43:00+00:00,Australia,0.6563345150581169,1.0,1.0,en,EAU,Oceania
 'e4e4cb6a7e',extremes,Fog,#d60d2b,wmo,Fog Huangdao District,2024-05-20T02:46:00+00:00,China,0.6563334399053847,0.0,2.0,en,EAS,Asia
