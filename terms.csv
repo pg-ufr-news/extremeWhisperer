@@ -1,11 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '630b164795',extremes,Wildfire,#d60d2b,meteo,Wildfire Israel,2024-06-15T02:45:00+00:00,Israel,0.8073252765038804,1.0,3.0,en,MED,Asia
-'8a664c64a1',extremes,Landslide,#572c03,relief,Landslide Ecuador,2024-06-20T02:45:00+00:00,Ecuador,0.7951693539796094,0.0,2.0,en,NWS,South-America
 '596c6c15b4',extremes,Thunderstorm,#53785a,wmo,Hail Austria,2024-05-06T02:44:00+00:00,Austria,0.7951645214684105,1.0,3.0,en,WCE,Europe
-'1691f6be89',extremes,Wildfire,#d60d2b,esawfa,Wildfire Paraguay,2024-06-09T02:49:00+00:00,Paraguay,0.7937591380118189,0.0,2.0,en,SES,South-America
-'33854ad10e',extremes,Wildfire,#d60d2b,esawfa,Bushfire Venezuela,2024-06-27T02:47:00+00:00,Venezuela,0.7924429327872118,0.0,2.0,en,NSA,South-America
 '520d37d7b0',extremes,Fog,#d60d2b,wmo,Fog Belarus,2024-05-19T02:45:00+00:00,Belarus,0.7897483353055653,1.0,2.0,en,WCE,Europe
-'7d10afc684',extremes,Wildfire,#d60d2b,esawfa,Wildfire Mozambique,2024-06-27T02:47:00+00:00,Mozambique,0.786815853965197,0.0,2.0,en,ESAF,Africa
 'd13a177476',extremes,Wildfire,#d60d2b,esawfa,Bushfire Iran,2024-05-10T02:45:00+00:00,Iran,0.7853464816027095,0.0,2.0,en,WCA,Asia
 'da1ba9730c',extremes,Wildfire,#d60d2b,esawfa,Bushfire Syria,2024-06-27T02:47:00+00:00,Syria,0.784168828876269,0.0,2.0,en,MED,Asia
 'd8558237b2',extremes,Wildfire,#d60d2b,fema,Washington Slide Ranch Fire,2024-06-25T02:47:00+00:00,United States,0.7797353592366802,0.0,2.0,en,WNA,North-America
@@ -2712,6 +2708,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aead437079',extremes,Heat Wave,#c40202,wmo,Heat Wave Fengqiu County,2024-05-17T02:43:00+00:00,China,0.6748061173202549,0.0,2.0,en,EAS,Asia
 'b3e3f01e22',extremes,Heat Wave,#c40202,wmo,Heat Wave Wien Penzing,2024-06-18T02:48:00+00:00,Austria,0.6748013176847717,0.0,2.0,en,WCE,Europe
 '969bcdbae0',extremes,Fog,#d60d2b,wmo,Fog Suifenhe City,2024-06-21T02:47:00+00:00,China,0.674801134272905,0.0,2.0,en,EAS,Asia
+'1691f6be89',extremes,Wildfire,#d60d2b,esawfa,Wildfire Paraguay,2024-06-09T02:49:00+00:00,Paraguay,0.674695312310046,1.0,1.0,en,SES,South-America
 'b9b26e7dbf',extremes,Landslide,#572c03,wmo,Mudslide Gao An City,2024-06-25T02:47:00+00:00,China,0.6746945014767458,0.0,2.0,en,EAS,Asia
 '1e8d9352da',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Bitterroot Sapphire Mountains,2024-05-08T02:38:00+00:00,United States,0.6746923212145726,0.0,2.0,en,CNA,North-America
 'ce7e88d59c',extremes,Flood,#030ba1,wmo,Flooding Calvados Meuse,2024-05-13T02:45:00+00:00,France,0.6746481909072024,0.0,2.0,en,WCE,Europe
@@ -2757,6 +2754,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5f2db2f3ad',extremes,Flood,#030ba1,wmo,Flood Norrbotten mountain regions,2024-05-31T02:45:00+00:00,Sweden,0.6736986897415342,0.0,2.0,en,NEU,Europe
 '64914c49a5',extremes,Fog,#d60d2b,wmo,Fog Long Island County,2024-06-15T02:46:00+00:00,China,0.6736024675869472,0.0,2.0,en,EAS,Asia
 '14ecb8c2a0',extremes,Drought,#edc291,relief,Drought Nigeria,2024-06-23T02:47:00+00:00,Nigeria,0.6735921758007534,1.0,2.0,en,WAF,Africa
+'33854ad10e',extremes,Wildfire,#d60d2b,esawfa,Bushfire Venezuela,2024-06-27T02:47:00+00:00,Venezuela,0.67357649286913,1.0,1.0,en,NSA,South-America
 '9ed2f770b4',extremes,Precipitation,#d60d2b,relief,Flash Flood United States of America,2024-06-23T02:47:00+00:00,United States of America,0.6735336136838033,1.0,1.0,en,CNA,North-America
 'c32587a152',extremes,Snow&Ice,#d60d2b,wmo,Freezing Rostov Region,2024-05-13T02:45:00+00:00,Russia,0.6734621388383215,0.0,2.0,en,ESB,Europe
 'bcce12426e',extremes,Storm,#b3b2b1,wmo,Storm Surge north of Amur Region,2024-05-08T02:38:00+00:00,Russia,0.6734157524790355,0.0,2.0,en,ESB,Europe
@@ -2939,6 +2937,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6aa254f5d1',extremes,Flood,#030ba1,relief,Flash Flood Tanzania,2024-06-06T02:45:00+00:00,Tanzania,0.6689153211465018,1.0,2.0,en,SEAF,Africa
 '373f3bc500',extremes,Flood,#030ba1,wmo,Flood Norman MN,2024-05-26T02:46:00+00:00,United States,0.668882049587543,0.0,2.0,en,CNA,North-America
 'fa9eac41c9',extremes,Storm,#b3b2b1,wmo,Storm Surge Northeastern region,2024-05-15T02:45:00+00:00,North Macedonia,0.6688139244393443,0.0,2.0,en,MED,Europe
+'7d10afc684',extremes,Wildfire,#d60d2b,esawfa,Wildfire Mozambique,2024-06-27T02:47:00+00:00,Mozambique,0.6687934908704175,1.0,1.0,en,ESAF,Africa
 '40c057feb5',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Altai Krai,2024-05-23T02:44:00+00:00,Russian Federation,0.6687593738615584,0.0,2.0,en,ESB,Europe
 '0cb65e042b',extremes,Flood,#030ba1,wmo,Flood Overijssel,2024-05-23T02:44:00+00:00,Netherlands,0.6687539506128746,0.0,2.0,en,NEU,Europe
 '34be86453f',extremes,Landslide,#572c03,wmo,Landslide Wa Autonomous County of Cangyuan,2024-05-25T02:43:00+00:00,China,0.6687332752970061,0.0,2.0,en,EAS,Asia
