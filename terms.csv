@@ -1,11 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '87f94d2545',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Beryl,2024-07-01T02:52:00+00:00,,0.814033989162111,1.0,3.0,en,NAO,Atlantic Ocean
 '630b164795',extremes,Wildfire,#d60d2b,meteo,Wildfire Israel,2024-06-15T02:45:00+00:00,Israel,0.8073252765038804,1.0,3.0,en,MED,Asia
-'31ac3d5438',extremes,Wildfire,#d60d2b,esawfa,Bushfire Qatar,2024-06-27T02:47:00+00:00,Qatar,0.7932397868698177,0.0,2.0,en,ARP,Asia
-'59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,wildfire Queensland,2024-07-03T02:47:00+00:00,Australia,0.7920376476170917,0.0,2.0,en,CAU,Oceania
-'bd4aa9e713',extremes,Wildfire,#d60d2b,esawfa,Wildfire Kazakhstan,2024-06-08T02:46:00+00:00,Kazakhstan,0.7903487511794636,0.0,2.0,en,WSB,Asia
 '520d37d7b0',extremes,Fog,#d60d2b,wmo,Fog Belarus,2024-05-19T02:45:00+00:00,Belarus,0.7897483353055653,1.0,2.0,en,WCE,Europe
-'25cc3b5c61',extremes,Wildfire,#d60d2b,esawfa,Bushfire Brazil,2024-06-05T02:47:00+00:00,Brazil,0.7872255981113153,0.0,2.0,en,SAM,South-America
 'ea53853f86',extremes,Precipitation,#d60d2b,acwe,wet spell Queensland,2024-07-02T02:48:00+00:00,Australia,0.7865589318345128,0.0,2.0,en,CAU,Oceania
 'abe3f64175',extremes,Wildfire,#d60d2b,esawfa,Wildfire Venezuela,2024-06-28T02:48:00+00:00,Venezuela,0.7840190555976321,0.0,2.0,en,NSA,South-America
 '498b01bd43',extremes,Wildfire,#d60d2b,esawfa,Bushfire Democratic Republic of the Congo,2024-07-02T02:48:00+00:00,Democratic Republic of the Congo,0.7832334722504565,0.0,2.0,en,CAF,Africa
@@ -2859,6 +2855,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5ff1cde4a',extremes,Drought,#edc291,random,soil moisture,2024-06-05T02:46:00+00:00,,0.673312606765733,0.0,2.0,en,,
 'a1408e3a3a',extremes,Landslide,#572c03,wmo,Mudslide Lianghe County,2024-05-26T02:46:00+00:00,China,0.6732873659850611,0.0,2.0,en,EAS,Asia
 '86893042a5',extremes,Wildfire,#d60d2b,esawfa,Bushfire Saudi Arabia,2024-06-28T02:48:00+00:00,Saudi Arabia,0.6732786803937132,0.0,2.0,en,ARP,Asia
+'59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,wildfire Queensland,2024-07-03T02:47:00+00:00,Australia,0.6732320604745279,1.0,1.0,en,CAU,Oceania
 '8761acf92e',extremes,Storm,#b3b2b1,wmo,Storm Surge Center of Krasnoyarsk Krai,2024-06-16T02:49:00+00:00,Russian Federation,0.6732261733712026,0.0,2.0,en,ESB,Europe
 '1db7aa9053',extremes,Heat Wave,#c40202,wmo,Heat Wave Yiyang County,2024-05-17T02:43:00+00:00,China,0.6731414712559386,0.0,2.0,en,EAS,Asia
 'b40528d4ea',extremes,Snow&Ice,#d60d2b,wmo,Snow Indre Troms,2024-05-21T02:44:00+00:00,Norway,0.6731351683707933,0.0,2.0,en,NEU,Europe
@@ -2918,6 +2915,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7aae4ff876',extremes,Fog,#d60d2b,wmo,Fog Prešov,2024-06-14T02:47:00+00:00,Slovakia,0.6718398022395153,0.0,2.0,en,WCE,Europe
 'b1671be295',extremes,Wildfire,#d60d2b,esawfa,Wildfire Iceland,2024-06-27T02:47:00+00:00,Iceland,0.6718219884245693,1.0,2.0,en,GIC,Europe
 '6c43b0685a',extremes,Landslide,#572c03,wmo,Mudslide Guangxin Area,2024-06-18T02:48:00+00:00,China,0.6718170636491538,0.0,2.0,en,EAS,Asia
+'bd4aa9e713',extremes,Wildfire,#d60d2b,esawfa,Wildfire Kazakhstan,2024-06-08T02:46:00+00:00,Kazakhstan,0.671796453502544,1.0,1.0,en,WSB,Asia
 'ebc2fcad25',extremes,Precipitation,#d60d2b,relief,Flash Flood Guatemala,2024-06-09T02:48:00+00:00,Guatemala,0.6717677836809443,1.0,1.0,en,SCA,North-America
 '49731ec0fb',extremes,Storm,#b3b2b1,eswd,Severe Wind Germany,2024-05-16T02:43:00+00:00,Germany,0.6717238264901055,0.0,2.0,en,WCE,Europe
 '585a531614',extremes,Storm,#b3b2b1,wmo,Storm North Cape Slettnes lighthouse,2024-06-20T02:46:00+00:00,Norway,0.6716938848133082,0.0,2.0,en,NEU,Europe
@@ -3029,6 +3027,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c2015b1a43',extremes,Storm,#b3b2b1,wmo,Storm Surge Rostov Region,2024-05-16T02:43:00+00:00,Russian Federation,0.6692314272444935,0.0,2.0,en,ESB,Europe
 '09a2659e20',extremes,Storm,#b3b2b1,wmo,Storm Middle Dalmatia region,2024-06-08T02:46:00+00:00,Croatia,0.6692147446722516,0.0,2.0,en,WCE,Europe
 'a8bc728e9d',extremes,Storm,#b3b2b1,wmo,Storm Surge Olomoucký kraj,2024-06-28T02:48:00+00:00,Czechia,0.6691439793829348,0.0,2.0,en,WCE,Europe
+'25cc3b5c61',extremes,Wildfire,#d60d2b,esawfa,Bushfire Brazil,2024-06-05T02:47:00+00:00,Brazil,0.669141758394618,1.0,1.0,en,SAM,South-America
 '0fe34243f1',extremes,Heat Wave,#c40202,wmo,Heat Wave Piešťany,2024-06-30T02:50:00+00:00,Slovakia,0.6691261045693578,0.0,2.0,en,WCE,Europe
 'aee04bdf3a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Republic of Dagestan,2024-06-11T02:47:00+00:00,Russian Federation,0.6691222294429948,0.0,2.0,en,ESB,Europe
 'aed0f19791',extremes,Precipitation,#d60d2b,relief,Flash Flood United States,2024-06-03T02:46:00+00:00,United States,0.6691174151158321,1.0,2.0,en,CNA,North-America
