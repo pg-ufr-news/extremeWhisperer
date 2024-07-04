@@ -3,10 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '630b164795',extremes,Wildfire,#d60d2b,meteo,Wildfire Israel,2024-06-15T02:45:00+00:00,Israel,0.8073252765038804,1.0,3.0,en,MED,Asia
 '35c23fff20',extremes,Precipitation,#d60d2b,wmo,Downpour NORTHERN DISTRICTS.,2024-06-30T02:50:00+00:00,Belize,0.8014369889610277,1.0,2.0,en,SCA,North-America
 '520d37d7b0',extremes,Fog,#d60d2b,wmo,Fog Belarus,2024-05-19T02:45:00+00:00,Belarus,0.7897483353055653,1.0,2.0,en,WCE,Europe
-'78305334f5',extremes,Wildfire,#d60d2b,acwe,fire ban Northern Territory,2024-07-04T02:49:00+00:00,Australia,0.7765568492771027,0.0,2.0,en,CAU,Oceania
-'0e6ec4796f',extremes,Flood,#030ba1,relief,Flooding Uganda,2024-06-20T02:45:00+00:00,Uganda,0.7727293099433316,0.0,2.0,en,SEAF,Africa
-'0a8d16547c',extremes,Wildfire,#d60d2b,esawfa,Wildfire Qatar,2024-07-04T02:48:00+00:00,Qatar,0.768651665651268,0.0,2.0,en,ARP,Asia
-'7bb4f9a3ad',extremes,Wildfire,#d60d2b,wmo,Wildfire Utenos apskritis,2024-05-27T02:45:00+00:00,Lithuania,0.7686261747315862,0.0,2.0,en,WCE,Europe
 'd0265908f2',extremes,Wildfire,#d60d2b,wmo,Wildfire Kauno apskritis,2024-05-26T02:46:00+00:00,Lithuania,0.7682110269673039,0.0,2.0,en,WCE,Europe
 '2299fdfa8f',extremes,Wildfire,#d60d2b,wmo,Wildfire San Rafael Swell,2024-07-02T02:48:00+00:00,United States,0.7680955418137928,0.0,2.0,en,CNA,North-America
 '56ec1d3897',extremes,Drought,#edc291,relief,Drought Uganda,2024-06-20T02:45:00+00:00,Uganda,0.7653694475954289,0.0,2.0,en,SEAF,Africa
@@ -3588,6 +3584,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'faf39b2722',extremes,Storm,#b3b2b1,wmo,Storm Comanche TX Eastland TX,2024-05-31T02:45:00+00:00,United States,0.6568834401040732,0.0,2.0,en,CNA,North-America
 'b99610c63f',extremes,Storm,#b3b2b1,fema,Mississippi Severe Storms Straight line Winds Tornadoes and Flooding,2024-06-13T02:47:00+00:00,United States,0.6568713913498558,0.0,2.0,en,ENA,North-America
 '2b5324a492',extremes,Storm,#b3b2b1,wmo,Storm Surge Coastal Jackson,2024-06-20T02:46:00+00:00,United States,0.6568321786872721,0.0,2.0,en,CNA,North-America
+'0e6ec4796f',extremes,Flood,#030ba1,relief,Flooding Uganda,2024-06-20T02:45:00+00:00,Uganda,0.6568200634518317,1.0,1.0,en,SEAF,Africa
 'c366e9882a',extremes,Heat Wave,#c40202,wmo,Heat Wave Vöcklabruck,2024-06-18T02:48:00+00:00,Austria,0.6568127947837804,0.0,2.0,en,WCE,Europe
 '1a3f19d839',extremes,Heat Wave,#c40202,wmo,Heat Wave Wien Ottakring,2024-06-20T02:46:00+00:00,Austria,0.656803857376067,0.0,2.0,en,WCE,Europe
 '869f1d30c6',extremes,Storm,#b3b2b1,wmo,Storm Dornbirn,2024-06-20T02:46:00+00:00,Austria,0.6567983483937873,0.0,2.0,en,WCE,Europe
@@ -3762,6 +3759,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '71256bb339',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Indre Troms,2024-05-16T02:43:00+00:00,Norway,0.6534170087212883,0.0,2.0,en,NEU,Europe
 '543fc3a635',extremes,Wildfire,#d60d2b,wmo,Wildfire Šiaulių apskritis,2024-05-27T02:45:00+00:00,Lithuania,0.6534083824584566,1.0,1.0,en,WCE,Europe
 '512130ecac',extremes,Precipitation,#d60d2b,wmo,Downpour Mongolia,2024-06-05T02:47:00+00:00,Mongolia,0.653356535280442,1.0,1.0,en,ESB,Asia
+'0a8d16547c',extremes,Wildfire,#d60d2b,esawfa,Wildfire Qatar,2024-07-04T02:48:00+00:00,Qatar,0.6533540058035777,1.0,1.0,en,ARP,Asia
+'7bb4f9a3ad',extremes,Wildfire,#d60d2b,wmo,Wildfire Utenos apskritis,2024-05-27T02:45:00+00:00,Lithuania,0.6533322485218482,1.0,1.0,en,WCE,Europe
 'ce3ef5b01c',extremes,Thunderstorm,#53785a,wmo,Severe Weather Leningrad Region,2024-05-25T02:43:00+00:00,Russian Federation,0.6533199398840324,0.0,2.0,en,ESB,Europe
 '96656033f6',extremes,Heat Wave,#c40202,wmo,Heat Wave Mari El Republic,2024-07-04T02:48:00+00:00,Russia,0.6532968609090121,0.0,2.0,en,ESB,Europe
 '7b5b3b8ad8',extremes,Storm,#b3b2b1,wmo,Storm Trentino Alto Adige,2024-05-21T02:44:00+00:00,Italy,0.6532954428930331,0.0,2.0,en,MED,Europe
