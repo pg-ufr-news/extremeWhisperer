@@ -5,9 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c86fa0e9fa',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Don,2023-07-14T09:00:0+00:00,,0.4884379800631542,2.0,3.0,en,NAO,Atlantic Ocean
 '0610b9d79a',extremes,Tropical Cyclone,#4f4f4f,nasaEonet,Tropical Cyclone Beatriz,2023-06-29T18:00:0+00:00,,0.4876860457458233,1.0,2.0,en,,
 '8e76cfe157',extremes,Volcano,#b83202,eonet,Volcano Italy,2023-07-12T00:00:0+00:00,Italy,0.4875865375158684,1.0,2.0,en,MED,Europe
-'67c8351a05',extremes,Volcano,#b83202,eonet,"Sheveluch Volcano, Russia",2023-07-02T00:00:0+00:00,Russia,0.4870820628851184,1.0,1.0,en,RFE,Europe
-'620dbbcbcf',extremes,Volcano,#b83202,nasaEonet,"Ubinas Volcano, Peru",2023-06-25T00:00:0+00:00,Peru,0.4870490398498279,1.0,1.0,en,,
-'7d7a18cb81',extremes,Volcano,#b83202,eonet,"Klyuchevskoy Volcano, Russia",2023-07-06T00:00:0+00:00,Russia,0.486728801205363,1.0,1.0,en,RFE,Europe
 '676dd10496',extremes,Volcano,#b83202,eonet,Volcano Reunion,2023-07-03T00:00:0+00:00,Reunion,0.4860035581063238,1.0,2.0,en,SIO,Africa
 '8527486d13',extremes,Volcano,#b83202,eonet,Volcano Russia,2023-07-06T00:00:0+00:00,Russia,0.4859760237783079,2.0,2.0,en,RFE,Europe
 '4820cd6691',extremes,Volcano,#b83202,eonet,Volcano Nicaragua,2023-07-05T00:00:0+00:00,Nicaragua,0.4856472620198154,1.0,1.0,en,SCA,North-America
@@ -15,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b2f960277',extremes,Iceberg,#d60d2b,eonet,Iceberg D29B,2023-07-14 00:00:0+00:00,,0.4798842381397566,1.0,1.0,en,EAN,
 '761266dc83',extremes,Iceberg,#d60d2b,eonet,Iceberg C38B,2023-07-07 00:00:0+00:00,,0.4797375134931834,1.0,1.0,en,EAN,
 'dcb97da446',extremes,Iceberg,#d60d2b,eonet,Iceberg A76L,2023-07-14 00:00:0+00:00,,0.4797060492117155,1.0,1.0,en,SOO,Antarctica
-'f9612b56d4',extremes,Iceberg,#d60d2b,nasaEonet,Iceberg D29B,2023-07-07 00:00:0+00:00,,0.4795422728820333,1.0,1.0,en,EAN,
 '66dc006ceb',extremes,Iceberg,#d60d2b,eonet,Iceberg D27,2023-07-14 00:00:0+00:00,,0.4789713982127512,1.0,1.0,en,EAN,
 '63c0285ba6',extremes,Iceberg,#d60d2b,eonet,Iceberg D28,2023-07-14 00:00:0+00:00,,0.478534138656181,1.0,1.0,en,EAN,
 'bd47d0516c',extremes,Iceberg,#d60d2b,nasaEonet,Iceberg D30B,2023-06-30 00:00:0+00:00,,0.4785161112626741,1.0,1.0,en,EAN,
@@ -55,7 +51,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4a781550dc',extremes,Iceberg,#d60d2b,eonet,Iceberg B39,2023-07-28 00:00:0+00:00,,0.4645342864793691,2.0,1.0,en,EAN,
 'f9b4a7c959',extremes,Storm,#b3b2b1,eonet,Super Typhoon Doksuri,2023-07-22T00:00:0+00:00,,0.4594889785010975,2.0,1.0,en,SEA,Asia
 '6f0b184db1',extremes,Storm,#b3b2b1,eonet,Typhoon Khanun,2023-07-28T06:00:0+00:00,,0.4413580607237187,1.0,1.0,en,NPO,Pacific Ocean
-'137033c113',extremes,Storm,#b3b2b1,eonet,Subtropical Storm Don,2023-07-14T09:00:0+00:00,Iran,0.44080581708158484,2.0,1.0,en,WCA,Asia
+'137033c113',extremes,Storm,#b3b2b1,eonet,Subtropical Storm Don,2023-07-14T09:00:0+00:00,Iran,0.4408058170815848,2.0,1.0,en,WCA,Asia
 'b3eb7be452',extremes,Iceberg,#d60d2b,eonet,Iceberg A74B,2023-07-14 00:00:0+00:00,Antarctica,0.4395183778970301,2.0,1.0,en,EAN,Antarctica
 '21f1c994a6',extremes,Drought,#edc291,emdat,Drought Spain,2023-04-31T12:00:00+00:00,Spain,0.4353629396241941,3.0,3.0,en,MED,Europe
 'ea92fd78d6',extremes,Drought,#edc291,emdat,Drought Andalusia,2023-04-31T12:00:00+00:00,Spain,0.4301785253079753,1.0,2.0,en,MED,Europe
@@ -64,8 +60,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b07be83393',extremes,Volcano,#b83202,eonet,"Bagana Volcano, Papua New Guinea",2023-07-07T08:13:5+00:00,Papua New Guinea,0.4165920235991872,2.0,1.0,en,EPO,Oceania
 'f99f8c00a7',extremes,Volcano,#b83202,eonet,"Nishinoshima Volcano, Japan",2023-07-09T00:00:0+00:00,,0.4158351950352079,2.0,1.0,en,NPO,Pacific Ocean
 '358b4fbdbd',extremes,Volcano,#b83202,eonet,"San Cristobal Volcano, Nicaragua",2023-07-05T00:00:0+00:00,Nicaragua,0.4154196277840916,2.0,1.0,en,SCA,North-America
-'3c24f4ebc7',extremes,Wild Fire,#d60d2b,eonet,Xx1002 Flat Fire Information,2023-07-15T21:51:0+00:00,United States,0.41539539634545475,2.0,1.0,en,WNA,
+'3c24f4ebc7',extremes,Wild Fire,#d60d2b,eonet,Xx1002 Flat Fire Information,2023-07-15T21:51:0+00:00,United States,0.4153953963454547,2.0,1.0,en,WNA,
 'f96c058551',extremes,Volcano,#b83202,eonet,"Nishinoshima Volcano, Japan",2023-07-09T00:00:0+00:00,,0.4145205361472571,2.0,1.0,en,NPO,Pacific Ocean
+'67c8351a05',extremes,Volcano,#b83202,eonet,"Sheveluch Volcano, Russia",2023-07-02T00:00:0+00:00,Russia,0.41401975345235065,2.0,1.0,en,RFE,Europe
+'620dbbcbcf',extremes,Volcano,#b83202,nasaEonet,"Ubinas Volcano, Peru",2023-06-25T00:00:0+00:00,Peru,0.4139916838723537,2.0,1.0,en,,
+'7d7a18cb81',extremes,Volcano,#b83202,eonet,"Klyuchevskoy Volcano, Russia",2023-07-06T00:00:0+00:00,Russia,0.4137194810245585,2.0,1.0,en,RFE,Europe
 'a60ed21de7',extremes,Volcano,#b83202,eonet,"Klyuchevskoy Volcano, Russia",2023-07-06T00:00:0+00:00,Russia,0.4126530259226213,2.0,1.0,en,RFE,Europe
 'fa1d130c66',extremes,Iceberg,#d60d2b,eonet,Iceberg A80D,2023-07-28 00:00:0+00:00,Antarctica,0.4083442478206586,2.0,1.0,en,WAN,Antarctica
 '78e5a91750',extremes,Iceberg,#d60d2b,eonet,Iceberg D31,2023-07-14 00:00:0+00:00,,0.4078574053530397,2.0,1.0,en,EAN,
