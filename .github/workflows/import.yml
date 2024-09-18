@@ -42,6 +42,8 @@ jobs:
         run: (cd /cre/python/)
       - name: cp mysecrets.py
         run: (cp mysecrets.orig.py mysecrets.py)
+      - name: init python
+        run: (/cre/init-python.sh)
       - name: Run newsapi
         env:
             NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
@@ -51,5 +53,5 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
 #          pull: '--rebase --autostash ...'
-          add: 'terms.csv'
+          add: 'terms.csv  requirements.txt'
           tag_push: '--force'
