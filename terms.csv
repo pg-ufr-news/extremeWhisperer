@@ -1,10 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '90e6558608',extremes,Earthquake,#870007,usgs,Earthquake southern Mid Atlantic Ridge,2024-09-18T13:03:00+00:00,,0.8267775045602739,1,2,en,SAO,Atlantic Ocean
 'bea62a3106',extremes,Tsunami,#690191,usgs,Tsunami Malibu,2024-09-18T13:03:00+00:00,United States,0.7994846737833555,1,2,en,WNA,North-America
-'b496c6ea63',extremes,Wildfire,#d60d2b,effis,Wildfire Žrnovnica,2024-09-18T13:03:00+00:00,,0.7988244893475535,0,2,en,MED,
-'dbd3ac758f',extremes,Wildfire,#d60d2b,esawfa,Bushfire Ethiopia,2024-09-19T03:00:00+00:00,Ethiopia,0.792448096685134,0,2,en,NEAF,Africa
-'027b46cc83',extremes,Wildfire,#d60d2b,eonet,Wildfire in Brazil 1022189,2024-09-18T13:03:00+00:00,Brazil,0.7866675686449485,0,2,en,SAM,South-America
-'ec5cf426b2',extremes,Thunderstorm,#53785a,eswd,Heavy Rain Italy,2024-09-18T13:03:00+00:00,Italy,0.7854935268386927,0,2,en,MED,Europe
 '4dac9c2f67',extremes,Flood,#030ba1,relief,Flood Somalia,2024-09-23T03:03:00+00:00,Somalia,0.7847108698214835,0,2,en,NEAF,Africa
 'c660119466',extremes,Landslide,#572c03,relief,Landslide Vietnam,2024-09-23T03:03:00+00:00,Vietnam,0.7842090433396612,0,2,en,SEA,Asia
 'ec98366bcb',extremes,Flood,#030ba1,aidr,Flood south eastern Australia 2016,2024-09-18T13:04:00+00:00,Australia,0.7836004416051318,0,2,en,SAU,Oceania
@@ -848,6 +844,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4806a05714',extremes,Earthquake,#870007,usgs,Earthquake Turkey,2024-09-18T13:03:00+00:00,Turkey,0.6959141701022779,0,2,en,MED,Asia
 'e8b504ea7a',extremes,Snow&Ice,#d60d2b,wmo,Ice Chelyabinsk Region,2024-09-23T03:03:00+00:00,Russian Federation,0.6957982397355663,0,2,en,ESB,Europe
 'd5deb3b486',extremes,Wildfire,#d60d2b,eonet,Wildfire Tanzania,2024-09-18T13:03:00+00:00,Tanzania,0.695647523955649,0,2,en,SEAF,Africa
+'ec5cf426b2',extremes,Thunderstorm,#53785a,eswd,Heavy Rain Italy,2024-09-18T13:03:00+00:00,Italy,0.6953477605401615,1,3,en,MED,Europe
 '9dd83260b8',extremes,Wildfire,#d60d2b,eonet,Wildfire in Tanzania 1022177,2024-09-18T13:03:00+00:00,Tanzania,0.69534132731513,0,2,en,SEAF,Africa
 'e0bb0d7e8a',extremes,Flood,#030ba1,wmo,Flood Lake FL Volusia FL,2024-09-19T03:00:00+00:00,United States,0.695119698448503,0,2,en,CNA,North-America
 '5004d184ec',extremes,Snow&Ice,#d60d2b,wmo,Frost Vladimir Region,2024-09-24T03:03:00+00:00,Russian Federation,0.6948324085726664,0,2,en,ESB,Europe
@@ -1436,6 +1433,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '21c8b7f747',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Pingquan District,2024-09-20T03:00:00+00:00,China,0.673854871979847,0,2,en,EAS,Asia
 '03f33e230d',extremes,Earthquake,#870007,usgs,Earthquake Chile,2024-09-18T13:03:00+00:00,Chile,0.6737799850353631,1,1,en,SWS,South-America
 '0fef4a51cb',extremes,Earthquake,#870007,usgs,Earthquake Vilcanchos,2024-09-18T13:03:00+00:00,Peru,0.6737644373838738,1,1,en,NWS,South-America
+'dbd3ac758f',extremes,Wildfire,#d60d2b,esawfa,Bushfire Ethiopia,2024-09-19T03:00:00+00:00,Ethiopia,0.6735808821823639,1,1,en,NEAF,Africa
 'c856a63303',extremes,Flood,#030ba1,aidr,Flood Tasmania October 2022,2024-09-18T13:04:00+00:00,Australia,0.6735640367206134,1,1,en,SAU,Oceania
 '6fd7af5b15',extremes,Storm,#b3b2b1,wmo,Storm Western Transdanubia,2024-09-23T03:03:00+00:00,Hungary,0.6731789764704502,0,2,en,WCE,Europe
 'cd28317347',extremes,Storm,#b3b2b1,wmo,Storm Chukotka Autonomous District,2024-09-23T03:03:00+00:00,Russia,0.6731771133682293,0,2,en,ESB,Europe
@@ -1460,6 +1458,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6eabd0be79',extremes,Storm,#b3b2b1,wmo,Storm Surge Slovakia,2024-09-24T03:03:00+00:00,Slovakia,0.6690680026693049,0,2,en,WCE,Europe
 'acaf7f46df',extremes,Cold Wave,#a7e9fa,wmo,Freezing Shuangqiao District,2024-09-21T02:58:00+00:00,China,0.6690391760811023,0,2,en,EAS,Asia
 '2366b44b51',extremes,Storm,#b3b2b1,wmo,Storm Chelyabinsk Region,2024-09-22T03:06:00+00:00,Russian Federation,0.669027602917953,0,2,en,ESB,Europe
+'027b46cc83',extremes,Wildfire,#d60d2b,eonet,Wildfire in Brazil 1022189,2024-09-18T13:03:00+00:00,Brazil,0.6686674333482062,1,1,en,SAM,South-America
 '3e012d780e',extremes,Flood,#030ba1,wmo,Flashflood Kings Brooklyn,2024-09-20T03:00:00+00:00,United States,0.6683425822236074,0,2,en,CNA,North-America
 '7a73f993a6',extremes,Earthquake,#870007,usgs,Earthquake South Indian Ocean,2024-09-20T03:00:00+00:00,,0.6682933950917547,1,1,en,EIO,Indian Ocean
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg Arctis,2024-09-07T02:54:00+00:00,,0.6682924926922308,0,2,en,,
