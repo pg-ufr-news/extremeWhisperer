@@ -1,10 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '90e6558608',extremes,Earthquake,#870007,usgs,Earthquake southern Mid Atlantic Ridge,2024-09-18T13:03:00+00:00,,0.8267775045602739,1,2,en,SAO,Atlantic Ocean
 'bea62a3106',extremes,Tsunami,#690191,usgs,Tsunami Malibu,2024-09-18T13:03:00+00:00,United States,0.7994846737833555,1,2,en,WNA,North-America
-'b496c6ea63',extremes,Wildfire,#d60d2b,effis,Wildfire Žrnovnica,2024-09-18T13:03:00+00:00,,0.7988244893475535,0,2,en,MED,
-'3e3d0bfe94',extremes,Earthquake,#870007,usgs,Earthquake La Libertad,2024-09-22T03:06:00+00:00,El Salvador,0.7777062145379052,0,2,en,SCA,North-America
-'8df18a8426',extremes,Fog,#d60d2b,wmo,Fog Krasnodar Krai,2024-09-18T13:03:00+00:00,Russia,0.7776331156542622,0,2,en,ESB,Europe
-'ccd9cf75cd',extremes,Flood,#030ba1,relief,Flooding Algeria,2024-09-19T02:59:00+00:00,Algeria,0.7775332129764507,0,2,en,SAH,Africa
 'bdb3ebf6fc',extremes,Fog,#d60d2b,wmo,Fog Chechen Republic,2024-09-18T13:03:00+00:00,Russian Federation,0.777480956470994,0,2,en,ESB,Europe
 '5b0844fa59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lesotho,2024-09-20T03:00:00+00:00,Lesotho,0.7773301466361073,0,2,en,ESAF,Africa
 '0c663115df',extremes,Snow&Ice,#d60d2b,wmo,Avalanche New Zealand,2024-09-20T03:00:00+00:00,New Zealand,0.7772209496038796,0,2,en,NZ,Oceania
@@ -936,6 +932,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4fa4ea1135',extremes,Storm,#b3b2b1,wmo,Storm Zuid Holland,2024-09-26T03:04:00+00:00,Netherlands,0.7037126278550654,0,2,en,NEU,Europe
 '340e896835',extremes,Storm,#b3b2b1,wmo,Storm The Quark,2024-09-25T03:06:00+00:00,Sweden,0.7033458955590448,0,2,en,NEU,Europe
 '9296c9f081',extremes,Thunderstorm,#53785a,wmo,Hail Belarus,2024-09-25T03:06:00+00:00,Belarus,0.7031600246647431,0,2,en,WCE,Europe
+'ccd9cf75cd',extremes,Flood,#030ba1,relief,Flooding Algeria,2024-09-19T02:59:00+00:00,Algeria,0.703153456029983,1,2,en,SAH,Africa
 '135f8534c2',extremes,Precipitation,#d60d2b,random,more precipitation,2024-09-15T03:04:00+00:00,,0.7031534004655159,0,2,en,,
 '4df78aaa26',extremes,Earthquake,#870007,usgs,Earthquake northern Mid Atlantic Ridge,2024-09-18T13:03:00+00:00,,0.7030124497144536,0,2,en,NAO,Atlantic Ocean
 'f90601fa23',extremes,Volcano,#b83202,random,volcano eruption,2024-09-18T08:31:00+00:00,,0.70298785872008,0,2,en,,
@@ -1785,7 +1782,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4e13fe3c45',extremes,Fog,#d60d2b,wmo,Fog Chelyabinsk Region,2024-09-18T13:03:00+00:00,Russia,0.661143308319345,1,1,en,ESB,Europe
 '0f9b53499c',extremes,Wildfire,#d60d2b,esawfa,Bushfire Iraq,2024-09-19T03:00:00+00:00,Iraq,0.6611192153220139,0,2,en,WCA,Asia
 '37cb4b7b73',extremes,Earthquake,#870007,usgs,Earthquake Khorugh,2024-09-20T03:00:00+00:00,Tajikistan,0.66109583566023,1,1,en,WCA,Asia
+'3e3d0bfe94',extremes,Earthquake,#870007,usgs,Earthquake La Libertad,2024-09-22T03:06:00+00:00,El Salvador,0.6610503123572194,1,1,en,SCA,North-America
 '5b302ce6b4',extremes,Wildfire,#d60d2b,eonet,Wildfire Ukraine,2024-09-20T03:00:00+00:00,Ukraine,0.6610171778153314,0,2,en,WCE,Europe
+'8df18a8426',extremes,Fog,#d60d2b,wmo,Fog Krasnodar Krai,2024-09-18T13:03:00+00:00,Russia,0.6609881483061228,1,1,en,ESB,Europe
 '10dfe169b1',extremes,Storm,#b3b2b1,wmo,Storm Coastal Liberty,2024-09-26T03:04:00+00:00,United States,0.6606306507501903,0,2,en,CNA,North-America
 '6b1aa7d819',extremes,Storm,#b3b2b1,wmo,Storm Jasper,2024-09-26T03:04:00+00:00,United States,0.6604594396599023,0,2,en,CNA,North-America
 'ae3ee97210',extremes,Flood,#030ba1,wmo,Flashflood Beaufort Pamlico Southern Craven,2024-09-25T03:06:00+00:00,United States,0.660413102299074,0,2,en,CNA,North-America
