@@ -9,10 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42a77b6b7e',extremes,Wildfire,#d60d2b,effis,Wildfire Portugal,2024-09-18T13:03:00+00:00,Portugal,0.771352651456144,1,3,en,MED,Europe
 'bab54ffb9c',extremes,Tropical Cyclone,#4f4f4f,fema,Florida Hurricane Milton,2024-10-09T03:04:00+00:00,United States,0.7713189695210125,1,3,en,ENA,North-America
 'ec326eae3d',extremes,Tropical Cyclone,#4f4f4f,relief,Typhoon Laos,2024-09-25T03:05:00+00:00,Laos,0.7617997478338927,1,3,en,EAS,Asia
-'3ddfc7ebec',extremes,Flood,#030ba1,wmo,Flood Jamaica,2024-09-25T03:06:00+00:00,Jamaica,0.7610143849868978,0,2,en,CAR,North-America
-'5a9124c973',extremes,Heat Wave,#c40202,wmo,Heat Wave Las Flores y alrededores,2024-10-01T03:12:00+00:00,Argentina,0.76098775426942,0,2,en,SES,South-America
-'9541557016',extremes,Wildfire,#d60d2b,esawfa,Bushfire Paraguay,2024-10-29T03:07:00+00:00,Paraguay,0.7605700428108857,0,2,en,SES,South-America
-'eabe6169ab',extremes,Earthquake,#870007,usgs,Earthquake Tonga,2024-10-29T03:06:00+00:00,Tonga,0.7603257906583074,0,2,en,SPO,Pacific Ocean
 '060cef842b',extremes,Storm,#b3b2b1,wmo,Storm Chad,2024-11-01T03:13:00+00:00,Chad,0.7600531491010019,0,2,en,SAH,Africa
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,Rain Saudi Arabia,2024-10-29T03:06:00+00:00,Saudi Arabia,0.7597126740124943,0,2,en,ARP,Asia
 '5dbf58d90c',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone United States of America,2024-09-24T03:03:00+00:00,United States,0.7589538693286502,0,2,en,CNA,North-America
@@ -3835,6 +3831,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9330418237',extremes,Precipitation,#d60d2b,wmo,Rain Uruguay,2024-11-02T15:10:00+00:00,Uruguay,0.6468730157206151,1,1,en,SES,South-America
 '614aacfa91',extremes,Thunderstorm,#53785a,wmo,Severe Weather Iran,2024-10-21T03:08:00+00:00,Iran,0.6468498806897077,1,1,en,WCA,Asia
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,Thunderstorm South Africa,2024-10-17T03:04:00+00:00,South Africa,0.6468496859828559,1,1,en,WSAF,Africa
+'5a9124c973',extremes,Heat Wave,#c40202,wmo,Heat Wave Las Flores y alrededores,2024-10-01T03:12:00+00:00,Argentina,0.646839591129007,1,1,en,SES,South-America
 '966a6e8bf2',extremes,Storm,#b3b2b1,wmo,Storm Surge Małopolskie Province Brzeski County,2024-09-26T03:04:00+00:00,Poland,0.6468389580923615,0,2,en,WCE,Europe
 '769057ce5f',extremes,Storm,#b3b2b1,wmo,Storm Surge Perm Krai,2024-09-23T03:03:00+00:00,Russian Federation,0.6468066902161006,0,2,en,ESB,Europe
 '1b535412fa',extremes,Snow&Ice,#d60d2b,wmo,Freezing Central Black Hills,2024-10-30T03:06:00+00:00,United States,0.6467876371355836,0,2,en,CNA,North-America
@@ -3846,12 +3843,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c10959e59',extremes,Storm,#b3b2b1,wmo,Storm Surge Coastal St. Johns,2024-09-25T03:06:00+00:00,United States,0.6466267542505552,0,2,en,CNA,North-America
 'bc294b50d8',extremes,Storm,#b3b2b1,wmo,Storm Surge Republic of Karelia,2024-09-25T03:06:00+00:00,Russian Federation,0.6466084150515288,0,2,en,ESB,Europe
 '3d84dbb72f',extremes,Storm,#b3b2b1,wmo,Storm Clarence Strait,2024-09-30T03:09:00+00:00,United States,0.6465674363759379,0,2,en,CNA,North-America
+'9541557016',extremes,Wildfire,#d60d2b,esawfa,Bushfire Paraguay,2024-10-29T03:07:00+00:00,Paraguay,0.6464845363892529,1,1,en,SES,South-America
 'a558a57170',extremes,Snow&Ice,#d60d2b,wmo,Snow Bristol Bay,2024-11-04T14:47:00+00:00,United States,0.6464842065217604,0,2,en,CNA,North-America
 '0a1d3fbc79',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Iran,2024-09-26T03:04:00+00:00,Iran,0.646444498767543,1,2,en,WCA,Asia
 'd3f4238a93',extremes,Wildfire,#d60d2b,esawfa,Wildfire Vanuatu,2024-11-05T13:08:00+00:00,Vanuatu,0.6464182217378104,1,1,en,SPO,Oceania
 'fd2c3d71f9',extremes,Storm,#b3b2b1,wmo,Storm Surge Sofala Manica Tete e Zambezia,2024-10-16T03:06:00+00:00,Mozambique,0.6463822318330317,1,1,en,ESAF,Africa
 '5c562c59df',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Wuchuan County,2024-09-29T03:09:00+00:00,China,0.6463384625510256,0,2,en,EAS,Asia
 '58c8415d66',extremes,Snow&Ice,#d60d2b,wmo,Snow Poprad,2024-10-01T03:12:00+00:00,Slovakia,0.6463229898708989,0,2,en,WCE,Europe
+'eabe6169ab',extremes,Earthquake,#870007,usgs,Earthquake Tonga,2024-10-29T03:06:00+00:00,Tonga,0.6462769820595613,1,1,en,SPO,Pacific Ocean
 'a440e351e4',extremes,Fog,#d60d2b,wmo,Fog Nayong County,2024-10-11T03:03:00+00:00,China,0.6462624833378956,0,2,en,EAS,Asia
 '52861183a3',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Wanning City,2024-10-27T03:09:00+00:00,China,0.6462548007294053,0,2,en,EAS,Asia
 'b6a9b351de',extremes,Fog,#d60d2b,wmo,Fog Medzilaborce,2024-10-29T03:06:00+00:00,Slovakia,0.6462520864991326,0,2,en,WCE,Europe
