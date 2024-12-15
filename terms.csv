@@ -1,10 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '052d9fa0c5',extremes,Storm,#b3b2b1,aidr,Storm Thunderstorm Asthma Victoria,2024-10-29T03:07:00+00:00,Australia,0.8145616382388939,1,2,en,SAU,Oceania
 'd18bf20e95',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Rafael,2024-11-05T03:01:00+00:00,,0.8123873769280134,1,3,en,CAR,North-America
-'6a13b2c99e',extremes,Wildfire,#d60d2b,esawfa,Bushfire Botswana,2024-12-14T03:13:00+00:00,Botswana,0.781108265237944,0,2,en,WSAF,Africa
-'33854ad10e',extremes,Wildfire,#d60d2b,esawfa,Bushfire Venezuela,2024-12-15T03:27:00+00:00,Venezuela,0.7788895828192443,0,2,en,NSA,South-America
-'9ea438316e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Interandina Amazonía,2024-12-15T03:27:00+00:00,Ecuador,0.7623339753530092,0,2,en,NWS,South-America
-'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,Precipitation Ecuador,2024-11-04T15:16:00+00:00,Ecuador,0.760221127520968,0,2,en,NWS,South-America
 'cc2f9cc1b9',extremes,Snow&Ice,#d60d2b,wmo,Snow Latvia,2024-11-23T03:08:00+00:00,Latvia,0.7600476680100443,0,2,en,WCE,Europe
 '2171c04cdd',extremes,Wildfire,#d60d2b,wmo,Wildfire Beaufort West,2024-12-05T03:25:00+00:00,South Africa,0.7579606905480669,0,2,en,WSAF,Africa
 '99eb9b21f4',extremes,Tropical Cyclone,#4f4f4f,relief,Typhoon Zimbabwe,2024-11-11T14:05:00+00:00,Zimbabwe,0.7574840086157294,0,2,en,ESAF,Africa
@@ -2573,6 +2569,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '74126225d2',extremes,Earthquake,#870007,relief,Earthquake Pakistan,2024-12-06T03:23:00+00:00,Pakistan,0.6620958736669895,0,2,en,SAS,Asia
 '90f3febd66',extremes,Storm,#b3b2b1,eswd,Severe Wind Iceland,2024-12-04T03:24:00+00:00,Iceland,0.6620927622035522,1,2,en,GIC,Europe
 '876c0f5276',extremes,Storm,#b3b2b1,wmo,Storm Surge Passage Canal,2024-11-16T03:09:00+00:00,United States,0.6620699747255222,0,2,en,CNA,North-America
+'33854ad10e',extremes,Wildfire,#d60d2b,esawfa,Bushfire Venezuela,2024-12-15T03:27:00+00:00,Venezuela,0.6620561453963576,1,1,en,NSA,South-America
 '3a70fa2bb1',extremes,Snow&Ice,#d60d2b,wmo,Snow Inari Utsjoki,2024-11-22T03:12:00+00:00,Finland,0.6620523427369444,0,2,en,NEU,Europe
 'ab5ce4ca26',extremes,Earthquake,#870007,usgs,Earthquake Montecillos,2024-11-15T03:11:00+00:00,Mexico,0.6620059002251125,0,2,en,SCA,North-America
 'd495aa9b30',extremes,Snow&Ice,#d60d2b,wmo,Frost Sør Troms,2024-12-01T03:32:00+00:00,Norway,0.6619635302559592,0,2,en,NEU,Europe
@@ -3253,6 +3250,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce94b5d832',extremes,Storm,#b3b2b1,wmo,Storm Greater Giyani Giyani,2024-11-25T03:14:00+00:00,South Africa,0.6480209278504311,1,1,en,WSAF,Africa
 'dac860fd6d',extremes,Storm,#b3b2b1,wmo,Storm Surge Madagascar,2024-12-01T03:32:00+00:00,Madagascar,0.6480151042798757,1,1,en,MDG,Africa
 '1a7516b61f',extremes,Fog,#d60d2b,wmo,Fog Šaľa,2024-11-02T03:03:00+00:00,Slovakia,0.6479986378185333,0,2,en,WCE,Europe
+'9ea438316e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Interandina Amazonía,2024-12-15T03:27:00+00:00,Ecuador,0.6479838790500578,1,1,en,NWS,South-America
 'cf44c58d78',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Changle District,2024-11-01T03:13:00+00:00,China,0.6479690747737773,0,2,en,EAS,Asia
 'bbb329dce7',extremes,Landslide,#572c03,wmo,Landslide Xiangyun County,2024-11-07T08:50:00+00:00,China,0.6479671659064022,0,2,en,EAS,Asia
 'c3f2723b42',extremes,Fog,#d60d2b,wmo,Fog Śląskie Province Żywiecki County,2024-12-01T03:32:00+00:00,Poland,0.6479581481353045,0,2,en,WCE,Europe
@@ -3375,6 +3373,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,Storm Seychelles,2024-11-03T03:09:00+00:00,Seychelles,0.6461973566447571,1,2,en,EIO,Africa
 'cdcafb336c',extremes,Flood,#030ba1,wmo,Flooding Tasmania Ringarooma River,2024-11-29T03:14:00+00:00,Australia,0.6461946479160412,1,1,en,CAU,Oceania
 '7af5b90ede',extremes,Storm,#b3b2b1,wmo,Storm Melbu Hekkingen,2024-11-01T03:13:00+00:00,Norway,0.6461906989772241,0,2,en,NEU,Europe
+'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,Precipitation Ecuador,2024-11-04T15:16:00+00:00,Ecuador,0.6461879733928229,1,1,en,NWS,South-America
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,Precipitation Saudi Arabia,2024-11-19T03:11:00+00:00,Saudi Arabia,0.6461879279449588,1,1,en,ARP,Asia
 '386f71a7fb',extremes,Precipitation,#d60d2b,wmo,Rain Costa Rica,2024-11-18T03:14:00+00:00,Costa Rica,0.6461746806223801,1,1,en,SCA,North-America
 'e3c7bf45ac',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Mahe Praslin La Digue,2024-12-03T03:26:00+00:00,Seychelles,0.6461634645160588,1,1,en,EIO,Africa
