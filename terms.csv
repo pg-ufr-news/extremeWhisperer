@@ -1,6 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '052d9fa0c5',extremes,Storm,#b3b2b1,aidr,Storm Thunderstorm Asthma Victoria,2024-10-29T03:07:00+00:00,Australia,0.8145616382388939,1,2,en,SAU,Oceania
 'd18bf20e95',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Rafael,2024-11-05T03:01:00+00:00,,0.8123873769280134,1,3,en,CAR,North-America
+'eba0dae408',extremes,Iceberg,#d60d2b,eonet,Iceberg B15AB,2024-12-17T03:15:00+00:00,,0.7993497622584531,0,2,en,EAN,
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg Antarctica,2024-12-14T03:12:00+00:00,,0.7993173870635508,0,2,en,,
+'c1698c89cc',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Chido,2024-12-11T03:23:00+00:00,,0.7991971686542494,0,2,en,SIO,Indian Ocean
+'9335a040e2',extremes,Iceberg,#d60d2b,eonet,Iceberg A76N,2024-12-17T03:15:00+00:00,,0.79882941343673,0,2,en,SOO,Antarctica
+'474dd7feb0',extremes,Drought,#edc291,relief,Drought Pakistan,2024-11-29T03:14:00+00:00,Pakistan,0.7778451407842788,0,2,en,SAS,Asia
+'0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Freezing India,2024-12-11T03:24:00+00:00,India,0.7743879708903674,0,2,en,SAS,Asia
 '584f92b341',extremes,Wildfire,#d60d2b,esawfa,Wildfire Iraq,2024-12-09T03:28:00+00:00,Iraq,0.7733500699288659,0,2,en,WCA,Asia
 '1d88626569',extremes,Wildfire,#d60d2b,esawfa,Wildfire Bolivia,2024-12-10T03:26:00+00:00,Bolivia,0.7718828449649074,0,2,en,SAM,South-America
 'bca3fbc26d',extremes,Cold Wave,#a7e9fa,wmo,Freezing cold wave,2024-12-17T03:15:00+00:00,India,0.7686040542681145,0,2,en,SAS,Asia
@@ -27,6 +33,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40726d14cc',extremes,Tsunami,#690191,usgs,Tsunami Adak,2024-12-09T03:27:00+00:00,Alaska,0.7571925166888827,0,2,en,NPO,Pacific Ocean
 '127d0f6596',extremes,Storm,#b3b2b1,wmo,Storm Surge Matatiele,2024-12-16T03:28:00+00:00,South Africa,0.7571665914516366,0,2,en,WSAF,Africa
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,Storm Surge South Africa,2024-12-15T03:27:00+00:00,South Africa,0.7566636615261624,0,2,en,WSAF,Africa
+'941b877a13',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Sledge Island to Wales out to 15 NM,2024-12-01T03:32:00+00:00,United States,0.7566459457159737,0,2,en,CNA,North-America
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Ecuador,2024-12-15T03:27:00+00:00,Ecuador,0.7565699228434292,0,2,en,NWS,South-America
 '4e2810187d',extremes,Storm,#b3b2b1,wmo,Storm Denmark,2024-12-15T03:27:00+00:00,Denmark,0.7564787951717539,0,2,en,NEU,Europe
 '80a37f30ec',extremes,Cold Wave,#a7e9fa,wmo,Freezing Tongjiang City,2024-12-11T03:24:00+00:00,China,0.7555948224340335,0,2,en,EAS,Asia
@@ -892,6 +899,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '75e0f49183',extremes,Earthquake,#870007,usgs,Earthquake Pāhala,2024-11-05T13:07:00+00:00,Hawaii,0.736413288585223,0,2,en,NPO,North-America
 '6210284f3c',extremes,Flood,#030ba1,wmo,Flood Bay FL Washington FL,2024-11-07T03:03:00+00:00,United States,0.7363790950519242,0,2,en,CNA,North-America
 '0862cac759',extremes,Flood,#030ba1,wmo,Flashflood Cameron TX,2024-12-04T03:24:00+00:00,United States,0.736377099414754,0,2,en,CNA,North-America
+'dc40e47f8b',extremes,Tropical Cyclone,#4f4f4f,relief,Tropical Cyclone Cuba,2024-12-11T03:23:00+00:00,Cuba,0.7363534561067264,0,2,en,CAR,North-America
 '204d0787d2',extremes,Wildfire,#d60d2b,relief,Bushfire Guatemala,2024-11-05T13:28:00+00:00,Guatemala,0.7363419722891696,0,2,en,SCA,North-America
 '455c36ab2b',extremes,Storm,#b3b2b1,wmo,Storm Surge Minsk Region,2024-10-30T03:06:00+00:00,Belarus,0.7362768329474999,0,2,en,WCE,Europe
 '23af818ba5',extremes,Flood,#030ba1,wmo,Flooding Colleton SC Dorchester SC,2024-11-12T03:00:00+00:00,United States,0.7362702546146521,0,2,en,CNA,North-America
@@ -1155,6 +1163,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0f8f3ed16f',extremes,Fog,#d60d2b,wmo,Fog Novosibirsk Region,2024-10-31T03:07:00+00:00,Russian Federation,0.7254631272699897,0,2,en,ESB,Europe
 'db9fae8845',extremes,Storm,#b3b2b1,eswd,Severe Wind United Kingdom,2024-11-17T03:14:00+00:00,United Kingdom,0.7254400694950838,0,2,en,NEU,Europe
 '7459f53daa',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Cagayan Ilocos Norte,2024-11-15T03:11:00+00:00,Philippines,0.7254379607220728,0,2,en,SEA,Asia
+'6fd3274013',extremes,Storm,#b3b2b1,eswd,Severe Wind Russian Federation,2024-11-28T03:14:00+00:00,Russian Federation,0.7253691533555842,0,2,en,RAR,Europe
 'd9ffdd914a',extremes,Fog,#d60d2b,wmo,Fog Meseta de Valladolid,2024-11-28T03:15:00+00:00,Spain,0.7253643643116974,0,2,en,MED,Europe
 'be457da112',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Temiskaming Shores Temagami,2024-12-04T03:24:00+00:00,Canada,0.7252319631814018,0,2,en,NEN,North-America
 '457c2512e3',extremes,Flood,#030ba1,wmo,Flashflood Inland New Hanover,2024-11-04T14:47:00+00:00,United States,0.7252208414040133,0,2,en,CNA,North-America
@@ -7579,6 +7588,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c04a6ae0b6',extremes,Fog,#d60d2b,wmo,Fog Wulatehouqi,2024-11-01T03:13:00+00:00,China,0.5559148357738214,0,2,en,EAS,Asia
 '1d58406a1c',extremes,Cold Wave,#a7e9fa,wmo,Freezing Linzi District,2024-11-03T03:09:00+00:00,China,0.5558749858584512,0,2,en,EAS,Asia
 '14a81bbdaa',extremes,Flood,#030ba1,relief,Flooding Bangladesh,2024-11-14T03:03:00+00:00,Bangladesh,0.5558707891315087,0,2,en,SAS,Asia
+'ca076579cc',extremes,Landslide,#572c03,relief,Landslide Pakistan,2024-12-15T03:27:00+00:00,Pakistan,0.5558135564803957,0,2,en,SAS,Asia
 'ed4534b7f8',extremes,Storm,#b3b2b1,wmo,Storm Haidian District,2024-12-02T03:26:00+00:00,China,0.5558071963298431,0,2,en,EAS,Asia
 '89da8a5d92',extremes,Wildfire,#d60d2b,wmo,Wildfire Longnan City,2024-11-02T15:10:00+00:00,China,0.5557526221946057,0,2,en,EAS,Asia
 '4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,Snow Fribourg,2024-11-23T03:08:00+00:00,Switzerland,0.5557216318360257,0,2,en,WCE,Europe
