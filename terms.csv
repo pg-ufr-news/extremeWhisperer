@@ -1,6 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '11f89f18b1',extremes,Precipitation,#d60d2b,relief,Flash Flood Malaysia,2024-12-20T03:03:00+00:00,Malaysia,0.815180694899855,1,2,en,SEA,Asia
 'd18bf20e95',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Rafael,2024-11-05T03:01:00+00:00,,0.8123873769280134,1,3,en,CAR,North-America
+'eba0dae408',extremes,Iceberg,#d60d2b,eonet,Iceberg B15AB,2024-12-17T03:15:00+00:00,,0.7993497622584531,0,2,en,EAN,
+'b3cba461ce',extremes,Tropical Cyclone,#4f4f4f,cmeter,Tropical Cyclone Mayotte,2024-12-21T03:02:00+00:00,Mayotte,0.7800300079512553,0,2,en,ESAF,Africa
+'00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,cyclone Australia,2024-12-14T03:13:00+00:00,Australia,0.7791948063295799,0,2,en,EAU,Oceania
+'f744dcb39a',extremes,Wildfire,#d60d2b,acwe,wildfire South Australia,2024-12-08T03:27:00+00:00,Australia,0.778938566385104,0,2,en,SAU,Oceania
 '0199d471e4',extremes,Flood,#030ba1,relief,Flood Bhutan,2024-12-20T03:03:00+00:00,Bhutan,0.7728512666208103,0,2,en,TIB,Asia
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire New South Wales,2024-12-19T03:11:00+00:00,Australia,0.7671122180618678,1,2,en,EAU,Oceania
 '0ed041507a',extremes,Storm,#b3b2b1,wmo,Storm Malta,2024-12-21T03:01:00+00:00,Malta,0.7602508490891943,0,2,en,MED,Europe
@@ -26,6 +30,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '50a20d0fd2',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Davao Oriental,2024-12-18T03:10:00+00:00,Philippines,0.7575358433180328,0,2,en,SEA,Asia
 '0a763c5dfa',extremes,Storm,#b3b2b1,wmo,Storm Northeast Iceland,2024-12-08T03:27:00+00:00,Iceland,0.7574953362685332,0,2,en,GIC,Europe
 'fabc8a6db1',extremes,Precipitation,#d60d2b,wmo,Precipitation Clutha,2024-12-21T03:01:00+00:00,New Zealand,0.7574210081540894,0,2,en,NZ,Oceania
+'f8714a698d',extremes,Precipitation,#d60d2b,wmo,Downpour Ecuador,2024-12-13T03:26:00+00:00,Ecuador,0.7573922889832426,0,2,en,NWS,South-America
 '2171c04cdd',extremes,Wildfire,#d60d2b,wmo,Wildfire Beaufort West,2024-12-05T03:25:00+00:00,South Africa,0.7573666469658569,1,2,en,WSAF,Africa
 '3b7c05c374',extremes,Precipitation,#d60d2b,wmo,Downpour Ver. Oax Pue Hgo Chis,2024-12-21T03:01:00+00:00,Mexico,0.7572574902840851,0,2,en,NCA,North-America
 'f22d69fd3e',extremes,Storm,#b3b2b1,wmo,Storm IN GUEZZAM,2024-12-17T03:15:00+00:00,Algeria,0.7572163008266715,0,2,en,SAH,Africa
@@ -10868,6 +10873,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4904001c2',extremes,Snow&Ice,#d60d2b,wmo,Snow Keshan County,2024-11-13T03:03:00+00:00,China,0.4785225713409651,0,2,en,EAS,Asia
 'de2c90a7ab',extremes,Storm,#b3b2b1,wmo,Storm Shangnan County,2024-12-21T03:01:00+00:00,China,0.478509706235337,0,2,en,EAS,Asia
 '90fb387634',extremes,Snow&Ice,#d60d2b,wmo,Frost Luojiang District,2024-12-17T03:15:00+00:00,China,0.4785029125952643,0,2,en,EAS,Asia
+'ff663ee5c8',extremes,Storm,#b3b2b1,wmo,Storm Wulingyuan District,2024-12-19T03:11:00+00:00,China,0.4784973436559414,0,2,en,EAS,Asia
 'de7c967d94',extremes,Precipitation,#d60d2b,wmo,Precipitation Ampurdán,2024-12-12T03:24:00+00:00,Spain,0.4784855893494529,0,2,en,MED,Europe
 '217086d447',extremes,Snow&Ice,#d60d2b,wmo,Frost gaoping,2024-12-11T03:24:00+00:00,China,0.4784742794072576,0,2,en,EAS,Asia
 'fff3656a4c',extremes,Snow&Ice,#d60d2b,relief,Cold Wave Pakistan,2024-12-07T03:14:00+00:00,Pakistan,0.4784638195126645,0,2,en,SAS,Asia
@@ -11706,6 +11712,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '477218838a',extremes,Storm,#b3b2b1,wmo,Storm Surge Xiangcheng County,2024-11-26T03:13:00+00:00,China,0.467221971497402,0,2,en,EAS,Asia
 'f75dcdce4e',extremes,Snow&Ice,#d60d2b,wmo,Snow tieling city,2024-11-25T03:14:00+00:00,China,0.4671871509296157,0,2,en,EAS,Asia
 'c65e7ac75e',extremes,Storm,#b3b2b1,wmo,Storm Surge Tongan District,2024-12-14T03:12:00+00:00,China,0.4671739806280182,0,2,en,EAS,Asia
+'173d5ebf1a',extremes,Snow&Ice,#d60d2b,wmo,Frost Tonghua City,2024-12-21T03:01:00+00:00,China,0.4671345845911246,0,2,en,EAS,Asia
 '68bebdf851',extremes,Snow&Ice,#d60d2b,wmo,Freezing Guanghe County,2024-11-26T03:13:00+00:00,China,0.4671288038305159,0,2,en,EAS,Asia
 'c3e8a3708b',extremes,Storm,#b3b2b1,wmo,Storm Surge City Proper,2024-11-28T03:15:00+00:00,China,0.4671266148536021,0,2,en,EAS,Asia
 'b87b28e6ee',extremes,Snow&Ice,#d60d2b,wmo,Freezing Aletai City,2024-11-07T08:50:00+00:00,China,0.4671200810157636,0,2,en,EAS,Asia
