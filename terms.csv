@@ -1,7 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '11f89f18b1',extremes,Precipitation,#d60d2b,relief,Flash Flood Malaysia,2024-12-20T03:03:00+00:00,Malaysia,0.815180694899855,1,2,en,SEA,Asia
 'd18bf20e95',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Rafael,2024-11-05T03:01:00+00:00,,0.8123873769280134,1,3,en,CAR,North-America
+'eba0dae408',extremes,Iceberg,#d60d2b,eonet,Iceberg B15AB,2024-12-17T03:15:00+00:00,,0.7993497622584531,0,2,en,EAN,
+'6916938461',extremes,Tropical Cyclone,#4f4f4f,relief,Typhoon Mozambique,2024-12-24T03:02:00+00:00,Mozambique,0.7687587661400725,0,2,en,ESAF,Africa
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire New South Wales,2024-12-19T03:11:00+00:00,Australia,0.7671122180618678,1,2,en,EAU,Oceania
+'e551102071',extremes,Earthquake,#870007,usgs,Earthquake Vanuatu,2024-12-08T03:27:00+00:00,Vanuatu,0.7639257086788357,0,2,en,SPO,Pacific Ocean
+'a77a147b20',extremes,Landslide,#572c03,relief,Land Slide Pakistan,2024-12-12T03:24:00+00:00,Pakistan,0.7639030388364226,0,2,en,SAS,Asia
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2024-12-24T03:03:00+00:00,Solomon Islands,0.7634748649352385,0,2,en,EPO,Oceania
 '44bc9641af',extremes,Tropical Cyclone,#4f4f4f,relief,Hurricane Mozambique,2024-12-24T03:02:00+00:00,Mozambique,0.7632934448680377,0,2,en,ESAF,Africa
 'b0727d29f2',extremes,Flood,#030ba1,relief,Flooding Zimbabwe,2024-12-24T03:02:00+00:00,Zimbabwe,0.7629133428312788,0,2,en,ESAF,Africa
@@ -58,6 +62,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9e6bcd60be',extremes,Tsunami,#690191,usgs,Tsunami Port Vila,2024-12-17T03:15:00+00:00,Vanuatu,0.7558984273831579,0,2,en,SPO,Pacific Ocean
 '5048c7ae99',extremes,Storm,#b3b2b1,wmo,Storm Surge Northeast Iceland,2024-12-09T03:28:00+00:00,Iceland,0.7558415811923627,0,2,en,GIC,Europe
 '311808f354',extremes,Flood,#030ba1,wmo,Flood Mason WA,2024-11-11T14:06:00+00:00,United States,0.7557961144061587,0,2,en,CNA,North-America
+'01b9e47405',extremes,Storm,#b3b2b1,wmo,Storm Surge East Iceland,2024-12-09T03:28:00+00:00,Iceland,0.7556917391635428,0,2,en,GIC,Europe
 'a8ca9eb019',extremes,Precipitation,#d60d2b,wmo,Rain Libya,2024-12-04T03:24:00+00:00,Libya,0.7555997788848515,0,2,en,SAH,Africa
 '80a37f30ec',extremes,Cold Wave,#a7e9fa,wmo,Freezing Tongjiang City,2024-12-11T03:24:00+00:00,China,0.7555948224340335,0,2,en,EAS,Asia
 'aa704a9a6b',extremes,Earthquake,#870007,usgs,Earthquake Gizo,2024-12-16T03:27:00+00:00,Solomon Islands,0.7555861144649287,0,2,en,EPO,Pacific Ocean
@@ -1233,6 +1238,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d3545201a',extremes,Storm,#b3b2b1,wmo,Storm Surge Central Transdanubia,2024-12-24T03:03:00+00:00,Hungary,0.7195737454649533,0,2,en,WCE,Europe
 'f231fcbfc9',extremes,Snow&Ice,#d60d2b,wmo,Ice Namur,2024-12-23T03:05:00+00:00,Belgium,0.7194616524087738,0,2,en,WCE,Europe
 '404a3ce925',extremes,Fog,#d60d2b,wmo,Fog Kaliningrad Region,2024-11-30T03:10:00+00:00,Russia,0.7194413661105613,0,2,en,ESB,Europe
+'520d37d7b0',extremes,Fog,#d60d2b,wmo,Fog Belarus,2024-12-20T03:04:00+00:00,Belarus,0.7193648996801377,0,2,en,WCE,Europe
 '3496642ea0',extremes,Precipitation,#d60d2b,relief,Torrential Rain Uganda,2024-11-22T03:11:00+00:00,Uganda,0.719191429067773,0,2,en,SEAF,Africa
 '3006240156',extremes,Tropical Cyclone,#4f4f4f,relief,Cyclone Cuba,2024-12-12T03:24:00+00:00,Cuba,0.7191709181581654,0,2,en,CAR,North-America
 'ae7f05dd01',extremes,Storm,#b3b2b1,wmo,Storm Coastal zone,2024-12-06T03:24:00+00:00,Belgium,0.7191512770407391,0,2,en,WCE,Europe
@@ -2995,6 +3001,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4bc296b1a3',extremes,Storm,#b3b2b1,wmo,Storm Leelanau,2024-12-03T03:26:00+00:00,United States,0.6479059659738374,0,2,en,CNA,North-America
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,Storm Surge Reg. 15 Cordillera,2024-12-08T03:27:00+00:00,Chile,0.6479015722196905,1,1,en,SWS,South-America
 '525b5a8bc2',extremes,Snow&Ice,#d60d2b,wmo,Ice Elliot Lake Ranger Lake,2024-11-30T03:10:00+00:00,Canada,0.6478763191918262,1,1,en,NEN,North-America
+'7ef4804df2',extremes,Storm,#b3b2b1,wmo,Storm South of Sakhalin,2024-12-07T03:15:00+00:00,Russia,0.647872793950469,0,2,en,ESB,Europe
 '54cb7ef2c4',extremes,Snow&Ice,#d60d2b,wmo,Freezing St. Clair MI,2024-12-05T03:25:00+00:00,United States,0.6478662608703408,0,2,en,CNA,North-America
 '2fe38499b4',extremes,Precipitation,#d60d2b,wmo,Downpour United Republic of Tanzania,2024-11-23T03:08:00+00:00,United Republic of Tanzania,0.6478494217432771,1,1,en,SEAF,Africa
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,Heat Wave Resistencia y alrededores,2024-12-07T03:15:00+00:00,Argentina,0.6478483265423827,1,1,en,SES,South-America
@@ -3667,6 +3674,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f869d5fbd4',extremes,Snow&Ice,#d60d2b,wmo,Freezing Southern Clearwater Mountains,2024-11-18T03:14:00+00:00,United States,0.6356607089998421,0,2,en,CNA,North-America
 'd1c9ff439b',extremes,Storm,#b3b2b1,wmo,Storm Republic of Tatarstan,2024-11-23T03:08:00+00:00,Russia,0.6356189887062299,0,2,en,ESB,Europe
 '248a812146',extremes,Storm,#b3b2b1,wmo,Storm Western coastal zone,2024-12-09T03:28:00+00:00,Poland,0.6356067562031943,0,2,en,WCE,Europe
+'018bc2687f',extremes,Storm,#b3b2b1,wmo,Storm Surge Admiralty Inlet,2024-12-07T03:15:00+00:00,United States,0.6355573789312867,0,2,en,CNA,North-America
 '867ab59556',extremes,Storm,#b3b2b1,wmo,Storm Baden,2024-11-19T03:11:00+00:00,Austria,0.6355477384733742,0,2,en,WCE,Europe
 'ac6433bfe0',extremes,Fog,#d60d2b,wmo,Fog Center of Krasnoyarsk Krai,2024-12-20T03:04:00+00:00,Russia,0.6355313651884011,0,2,en,ESB,Europe
 '8e48a0495e',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Parts of Finnmark,2024-11-19T03:11:00+00:00,Norway,0.6354924187924903,0,2,en,NEU,Europe
@@ -3779,6 +3787,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b0e40e4133',extremes,Snow&Ice,#d60d2b,wmo,Frost Saint Petersburg,2024-11-04T15:16:00+00:00,Russian Federation,0.632779054203612,0,2,en,ESB,Europe
 'bf47c699a6',extremes,Fog,#d60d2b,wmo,Fog Lubelskie Province Świdnicki County,2024-12-03T03:26:00+00:00,Poland,0.6326931445915207,0,2,en,WCE,Europe
 'b59e6beab8',extremes,Earthquake,#870007,usgs,Earthquake Sari,2024-12-15T03:27:00+00:00,Iran,0.6326562374995157,0,2,en,WCA,Asia
+'b8b365868c',extremes,Storm,#b3b2b1,wmo,Storm Coastal Colleton Charleston,2024-12-15T03:27:00+00:00,United States,0.632653438292237,0,2,en,CNA,North-America
 '1547cc0c2f',extremes,Storm,#b3b2b1,wmo,Storm Čadca,2024-11-19T03:11:00+00:00,Slovakia,0.6325981380141922,0,2,en,WCE,Europe
 'dfc27fa2c9',extremes,Thunderstorm,#53785a,wmo,Hail North East Aegean Islands,2024-11-13T03:03:00+00:00,Greece,0.6325963500969355,0,2,en,MED,Europe
 'fa96485f9b',extremes,Snow&Ice,#d60d2b,wmo,Ice Grodno Region,2024-12-12T03:24:00+00:00,Belarus,0.6325784386451987,0,2,en,WCE,Europe
@@ -3870,6 +3879,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ca3b664dae',extremes,Snow&Ice,#d60d2b,wmo,Frost Stephenson,2024-12-14T03:12:00+00:00,United States,0.6297412747333869,0,2,en,CNA,North-America
 '5a944cd51d',extremes,Thunderstorm,#53785a,wmo,Hail West Sterea,2024-11-11T03:03:00+00:00,Greece,0.6297273850788897,0,2,en,MED,Europe
 '4fb23d23a7',extremes,Storm,#b3b2b1,wmo,Storm Dubrovnik region,2024-11-14T03:04:00+00:00,Croatia,0.6297196911003818,0,2,en,WCE,Europe
+'43f1295319',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Tambov Region,2024-12-12T03:24:00+00:00,Russia,0.6297165822939902,0,2,en,ESB,Europe
 '9fdda03985',extremes,Snow&Ice,#d60d2b,wmo,Freezing Mari El Republic,2024-11-24T03:15:00+00:00,Russia,0.6297096526617078,0,2,en,ESB,Europe
 '9034ceecb1',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Livno,2024-11-22T03:12:00+00:00,Bosnia and Herzegovina,0.6296697401528046,0,2,en,MED,Europe
 '9de22e962e',extremes,Precipitation,#d60d2b,wmo,Downpour Serbia,2024-11-21T03:10:00+00:00,Serbia,0.6296581012873083,0,2,en,MED,Europe
@@ -3892,6 +3902,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e878a1fcf1',extremes,Storm,#b3b2b1,wmo,Storm East Puget Sound Lowlands,2024-12-24T03:03:00+00:00,United States,0.6292741255297107,0,2,en,CNA,North-America
 'aca9fb0094',extremes,Thunderstorm,#53785a,wmo,Severe Weather Prelitoral de Barcelona,2024-12-13T03:26:00+00:00,Spain,0.6292600443378842,0,2,en,MED,Europe
 'eb9890db32',extremes,Flood,#030ba1,wmo,Flood Montgomery NY,2024-12-12T03:24:00+00:00,United States,0.6292548522895486,0,2,en,CNA,North-America
+'3f40ba90c8',extremes,Storm,#b3b2b1,wmo,Storm Surge Halten Roervik,2024-12-11T03:24:00+00:00,Norway,0.6292511652780883,0,2,en,NEU,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Italy,2024-11-09T14:17:00+00:00,Italy,0.6292385889546491,0,2,en,MED,Europe
 '3fea3dbd26',extremes,Snow&Ice,#d60d2b,wmo,Ice Øst Finnmark,2024-12-12T03:24:00+00:00,Norway,0.6292070276824595,0,2,en,NEU,Europe
 '940c8570e2',extremes,Storm,#b3b2b1,wmo,Storm Surge Visegrad,2024-11-21T03:10:00+00:00,Bosnia and Herzegovina,0.6291633398732212,0,2,en,MED,Europe
@@ -4532,6 +4543,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '91112a6b23',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Sierra Tramontana,2024-11-07T13:21:00+00:00,Spain,0.6135350342441845,0,2,en,MED,Europe
 '01a5bf9b78',extremes,Snow&Ice,#d60d2b,wmo,Ice Śląskie Province Sosnowiec County,2024-12-13T03:26:00+00:00,Poland,0.6133753701351958,0,2,en,WCE,Europe
 '523cbe9f13',extremes,Storm,#b3b2b1,wmo,Storm Samara Region,2024-12-21T03:01:00+00:00,Russia,0.6133649123944357,0,2,en,ESB,Europe
+'9519287842',extremes,Storm,#b3b2b1,wmo,Storm Kildin Bank,2024-12-05T03:25:00+00:00,Norway,0.6133510811474925,0,2,en,NEU,Europe
 'e002b87c57',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Pomorskie Province Gdynia County,2024-11-23T03:08:00+00:00,Poland,0.6133334760344092,0,2,en,WCE,Europe
 'bb0e1d1a9a',extremes,Snow&Ice,#d60d2b,wmo,Ice Kirchdorf an der Krems,2024-12-03T03:26:00+00:00,Austria,0.6133140480393562,0,2,en,WCE,Europe
 '9cdcd6fdc1',extremes,Storm,#b3b2b1,eswd,Severe Wind Armenia,2024-12-20T03:04:00+00:00,Armenia,0.6133112376718235,0,2,en,WCA,Asia
@@ -5291,6 +5303,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1a5f8e556',extremes,Snow&Ice,#d60d2b,wmo,Ice Perm Krai,2024-11-09T03:00:00+00:00,Russia,0.5960621811304987,0,2,en,ESB,Europe
 '085be55c14',extremes,Storm,#b3b2b1,wmo,Storm Backa,2024-11-19T03:11:00+00:00,Serbia,0.5960162082955275,0,2,en,MED,Europe
 'ff4393faf9',extremes,Fog,#d60d2b,wmo,Fog Mazowieckie Province Mławski County,2024-12-24T03:03:00+00:00,Poland,0.5959863867584069,0,2,en,WCE,Europe
+'2e8b6818e3',extremes,Thunderstorm,#53785a,wmo,Severe Weather Ampurdán,2024-12-11T03:24:00+00:00,Spain,0.5959759210113225,0,2,en,MED,Europe
 'da2bf10cb3',extremes,Storm,#b3b2b1,wmo,Storm Sturgeon Pt to Alabaster MI,2024-11-07T13:21:00+00:00,United States,0.5959561374553252,0,2,en,CNA,North-America
 '44ecb11ec0',extremes,Wildfire,#d60d2b,wmo,Wildfire Zijin County,2024-11-30T03:10:00+00:00,China,0.5959225658154373,0,2,en,EAS,Asia
 '946f0f61a7',extremes,Snow&Ice,#d60d2b,wmo,Ice Osijek region,2024-12-14T03:12:00+00:00,Croatia,0.5959177091370853,0,2,en,WCE,Europe
@@ -5503,6 +5516,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4230798c0',extremes,Precipitation,#d60d2b,wmo,Downpour Thanjavur district of Tamil Nadu,2024-11-27T03:15:00+00:00,India,0.5907899080990666,0,2,en,SAS,Asia
 'd7de9ea5f7',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lubelskie Province Lublin County,2024-11-24T03:15:00+00:00,Poland,0.5907645824415063,0,2,en,WCE,Europe
 'bcafe011c0',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon potou district,2024-11-18T03:14:00+00:00,China,0.5907004208888562,0,2,en,EAS,Asia
+'f7f3daf475',extremes,Storm,#b3b2b1,wmo,Storm Kvarner i Kvarneric region,2024-12-24T03:03:00+00:00,Croatia,0.5906854211652024,0,2,en,WCE,Europe
 '01e28035f8',extremes,Snow&Ice,#d60d2b,wmo,Frost Khanty Mansi Autonomous District,2024-12-22T03:08:00+00:00,Russia,0.5906805451768478,0,2,en,ESB,Europe
 '466e2a51f6',extremes,Storm,#b3b2b1,wmo,Storm Surge Cumbres de La Palma,2024-11-18T03:14:00+00:00,Spain,0.5906791253663957,0,2,en,MED,Europe
 '30f49a7c08',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Łódzkie Province Brzeziński County,2024-12-12T03:24:00+00:00,Poland,0.5906636957432162,0,2,en,WCE,Europe
@@ -5559,6 +5573,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4a999689e1',extremes,Precipitation,#d60d2b,wmo,Precipitation Sverdlovsk Region,2024-11-09T03:00:00+00:00,Russia,0.5897241856338097,0,2,en,ESB,Europe
 'c6051c16dc',extremes,Wildfire,#d60d2b,wmo,Wildfire Shenzhen City,2024-12-04T03:24:00+00:00,China,0.5897217230449058,0,2,en,EAS,Asia
 '20f23acf4e',extremes,Storm,#b3b2b1,wmo,Storm Surge Penobscot Bay,2024-11-06T03:01:00+00:00,United States,0.5896879477375342,0,2,en,CNA,North-America
+'9ebb0f4da7',extremes,Storm,#b3b2b1,wmo,Storm Surge Novay Zemly,2024-12-17T03:15:00+00:00,Russia,0.5896810404650732,0,2,en,ESB,Europe
 'd86ddf0a9b',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon xinhui district,2024-11-09T14:17:00+00:00,China,0.5896575588888713,0,2,en,EAS,Asia
 '8ad2a14947',extremes,Wildfire,#d60d2b,wmo,Wildfire wujiang district,2024-11-28T03:15:00+00:00,China,0.5896549975147137,0,2,en,EAS,Asia
 '20028b9127',extremes,Precipitation,#d60d2b,wmo,Downpour Nenets Autonomous District,2024-11-30T03:10:00+00:00,Russia,0.589650923429782,0,2,en,ESB,Europe
@@ -5708,6 +5723,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dbf7415f11',extremes,Snow&Ice,#d60d2b,wmo,Frost Pomorskie Province Słupski County,2024-11-22T03:12:00+00:00,Poland,0.586801767280726,0,2,en,WCE,Europe
 'a12176e7ee',extremes,Storm,#b3b2b1,wmo,Storm Southern Fairfield,2024-11-18T03:14:00+00:00,United States,0.586792913054747,0,2,en,CNA,North-America
 'd4f0e45c92',extremes,Snow&Ice,#d60d2b,wmo,Frost China,2024-12-08T03:27:00+00:00,China,0.5867896762767864,0,2,en,EAS,Asia
+'01176a2d49',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Rostov Region,2024-12-15T03:27:00+00:00,Russia,0.5867537294523429,0,2,en,ESB,Europe
 '030a18bd5a',extremes,Cold Wave,#a7e9fa,wmo,Freezing Qingcheng,2024-11-16T03:09:00+00:00,China,0.5867272132529641,0,2,en,EAS,Asia
 '4e5303f0de',extremes,Snow&Ice,#d60d2b,wmo,Avalanche South Washington Cascades,2024-12-16T03:28:00+00:00,United States,0.5866769937886271,0,2,en,CNA,North-America
 '8b8b22416b',extremes,Wildfire,#d60d2b,wmo,Wildfire Gaoyao District,2024-11-30T03:10:00+00:00,China,0.5866667808710977,0,2,en,EAS,Asia
@@ -6155,6 +6171,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4717bd091f',extremes,Fog,#d60d2b,wmo,Fog Trenčín,2024-12-20T03:04:00+00:00,Slovakia,0.5778128383572482,0,2,en,WCE,Europe
 'f37ec46853',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Istocna Srbija,2024-11-24T03:15:00+00:00,Serbia,0.5778077768522719,0,2,en,MED,Europe
 'e7566bf367',extremes,Precipitation,#d60d2b,wmo,Downpour Kriti,2024-11-09T14:17:00+00:00,Greece,0.5778065059889946,0,2,en,MED,Europe
+'4e548df87a',extremes,Precipitation,#d60d2b,wmo,Precipitation Republic of Ingushetia,2024-12-07T03:15:00+00:00,Russia,0.5777608309600626,0,2,en,ESB,Europe
 'e7c8aadb46',extremes,Storm,#b3b2b1,wmo,Storm Senica,2024-11-18T03:14:00+00:00,Slovakia,0.5777411232101212,0,2,en,WCE,Europe
 '5cc1e8d1ca',extremes,Snow&Ice,#d60d2b,wmo,Snow Küblis Klosters,2024-12-22T03:08:00+00:00,Switzerland,0.5777371203101098,0,2,en,WCE,Europe
 'c4a0518d9e',extremes,Storm,#b3b2b1,wmo,Storm Pomorskie Province Chojnicki County,2024-12-16T03:28:00+00:00,Poland,0.5776765407987573,0,2,en,WCE,Europe
@@ -6889,6 +6906,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6001439406',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Hlohovec,2024-11-21T03:10:00+00:00,Slovakia,0.5632674020258711,0,2,en,WCE,Europe
 '51161f936d',extremes,Snow&Ice,#d60d2b,wmo,Snow Śląskie Province Rybnik County,2024-12-12T03:24:00+00:00,Poland,0.5632487822987209,0,2,en,WCE,Europe
 '1d6c059fec',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Viana do Castelo,2024-11-24T03:15:00+00:00,Portugal,0.563237125825803,0,2,en,MED,Europe
+'11f5b0d7e3',extremes,Precipitation,#d60d2b,wmo,Rain Chechen Republic,2024-12-07T03:15:00+00:00,Russia,0.5632212305519497,0,2,en,ESB,Europe
 '98f8da54c7',extremes,Snow&Ice,#d60d2b,wmo,Freezing Ibérica de Soria,2024-12-07T03:15:00+00:00,Spain,0.5632210061412013,0,2,en,MED,Europe
 'd9b7d8f865',extremes,Fog,#d60d2b,wmo,Fog Ruili,2024-11-09T14:17:00+00:00,China,0.5631674945939464,0,2,en,EAS,Asia
 '4a6b9d2482',extremes,Snow&Ice,#d60d2b,wmo,Frost Luzern Alpnach,2024-11-23T03:08:00+00:00,Switzerland,0.5631453761822836,0,2,en,WCE,Europe
@@ -6941,6 +6959,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e56d20f270',extremes,Storm,#b3b2b1,wmo,Storm Cantabria del Ebro,2024-12-07T03:15:00+00:00,Spain,0.5622032565632185,0,2,en,MED,Europe
 '95e0b0e45d',extremes,Snow&Ice,#d60d2b,wmo,Freezing Cantabria del Ebro,2024-12-08T03:27:00+00:00,Spain,0.5621752894816752,0,2,en,MED,Europe
 '10a1d9dbe1',extremes,Precipitation,#d60d2b,wmo,Precipitation Greece,2024-12-15T03:27:00+00:00,Greece,0.562150901904621,0,2,en,MED,Europe
+'c579d66f0c',extremes,Precipitation,#d60d2b,wmo,Downpour Yaroslavl Region,2024-12-11T03:24:00+00:00,Russia,0.5621376664339028,0,2,en,ESB,Europe
 'b700750507',extremes,Flood,#030ba1,wmo,Flooding Tasmania Mersey River,2024-12-01T03:32:00+00:00,Australia,0.562123568847114,0,2,en,CAU,Oceania
 '82abc377db',extremes,Precipitation,#d60d2b,wmo,Rain Ionion Islands,2024-11-11T03:03:00+00:00,Greece,0.5620644660396013,0,2,en,MED,Europe
 '966e497f89',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Thraki,2024-11-11T14:06:00+00:00,Greece,0.5620613516075277,0,2,en,MED,Europe
@@ -7023,6 +7042,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e84e0051d',extremes,Fog,#d60d2b,wmo,Fog Zaoqiang County,2024-11-11T14:06:00+00:00,China,0.5605993046890888,0,2,en,EAS,Asia
 'c366f29c1c',extremes,Snow&Ice,#d60d2b,wmo,Freezing Nidau Ins,2024-11-23T03:08:00+00:00,Switzerland,0.5605571116143354,0,2,en,WCE,Europe
 '1165b517f8',extremes,Cold Wave,#a7e9fa,wmo,Freezing Dongping County,2024-11-16T03:09:00+00:00,China,0.5605555614311877,0,2,en,EAS,Asia
+'3298e986c8',extremes,Snow&Ice,#d60d2b,wmo,Frost Republic of Tatarstan,2024-12-17T03:15:00+00:00,Russia,0.560546673551057,0,2,en,ESB,Europe
 'c13ac939d6',extremes,Snow&Ice,#d60d2b,wmo,Ice Michalovce,2024-11-21T03:10:00+00:00,Slovakia,0.5605281503492203,0,2,en,WCE,Europe
 '8933d5536c',extremes,Snow&Ice,#d60d2b,wmo,Ice Southern Norrland,2024-12-18T03:10:00+00:00,Sweden,0.5605274386143003,0,2,en,NEU,Europe
 '836f3761aa',extremes,Fog,#d60d2b,wmo,Fog Pengxi County,2024-12-11T03:24:00+00:00,China,0.5605054797303983,0,2,en,EAS,Asia
@@ -7075,6 +7095,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a87da296f4',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave shulan city,2024-11-11T03:03:00+00:00,China,0.5595559153905393,0,2,en,EAS,Asia
 '7e75eeeaab',extremes,Precipitation,#d60d2b,wmo,Downpour Eastern region,2024-12-23T03:05:00+00:00,North Macedonia,0.5595475139611024,0,2,en,MED,Europe
 '9cf217e623',extremes,Snow&Ice,#d60d2b,wmo,Frost Trenčín,2024-11-22T03:12:00+00:00,Slovakia,0.5595462316305174,0,2,en,WCE,Europe
+'6840388449',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Komi Republic,2024-12-23T03:05:00+00:00,Russia,0.5595144700916991,0,2,en,ESB,Europe
 'b627b9dcc7',extremes,Cold Wave,#a7e9fa,wmo,Freezing Xiaodian District,2024-11-16T03:09:00+00:00,China,0.5595081692484669,0,2,en,EAS,Asia
 '6ee8ccbdfa',extremes,Snow&Ice,#d60d2b,wmo,Freezing Jennersdorf,2024-11-22T03:12:00+00:00,Austria,0.5594968631013422,0,2,en,WCE,Europe
 '1f87217935',extremes,Cold Wave,#a7e9fa,wmo,Freezing Lindian County,2024-11-16T03:09:00+00:00,China,0.5594877337901283,0,2,en,EAS,Asia
@@ -7656,6 +7677,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4ea5491fcc',extremes,Precipitation,#d60d2b,wmo,Rain Basilicata,2024-11-22T03:12:00+00:00,Italy,0.5450775772699573,0,2,en,MED,Europe
 'bec6ec965d',extremes,Precipitation,#d60d2b,wmo,Downpour Suroeste de A Coruña,2024-11-30T03:10:00+00:00,Spain,0.545055631286418,0,2,en,MED,Europe
 '101395b0d0',extremes,Storm,#b3b2b1,wmo,Storm Surge Revúca,2024-12-24T03:03:00+00:00,Slovakia,0.5450371666457046,0,2,en,WCE,Europe
+'cf74e9e182',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Republic of Ingushetia,2024-12-24T03:03:00+00:00,Russia,0.5450357213974464,0,2,en,ESB,Europe
 '802d08ef86',extremes,Flood,#030ba1,wmo,Flashflood Burke GA,2024-11-07T03:03:00+00:00,United States,0.5450322477864776,0,2,en,CNA,North-America
 'd272279b79',extremes,Snow&Ice,#d60d2b,wmo,Frost Mendrisiotto,2024-11-24T03:15:00+00:00,Switzerland,0.544948496218822,0,2,en,WCE,Europe
 '51ba64e5be',extremes,Snow&Ice,#d60d2b,wmo,Snow Senica,2024-11-21T03:10:00+00:00,Slovakia,0.5449134103395511,0,2,en,WCE,Europe
@@ -7705,6 +7727,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac0ddfd9ea',extremes,Storm,#b3b2b1,wmo,Storm Wuzhong city,2024-11-15T03:11:00+00:00,China,0.54368248895028,0,2,en,EAS,Asia
 'ce002a6fe2',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Lunan District,2024-11-17T03:14:00+00:00,China,0.5436809624401118,0,2,en,EAS,Asia
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,Earthquake Kokopo,2024-12-08T03:27:00+00:00,Papua New Guinea,0.5436259275054213,0,2,en,EPO,Pacific Ocean
+'eb74a46092',extremes,Storm,#b3b2b1,wmo,Storm Surge Pirineo de Girona,2024-12-19T03:11:00+00:00,Spain,0.543622135807485,0,2,en,MED,Europe
 'a1a5f0d89a',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Daning County,2024-11-15T03:11:00+00:00,China,0.5436005592673273,0,2,en,EAS,Asia
 '0b09942050',extremes,Snow&Ice,#d60d2b,wmo,Freezing Visegrad,2024-12-21T03:01:00+00:00,Bosnia and Herzegovina,0.5435787266802324,0,2,en,MED,Europe
 'a2c1b1c548',extremes,Fog,#d60d2b,wmo,Fog Yumin County,2024-12-03T03:26:00+00:00,China,0.5435687071096873,0,2,en,EAS,Asia
@@ -7958,6 +7981,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9370d4a164',extremes,Precipitation,#d60d2b,wmo,Rain Ivanovo Region,2024-12-07T03:15:00+00:00,Russia,0.5358537183937582,0,2,en,ESB,Europe
 '6af684c4f4',extremes,Snow&Ice,#d60d2b,wmo,Snow Republic of Tatarstan,2024-12-20T03:04:00+00:00,Russia,0.5358508361661121,0,2,en,ESB,Europe
 'da41cfdf48',extremes,Cold Wave,#a7e9fa,wmo,Freezing Golog Tibetan Autonomous Prefecture,2024-12-10T03:26:00+00:00,China,0.5358396826605061,0,2,en,EAS,Asia
+'ac46a80bee',extremes,Storm,#b3b2b1,wmo,Storm Prepirineo de Barcelona,2024-12-19T03:11:00+00:00,Spain,0.5358283879377029,0,2,en,MED,Europe
 '86b60d837d',extremes,Precipitation,#d60d2b,wmo,Downpour Beja,2024-11-16T03:09:00+00:00,Portugal,0.5358028122582011,0,2,en,MED,Europe
 'bc0bc5cc7d',extremes,Storm,#b3b2b1,wmo,Storm Surge Xingxian,2024-11-28T03:15:00+00:00,China,0.5357718210643025,0,2,en,EAS,Asia
 'cc64d449de',extremes,Storm,#b3b2b1,wmo,Storm San Moritz,2024-12-24T03:03:00+00:00,Switzerland,0.5357412384212664,0,2,en,WCE,Europe
@@ -8570,6 +8594,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9e18564acc',extremes,Snow&Ice,#d60d2b,wmo,Snow Mishan,2024-11-23T03:08:00+00:00,China,0.5136821213207355,0,2,en,EAS,Asia
 '075afa5d64',extremes,Storm,#b3b2b1,wmo,Storm Sanjiang Dong Autonomous County,2024-12-11T03:24:00+00:00,China,0.5136627387278131,0,2,en,EAS,Asia
 'b1a4ad8c27',extremes,Snow&Ice,#d60d2b,wmo,Frost Keshan County,2024-11-26T03:13:00+00:00,China,0.513639755683836,0,2,en,EAS,Asia
+'1442c73805',extremes,Precipitation,#d60d2b,wmo,Downpour Vologda Region,2024-12-20T03:04:00+00:00,Russia,0.5135959007116184,0,2,en,ESB,Europe
 '6aeaad7bfc',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Baojing County,2024-11-17T03:14:00+00:00,China,0.5134995513767584,0,2,en,EAS,Asia
 'ca68c7bb2b',extremes,Snow&Ice,#d60d2b,wmo,Frost Xianju County,2024-11-28T03:15:00+00:00,China,0.5134962683436141,0,2,en,EAS,Asia
 'b33845b9b2',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Tai an City,2024-11-25T03:14:00+00:00,China,0.5134717885442278,0,2,en,EAS,Asia
@@ -8759,6 +8784,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '54a3f2ae94',extremes,Fog,#d60d2b,wmo,Fog jiangxia district,2024-11-21T03:10:00+00:00,China,0.507583114950767,0,2,en,EAS,Asia
 'e904a4d94e',extremes,Snow&Ice,#d60d2b,wmo,Frost Pucheng County,2024-12-20T03:04:00+00:00,China,0.5075790422837299,0,2,en,EAS,Asia
 'cc1359f811',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Lipetsk Region,2024-12-24T03:03:00+00:00,Russia,0.5075616061391138,0,2,en,ESB,Europe
+'ac3c817587',extremes,Precipitation,#d60d2b,wmo,Rain Republic of North Ossetia Alania,2024-12-15T03:27:00+00:00,Russia,0.5075490514343428,0,2,en,ESB,Europe
 'cd0ac66f88',extremes,Storm,#b3b2b1,wmo,Storm Jinghe County,2024-11-07T03:03:00+00:00,China,0.5075406869499028,0,2,en,EAS,Asia
 '2bdc8818fd',extremes,Snow&Ice,#d60d2b,wmo,Avalanche wanyuan city,2024-12-19T03:11:00+00:00,China,0.507533313725839,0,2,en,EAS,Asia
 '7876f3d493',extremes,Snow&Ice,#d60d2b,wmo,Frost Guyuan City,2024-12-10T03:26:00+00:00,China,0.5075315021123925,0,2,en,EAS,Asia
@@ -8878,6 +8904,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e3f4fee0c6',extremes,Cold Wave,#a7e9fa,wmo,Freezing Aletai area,2024-12-09T03:28:00+00:00,China,0.5049686281339207,0,2,en,EAS,Asia
 'ec91577136',extremes,Storm,#b3b2b1,wmo,Storm Surge Linxian County,2024-11-27T03:15:00+00:00,China,0.5049448017217752,0,2,en,EAS,Asia
 'c56a25b195',extremes,Snow&Ice,#d60d2b,wmo,Ice Bayan County,2024-11-27T03:15:00+00:00,China,0.5049429992483278,0,2,en,EAS,Asia
+'4598636a62',extremes,Storm,#b3b2b1,wmo,Storm Yingkou City,2024-12-15T03:27:00+00:00,China,0.5049306270470885,0,2,en,EAS,Asia
 '81591a39b3',extremes,Cold Wave,#a7e9fa,wmo,Freezing Huanan County,2024-11-17T03:14:00+00:00,China,0.5049178370232125,0,2,en,EAS,Asia
 '98344101b5',extremes,Snow&Ice,#d60d2b,wmo,Ice Jianning County,2024-12-17T03:15:00+00:00,China,0.5048724105160405,0,2,en,EAS,Asia
 '806a060297',extremes,Fog,#d60d2b,wmo,Fog Xinyang City,2024-11-16T03:09:00+00:00,China,0.5048127297557808,0,2,en,EAS,Asia
@@ -8892,6 +8919,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1fd4694922',extremes,Snow&Ice,#d60d2b,wmo,Freezing Dalian,2024-12-21T03:01:00+00:00,China,0.5046279556556926,0,2,en,EAS,Asia
 '4f19f93f8b',extremes,Storm,#b3b2b1,wmo,Storm Huichang County,2024-12-19T03:11:00+00:00,China,0.5045623612243832,0,2,en,EAS,Asia
 'c9fd065941',extremes,Earthquake,#870007,usgs,Earthquake Baganga,2024-12-10T03:26:00+00:00,Philippines,0.5045196805818211,0,2,en,SEA,Asia
+'f5f6a55e4e',extremes,Storm,#b3b2b1,wmo,Storm Surge Changji Hui Autonomous Prefecture,2024-12-20T03:04:00+00:00,China,0.5044599250635311,0,2,en,EAS,Asia
 '4fe0e322e4',extremes,Precipitation,#d60d2b,wmo,Downpour Sarajevo,2024-12-22T03:08:00+00:00,Bosnia and Herzegovina,0.5044507245142744,0,2,en,MED,Europe
 'f82baa000a',extremes,Fog,#d60d2b,wmo,Fog Laiyuan County,2024-11-14T03:04:00+00:00,China,0.5044265501904399,0,2,en,EAS,Asia
 '138fa34381',extremes,Storm,#b3b2b1,wmo,Storm Wafangdian City City,2024-11-19T03:11:00+00:00,China,0.5043956599843562,0,2,en,EAS,Asia
@@ -9021,6 +9049,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1f5ac63b71',extremes,Snow&Ice,#d60d2b,wmo,Snow Sumiswald Worb,2024-12-24T03:03:00+00:00,Switzerland,0.5016308801416386,0,2,en,WCE,Europe
 '51a549816e',extremes,Cold Wave,#a7e9fa,wmo,Freezing Huachi County,2024-12-13T03:26:00+00:00,China,0.5016297702408715,0,2,en,EAS,Asia
 '1d53cd98ac',extremes,Fog,#d60d2b,wmo,Fog Zhushan District,2024-11-25T03:14:00+00:00,China,0.5016285961219201,0,2,en,EAS,Asia
+'01d56709e3',extremes,Storm,#b3b2b1,wmo,Storm Dongshan County,2024-12-22T03:08:00+00:00,China,0.5015496095229097,0,2,en,EAS,Asia
 '5032a20483',extremes,Storm,#b3b2b1,wmo,Storm City Proper,2024-11-26T03:13:00+00:00,China,0.5015455267716451,0,2,en,EAS,Asia
 'd2ba84ae65',extremes,Storm,#b3b2b1,wmo,Storm Huangling County,2024-11-27T03:15:00+00:00,China,0.5015302394943605,0,2,en,EAS,Asia
 '984ed8ea5d',extremes,Snow&Ice,#d60d2b,wmo,Frost Yudu County,2024-12-18T03:10:00+00:00,China,0.5015207131958034,0,2,en,EAS,Asia
@@ -9125,6 +9154,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2a2f8b06a',extremes,Snow&Ice,#d60d2b,wmo,Frost Zhaodong City,2024-11-28T03:15:00+00:00,China,0.4993265545762645,0,2,en,EAS,Asia
 '9d1b0102d6',extremes,Snow&Ice,#d60d2b,wmo,Frost Youyu County,2024-11-28T03:15:00+00:00,China,0.4992999169110261,0,2,en,EAS,Asia
 '4242ac7f98',extremes,Snow&Ice,#d60d2b,wmo,Ice Wensu County,2024-12-22T03:08:00+00:00,China,0.4992871248432651,0,2,en,EAS,Asia
+'00a0f1db3a',extremes,Precipitation,#d60d2b,wmo,Precipitation Khanty Mansi Autonomous District,2024-12-24T03:03:00+00:00,Russia,0.4992526476601261,0,2,en,ESB,Europe
 'a2b1de1344',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Yongchun County,2024-11-30T03:10:00+00:00,China,0.4992421283497025,0,2,en,EAS,Asia
 '250617a951',extremes,Snow&Ice,#d60d2b,wmo,Snow Yingxian County,2024-11-29T03:14:00+00:00,China,0.4992404953879106,0,2,en,EAS,Asia
 '61763f8304',extremes,Snow&Ice,#d60d2b,wmo,Snow Yichun City,2024-11-25T03:14:00+00:00,China,0.4992082881000115,0,2,en,EAS,Asia
@@ -9374,6 +9404,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e6b3c03720',extremes,Fog,#d60d2b,wmo,Fog Muchuan County,2024-11-14T03:04:00+00:00,China,0.4951346831661226,0,2,en,EAS,Asia
 '777f1e8010',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Kailu County,2024-12-01T03:32:00+00:00,China,0.4951244189965731,0,2,en,EAS,Asia
 'edd25325d4',extremes,Storm,#b3b2b1,wmo,Storm Surge Hoboksar Mongol Autonomous County,2024-12-16T03:28:00+00:00,China,0.4951100158654695,0,2,en,EAS,Asia
+'ad78568bdb',extremes,Precipitation,#d60d2b,wmo,Downpour Belgorod Region,2024-12-10T03:26:00+00:00,Russia,0.4950720673303675,0,2,en,ESB,Europe
 '4f63aae4d8',extremes,Snow&Ice,#d60d2b,wmo,Snow Xingan County,2024-12-20T03:04:00+00:00,China,0.4950480554315931,0,2,en,EAS,Asia
 '31b8dc87be',extremes,Earthquake,#870007,usgs,Earthquake Miyakojima,2024-12-01T03:32:00+00:00,Japan,0.495043129361699,0,2,en,EAS,Asia
 '6ae501c7cf',extremes,Cold Wave,#a7e9fa,wmo,Freezing Banner,2024-11-30T03:10:00+00:00,China,0.4950402585188068,0,2,en,EAS,Asia
@@ -9429,6 +9460,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '797175eb44',extremes,Thunderstorm,#53785a,wmo,Severe Weather Sansha,2024-12-12T03:24:00+00:00,China,0.4943003395549249,0,2,en,EAS,Asia
 'efce3a2518',extremes,Snow&Ice,#d60d2b,wmo,Ice Lin an District,2024-11-28T03:15:00+00:00,China,0.4942869231995788,0,2,en,EAS,Asia
 '12389460a5',extremes,Storm,#b3b2b1,wmo,Storm Surge Langkazi County,2024-12-09T03:28:00+00:00,China,0.4942827517481323,0,2,en,EAS,Asia
+'4d67315ba3',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Yichun City,2024-12-10T03:26:00+00:00,China,0.4942651885134441,0,2,en,EAS,Asia
 'b7d238a328',extremes,Storm,#b3b2b1,wmo,Storm Surge Linying County,2024-11-25T03:14:00+00:00,China,0.4942599968844018,0,2,en,EAS,Asia
 'ce24338bec',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Linchuan,2024-12-19T03:11:00+00:00,China,0.4942509587684793,0,2,en,EAS,Asia
 '0c7ca8ac6f',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Fuyuan County,2024-12-14T03:12:00+00:00,China,0.4942389612433756,0,2,en,EAS,Asia
@@ -9524,6 +9556,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2c1bc005fc',extremes,Fog,#d60d2b,wmo,Fog Jingyan County,2024-11-14T03:04:00+00:00,China,0.4928451376713118,0,2,en,EAS,Asia
 'c85ca278b2',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Yanggao County,2024-11-27T03:15:00+00:00,China,0.4928421353006981,0,2,en,EAS,Asia
 '6ba9f7efcd',extremes,Storm,#b3b2b1,wmo,Storm Surge New River County,2024-11-25T03:14:00+00:00,China,0.4928225977916877,0,2,en,EAS,Asia
+'7f57ffcf0d',extremes,Storm,#b3b2b1,wmo,Storm Surge Toksun County,2024-12-16T03:28:00+00:00,China,0.4928179089430576,0,2,en,EAS,Asia
 '4fd9ad700e',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Menyuan Hui Autonomous County,2024-12-10T03:26:00+00:00,China,0.4928098304649996,0,2,en,EAS,Asia
 '5d5cee861e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Ganxian,2024-12-20T03:04:00+00:00,China,0.4927836098570837,0,2,en,EAS,Asia
 '3f6bc79a4c',extremes,Snow&Ice,#d60d2b,wmo,Snow Dalian,2024-11-28T03:15:00+00:00,China,0.4927830660217304,0,2,en,EAS,Asia
@@ -9604,6 +9637,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0c259cc35',extremes,Snow&Ice,#d60d2b,wmo,Freezing Chongyi County,2024-12-17T03:15:00+00:00,China,0.4916205023766504,0,2,en,EAS,Asia
 '0c8e02ac61',extremes,Snow&Ice,#d60d2b,wmo,Snow Da Hinggan Ling Prefecture,2024-11-26T03:13:00+00:00,China,0.4916178675078209,0,2,en,EAS,Asia
 'fa6d2eb8d5',extremes,Snow&Ice,#d60d2b,wmo,Avalanche LAN Xian,2024-11-25T03:14:00+00:00,China,0.4916084030426467,0,2,en,EAS,Asia
+'e0c99c579d',extremes,Storm,#b3b2b1,wmo,Storm Quiet County,2024-12-09T03:28:00+00:00,China,0.4916041195888281,0,2,en,EAS,Asia
 'e7515d9636',extremes,Snow&Ice,#d60d2b,wmo,Freezing Changting County,2024-12-21T03:01:00+00:00,China,0.4915993998125895,0,2,en,EAS,Asia
 '64e9dd918c',extremes,Snow&Ice,#d60d2b,wmo,Ice Pucheng County,2024-12-01T03:32:00+00:00,China,0.4915985285284985,0,2,en,EAS,Asia
 'eb2cf4d66e',extremes,Storm,#b3b2b1,wmo,Storm Surge Yangzhou City,2024-11-28T03:15:00+00:00,China,0.4915972305808317,0,2,en,EAS,Asia
@@ -9721,6 +9755,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4a362bed3',extremes,Cold Wave,#a7e9fa,wmo,Freezing Yingxian County,2024-12-13T03:26:00+00:00,China,0.4899792317331133,0,2,en,EAS,Asia
 '2b839dff3f',extremes,Snow&Ice,#d60d2b,wmo,Frost Tianquan County,2024-11-26T03:13:00+00:00,China,0.4899746515946436,0,2,en,EAS,Asia
 'd1435f1d70',extremes,Fog,#d60d2b,wmo,Fog Shuangyang District,2024-11-15T03:11:00+00:00,China,0.4899446379395344,0,2,en,EAS,Asia
+'2fc4547f5e',extremes,Precipitation,#d60d2b,wmo,Rain Orenburg Region,2024-12-12T03:24:00+00:00,Russia,0.4899443744856631,0,2,en,ESB,Europe
 'd128b85756',extremes,Snow&Ice,#d60d2b,wmo,Frost Jingyuan County,2024-11-13T03:03:00+00:00,China,0.4899213027803228,0,2,en,EAS,Asia
 '6cf281775e',extremes,Storm,#b3b2b1,wmo,Storm Dechang County,2024-12-10T03:26:00+00:00,China,0.4899190066711273,0,2,en,EAS,Asia
 '2fef58f993',extremes,Fog,#d60d2b,wmo,Fog Huaibin County,2024-11-10T03:05:00+00:00,China,0.4899187613489248,0,2,en,EAS,Asia
@@ -9771,6 +9806,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e363e7c009',extremes,Snow&Ice,#d60d2b,wmo,Freezing Changhai County,2024-11-27T03:15:00+00:00,China,0.4893136421131749,0,2,en,EAS,Asia
 '846cca02fb',extremes,Flood,#030ba1,aidr,Flood Gnarr Creek Ballarat,2024-11-22T03:12:00+00:00,Australia,0.4892663390549107,0,2,en,SAU,Oceania
 'e5f961f3a6',extremes,Fog,#d60d2b,wmo,Fog Tangyin County,2024-11-14T03:04:00+00:00,China,0.4892655503533138,0,2,en,EAS,Asia
+'997e0541fe',extremes,Snow&Ice,#d60d2b,wmo,Frost Mori Kazak Autonomous County,2024-12-05T03:25:00+00:00,China,0.4892490025051293,0,2,en,EAS,Asia
 'c16bc82dc2',extremes,Snow&Ice,#d60d2b,wmo,Ice Fu an City,2024-12-17T03:15:00+00:00,China,0.4892371308710561,0,2,en,EAS,Asia
 'ff529f51cc',extremes,Fog,#d60d2b,wmo,Fog Weixi Lisu Autonomous County,2024-11-08T08:28:00+00:00,China,0.4892345312955893,0,2,en,EAS,Asia
 'fd9584b5d0',extremes,Storm,#b3b2b1,wmo,Storm Surge Jingyang County,2024-12-13T03:26:00+00:00,China,0.4892308635611935,0,2,en,EAS,Asia
@@ -9907,6 +9943,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0e186ccbf',extremes,Storm,#b3b2b1,wmo,Storm On behalf of the county,2024-11-26T03:13:00+00:00,China,0.4874791324882965,0,2,en,EAS,Asia
 '22c3e820bc',extremes,Fog,#d60d2b,wmo,Fog Ruzhou,2024-11-09T14:17:00+00:00,China,0.4874630156118182,0,2,en,EAS,Asia
 '4572c2eeb0',extremes,Storm,#b3b2b1,wmo,Storm Zhuanghe City,2024-11-19T03:11:00+00:00,China,0.4874411319588211,0,2,en,EAS,Asia
+'57b5214dfe',extremes,Snow&Ice,#d60d2b,wmo,Ice Toutunhe District,2024-12-04T03:24:00+00:00,China,0.4874362025835252,0,2,en,EAS,Asia
 '9fa089aa49',extremes,Storm,#b3b2b1,aidr,Storm Severe Storm Sydney and Blue Mountains New South Wales 1994,2024-12-07T03:15:00+00:00,Australia,0.487435947877218,0,2,en,EAU,Oceania
 '2c1e71bb9d',extremes,Snow&Ice,#d60d2b,wmo,Snow Qinan County,2024-11-25T03:14:00+00:00,China,0.4874248988388844,0,2,en,EAS,Asia
 'b834d7409c',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Ronda,2024-11-13T03:03:00+00:00,Spain,0.4873837090536429,0,2,en,MED,Europe
@@ -9926,6 +9963,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '985530ec1a',extremes,Fog,#d60d2b,wmo,Fog Yanggu County,2024-11-13T03:03:00+00:00,China,0.4872493263256499,0,2,en,EAS,Asia
 '629561405f',extremes,Fog,#d60d2b,wmo,Fog Akesu area,2024-12-20T03:04:00+00:00,China,0.4872296585606518,0,2,en,EAS,Asia
 'a78dde6913',extremes,Snow&Ice,#d60d2b,wmo,Snow Dongxiang Area,2024-12-16T03:28:00+00:00,China,0.4872134371890386,0,2,en,EAS,Asia
+'528946bf01',extremes,Snow&Ice,#d60d2b,wmo,Snow Qitai County,2024-12-09T03:28:00+00:00,China,0.4871952347572128,0,2,en,EAS,Asia
 '51b9990501',extremes,Storm,#b3b2b1,wmo,Storm Surge Raoping County,2024-11-17T03:14:00+00:00,China,0.4871777736744044,0,2,en,EAS,Asia
 '5afd0f8931',extremes,Fog,#d60d2b,wmo,Fog Shuangliao City,2024-11-08T08:28:00+00:00,China,0.487174574061061,0,2,en,EAS,Asia
 '59a29f357b',extremes,Storm,#b3b2b1,wmo,Storm Surge Zhuanghe City,2024-12-18T03:10:00+00:00,China,0.4871744212789726,0,2,en,EAS,Asia
@@ -10077,6 +10115,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6a814a5817',extremes,Drought,#edc291,acwe,low water level New South Wales,2024-12-20T03:04:00+00:00,Australia,0.4852479058434424,0,2,en,EAU,Oceania
 'ae01a721a4',extremes,Snow&Ice,#d60d2b,wmo,Frost Sunitezuoqi,2024-12-20T03:04:00+00:00,China,0.4852456110424702,0,2,en,EAS,Asia
 'f147dd7573',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Hanjiang District,2024-12-18T03:10:00+00:00,China,0.4852411744714792,0,2,en,EAS,Asia
+'bab7dce9a7',extremes,Storm,#b3b2b1,wmo,Storm Barkol Kazakh Autonomous County,2024-12-11T03:24:00+00:00,China,0.4852409928321325,0,2,en,EAS,Asia
 'b2231aaa42',extremes,Snow&Ice,#d60d2b,wmo,Frost Xingguo County,2024-12-17T03:15:00+00:00,China,0.4852382167989675,0,2,en,EAS,Asia
 'ff4419cec7',extremes,Snow&Ice,#d60d2b,wmo,Frost Wuchang City,2024-11-26T03:13:00+00:00,China,0.4852377306238199,0,2,en,EAS,Asia
 '9afca0c37d',extremes,Fog,#d60d2b,wmo,Fog Yaodu District,2024-11-11T14:06:00+00:00,China,0.4852355671137569,0,2,en,EAS,Asia
@@ -10424,6 +10463,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd825044ef4',extremes,Storm,#b3b2b1,wmo,Storm Songjiang District,2024-11-26T03:13:00+00:00,China,0.480593089155825,0,2,en,EAS,Asia
 'b4abb7a32f',extremes,Snow&Ice,#d60d2b,wmo,Freezing Kedong County,2024-11-11T14:06:00+00:00,China,0.4805862834924758,0,2,en,EAS,Asia
 '5a2bb6f1f7',extremes,Heat Wave,#c40202,acwe,heatwave Tasmania,2024-11-27T03:15:00+00:00,Australia,0.4805825994299423,0,2,en,SAU,Oceania
+'55370e60e0',extremes,Storm,#b3b2b1,wmo,Storm Wusu,2024-12-16T03:28:00+00:00,China,0.4805724263310474,0,2,en,EAS,Asia
 'c863cac90b',extremes,Snow&Ice,#d60d2b,wmo,Snow Maduo County,2024-12-09T03:28:00+00:00,China,0.480572264240681,0,2,en,EAS,Asia
 '7ae6318c5b',extremes,Earthquake,#870007,usgs,Earthquake Shikotan,2024-12-11T03:23:00+00:00,Russia,0.4805690041209186,0,2,en,EAS,Asia
 '52cc626603',extremes,Snow&Ice,#d60d2b,wmo,Freezing Suniteyou,2024-11-26T03:13:00+00:00,China,0.4805588135416552,0,2,en,EAS,Asia
@@ -10666,6 +10706,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b75790715e',extremes,Storm,#b3b2b1,wmo,Storm Surge Yanji City,2024-11-27T03:15:00+00:00,China,0.4774324999153793,0,2,en,EAS,Asia
 '6def73ff29',extremes,Storm,#b3b2b1,wmo,Storm Liangcheng County,2024-12-01T03:32:00+00:00,China,0.4774311756912273,0,2,en,EAS,Asia
 'b77b48965d',extremes,Snow&Ice,#d60d2b,wmo,Frost Jianyang District,2024-12-01T03:32:00+00:00,China,0.477430197259696,0,2,en,EAS,Asia
+'0295d23d82',extremes,Storm,#b3b2b1,wmo,Storm Yining County,2024-12-16T03:28:00+00:00,China,0.4774174917671333,0,2,en,EAS,Asia
 '14a7e5c9a3',extremes,Snow&Ice,#d60d2b,wmo,Freezing Liuhe County,2024-12-06T03:24:00+00:00,China,0.4774023780910343,0,2,en,EAS,Asia
 '87e8f8294b',extremes,Snow&Ice,#d60d2b,wmo,Ice Xiwuzhumuqin flag,2024-12-20T03:04:00+00:00,China,0.4773946042550926,0,2,en,EAS,Asia
 '2fc1d98cef',extremes,Storm,#b3b2b1,wmo,Storm Surge Xiaodian District,2024-11-27T03:15:00+00:00,China,0.4773815658043258,0,2,en,EAS,Asia
@@ -11082,6 +11123,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1bceee0813',extremes,Storm,#b3b2b1,wmo,Storm Surge Left,2024-12-01T03:32:00+00:00,China,0.4718943975273896,0,2,en,EAS,Asia
 '127c831c2f',extremes,Storm,#b3b2b1,wmo,Storm Surge Chaohu City,2024-11-17T03:14:00+00:00,China,0.471881021265681,0,2,en,EAS,Asia
 '5d57501e0c',extremes,Storm,#b3b2b1,wmo,Storm Yaozhou District,2024-11-25T03:14:00+00:00,China,0.471880012758126,0,2,en,EAS,Asia
+'c07f1805f4',extremes,Precipitation,#d60d2b,wmo,Downpour Saint Petersburg,2024-12-13T03:26:00+00:00,Russia,0.4718692242222922,0,2,en,ESB,Europe
 '2f245982ab',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Suburb,2024-11-25T03:14:00+00:00,China,0.4718377748940869,0,2,en,EAS,Asia
 'e53b3b8a35',extremes,Snow&Ice,#d60d2b,wmo,Frost Ludian County,2024-11-25T03:14:00+00:00,China,0.4717324221974862,0,2,en,EAS,Asia
 'da49d3de3d',extremes,Snow&Ice,#d60d2b,wmo,Ice Yinchuan City,2024-12-10T03:26:00+00:00,China,0.4717205852692459,0,2,en,EAS,Asia
@@ -11170,6 +11212,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23a4db4efc',extremes,Snow&Ice,#d60d2b,wmo,Snow Huozhou City,2024-12-11T03:24:00+00:00,China,0.4705125032462869,0,2,en,EAS,Asia
 '915280c498',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Fenyang,2024-12-11T03:24:00+00:00,China,0.4705074753914801,0,2,en,EAS,Asia
 'c4312f6201',extremes,Snow&Ice,#d60d2b,wmo,Frost Wuzhong city,2024-12-11T03:24:00+00:00,China,0.4704822422885466,0,2,en,EAS,Asia
+'38ec5c4a34',extremes,Storm,#b3b2b1,wmo,Storm Surge Shawan County,2024-12-16T03:28:00+00:00,China,0.4704680993545801,0,2,en,EAS,Asia
 'd07cf73fbe',extremes,Snow&Ice,#d60d2b,wmo,Ice Chahar right middle banner,2024-11-25T03:14:00+00:00,China,0.4704308733302096,0,2,en,EAS,Asia
 'be6470b29f',extremes,Storm,#b3b2b1,wmo,Storm Surge Tuquan County,2024-11-11T03:03:00+00:00,China,0.4704277137150365,0,2,en,EAS,Asia
 '8b96b75a63',extremes,Storm,#b3b2b1,wmo,Storm Huailai County,2024-11-26T03:13:00+00:00,China,0.4704245341047353,0,2,en,EAS,Asia
@@ -11226,6 +11269,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7e947178cf',extremes,Snow&Ice,#d60d2b,wmo,Snow Jingtai County,2024-12-13T03:26:00+00:00,China,0.4695728383219947,0,2,en,EAS,Asia
 'd6bcd33ad3',extremes,Storm,#b3b2b1,wmo,Storm Surge Linzhou City,2024-11-28T03:15:00+00:00,China,0.4695635024237651,0,2,en,EAS,Asia
 'f595b76ffe',extremes,Storm,#b3b2b1,wmo,Storm Surge Gaobeidian City,2024-11-27T03:15:00+00:00,China,0.4695562037379888,0,2,en,EAS,Asia
+'34466ef73a',extremes,Snow&Ice,#d60d2b,wmo,Frost Changji City,2024-12-04T03:24:00+00:00,China,0.4695532172124959,0,2,en,EAS,Asia
 'ee2be8e456',extremes,Snow&Ice,#d60d2b,wmo,Freezing Jigzhi County,2024-11-25T03:14:00+00:00,China,0.4695517078174157,0,2,en,EAS,Asia
 '2bc11299ea',extremes,Storm,#b3b2b1,wmo,Storm Nanfeng County,2024-12-19T03:11:00+00:00,China,0.4695457228046408,0,2,en,EAS,Asia
 '209c6404fd',extremes,Storm,#b3b2b1,wmo,Storm Surge Jingxian County,2024-11-28T03:15:00+00:00,China,0.4695432920234102,0,2,en,EAS,Asia
@@ -11442,6 +11486,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f0f3f1204c',extremes,Snow&Ice,#d60d2b,wmo,Freezing Xiangshan County,2024-11-28T03:15:00+00:00,China,0.4662500986657262,0,2,en,EAS,Asia
 'b77560da0d',extremes,Snow&Ice,#d60d2b,wmo,Frost Luoping County,2024-12-14T03:12:00+00:00,China,0.4662489491399803,0,2,en,EAS,Asia
 '01fc296a33',extremes,Snow&Ice,#d60d2b,wmo,Frost Mianzhu City,2024-12-09T03:28:00+00:00,China,0.4662463262568114,0,2,en,EAS,Asia
+'ea48506f23',extremes,Precipitation,#d60d2b,wmo,Precipitation Prelitoral de Barcelona,2024-12-12T03:24:00+00:00,Spain,0.4662336719998614,0,2,en,MED,Europe
 '8375794304',extremes,Snow&Ice,#d60d2b,wmo,Freezing Zezhou County,2024-12-11T03:24:00+00:00,China,0.4662285907932307,0,2,en,EAS,Asia
 '022a017d2e',extremes,Snow&Ice,#d60d2b,wmo,Ice Southern county,2024-12-15T03:27:00+00:00,China,0.4662266654268789,0,2,en,EAS,Asia
 'b4e4024880',extremes,Storm,#b3b2b1,wmo,Storm Yunzhou District,2024-11-28T03:15:00+00:00,China,0.4662172921965885,0,2,en,EAS,Asia
@@ -12378,6 +12423,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c7b0c3bd3',extremes,Flood,#030ba1,aidr,Flood Melbourne and Victoria 1934,2024-12-16T03:28:00+00:00,Australia,0.4490251577722721,0,2,en,SAU,Oceania
 '9cf20b4804',extremes,Storm,#b3b2b1,wmo,Storm Surge Zezhou County,2024-11-27T03:15:00+00:00,China,0.4490192590868837,0,2,en,EAS,Asia
 '91cb77b937',extremes,Storm,#b3b2b1,wmo,Storm Huguan County,2024-11-27T03:15:00+00:00,China,0.4489789229733565,0,2,en,EAS,Asia
+'91377cc2a9',extremes,Drought,#edc291,acwe,drought South Australia,2024-12-21T03:02:00+00:00,Australia,0.448896980027619,0,2,en,CAU,Oceania
 '59933cd977',extremes,Storm,#b3b2b1,wmo,Storm Surge Xinfu District,2024-11-26T03:13:00+00:00,China,0.4488849887270946,0,2,en,EAS,Asia
 '52f7d19403',extremes,Storm,#b3b2b1,wmo,Storm Surge Guangxin Area,2024-11-19T03:11:00+00:00,China,0.4488739849594348,0,2,en,EAS,Asia
 '1acb81b6bc',extremes,Storm,#b3b2b1,wmo,Storm Surge Xiuwen County,2024-11-13T03:03:00+00:00,China,0.4488646470861749,0,2,en,EAS,Asia
@@ -12757,6 +12803,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e936eaca43',extremes,Earthquake,#870007,usgs,Earthquake Dinagat,2024-12-15T03:27:00+00:00,Philippines,0.4329308084855055,0,2,en,SEA,Asia
 '68b210e33f',extremes,Earthquake,#870007,usgs,Earthquake Kawalu,2024-12-03T03:26:00+00:00,Indonesia,0.4328476230857881,0,2,en,SEA,Asia
 '1100334221',extremes,Storm,#b3b2b1,wmo,Storm Surge Lipu City,2024-11-19T03:11:00+00:00,China,0.4328316531890932,0,2,en,EAS,Asia
+'ec877188c8',extremes,Precipitation,#d60d2b,wmo,Downpour Menorca,2024-12-09T03:28:00+00:00,Spain,0.432652103889071,0,2,en,MED,Europe
 '8f98e34b43',extremes,Cold Wave,#a7e9fa,wmo,Freezing Nanzhang County,2024-11-25T03:14:00+00:00,China,0.432624967330822,0,2,en,EAS,Asia
 'a4d832fcfd',extremes,Tropical Cyclone,#4f4f4f,emdat,Typhoon Maua,2024-12-23T03:05:00+00:00,Mozambique,0.4325503929575759,0,2,en,ESAF,Africa
 '994fabb2d2',extremes,Precipitation,#d60d2b,wmo,Torrential Rain jiangbei district,2024-11-15T03:11:00+00:00,China,0.4325457798158025,0,2,en,EAS,Asia
@@ -12834,6 +12881,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '30a6e104dc',extremes,Wildfire,#d60d2b,eonet,Wildfire in Australia 1022945,2024-11-15T03:11:00+00:00,Australia,0.4238306587236254,0,2,en,NAU,Oceania
 '5d43e14c64',extremes,Precipitation,#d60d2b,wmo,Downpour Dayu County,2024-11-15T03:11:00+00:00,China,0.4236988000248278,0,2,en,EAS,Asia
 '3caf47a3e0',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Usagi,2024-11-13T03:02:00+00:00,,0.4234469657862382,0,2,en,NPO,Pacific Ocean
+'79e472aeaf',extremes,Precipitation,#d60d2b,wmo,Downpour Altai Krai,2024-12-18T03:10:00+00:00,Russia,0.4233619932895764,0,2,en,ESB,Europe
 '6f40a0f507',extremes,Wildfire,#d60d2b,eonet,Wildfire in Nigeria 1022985,2024-11-22T03:11:00+00:00,Nigeria,0.4232716393121533,0,2,en,WAF,Africa
 'a8bcce9d6d',extremes,Cold Wave,#a7e9fa,wmo,Freezing Yiliang County,2024-12-12T03:24:00+00:00,China,0.4232207627786082,0,2,en,EAS,Asia
 '54733be55f',extremes,Cold Wave,#a7e9fa,wmo,Freezing Gannan County,2024-11-17T03:14:00+00:00,China,0.4230897810006724,0,2,en,EAS,Asia
@@ -12899,6 +12947,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e48d5ac7c',extremes,Cold Wave,#a7e9fa,wmo,Freezing Jingyu County,2024-11-17T03:14:00+00:00,China,0.4001114151780989,0,2,en,EAS,Asia
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2024-12-03T03:26:00+00:00,,0.3994309030237052,0,2,en,,
 '2711276932',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Laiyang City,2024-11-18T03:14:00+00:00,China,0.3991549037882346,0,2,en,EAS,Asia
+'3e4b341619',extremes,Storm,#b3b2b1,random,storm,2024-12-05T03:24:00+00:00,,0.3986390056075656,0,2,en,,
 '88296e2f67',extremes,Precipitation,#d60d2b,wmo,Downpour Bahrain Right Banner,2024-12-14T03:12:00+00:00,China,0.3961702424008986,0,2,en,EAS,Asia
 '595acbcf9f',extremes,Heat Wave,#c40202,random,hottest day,2024-12-13T03:25:00+00:00,,0.3953202901156268,0,2,en,,
 'bf406020a5',extremes,Storm,#b3b2b1,emdat,Typhoon Hainan isl,2024-11-11T03:04:00+00:00,China,0.3946086225156969,0,2,en,EAS,Asia
