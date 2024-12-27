@@ -1,8 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '11f89f18b1',extremes,Precipitation,#d60d2b,relief,Flash Flood Malaysia,2024-12-20T03:03:00+00:00,Malaysia,0.815180694899855,1,2,en,SEA,Asia
 'd18bf20e95',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Rafael,2024-11-05T03:01:00+00:00,,0.8123873769280134,1,3,en,CAR,North-America
+'eba0dae408',extremes,Iceberg,#d60d2b,eonet,Iceberg B15AB,2024-12-17T03:15:00+00:00,,0.7993497622584531,0,2,en,EAN,
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Saudi Arabia,2024-12-11T03:24:00+00:00,Saudi Arabia,0.7953379169583004,1,2,en,ARP,Asia
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire New South Wales,2024-12-19T03:11:00+00:00,Australia,0.7671122180618678,1,2,en,EAU,Oceania
+'69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,Heat Wave Parana y alrededores,2024-12-26T03:03:00+00:00,Argentina,0.762250004261773,0,2,en,SES,South-America
+'b3371bd069',extremes,Flood,#030ba1,relief,Flood Venezuela,2024-12-20T03:03:00+00:00,Venezuela,0.7597704651663797,0,2,en,NSA,South-America
+'d3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2024-12-09T03:28:00+00:00,United States,0.7592987625305913,0,2,en,CNA,North-America
 '1c7c99733a',extremes,Storm,#b3b2b1,wmo,Storm EL TARF,2024-12-24T03:03:00+00:00,Algeria,0.7592297607065179,0,2,en,SAH,Africa
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2024-12-06T03:24:00+00:00,New Zealand,0.758963083841311,0,2,en,NZ,Oceania
 '4880385bef',extremes,Wildfire,#d60d2b,wmo,Wildfire songyang county,2024-12-22T03:08:00+00:00,China,0.758915844909303,0,2,en,EAS,Asia
@@ -28,6 +32,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2171c04cdd',extremes,Wildfire,#d60d2b,wmo,Wildfire Beaufort West,2024-12-05T03:25:00+00:00,South Africa,0.7573666469658569,1,2,en,WSAF,Africa
 '3b7c05c374',extremes,Precipitation,#d60d2b,wmo,Downpour Ver. Oax Pue Hgo Chis,2024-12-21T03:01:00+00:00,Mexico,0.7572574902840851,0,2,en,NCA,North-America
 'f22d69fd3e',extremes,Storm,#b3b2b1,wmo,Storm IN GUEZZAM,2024-12-17T03:15:00+00:00,Algeria,0.7572163008266715,0,2,en,SAH,Africa
+'c2b3b4722a',extremes,Storm,#b3b2b1,wmo,Storm Surge Romania,2024-12-17T03:15:00+00:00,Romania,0.757210586694559,0,2,en,WCE,Europe
 '35e6a1757c',extremes,Tropical Cyclone,#4f4f4f,relief,Tropical Cyclone Zimbabwe,2024-12-12T03:24:00+00:00,Zimbabwe,0.7571940933010677,0,2,en,ESAF,Africa
 '40726d14cc',extremes,Tsunami,#690191,usgs,Tsunami Adak,2024-12-09T03:27:00+00:00,Alaska,0.7571925166888827,0,2,en,NPO,Pacific Ocean
 'ccde71b6ea',extremes,Wildfire,#d60d2b,wmo,Wildfire Hantam Calvinia,2024-12-19T03:11:00+00:00,South Africa,0.7571692831358627,0,2,en,WSAF,Africa
@@ -2517,6 +2522,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d9dcf594f',extremes,Fog,#d60d2b,wmo,Fog Łódzkie Province Brzeziński County,2024-12-01T03:32:00+00:00,Poland,0.6555463615321238,0,2,en,WCE,Europe
 '33079e95a8',extremes,Snow&Ice,#d60d2b,eswd,Snow Croatia,2024-11-23T03:08:00+00:00,Croatia,0.6555079906939483,0,2,en,WCE,Europe
 '6c70ef9290',extremes,Earthquake,#870007,usgs,Earthquake Dili,2024-12-09T03:27:00+00:00,Timor Leste,0.6555041295164279,0,2,en,SEA,Asia
+'f0e6fbb366',extremes,Wildfire,#d60d2b,esawfa,Bushfire Nigeria,2024-12-18T03:11:00+00:00,Nigeria,0.6554561362680631,0,2,en,WAF,Africa
 '802419f94a',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Sankt Johann im Pongau,2024-12-25T03:01:00+00:00,Austria,0.655454525606532,0,2,en,WCE,Europe
 '4f233aa97c',extremes,Flood,#030ba1,wmo,Flood Eure Eure et Loir,2024-11-29T03:14:00+00:00,France,0.6554485836457018,0,2,en,WCE,Europe
 '9693bb5918',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Murau,2024-12-26T03:03:00+00:00,Austria,0.6554466350258126,0,2,en,WCE,Europe
@@ -3871,6 +3877,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cdfe76547e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Małopolskie Province Kraków County,2024-11-13T03:03:00+00:00,Poland,0.6260282213699522,0,2,en,WCE,Europe
 '437e5522d5',extremes,Storm,#b3b2b1,wmo,Storm Surge Leiria,2024-11-23T03:08:00+00:00,Portugal,0.6259918619471955,0,2,en,MED,Europe
 'f738ab05ba',extremes,Storm,#b3b2b1,wmo,Storm North Dalmatia region,2024-12-03T03:26:00+00:00,Croatia,0.6259668388857885,0,2,en,WCE,Europe
+'4340c9e06c',extremes,Snow&Ice,#d60d2b,wmo,Frost Poland,2024-12-21T03:01:00+00:00,Poland,0.6259623690319008,0,2,en,WCE,Europe
 '612f83fd45',extremes,Storm,#b3b2b1,wmo,Storm Ostfriesische Küste,2024-12-06T03:24:00+00:00,Germany,0.6259358740600076,0,2,en,WCE,Europe
 'ae8979372b',extremes,Snow&Ice,#d60d2b,wmo,Ice Frick Leibstadt,2024-11-22T03:12:00+00:00,Switzerland,0.6259231766021912,0,2,en,WCE,Europe
 '18a3d2a49f',extremes,Storm,#b3b2b1,wmo,Storm Surge Republic of Buryatia,2024-11-27T03:15:00+00:00,Russia,0.6258913587452621,0,2,en,ESB,Europe
