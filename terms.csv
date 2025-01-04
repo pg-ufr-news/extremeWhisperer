@@ -1,10 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '11f89f18b1',extremes,Precipitation,#d60d2b,relief,Flash Flood Malaysia,2024-12-20T03:03:00+00:00,Malaysia,0.815180694899855,1,2,en,SEA,Asia
-'eba0dae408',extremes,Iceberg,#d60d2b,eonet,Iceberg B15AB,2024-12-17T03:15:00+00:00,,0.7993497622584531,0,2,en,EAN,
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Saudi Arabia,2024-12-11T03:24:00+00:00,Saudi Arabia,0.7953379169583004,1,2,en,ARP,Asia
-'93c9c336c2',extremes,Flood,#030ba1,fema,Native Village of Kipnuk Severe Storm and Flooding,2025-01-04T03:01:00+00:00,United States,0.7884553087648085,0,2,en,,
-'e921e2b0b7',extremes,Flood,#030ba1,aidr,Flood Severe Flooding from ex Tropical Cyclone Tiffany South Australia 2022,2024-12-28T03:01:00+00:00,Australia,0.7855639491149872,0,2,en,SAU,Oceania
-'7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2024-12-16T03:28:00+00:00,Australia,0.7759843727599318,0,2,en,EAU,Oceania
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire New South Wales,2024-12-19T03:11:00+00:00,Australia,0.7671122180618678,1,2,en,EAU,Oceania
 '0816e6486e',extremes,Landslide,#572c03,relief,Landslide Venezuela,2024-12-24T03:02:00+00:00,Venezuela,0.7661444727118497,0,2,en,NSA,South-America
 '240affaefb',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Ecuador Continental,2025-01-04T03:02:00+00:00,Ecuador,0.7618893117114428,0,2,en,NWS,South-America
@@ -1832,6 +1828,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d6254aa64',extremes,Snow&Ice,#d60d2b,wmo,Freezing Hamilton,2024-11-30T03:10:00+00:00,United States,0.6702601507367706,0,2,en,CNA,North-America
 'f7ed215e6c',extremes,Storm,#b3b2b1,wmo,Storm Surge Banks outside Troms,2024-11-28T03:15:00+00:00,Norway,0.670228071374576,0,2,en,NEU,Europe
 '74fe763b2e',extremes,Earthquake,#870007,usgs,Earthquake Hualien City,2024-12-15T03:27:00+00:00,Taiwan,0.6701988262546366,0,2,en,EAS,Asia
+'93c9c336c2',extremes,Flood,#030ba1,fema,Native Village of Kipnuk Severe Storm and Flooding,2025-01-04T03:01:00+00:00,United States,0.6701870124500873,1,1,en,,
 'f0b96a6584',extremes,Snow&Ice,#d60d2b,wmo,Snow Warren,2024-12-02T03:26:00+00:00,United States,0.6701696293286199,0,2,en,CNA,North-America
 '4fa4ea1135',extremes,Storm,#b3b2b1,wmo,Storm Zuid Holland,2024-11-26T03:13:00+00:00,Netherlands,0.6701516279247215,0,2,en,NEU,Europe
 '3a3cc40bec',extremes,Storm,#b3b2b1,wmo,Storm Haines Borough and Klukwan,2024-11-30T03:10:00+00:00,United States,0.6700760886280295,0,2,en,CNA,North-America
@@ -1903,6 +1900,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e16c5a847',extremes,Storm,#b3b2b1,wmo,Storm Antrim Otsego Charlevoix,2024-12-01T03:32:00+00:00,United States,0.6677668463567878,0,2,en,CNA,North-America
 'ebc33fbe27',extremes,Wildfire,#d60d2b,fema,Confederated Tribes of the Colville Reservation Wildfires,2024-12-03T03:26:00+00:00,United States,0.6677665553708508,1,1,en,,
 '0975ae1483',extremes,Storm,#b3b2b1,wmo,Storm Surge Central Chelan County,2024-12-25T03:01:00+00:00,United States,0.6677620176338613,0,2,en,CNA,North-America
+'e921e2b0b7',extremes,Flood,#030ba1,aidr,Flood Severe Flooding from ex Tropical Cyclone Tiffany South Australia 2022,2024-12-28T03:01:00+00:00,Australia,0.667729356747739,1,1,en,SAU,Oceania
 'e2460e551b',extremes,Snow&Ice,#d60d2b,wmo,Ice Greece,2024-12-12T03:24:00+00:00,Greece,0.6677039515788578,0,2,en,MED,Europe
 '3e4b341619',extremes,Storm,#b3b2b1,random,storm,2024-12-05T03:24:00+00:00,,0.6676714824253418,0,2,en,,
 'f16f87d2cb',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Grodno Region,2024-11-21T03:10:00+00:00,Belarus,0.6676675860560397,0,2,en,WCE,Europe
@@ -2149,6 +2147,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6ceaac302f',extremes,Wildfire,#d60d2b,relief,Wild Fire Bhutan,2024-12-20T03:03:00+00:00,Bhutan,0.6596644116129681,1,2,en,TIB,Asia
 'f6b979e2d2',extremes,Storm,#b3b2b1,wmo,Storm Surge Obersimmental,2024-11-22T03:12:00+00:00,Switzerland,0.6596287063898363,0,2,en,WCE,Europe
 'bd38cc0332',extremes,Storm,#b3b2b1,wmo,Storm Waushara,2024-12-20T03:04:00+00:00,United States,0.6596058185828584,0,2,en,CNA,North-America
+'7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2024-12-16T03:28:00+00:00,Australia,0.659587046845942,1,1,en,EAU,Oceania
 '6e5ee2d1d0',extremes,Snow&Ice,#d60d2b,wmo,Freezing Sierra Madre Range Snowy Range,2024-12-31T03:02:00+00:00,United States,0.6594695845568567,0,2,en,CNA,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2024-12-09T03:28:00+00:00,United States,0.6594503622419117,1,2,en,CNA,North-America
 'f112e38c5d',extremes,Snow&Ice,#d60d2b,wmo,Freezing Western Highland,2025-01-03T03:03:00+00:00,United States,0.6594345486404974,0,2,en,CNA,North-America
