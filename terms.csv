@@ -4,10 +4,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '99bb6d68cd',extremes,Flood,#030ba1,wmo,Flood Luxembourg,2025-01-06T03:08:00+00:00,Luxembourg,0.7952444904950996,1,2,en,WCE,Europe
 'e398607be2',extremes,Wildfire,#d60d2b,fema,California Palisades Fire,2025-01-09T03:27:00+00:00,United States,0.7672572241222702,1,3,en,WNA,North-America
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire New South Wales,2024-12-19T03:11:00+00:00,Australia,0.7671122180618678,1,2,en,EAU,Oceania
-'2e5d011ec9',extremes,Heat Wave,#c40202,wmo,Heat Wave Monte Caseros y alrededores,2025-01-21T02:59:00+00:00,Argentina,0.7613942755648166,0,2,en,SES,South-America
-'20d3210be7',extremes,Heat Wave,#c40202,wmo,Heat Wave Bernardo De Irigoyen y alrededores,2025-01-21T02:59:00+00:00,Argentina,0.7612026900258293,0,2,en,SES,South-America
-'8abdb9b5f3',extremes,Landslide,#572c03,wmo,Rockslide Norway,2025-01-14T02:57:00+00:00,Norway,0.7593550522786404,0,2,en,NEU,Europe
-'90f3febd66',extremes,Storm,#b3b2b1,eswd,Severe Wind Iceland,2025-01-16T02:59:00+00:00,Iceland,0.7593008894778388,0,2,en,GIC,Europe
 '19b500f580',extremes,Storm,#b3b2b1,wmo,Storm Borkou et Kanem.,2025-01-21T02:59:00+00:00,Chad,0.7588575677291157,0,2,en,SAH,Africa
 'a8ca9eb019',extremes,Precipitation,#d60d2b,wmo,Rain Libya,2025-01-16T02:59:00+00:00,Libya,0.75876609528819,0,2,en,SAH,Africa
 'a105196829',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Gisborne Tairawhiti,2025-01-21T02:59:00+00:00,New Zealand,0.7584754265037872,0,2,en,NZ,Oceania
@@ -2681,6 +2677,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a98a89169',extremes,Heat Wave,#c40202,wmo,Heat Wave San Salvador De Jujuy y alrededores,2024-12-28T03:01:00+00:00,Argentina,0.6470541327487966,1,1,en,SES,South-America
 'b8f12edd6d',extremes,Thunderstorm,#53785a,wmo,Severe Weather Waimakariri,2024-12-25T03:01:00+00:00,New Zealand,0.6470472529632227,1,1,en,NZ,Oceania
 'bd8c8650ea',extremes,Earthquake,#870007,usgs,Earthquake El Aguilar,2025-01-04T03:01:00+00:00,Argentina,0.6470336690506502,0,2,en,SES,South-America
+'20d3210be7',extremes,Heat Wave,#c40202,wmo,Heat Wave Bernardo De Irigoyen y alrededores,2025-01-21T02:59:00+00:00,Argentina,0.6470222865219549,1,1,en,SES,South-America
 '76b9b0f904',extremes,Thunderstorm,#53785a,wmo,Severe Weather Jordan,2025-01-06T03:08:00+00:00,Jordan,0.6470217762163242,1,1,en,MED,Asia
 '590328790b',extremes,Wildfire,#d60d2b,wmo,Wildfire Lushan City,2025-01-20T03:01:00+00:00,China,0.6470080357844514,1,1,en,EAS,Asia
 '3672730756',extremes,Storm,#b3b2b1,wmo,Storm Surge Door,2024-12-05T03:25:00+00:00,United States,0.6469985873677125,0,2,en,CNA,North-America
@@ -2837,8 +2834,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b875d9331f',extremes,Storm,#b3b2b1,wmo,Storm Surge Stephens Passage,2024-12-11T03:24:00+00:00,United States,0.6454788358018734,1,1,en,CNA,North-America
 '38e291c515',extremes,Fog,#d60d2b,wmo,Fog Tula Region,2025-01-11T03:04:00+00:00,Russia,0.6454648131040162,0,2,en,ESB,Europe
 '500be48ccd',extremes,Storm,#b3b2b1,wmo,Storm Interstate 5 Corridor,2024-12-27T03:03:00+00:00,United States,0.645452480372904,0,2,en,CNA,North-America
+'8abdb9b5f3',extremes,Landslide,#572c03,wmo,Rockslide Norway,2025-01-14T02:57:00+00:00,Norway,0.6454517944368443,1,1,en,NEU,Europe
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,Downpour Saudi Arabia,2025-01-02T03:02:00+00:00,Saudi Arabia,0.6454423554833023,1,1,en,ARP,Asia
 '8bd48e7016',extremes,Storm,#b3b2b1,wmo,Storm Litoral y Sierra,2024-12-19T03:11:00+00:00,Ecuador,0.6454192330352433,1,1,en,NWS,South-America
+'90f3febd66',extremes,Storm,#b3b2b1,eswd,Severe Wind Iceland,2025-01-16T02:59:00+00:00,Iceland,0.645405816056163,1,1,en,GIC,Europe
 'e14dfef45b',extremes,Earthquake,#870007,usgs,Earthquake Yinchuan,2025-01-03T03:03:00+00:00,China,0.645351710762633,0,2,en,ECA,Asia
 '1c7c99733a',extremes,Storm,#b3b2b1,wmo,Storm EL TARF,2024-12-24T03:03:00+00:00,Algeria,0.6453452966005402,1,1,en,SAH,Africa
 'a4621aa6e9',extremes,Storm,#b3b2b1,wmo,Storm Reg. 11 Patagonia Subandina Sur,2024-12-17T03:15:00+00:00,Chile,0.645342166266905,1,1,en,SWS,South-America
