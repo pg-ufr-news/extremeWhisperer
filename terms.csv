@@ -1,10 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '11f89f18b1',extremes,Precipitation,#d60d2b,relief,Flash Flood Malaysia,2024-12-20T03:03:00+00:00,Malaysia,0.815180694899855,1,2,en,SEA,Asia
-'3ff8557d06',extremes,Iceberg,#d60d2b,eonet,Iceberg C29,2025-01-27T03:00:00+00:00,,0.7990157721420998,0,2,en,EAN,
-'937fcc815e',extremes,Iceberg,#d60d2b,eonet,Iceberg A23B,2025-02-04T02:59:00+00:00,,0.7967234068479607,0,2,en,SOO,Antarctica
-'886ce9976a',extremes,Iceberg,#d60d2b,eonet,Iceberg A84,2025-02-04T02:59:00+00:00,Antarctica,0.7963374224725859,0,2,en,WAN,Antarctica
 '99bb6d68cd',extremes,Flood,#030ba1,wmo,Flood Luxembourg,2025-01-06T03:08:00+00:00,Luxembourg,0.7952444904950996,1,2,en,WCE,Europe
-'d895d6a571',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Taliah,2025-02-03T03:01:00+00:00,,0.7888643335676537,0,2,en,NAU,Oceania
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2025-01-26T12:05:00+00:00,Australia,0.7882818595002815,0,2,en,NAU,Oceania
 '8bc78a3be4',extremes,Drought,#edc291,edo,Lack of Rain Lebanon,2025-01-26T13:47:00+00:00,Lebanon,0.7849955763466749,0,2,en,MED,Asia
 '44211c95de',extremes,Flood,#030ba1,aidr,flooding Australia,2025-01-22T03:02:00+00:00,Australia,0.7831092588851125,0,2,en,SAU,Oceania
@@ -2141,6 +2137,7 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'a0cbd8b083',extremes,Storm,#b3b2b1,wmo,Storm Surge Bay of Bothnia,2024-12-31T03:02:00+00:00,Sweden,0.6773242630246177,0,2,en,NEU,Europe
 '135f8534c2',extremes,Precipitation,#d60d2b,random,more precipitation,2024-12-16T03:27:00+00:00,,0.6772972298907272,0,2,en,,
 'ab454ede6b',extremes,Storm,#b3b2b1,wmo,Storm Surge Trnava,2025-01-09T03:27:00+00:00,Slovakia,0.6772711699368344,0,2,en,WCE,Europe
+'937fcc815e',extremes,Iceberg,#d60d2b,eonet,Iceberg A23B,2025-02-04T02:59:00+00:00,,0.6772148958207665,1,1,en,SOO,Antarctica
 'd240ddad36',extremes,Snow&Ice,#d60d2b,wmo,Frost Helgeland,2025-01-22T03:02:00+00:00,Norway,0.6772050866021366,0,2,en,NEU,Europe
 'baca832dc8',extremes,Storm,#b3b2b1,wmo,Storm Pentwater to Manistee MI,2025-01-26T12:05:00+00:00,United States,0.6771784715113205,0,2,en,CNA,North-America
 '9436b23234',extremes,Drought,#edc291,edo,Dryness Cabo Verde,2025-01-28T02:59:00+00:00,Cabo Verde,0.6771252510385904,0,2,en,NAO,Atlantic Ocean
@@ -2157,6 +2154,7 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '57d1a20c3a',extremes,Earthquake,#870007,usgs,Earthquake south of the Mariana Islands,2025-01-24T03:00:00+00:00,,0.6769467621755855,0,2,en,NPO,Pacific Ocean
 '4bb5ab7521',extremes,Snow&Ice,#d60d2b,wmo,Snow Northeast Prince William Sound,2025-01-05T03:08:00+00:00,United States,0.6769262772762998,0,2,en,CNA,North-America
 '86e9bd61ef',extremes,Storm,#b3b2b1,wmo,Storm Surge Keweenaw Houghton,2025-01-26T03:01:00+00:00,United States,0.6769142522075786,0,2,en,CNA,North-America
+'886ce9976a',extremes,Iceberg,#d60d2b,eonet,Iceberg A84,2025-02-04T02:59:00+00:00,Antarctica,0.676886809101698,1,1,en,WAN,Antarctica
 '217d4371b5',extremes,Snow&Ice,#d60d2b,wmo,Freezing Hallingdal,2025-01-26T03:01:00+00:00,Norway,0.6768248552558417,0,2,en,NEU,Europe
 '7c5438f941',extremes,Precipitation,#d60d2b,wmo,Precipitation Lithuania,2025-01-05T03:08:00+00:00,Lithuania,0.6768097441960529,0,2,en,WCE,Europe
 'd38c44a8e6',extremes,Snow&Ice,#d60d2b,wmo,Snow San Diego County Mountains,2025-01-25T02:55:00+00:00,United States,0.6766605870319108,0,2,en,CNA,North-America
@@ -2359,6 +2357,7 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'd941c126d6',extremes,Drought,#edc291,edo,Dry Spell Ireland,2025-01-26T13:47:00+00:00,Ireland,0.6706443986384093,0,2,en,NEU,Europe
 'd069a2d5f4',extremes,Snow&Ice,#d60d2b,wmo,Frost Zlínský kraj,2024-12-28T03:01:00+00:00,Czechia,0.6706247302468427,0,2,en,WCE,Europe
 '50b49cd97b',extremes,Drought,#edc291,edo,Drought French Polynesia,2025-01-26T15:41:00+00:00,French Polynesia,0.6705606200669234,0,2,en,SPO,Pacific Ocean
+'d895d6a571',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Taliah,2025-02-03T03:01:00+00:00,,0.6705346835325057,1,1,en,NAU,Oceania
 '82c2f9a8b1',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Kriti,2024-12-26T03:03:00+00:00,Greece,0.6705281168147964,0,2,en,MED,Europe
 'da50c9766d',extremes,Fog,#d60d2b,wmo,Fog Kittitas Valley,2025-01-07T03:06:00+00:00,United States,0.6704945305176491,0,2,en,CNA,North-America
 '901d7b1712',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Yuyang District,2024-12-20T03:04:00+00:00,China,0.6704357772834668,0,2,en,EAS,Asia
