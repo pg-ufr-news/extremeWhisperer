@@ -3,10 +3,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '99bb6d68cd',extremes,Flood,#030ba1,wmo,Flood Luxembourg,2025-01-06T03:08:00+00:00,Luxembourg,0.7952444904950996,1,2,en,WCE,Europe
 '0548444ce0',extremes,Iceberg,#d60d2b,eonet,Iceberg A23A,2024-12-18T03:10:00+00:00,Antarctica,0.7791925869396806,1,3,en,EAN,Antarctica
 '7c312cce8f',extremes,Earthquake,#870007,usgs,Earthquake Nepal,2024-12-21T03:01:00+00:00,Nepal,0.7728381324544306,1,3,en,TIB,Asia
-'4bd633f474',extremes,Drought,#edc291,edo,Dryness Republic of the Congo,2025-02-04T03:00:00+00:00,Republic of the Congo,0.768836033885204,0,2,en,CAF,Africa
 'e398607be2',extremes,Wildfire,#d60d2b,fema,California Palisades Fire,2025-01-09T03:27:00+00:00,United States,0.7672572241222702,1,3,en,WNA,North-America
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire New South Wales,2024-12-19T03:11:00+00:00,Australia,0.7671122180618678,1,2,en,EAU,Oceania
-'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2025-01-30T02:57:00+00:00,United States,0.7649055262828902,0,2,en,CNA,North-America
 '93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,typhoon Australia,2025-01-28T02:59:00+00:00,Australia,0.7629768429968216,0,2,en,NAU,Oceania
 '5472bbf665',extremes,Drought,#edc291,edo,Lack of Rain Morocco,2025-02-04T03:00:00+00:00,Morocco,0.7616634512571571,0,2,en,MED,Africa
 '44bc9641af',extremes,Tropical Cyclone,#4f4f4f,relief,Hurricane Mozambique,2025-01-26T12:04:00+00:00,Mozambique,0.7603759019557089,0,2,en,ESAF,Africa
@@ -2828,7 +2826,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '397466b44a',extremes,Storm,#b3b2b1,aidr,Tornado Bundaberg Queensland 2013,2025-01-06T03:08:00+00:00,Australia,0.6582714266592368,1,1,en,EAU,Oceania
 'fff5703c91',extremes,Drought,#edc291,edo,Drought Heard Island and McDonald Islands,2025-01-26T15:41:00+00:00,Heard Island and McDonald Islands,0.6582702308898402,0,2,en,SOO,Antarctica
 '02920a9a7f',extremes,Precipitation,#d60d2b,relief,Flash Flood Somalia,2025-01-14T02:57:00+00:00,Somalia,0.6582544846772971,1,1,en,NEAF,Africa
-'1d6da9893b',extremes,Heat Wave,#c40202,wmo,Heat Wave Junin y alrededores,2024-12-25T03:01:00+00:00,Argentina,0.6582429749093206,1,1,en,SES,South-America
 '7f4eba989c',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Luhe,2025-01-14T02:57:00+00:00,China,0.6582348486714236,0,2,en,EAS,Asia
 '5a6eb0fa53',extremes,Wildfire,#d60d2b,wmo,Wildfire Huichang County,2025-01-20T03:01:00+00:00,China,0.6582328162347323,1,1,en,EAS,Asia
 '98db96b6de',extremes,Drought,#edc291,edo,Drought Lithuania,2025-02-02T03:01:00+00:00,Lithuania,0.6582255564318072,1,1,en,WCE,Europe
@@ -2955,6 +2952,7 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'dcdac8f9ae',extremes,Storm,#b3b2b1,wmo,Storm Southern Cook North Shore,2025-01-12T03:10:00+00:00,United States,0.6552295801347804,0,2,en,CNA,North-America
 '5575511414',extremes,Snow&Ice,#d60d2b,wmo,Snow South Central Oregon Coast,2025-01-25T02:55:00+00:00,United States,0.6552170678695456,0,2,en,CNA,North-America
 '0e27a49222',extremes,Fog,#d60d2b,wmo,Fog Western coastal zone,2024-12-26T03:03:00+00:00,Poland,0.6551802226193375,0,2,en,WCE,Europe
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2025-01-30T02:57:00+00:00,United States,0.6551229673404567,1,3,en,CNA,North-America
 'b48acb1308',extremes,Storm,#b3b2b1,wmo,Storm Central Panhandle Mountains,2024-12-30T03:06:00+00:00,United States,0.6551193330017601,0,2,en,CNA,North-America
 '7b613c8630',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Primorsky Krai,2025-02-03T03:01:00+00:00,Russia,0.655096460418286,0,2,en,ESB,Europe
 '541b9930a2',extremes,Storm,#b3b2b1,wmo,Storm Surge Liechtenstein,2024-12-24T03:03:00+00:00,Switzerland,0.6550541830517917,0,2,en,WCE,Europe
@@ -3312,19 +3310,16 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '9ceb123618',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Jotunheimen,2025-01-20T03:01:00+00:00,Norway,0.6487244376649368,0,2,en,NEU,Europe
 '1e90dd59dc',extremes,Thunderstorm,#53785a,wmo,Hail Oeste de A Coruña,2025-01-29T02:58:00+00:00,Spain,0.6486801124577621,0,2,en,MED,Europe
 '40af129c4e',extremes,Snow&Ice,#d60d2b,wmo,Snow Bitterroot Sapphire Mountains,2024-12-18T03:10:00+00:00,United States,0.6486768271776722,0,2,en,CNA,North-America
-'7880ba9b8b',extremes,Heat Wave,#c40202,wmo,Heat Wave San Martin y alrededores,2024-12-25T03:01:00+00:00,Argentina,0.6486473533032919,1,1,en,SES,South-America
 '5022b8333d',extremes,Snow&Ice,#d60d2b,wmo,Ice Northern Herkimer Hamilton,2025-01-26T15:41:00+00:00,United States,0.6486304330058651,0,2,en,CNA,North-America
 'e551102071',extremes,Earthquake,#870007,usgs,Earthquake Vanuatu,2025-01-19T03:03:00+00:00,Vanuatu,0.6486277720214285,1,1,en,SPO,Pacific Ocean
 '6798e95667',extremes,Drought,#edc291,edo,Dry Spell Rwanda,2025-01-26T15:41:00+00:00,Rwanda,0.6486046196026884,0,2,en,SEAF,Africa
 '8963ce8f57',extremes,Snow&Ice,#d60d2b,wmo,Freezing Upper Yampa River Basin,2025-01-26T03:01:00+00:00,United States,0.6485795478500974,0,2,en,CNA,North-America
 '8cc3ab74be',extremes,Storm,#b3b2b1,wmo,Storm Bex Villars,2024-12-22T03:08:00+00:00,Switzerland,0.6485707668309476,0,2,en,WCE,Europe
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2025-01-06T03:08:00+00:00,New Zealand,0.6485589738447496,1,2,en,NZ,Oceania
-'b7d0aac465',extremes,Heat Wave,#c40202,wmo,Heat Wave San Rafael y alrededores,2024-12-25T03:01:00+00:00,Argentina,0.6485573277979979,1,1,en,SES,South-America
 'b376c4667f',extremes,Storm,#b3b2b1,wmo,Storm Eagle River to Manitou Island MI,2024-12-30T03:06:00+00:00,United States,0.6485321933615054,0,2,en,CNA,North-America
 'cd28fc481a',extremes,Fog,#d60d2b,wmo,Fog Greece,2025-01-23T03:00:00+00:00,Greece,0.648523468214358,1,1,en,MED,Europe
 '6653d205b8',extremes,Heat Wave,#c40202,wmo,Heat Wave Marcos Juarez y alrededores,2024-12-26T03:03:00+00:00,Argentina,0.6485119677397359,1,1,en,SES,South-America
 'c0757950ac',extremes,Storm,#b3b2b1,wmo,Storm Surge Arkhangelsk Region,2024-12-22T03:08:00+00:00,Russia,0.6485086207456239,0,2,en,ESB,Europe
-'7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm New Zealand,2024-12-25T03:01:00+00:00,New Zealand,0.6485044162356238,1,1,en,NZ,Oceania
 '58cfb54ba1',extremes,Snow&Ice,#d60d2b,wmo,Snow Minsk Region,2025-01-14T02:57:00+00:00,Belarus,0.6484947660475533,0,2,en,WCE,Europe
 'aa115b112f',extremes,Snow&Ice,#d60d2b,wmo,Ice Małopolskie Province Olkuski County,2025-01-11T03:04:00+00:00,Poland,0.6484891054521504,0,2,en,WCE,Europe
 'f923454bc6',extremes,Drought,#edc291,edo,Drought Anguilla,2025-01-26T15:41:00+00:00,Anguilla,0.6484681950124043,0,2,en,CAR,North-America
@@ -3343,12 +3338,10 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'f2e98fe1a2',extremes,Storm,#b3b2b1,wmo,Storm Surge Tromsoeflaket,2025-01-12T03:10:00+00:00,Norway,0.6482155265803187,0,2,en,NEU,Europe
 'eb38d8fb8a',extremes,Storm,#b3b2b1,wmo,Storm Surge Santa Lucia Mountains,2024-12-18T03:10:00+00:00,United States,0.6482102771385795,0,2,en,CNA,North-America
 'df3b9290a1',extremes,Earthquake,#870007,usgs,Earthquake Maketu,2024-12-19T03:11:00+00:00,New Zealand,0.6481987178756664,0,2,en,NZ,Oceania
-'ee23d47ac0',extremes,Heat Wave,#c40202,wmo,Heat Wave Rio Cuarto y alrededores,2024-12-25T03:01:00+00:00,Argentina,0.6481979347632427,1,1,en,SES,South-America
 '9b59bee21e',extremes,Drought,#edc291,edo,Dry Spell Poland,2025-01-26T15:41:00+00:00,Poland,0.6481923919331608,0,2,en,WCE,Europe
 '9cc89a0eb0',extremes,Storm,#b3b2b1,wmo,Storm Reg. 9 Cordillera,2024-12-27T03:03:00+00:00,Chile,0.648190661653277,1,1,en,SWS,South-America
 '13646833f0',extremes,Thunderstorm,#53785a,wmo,Hail Malawi,2024-12-25T03:01:00+00:00,Malawi,0.6481658041549634,1,2,en,ESAF,Africa
 '9fe937a090',extremes,Cold Wave,#a7e9fa,wmo,Freezing Hongta,2025-01-12T03:10:00+00:00,China,0.6481624291314984,0,2,en,EAS,Asia
-'01f0f04dd7',extremes,Heat Wave,#c40202,wmo,Heat Wave Caba y alrededores,2024-12-25T03:01:00+00:00,Argentina,0.6481604561265,1,1,en,SES,South-America
 'd0cf6dbaff',extremes,Storm,#b3b2b1,wmo,Storm Western Highland,2025-01-04T12:04:00+00:00,United States,0.6481492865078676,0,2,en,CNA,North-America
 '25902e48eb',extremes,Storm,#b3b2b1,wmo,Storm Territorio nacional.,2025-01-03T03:03:00+00:00,Paraguay,0.648148809324333,1,1,en,SES,South-America
 '9fc6ece460',extremes,Storm,#b3b2b1,wmo,Storm Poniente y Almería Capital,2025-01-26T12:05:00+00:00,Spain,0.6481470746864572,0,2,en,MED,Europe
@@ -3367,7 +3360,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '8a012fdb17',extremes,Snow&Ice,#d60d2b,wmo,Ice Coeur d'Alene Area,2024-12-30T03:06:00+00:00,United States,0.648028221270965,0,2,en,CNA,North-America
 '42ca44c6ea',extremes,Earthquake,#870007,usgs,Earthquake Kariba,2024-12-20T03:04:00+00:00,Zimbabwe,0.647989558589773,0,2,en,ESAF,Africa
 'a04eacd43d',extremes,Snow&Ice,#d60d2b,wmo,Frost Cass,2025-01-19T03:03:00+00:00,United States,0.6479887343899269,0,2,en,CNA,North-America
-'27f0378dc6',extremes,Storm,#b3b2b1,wmo,Storm Interandina y Amazonía,2024-12-25T03:01:00+00:00,Ecuador,0.6479883302159327,1,1,en,NWS,South-America
 'f7437c469c',extremes,Storm,#b3b2b1,wmo,Storm Centro de Navarra,2025-01-26T17:07:00+00:00,Spain,0.6479649970460778,0,2,en,MED,Europe
 '182ce4e2f4',extremes,Storm,#b3b2b1,wmo,Storm Surge Roervik Bodoe,2025-01-02T03:02:00+00:00,Norway,0.6479458982319067,0,2,en,NEU,Europe
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,Wildfire South Africa,2024-12-29T03:09:00+00:00,South Africa,0.6479218857317666,1,1,en,WSAF,Africa
@@ -3417,7 +3409,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '6c435b8785',extremes,Storm,#b3b2b1,wmo,Storm Surge offshore Morant Bank area,2025-01-04T12:04:00+00:00,Jamaica,0.647437854900594,1,1,en,CAR,North-America
 'e7db391dce',extremes,Storm,#b3b2b1,wmo,Storm Surge Costa Rica,2025-01-24T03:00:00+00:00,Costa Rica,0.6474124405720423,1,1,en,SCA,North-America
 '26a63b2a8e',extremes,Drought,#edc291,edo,Dry Spell Saint Lucia,2025-01-26T15:41:00+00:00,Saint Lucia,0.6474107206748937,0,2,en,CAR,North-America
-'e2082c3612',extremes,Storm,#b3b2b1,wmo,Storm Surge South Iceland,2024-12-25T03:01:00+00:00,Iceland,0.6473923652185154,1,1,en,GIC,Europe
 '325a7b8b17',extremes,Precipitation,#d60d2b,wmo,Downpour Litoral y Sierra,2025-01-26T17:07:00+00:00,Ecuador,0.6473897861700544,1,1,en,NWS,South-America
 '69840e877f',extremes,Storm,#b3b2b1,wmo,Storm Bulgaria,2024-12-24T03:03:00+00:00,Bulgaria,0.64738092517718,1,2,en,MED,Europe
 '60c561f711',extremes,Thunderstorm,#53785a,wmo,Severe Weather New Zealand,2024-12-30T03:06:00+00:00,New Zealand,0.647371097471913,1,1,en,NZ,Oceania
@@ -3444,7 +3435,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '57fbd56698',extremes,Snow&Ice,#d60d2b,wmo,Ice Livno,2024-12-29T03:09:00+00:00,Bosnia and Herzegovina,0.6472572024305091,0,2,en,MED,Europe
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,Rain Seychelles,2025-01-06T03:08:00+00:00,Seychelles,0.6472456621745113,1,1,en,EIO,Africa
 'c3967014ee',extremes,Precipitation,#d60d2b,wmo,Downpour Tasman District west of Motueka,2025-01-26T03:01:00+00:00,New Zealand,0.647230350418359,1,1,en,NZ,Oceania
-'f5a2d5a69a',extremes,Storm,#b3b2b1,wmo,Storm على بعض مناطق الشمال لليبيا.,2024-12-25T03:01:00+00:00,Libya,0.6472259336001678,1,1,en,SAH,Africa
 'feb324a9d7',extremes,Drought,#edc291,relief,Drought Thailand,2024-12-24T03:02:00+00:00,Thailand,0.6472090765112339,0,2,en,SEA,Asia
 '2e5d011ec9',extremes,Heat Wave,#c40202,wmo,Heat Wave Monte Caseros y alrededores,2025-01-21T02:59:00+00:00,Argentina,0.6471851342300942,1,1,en,SES,South-America
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,Storm Trinidad and Tobago,2025-01-02T03:02:00+00:00,Trinidad and Tobago,0.6471568070243549,1,1,en,NSA,North-America
@@ -3457,7 +3447,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '7bd21aa385',extremes,Precipitation,#d60d2b,wmo,Precipitation Litoral e Interandina,2024-12-27T03:03:00+00:00,Ecuador,0.6470733550811593,1,1,en,NWS,South-America
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,Thunderstorm South Africa,2025-01-15T02:59:00+00:00,South Africa,0.6470575165991417,1,1,en,WSAF,Africa
 '3a98a89169',extremes,Heat Wave,#c40202,wmo,Heat Wave San Salvador De Jujuy y alrededores,2024-12-28T03:01:00+00:00,Argentina,0.6470541327487966,1,1,en,SES,South-America
-'b8f12edd6d',extremes,Thunderstorm,#53785a,wmo,Severe Weather Waimakariri,2024-12-25T03:01:00+00:00,New Zealand,0.6470472529632227,1,1,en,NZ,Oceania
 'bd8c8650ea',extremes,Earthquake,#870007,usgs,Earthquake El Aguilar,2025-01-04T03:01:00+00:00,Argentina,0.6470336690506502,0,2,en,SES,South-America
 '247bcedc95',extremes,Thunderstorm,#53785a,wmo,Hail Cyprus,2025-01-26T03:01:00+00:00,Cyprus,0.6470291040146007,1,1,en,MED,Europe
 '20d3210be7',extremes,Heat Wave,#c40202,wmo,Heat Wave Bernardo De Irigoyen y alrededores,2025-01-21T02:59:00+00:00,Argentina,0.6470222865219549,1,1,en,SES,South-America
@@ -3473,7 +3462,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'dc8be80c47',extremes,Drought,#edc291,edo,Dryness Faroe Islands,2025-01-26T15:41:00+00:00,Faroe Islands,0.6469200413517605,1,1,en,NEU,Europe
 '170c9d7204',extremes,Precipitation,#d60d2b,wmo,Rain Tasman District west of Motueka,2025-01-24T03:00:00+00:00,New Zealand,0.6469074947423767,1,1,en,NZ,Oceania
 '1a5e4bce35',extremes,Drought,#edc291,edo,Lack of Rain Kuwait,2025-01-26T15:41:00+00:00,Kuwait,0.6469037124471544,0,2,en,ARP,Asia
-'6f63d9686c',extremes,Storm,#b3b2b1,wmo,Storm Surge Selwyn Ashburton,2024-12-25T03:01:00+00:00,New Zealand,0.6468717716772255,1,1,en,NZ,Oceania
 '29ea515460',extremes,Storm,#b3b2b1,wmo,Storm Eswatini,2025-01-12T03:10:00+00:00,Eswatini,0.6468584805290745,1,1,en,ESAF,Africa
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,Precipitation Ecuador,2025-01-08T03:06:00+00:00,Ecuador,0.6468240575286325,1,2,en,NWS,South-America
 '773591bc1f',extremes,Wildfire,#d60d2b,wmo,Wildfire Khâi Ma Pofadder,2025-01-26T12:51:00+00:00,South Africa,0.6468086830874304,1,1,en,WSAF,Africa
@@ -3520,7 +3508,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,Downpour Argentina,2024-12-30T03:06:00+00:00,Argentina,0.6465473681304226,1,2,en,SES,South-America
 '669b358a51',extremes,Drought,#edc291,edo,Lack of Rain Algeria,2025-01-26T15:41:00+00:00,Algeria,0.646537756489908,0,2,en,SAH,Africa
 '3cfd502555',extremes,Storm,#b3b2b1,wmo,Storm Reg. 3 Cordillera,2025-01-12T03:10:00+00:00,Chile,0.6465318213232008,1,1,en,SWS,South-America
-'f3a858ce47',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Hunedoara,2024-12-25T03:01:00+00:00,Romania,0.646525357880456,1,1,en,WCE,Europe
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2025-01-22T03:02:00+00:00,Australia,0.6465249156051489,1,1,en,NAU,Oceania
 'c988798ce9',extremes,Thunderstorm,#53785a,wmo,Severe Weather Puglia,2025-01-19T03:03:00+00:00,Italy,0.6465249085095788,0,2,en,MED,Europe
 '4056a58c24',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Feng Lin County,2025-01-20T03:01:00+00:00,China,0.6465127918202108,0,2,en,EAS,Asia
@@ -3548,7 +3535,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '8df18a8426',extremes,Fog,#d60d2b,wmo,Fog Krasnodar Krai,2025-01-09T03:27:00+00:00,Russia,0.6462681339953147,1,1,en,ESB,Europe
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,Precipitation Saudi Arabia,2024-12-24T03:03:00+00:00,Saudi Arabia,0.6462625117966424,1,2,en,ARP,Asia
 '79a70d20fa',extremes,Storm,#b3b2b1,wmo,Storm Surge Cross Sound,2025-01-03T03:03:00+00:00,United States,0.6462620359610052,1,2,en,CNA,North-America
-'53a3b26e9d',extremes,Snow&Ice,#d60d2b,wmo,Freezing North Macedonia,2024-12-25T03:01:00+00:00,North Macedonia,0.6462550296952775,1,1,en,MED,Europe
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,Storm Surge Ecuador,2025-01-25T02:55:00+00:00,Ecuador,0.6462482983215951,1,1,en,NWS,South-America
 '3738ea4320',extremes,Precipitation,#d60d2b,wmo,Precipitation Uruguay,2025-01-25T02:55:00+00:00,Uruguay,0.646247945853223,1,1,en,SES,South-America
 'ffcbb36b12',extremes,Storm,#b3b2b1,wmo,Storm Surge Litoral,2025-01-16T02:59:00+00:00,Ecuador,0.6462373185220408,1,1,en,NWS,South-America
@@ -3577,13 +3563,11 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'd9841057f0',extremes,Fog,#d60d2b,wmo,Fog Irkutsk Region,2025-01-31T02:59:00+00:00,Russia,0.6460241736752214,1,1,en,ESB,Europe
 'c8bb6fdebe',extremes,Snow&Ice,#d60d2b,wmo,Frost Latvia,2025-01-04T03:02:00+00:00,Latvia,0.646017556285629,1,1,en,WCE,Europe
 'a8ca9eb019',extremes,Precipitation,#d60d2b,wmo,Rain Libya,2025-01-16T02:59:00+00:00,Libya,0.6460012859949614,1,2,en,SAH,Africa
-'bad96a5f0d',extremes,Storm,#b3b2b1,wmo,Storm Surge Litoral e Interandina,2024-12-25T03:01:00+00:00,Ecuador,0.6459767455375489,1,1,en,NWS,South-America
 '278c0845bf',extremes,Storm,#b3b2b1,wmo,Storm Surge Podkarpackie Province Leski County,2025-01-26T12:51:00+00:00,Poland,0.6459741233652613,0,2,en,WCE,Europe
 '4178569bd4',extremes,Storm,#b3b2b1,wmo,Storm Surge Guarda,2025-01-26T12:51:00+00:00,Portugal,0.6459739302562427,0,2,en,MED,Europe
 '94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,Snow Italy,2025-01-06T03:08:00+00:00,Italy,0.6459701999186206,0,2,en,MED,Europe
 '310d58e1f4',extremes,Storm,#b3b2b1,wmo,Storm Valle del Almanzora y Los Vélez,2025-01-25T02:55:00+00:00,Spain,0.6459686792904834,0,2,en,MED,Europe
 '0f760e43a0',extremes,Storm,#b3b2b1,wmo,Storm DJELFA,2025-01-13T03:09:00+00:00,Algeria,0.6459584691499749,1,1,en,SAH,Africa
-'02182a45fe',extremes,Storm,#b3b2b1,wmo,Storm ANNABA,2024-12-25T03:01:00+00:00,Algeria,0.6459518497771568,1,1,en,SAH,Africa
 '30f1b4395e',extremes,Drought,#edc291,edo,Lack of Rain Palau,2025-01-26T15:41:00+00:00,Palau,0.6459434898665126,0,2,en,EPO,Pacific Ocean
 'bb898697db',extremes,Snow&Ice,#d60d2b,wmo,Freezing Wayne Northern Cayuga,2025-01-30T02:57:00+00:00,United States,0.645939391775399,0,2,en,CNA,North-America
 '2acefbf5a6',extremes,Storm,#b3b2b1,wmo,Storm Surge Borkou Kanem,2025-01-03T03:03:00+00:00,Chad,0.645939156377306,1,1,en,SAH,Africa
@@ -3610,7 +3594,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '9eb5a99ae8',extremes,Fog,#d60d2b,wmo,Fog Dallam Hartley,2025-01-05T03:08:00+00:00,United States,0.645779064700439,0,2,en,CNA,North-America
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,Precipitation Italy,2024-12-18T03:10:00+00:00,Italy,0.645776295226449,0,2,en,MED,Europe
 '1072d8645f',extremes,Snow&Ice,#d60d2b,wmo,Frost Central Mountains,2024-12-26T03:03:00+00:00,United States,0.6457446127843345,0,2,en,CNA,North-America
-'372f6d8ad2',extremes,Heat Wave,#c40202,wmo,Heat Wave Tres Arroyos y alrededores,2024-12-25T03:01:00+00:00,Argentina,0.6457199781744324,1,1,en,SES,South-America
 'db0dc2e604',extremes,Precipitation,#d60d2b,wmo,Precipitation Seychelles,2025-01-23T03:00:00+00:00,Seychelles,0.6457136786490113,1,1,en,EIO,Africa
 '8913aeaf64',extremes,Storm,#b3b2b1,wmo,Storm Litoral e Interandina,2024-12-28T03:01:00+00:00,Ecuador,0.6457041536522081,1,1,en,NWS,South-America
 '8048361561',extremes,Storm,#b3b2b1,wmo,Storm Surge Llanada alavesa,2025-01-26T12:51:00+00:00,Spain,0.6456725926410104,0,2,en,MED,Europe
@@ -3729,7 +3712,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '2c1a87443b',extremes,Storm,#b3b2b1,wmo,Storm Zagreb region,2025-01-10T03:07:00+00:00,Croatia,0.6444753008692706,0,2,en,WCE,Europe
 '7cafed879f',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Butte Blackfoot Region,2025-01-04T12:04:00+00:00,United States,0.6444611935108375,0,2,en,CNA,North-America
 '9d0789cc32',extremes,Storm,#b3b2b1,wmo,Storm Surge Ocracoke Island Hatteras Island,2024-12-29T03:09:00+00:00,United States,0.6444588270626308,0,2,en,CNA,North-America
-'1907509366',extremes,Tropical Cyclone,#4f4f4f,aidr,Tropical cyclone Hilda Broome 2017,2024-12-25T03:02:00+00:00,Australia,0.6444302531048979,1,1,en,NAU,Oceania
 'ad46644b55',extremes,Storm,#b3b2b1,wmo,Storm St Joseph to South Haven MI,2024-12-31T03:02:00+00:00,United States,0.6444296428182663,0,2,en,CNA,North-America
 '4c4860af5d',extremes,Cold Wave,#a7e9fa,wmo,Freezing Zhungeer Qi,2024-12-20T03:04:00+00:00,China,0.6443864519246838,0,2,en,EAS,Asia
 '3bd493a99f',extremes,Snow&Ice,#d60d2b,wmo,Freezing Okanogan Highlands,2025-01-31T02:59:00+00:00,United States,0.6443854178690921,0,2,en,CNA,North-America
@@ -3764,7 +3746,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '66a97dae0b',extremes,Storm,#b3b2b1,wmo,Storm Costa Levante almeriense,2025-01-04T12:04:00+00:00,Spain,0.6440310493707183,0,2,en,MED,Europe
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,Storm Uruguay,2025-01-24T03:00:00+00:00,Uruguay,0.6440254338308469,1,1,en,SES,South-America
 '785dd66d15',extremes,Snow&Ice,#d60d2b,wmo,Snow Bulgaria,2024-12-25T03:01:00+00:00,Bulgaria,0.6440078789422349,1,2,en,MED,Europe
-'2876c1c93a',extremes,Landslide,#572c03,wmo,Mudslide Norway,2024-12-25T03:01:00+00:00,Norway,0.6440070476659325,1,1,en,NEU,Europe
 '68b19d4b6b',extremes,Snow&Ice,#d60d2b,wmo,Ice Chuvash Republic,2025-02-03T03:01:00+00:00,Russia,0.6440069593403102,0,2,en,ESB,Europe
 '7f80956a97',extremes,Storm,#b3b2b1,wmo,Storm CHLEF,2025-01-26T17:07:00+00:00,Algeria,0.643984716517322,1,1,en,SAH,Africa
 '0885918cd3',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Sachs Harbour Ulukhaktok,2025-01-14T02:57:00+00:00,Canada,0.6439765504423831,1,1,en,NEN,North-America
@@ -3824,7 +3805,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'abe3f64175',extremes,Wildfire,#d60d2b,esawfa,Wildfire Venezuela,2024-12-29T03:09:00+00:00,Venezuela,0.6432048161289545,1,1,en,NSA,South-America
 'd626409dfa',extremes,Precipitation,#d60d2b,wmo,Rain Coimbra,2025-01-26T13:47:00+00:00,Portugal,0.6431983354557032,0,2,en,MED,Europe
 'ffb1582a8d',extremes,Drought,#edc291,edo,Lack of Rain Macao,2025-01-26T15:41:00+00:00,Macao,0.6431917962684768,0,2,en,EAS,Asia
-'c1942d9119',extremes,Precipitation,#d60d2b,wmo,Precipitation Hawke's Bay north of Napier,2024-12-25T03:01:00+00:00,New Zealand,0.6431874729542036,1,1,en,NZ,Oceania
 '077ba02d56',extremes,Snow&Ice,#d60d2b,wmo,Snow South of Kuril islands,2025-01-16T02:59:00+00:00,Russia,0.6431796338842015,0,2,en,ESB,Europe
 '502261ff0a',extremes,Fog,#d60d2b,wmo,Fog Tongnan District,2025-01-24T03:00:00+00:00,China,0.6431786493966808,0,2,en,EAS,Asia
 'ed6c88156a',extremes,Snow&Ice,#d60d2b,wmo,Snow Southeast Iceland,2024-12-31T03:02:00+00:00,Iceland,0.6431531743065843,1,2,en,GIC,Europe
@@ -3893,7 +3873,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'a4a485a1e1',extremes,Storm,#b3b2b1,wmo,Storm IJsselmeergebied,2024-12-22T03:08:00+00:00,Netherlands,0.6424853194542911,0,2,en,NEU,Europe
 'a343a2097e',extremes,Snow&Ice,#d60d2b,wmo,Ice Sanabria,2025-01-26T12:05:00+00:00,Spain,0.6424350060547483,0,2,en,MED,Europe
 '55d6fd74dc',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Israel,2024-12-30T03:06:00+00:00,Israel,0.6424322670491083,1,2,en,MED,Asia
-'abe62eb2ff',extremes,Precipitation,#d60d2b,wmo,Downpour Gisborne Tairawhiti,2024-12-25T03:01:00+00:00,New Zealand,0.6424294190933664,1,1,en,NZ,Oceania
 '1fa4e5c789',extremes,Earthquake,#870007,usgs,Earthquake Tamuning Tumon Harmon Village,2024-12-26T03:03:00+00:00,Guam,0.6423676492652229,1,1,en,NPO,Pacific Ocean
 '205de59d1d',extremes,Flood,#030ba1,wmo,Flooding Harrison MS Jackson MS,2024-12-28T03:01:00+00:00,United States,0.6423664078607072,1,1,en,CNA,North-America
 '9bec295ac1',extremes,Flood,#030ba1,wmo,Flashflood Rapides LA Vernon LA,2024-12-27T03:03:00+00:00,United States,0.6423649978526296,1,1,en,CNA,North-America
@@ -3918,7 +3897,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '97d803f679',extremes,Snow&Ice,#d60d2b,wmo,Freezing Northern Oneida,2025-01-26T15:41:00+00:00,United States,0.6421418791831945,0,2,en,CNA,North-America
 '5f76829919',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Skopje region,2025-01-04T03:02:00+00:00,North Macedonia,0.6421417162389353,0,2,en,MED,Europe
 '5060a75fa3',extremes,Snow&Ice,#d60d2b,wmo,Snow Flevoland,2025-01-04T03:02:00+00:00,Netherlands,0.6421373317137878,0,2,en,NEU,Europe
-'2c301e37d5',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Bulgaria,2024-12-25T03:01:00+00:00,Bulgaria,0.6421295314796862,1,1,en,MED,Europe
 '36a9803c87',extremes,Snow&Ice,#d60d2b,wmo,Snow South of Krasnoyarsk Krai,2024-12-30T03:06:00+00:00,Russia,0.6421293423279288,1,1,en,ESB,Europe
 'c32830b8d5',extremes,Storm,#b3b2b1,wmo,Storm Surge Froeya Bank,2025-01-13T03:09:00+00:00,Norway,0.6421117547342174,0,2,en,NEU,Europe
 '8d71fe3ff8',extremes,Snow&Ice,#d60d2b,wmo,Freezing Western Passaic,2025-01-31T02:59:00+00:00,United States,0.6421015797957932,0,2,en,CNA,North-America
@@ -11494,7 +11472,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'd0cf54ae6e',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Gejiu City,2025-01-28T02:59:00+00:00,China,0.4997173528799996,0,2,en,EAS,Asia
 '932aad0bfd',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Huttwil Willisau,2024-12-23T03:05:00+00:00,Switzerland,0.4996889532568895,0,2,en,WCE,Europe
 '99c04d4799',extremes,Snow&Ice,#d60d2b,wmo,Ice Jianyang District,2025-01-12T03:10:00+00:00,China,0.4996523474016485,0,2,en,EAS,Asia
-'ebae0ee9a3',extremes,Storm,#b3b2b1,wmo,Storm Youyu County,2024-12-20T03:04:00+00:00,China,0.4996301112009622,0,2,en,EAS,Asia
 '2bcca7cacc',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Zell am See,2025-01-02T03:02:00+00:00,Austria,0.4996282216362885,0,2,en,WCE,Europe
 'd7d8171f45',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Zhengzhou City,2025-01-26T12:51:00+00:00,China,0.4996277144527452,0,2,en,EAS,Asia
 '6d6cf18ff2',extremes,Storm,#b3b2b1,wmo,Storm Yangcheng County,2025-01-15T02:59:00+00:00,China,0.4996021366972721,0,2,en,EAS,Asia
@@ -11630,7 +11607,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '54436ad52c',extremes,Snow&Ice,#d60d2b,wmo,Ice fucheng district,2025-01-03T03:03:00+00:00,China,0.4982849356251462,0,2,en,EAS,Asia
 '42c51e9af0',extremes,Snow&Ice,#d60d2b,wmo,Freezing Žiar nad Hronom,2025-01-08T03:06:00+00:00,Slovakia,0.4982816006416781,0,2,en,WCE,Europe
 '60582872f7',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Pingbian Miao Autonomous County,2025-01-13T03:09:00+00:00,China,0.4982809194609628,0,2,en,EAS,Asia
-'d483f4693a',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Dalate flag,2024-12-20T03:04:00+00:00,China,0.4982792268467665,0,2,en,EAS,Asia
 'ccc9c25049',extremes,Fog,#d60d2b,wmo,Fog Yidu City,2025-01-04T12:04:00+00:00,China,0.4982567744413938,0,2,en,EAS,Asia
 '1446ce52b2',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Cangxi County,2025-01-27T03:01:00+00:00,China,0.4982506397061048,0,2,en,EAS,Asia
 'dddc6eb056',extremes,Cold Wave,#a7e9fa,wmo,Freezing Muping District,2025-01-26T12:05:00+00:00,China,0.498244910256532,0,2,en,EAS,Asia
@@ -11780,7 +11756,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '2341258915',extremes,Storm,#b3b2b1,wmo,Storm Fuxian,2024-12-27T03:03:00+00:00,China,0.496400667135378,0,2,en,EAS,Asia
 '5d7e92c9d1',extremes,Snow&Ice,#d60d2b,wmo,Freezing Barkam District,2025-01-18T02:55:00+00:00,China,0.4963936205527079,0,2,en,EAS,Asia
 '7bb12cf501',extremes,Storm,#b3b2b1,wmo,Storm Surge Shangcai County,2025-01-14T02:57:00+00:00,China,0.4963869476250711,0,2,en,EAS,Asia
-'92e3ef71a3',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Zhuozi County,2024-12-20T03:04:00+00:00,China,0.4963860152824011,0,2,en,EAS,Asia
 '55df87dd29',extremes,Snow&Ice,#d60d2b,wmo,Frost Jiaxian,2025-01-31T02:59:00+00:00,China,0.4963857123228004,0,2,en,EAS,Asia
 '84320ae0b7',extremes,Storm,#b3b2b1,wmo,Storm Qihe County,2025-01-27T03:01:00+00:00,China,0.4963752272647596,0,2,en,EAS,Asia
 'de61c47859',extremes,Snow&Ice,#d60d2b,wmo,Ice Malacky,2025-01-05T03:08:00+00:00,Slovakia,0.4963636264523263,0,2,en,WCE,Europe
@@ -11827,7 +11802,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '759ba87b61',extremes,Storm,#b3b2b1,wmo,Storm Qianxi County,2024-12-25T03:01:00+00:00,China,0.4958729035858613,0,2,en,EAS,Asia
 '8a6800ebd7',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lingchuan County,2024-12-21T03:01:00+00:00,China,0.4958715489657762,0,2,en,EAS,Asia
 '74ddfac6bd',extremes,Storm,#b3b2b1,wmo,Storm Shunping,2025-01-14T02:57:00+00:00,China,0.4958666285956575,0,2,en,EAS,Asia
-'f7e0848ef9',extremes,Storm,#b3b2b1,wmo,Storm Yaodu District,2024-12-20T03:04:00+00:00,China,0.4958655572235435,0,2,en,EAS,Asia
 '38d13e7d84',extremes,Snow&Ice,#d60d2b,wmo,Frost Wanbailin District,2025-01-25T02:55:00+00:00,China,0.4958488062367703,0,2,en,EAS,Asia
 '0c88c894f8',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Guyuan City,2025-01-24T03:00:00+00:00,China,0.4958382533576759,0,2,en,EAS,Asia
 '02990f5eae',extremes,Storm,#b3b2b1,wmo,Storm Surge Anguo,2025-01-26T03:01:00+00:00,China,0.4958338314933513,0,2,en,EAS,Asia
@@ -11840,7 +11814,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'b4c0604505',extremes,Storm,#b3b2b1,wmo,Storm Yongnian District,2025-01-14T02:57:00+00:00,China,0.495760191186232,0,2,en,EAS,Asia
 '2348c2235f',extremes,Storm,#b3b2b1,wmo,Storm Surge Suifenhe City,2025-01-15T02:59:00+00:00,China,0.4957337057702103,0,2,en,EAS,Asia
 'f301bdcfed',extremes,Storm,#b3b2b1,wmo,Storm Yongfu County,2025-01-26T12:51:00+00:00,China,0.4957140818513952,0,2,en,EAS,Asia
-'9df5526d58',extremes,Snow&Ice,#d60d2b,wmo,Frost Sanyuan District,2024-12-20T03:04:00+00:00,China,0.4956899153178679,0,2,en,EAS,Asia
 'a0092fba89',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Sardegna,2025-02-01T03:03:00+00:00,Italy,0.4956846202102888,0,2,en,MED,Europe
 '4854052987',extremes,Snow&Ice,#d60d2b,wmo,Ice Kaihua County,2025-01-17T03:00:00+00:00,China,0.4956781995916343,0,2,en,EAS,Asia
 '4781a7ff07',extremes,Snow&Ice,#d60d2b,wmo,Frost Xianghuangqi,2025-01-26T17:07:00+00:00,China,0.4956609281837347,0,2,en,EAS,Asia
@@ -11882,14 +11855,12 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'ca7bbaa825',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Pucheng County,2024-12-21T03:01:00+00:00,China,0.4952615426039947,0,2,en,EAS,Asia
 '34429fcdcf',extremes,Storm,#b3b2b1,wmo,Storm Surge Xihu District,2025-01-05T03:08:00+00:00,China,0.495261498937986,0,2,en,EAS,Asia
 'a5dde21a89',extremes,Storm,#b3b2b1,wmo,Storm Surge Suixian,2025-01-14T02:57:00+00:00,China,0.4952402679791174,0,2,en,EAS,Asia
-'e01b6c02ea',extremes,Storm,#b3b2b1,wmo,Storm Xianghe County,2024-12-20T03:04:00+00:00,China,0.4952375235303576,0,2,en,EAS,Asia
 '15c036bc77',extremes,Storm,#b3b2b1,wmo,Storm Surge dongli district,2025-01-14T02:57:00+00:00,China,0.4952315104084114,0,2,en,EAS,Asia
 'dda5860780',extremes,Snow&Ice,#d60d2b,wmo,Freezing Yugan County,2024-12-22T03:08:00+00:00,China,0.495223345920363,0,2,en,EAS,Asia
 'ea8e53ca23',extremes,Storm,#b3b2b1,wmo,Storm Xiantao,2025-01-15T02:59:00+00:00,China,0.4952224050236661,0,2,en,EAS,Asia
 'de73f97ff0',extremes,Wildfire,#d60d2b,acwe,wildfire Western Australia,2024-12-26T03:04:00+00:00,Australia,0.4952221138844808,0,2,en,CAU,Oceania
 '666c9f1c52',extremes,Storm,#b3b2b1,wmo,Storm Huayin,2024-12-27T03:03:00+00:00,China,0.4952014179432671,0,2,en,EAS,Asia
 '514c904bd7',extremes,Storm,#b3b2b1,wmo,Storm Surge Yixian County,2024-12-25T03:01:00+00:00,China,0.4952001499972073,0,2,en,EAS,Asia
-'de61efc109',extremes,Storm,#b3b2b1,wmo,Storm Qitai County,2024-12-20T03:04:00+00:00,China,0.4951910207704884,0,2,en,EAS,Asia
 'a17d820819',extremes,Snow&Ice,#d60d2b,wmo,Avalanche District of,2024-12-29T03:09:00+00:00,China,0.4951890026233647,0,2,en,EAS,Asia
 '7077b6bc53',extremes,Storm,#b3b2b1,wmo,Storm Surge ruichang city,2025-01-10T03:07:00+00:00,China,0.4951638996011322,0,2,en,EAS,Asia
 '49a0b07955',extremes,Storm,#b3b2b1,wmo,Storm Surge Fanshi County,2024-12-25T03:01:00+00:00,China,0.4951452633473062,0,2,en,EAS,Asia
@@ -11954,7 +11925,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '564891e99b',extremes,Storm,#b3b2b1,wmo,Storm Surge songshan district,2024-12-21T03:01:00+00:00,China,0.4945361207537765,0,2,en,EAS,Asia
 '5431faa3cb',extremes,Fog,#d60d2b,wmo,Fog Qingchuan County,2025-01-20T03:01:00+00:00,China,0.4945251140341078,0,2,en,EAS,Asia
 'd4b884035f',extremes,Storm,#b3b2b1,wmo,Storm City jurisdiction,2025-01-09T03:27:00+00:00,China,0.4945250670187095,0,2,en,EAS,Asia
-'0a2edf2f99',extremes,Snow&Ice,#d60d2b,wmo,Snow Sanjiang Dong Autonomous County,2024-12-20T03:04:00+00:00,China,0.4945245723423203,0,2,en,EAS,Asia
 '3945da3bda',extremes,Snow&Ice,#d60d2b,wmo,Frost Dingnan County,2024-12-29T03:09:00+00:00,China,0.4945101781756769,0,2,en,EAS,Asia
 '1f48ea6912',extremes,Storm,#b3b2b1,wmo,Storm Chaoyang City,2025-01-14T02:57:00+00:00,China,0.4945088510089333,0,2,en,EAS,Asia
 'bf71659fb6',extremes,Snow&Ice,#d60d2b,wmo,Freezing Jiulong County,2025-01-10T03:07:00+00:00,China,0.4944916470575676,0,2,en,EAS,Asia
@@ -12091,7 +12061,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '84a2b54671',extremes,Storm,#b3b2b1,wmo,Storm Yuanmou County,2025-01-26T03:01:00+00:00,China,0.4929722744604049,0,2,en,EAS,Asia
 '26512d8610',extremes,Storm,#b3b2b1,wmo,Storm Surge Yilong County,2025-01-25T02:55:00+00:00,China,0.4929701718922487,0,2,en,EAS,Asia
 '178f76c10c',extremes,Storm,#b3b2b1,wmo,Storm Surge Huangling County,2024-12-27T03:03:00+00:00,China,0.4929574266882157,0,2,en,EAS,Asia
-'b6fcf1fefe',extremes,Snow&Ice,#d60d2b,wmo,Snow Saihan District,2024-12-20T03:04:00+00:00,China,0.4929556387777092,0,2,en,EAS,Asia
 '6a6f83a0df',extremes,Snow&Ice,#d60d2b,wmo,Snow Sheqi County,2025-01-25T02:55:00+00:00,China,0.492950316417462,0,2,en,EAS,Asia
 '37dd9d7173',extremes,Storm,#b3b2b1,wmo,Storm Lucheng District,2024-12-27T03:03:00+00:00,China,0.4929386360159619,0,2,en,EAS,Asia
 '1497cf6638',extremes,Snow&Ice,#d60d2b,wmo,Snow Hulin City,2025-01-23T03:00:00+00:00,China,0.4929348658425356,0,2,en,EAS,Asia
@@ -12107,7 +12076,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'b0b76c16b2',extremes,Storm,#b3b2b1,wmo,Storm Surge Nanle County,2025-01-26T12:05:00+00:00,China,0.4928468417284831,0,2,en,EAS,Asia
 'aa6e5c2a0e',extremes,Fog,#d60d2b,wmo,Fog Shuangbai County,2025-01-16T02:59:00+00:00,China,0.492843308538099,0,2,en,EAS,Asia
 'bccb13e0c0',extremes,Storm,#b3b2b1,wmo,Storm Surge Kashi City,2025-01-23T03:00:00+00:00,China,0.4928048617298658,0,2,en,EAS,Asia
-'5d5cee861e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Ganxian,2024-12-20T03:04:00+00:00,China,0.4927836098570837,0,2,en,EAS,Asia
 '8e0b05db98',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Haidian District,2025-01-26T17:07:00+00:00,China,0.4927638612400308,0,2,en,EAS,Asia
 'ee65ca0698',extremes,Snow&Ice,#d60d2b,wmo,Snow Fu an City,2024-12-22T03:08:00+00:00,China,0.4927626741530756,0,2,en,EAS,Asia
 '2b4db8c2b3',extremes,Storm,#b3b2b1,wmo,Storm Surge Menghai County,2025-01-26T15:41:00+00:00,China,0.4927597214210613,0,2,en,EAS,Asia
@@ -12115,7 +12083,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'd8feb58369',extremes,Snow&Ice,#d60d2b,wmo,Ice Mingxi County,2025-01-20T03:01:00+00:00,China,0.4927400471952721,0,2,en,EAS,Asia
 '7184133a3f',extremes,Snow&Ice,#d60d2b,wmo,Freezing Bánovce nad Bebravou,2025-01-08T03:06:00+00:00,Slovakia,0.4927374011640674,0,2,en,WCE,Europe
 'c6f169bad0',extremes,Storm,#b3b2b1,wmo,Storm Kongtong,2025-01-11T03:04:00+00:00,China,0.4927259769306018,0,2,en,EAS,Asia
-'af05785300',extremes,Storm,#b3b2b1,wmo,Storm Surge Yanggao County,2024-12-20T03:04:00+00:00,China,0.492688149129451,0,2,en,EAS,Asia
 '0a2e1a010f',extremes,Snow&Ice,#d60d2b,wmo,Ice Yuyang District,2025-01-25T02:55:00+00:00,China,0.4926832308670836,0,2,en,EAS,Asia
 '8b8947eb8c',extremes,Storm,#b3b2b1,wmo,Storm Xingan,2025-01-26T12:05:00+00:00,China,0.49267979579531,0,2,en,EAS,Asia
 '1fbf8a7b6b',extremes,Storm,#b3b2b1,wmo,Storm Zhongmu County,2025-01-26T12:51:00+00:00,China,0.4926796578792862,0,2,en,EAS,Asia
@@ -12149,7 +12116,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'b6e6bac582',extremes,Storm,#b3b2b1,wmo,Storm Surge Heshui County,2025-01-12T03:10:00+00:00,China,0.492389901768527,0,2,en,EAS,Asia
 '1879c92f84',extremes,Storm,#b3b2b1,wmo,Storm Surge Zhengxiang District,2025-01-15T02:59:00+00:00,China,0.4923826518499153,0,2,en,EAS,Asia
 '3d880bf941',extremes,Storm,#b3b2b1,wmo,Storm Surge Hunyuan County,2024-12-25T03:01:00+00:00,China,0.4923782516168268,0,2,en,EAS,Asia
-'197f6e37e4',extremes,Precipitation,#d60d2b,wmo,Precipitation Molise,2024-12-20T03:04:00+00:00,Italy,0.4923666022427493,0,2,en,MED,Europe
 '6ade6680fa',extremes,Cold Wave,#a7e9fa,wmo,Freezing Ninglang Yi Autonomous County,2025-01-26T03:01:00+00:00,China,0.4923535271501027,0,2,en,EAS,Asia
 '7c93225455',extremes,Snow&Ice,#d60d2b,wmo,Snow Yuxian,2025-01-26T17:07:00+00:00,China,0.4923302050954691,0,2,en,EAS,Asia
 '359078f4ab',extremes,Snow&Ice,#d60d2b,wmo,Freezing shaowu city,2025-01-01T03:10:00+00:00,China,0.4923221051788978,0,2,en,EAS,Asia
@@ -12226,7 +12192,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'e5abbf3219',extremes,Snow&Ice,#d60d2b,wmo,Freezing Fuxin City,2025-01-26T17:07:00+00:00,China,0.4916658593073126,0,2,en,EAS,Asia
 'c6fd351e2a',extremes,Snow&Ice,#d60d2b,wmo,Frost wudu,2025-01-23T03:00:00+00:00,China,0.4916564708970602,0,2,en,EAS,Asia
 'd6c41df4eb',extremes,Snow&Ice,#d60d2b,wmo,Freezing Huachuan County,2024-12-30T03:06:00+00:00,China,0.4916379613031736,0,2,en,EAS,Asia
-'1ef6ce4777',extremes,Storm,#b3b2b1,wmo,Storm Surge Shiqian County,2024-12-20T03:04:00+00:00,China,0.491631978369523,0,2,en,EAS,Asia
 '6b5241a25a',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Youyu County,2025-02-03T03:01:00+00:00,China,0.4916248964183842,0,2,en,EAS,Asia
 'd7148a9936',extremes,Snow&Ice,#d60d2b,wmo,Freezing Jianning County,2025-01-15T02:59:00+00:00,China,0.4916237882534143,0,2,en,EAS,Asia
 'd169331eab',extremes,Storm,#b3b2b1,wmo,Storm Wendeng District,2025-01-26T13:47:00+00:00,China,0.491613569942758,0,2,en,EAS,Asia
@@ -12268,7 +12233,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '02ba3c0e0d',extremes,Snow&Ice,#d60d2b,wmo,Freezing Keyouzhong,2025-01-26T13:47:00+00:00,China,0.4912374664982247,0,2,en,EAS,Asia
 '85e496ff2d',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Zhanyi District,2025-01-26T12:51:00+00:00,China,0.4912257283741022,0,2,en,EAS,Asia
 '4d9a183b9c',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Ya Dong County,2024-12-29T03:09:00+00:00,China,0.4912208799520305,0,2,en,EAS,Asia
-'41d4aa7ef1',extremes,Storm,#b3b2b1,wmo,Storm Quwo County,2024-12-20T03:04:00+00:00,China,0.4911783209177537,0,2,en,EAS,Asia
 'ec3ffa67e5',extremes,Snow&Ice,#d60d2b,wmo,Frost Minxian,2025-01-26T13:47:00+00:00,China,0.4911529977813503,0,2,en,EAS,Asia
 'c344bee12b',extremes,Storm,#b3b2b1,wmo,Storm Surge Rangtang County,2025-01-04T12:04:00+00:00,China,0.4911478703946403,0,2,en,EAS,Asia
 '9eeeab71d4',extremes,Storm,#b3b2b1,wmo,Storm Surge Jiaocheng,2024-12-28T03:01:00+00:00,China,0.4911347250446423,0,2,en,EAS,Asia
@@ -12362,7 +12326,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '6fbb5d245d',extremes,Snow&Ice,#d60d2b,wmo,Freezing Chencang District,2025-01-25T02:55:00+00:00,China,0.4902588649673069,0,2,en,EAS,Asia
 'a6677be7b4',extremes,Storm,#b3b2b1,wmo,Storm Xincai County,2025-01-26T15:41:00+00:00,China,0.4902212365627763,0,2,en,EAS,Asia
 '0a4f9d0fdb',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Qilin District,2025-01-11T03:04:00+00:00,China,0.4902197211439526,0,2,en,EAS,Asia
-'87e8f8294b',extremes,Snow&Ice,#d60d2b,wmo,Ice Xiwuzhumuqin flag,2024-12-20T03:04:00+00:00,China,0.4902109569762725,0,2,en,EAS,Asia
 'e66b20b2fc',extremes,Snow&Ice,#d60d2b,wmo,Frost Zhushan District,2025-01-12T03:10:00+00:00,China,0.4902094319506752,0,2,en,EAS,Asia
 '34d5922d53',extremes,Storm,#b3b2b1,wmo,Storm Shimian County,2025-01-27T03:01:00+00:00,China,0.4902030389655197,0,2,en,EAS,Asia
 'd0b341d9d0',extremes,Snow&Ice,#d60d2b,wmo,Snow Resource county,2025-01-01T03:10:00+00:00,China,0.4901872606015217,0,2,en,EAS,Asia
@@ -12404,7 +12367,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'f2bfbca5e2',extremes,Storm,#b3b2b1,wmo,Storm Jinggangshan City,2025-01-10T03:07:00+00:00,China,0.4898209547938086,0,2,en,EAS,Asia
 'd51df97317',extremes,Snow&Ice,#d60d2b,wmo,Ice Tongan District,2024-12-23T03:05:00+00:00,China,0.4898199619741175,0,2,en,EAS,Asia
 '189a0cbc51',extremes,Precipitation,#d60d2b,wmo,Precipitation Marthalen Stammheim,2025-01-04T03:02:00+00:00,Switzerland,0.4898174764014504,0,2,en,WCE,Europe
-'58a3873c9a',extremes,Precipitation,#d60d2b,wmo,Precipitation Emilia e Romagna,2024-12-20T03:04:00+00:00,Italy,0.4898161638235147,0,2,en,MED,Europe
 'd41b76a502',extremes,Precipitation,#d60d2b,wmo,Downpour Lipetsk Region,2025-01-17T03:00:00+00:00,Russia,0.4898090033961819,0,2,en,ESB,Europe
 '6d1b78b50f',extremes,Snow&Ice,#d60d2b,wmo,Snow Wanzai County,2025-01-11T03:04:00+00:00,China,0.4897863657637534,0,2,en,EAS,Asia
 '27d112778a',extremes,Snow&Ice,#d60d2b,wmo,Frost Považská Bystrica,2025-01-05T03:08:00+00:00,Slovakia,0.4897855746536078,0,2,en,WCE,Europe
@@ -12454,7 +12416,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'cbff4d556c',extremes,Cold Wave,#a7e9fa,wmo,Freezing Shunping,2025-01-26T12:05:00+00:00,China,0.48938409117977,0,2,en,EAS,Asia
 '08806757de',extremes,Storm,#b3b2b1,wmo,Storm Surge Jining District,2024-12-30T03:06:00+00:00,China,0.4893777367886174,0,2,en,EAS,Asia
 '7c3e876f54',extremes,Storm,#b3b2b1,wmo,Storm Surge Lin an District,2025-01-26T13:47:00+00:00,China,0.4893706254963083,0,2,en,EAS,Asia
-'87af77e2f5',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Zijin Mountain County,2024-12-20T03:04:00+00:00,China,0.4893669464117123,0,2,en,EAS,Asia
 'd5111354b3',extremes,Snow&Ice,#d60d2b,wmo,Snow Ansei,2025-01-26T15:41:00+00:00,China,0.4893419660316991,0,2,en,EAS,Asia
 'e0849dfde2',extremes,Snow&Ice,#d60d2b,wmo,Ice Alukerqinqi,2025-01-26T15:41:00+00:00,China,0.4893310931359763,0,2,en,EAS,Asia
 'b3f95478f2',extremes,Snow&Ice,#d60d2b,wmo,Snow Lauterbrunnen Wilderswil,2025-01-02T03:02:00+00:00,Switzerland,0.4893270533228613,0,2,en,WCE,Europe
@@ -12518,7 +12479,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '1f5c31b939',extremes,Storm,#b3b2b1,wmo,Storm Xi county,2025-01-04T12:04:00+00:00,China,0.4885338267451914,0,2,en,EAS,Asia
 'd8be647cdb',extremes,Storm,#b3b2b1,wmo,Storm Jiaocheng,2024-12-27T03:03:00+00:00,China,0.4885082822996241,0,2,en,EAS,Asia
 '4fc93a36d8',extremes,Snow&Ice,#d60d2b,wmo,Snow Zhushan District,2024-12-21T03:01:00+00:00,China,0.4885009612828985,0,2,en,EAS,Asia
-'6ce520e52d',extremes,Snow&Ice,#d60d2b,wmo,Ice Le County,2024-12-20T03:04:00+00:00,China,0.4885002732849119,0,2,en,EAS,Asia
 'ae929be82c',extremes,Snow&Ice,#d60d2b,wmo,Frost Shangyou County,2025-01-18T02:55:00+00:00,China,0.4884949179380572,0,2,en,EAS,Asia
 'a262662183',extremes,Precipitation,#d60d2b,wmo,Downpour Basilicata,2025-01-10T03:07:00+00:00,Italy,0.4884834517071874,0,2,en,MED,Europe
 '0753359084',extremes,Snow&Ice,#d60d2b,wmo,Freezing Yulong Naxi Autonomous County,2025-01-26T17:07:00+00:00,China,0.4884832102167404,0,2,en,EAS,Asia
@@ -12527,7 +12487,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'b418360bca',extremes,Fog,#d60d2b,wmo,Fog Anqiu,2025-01-24T03:00:00+00:00,China,0.4884582084155778,0,2,en,EAS,Asia
 '7416188922',extremes,Storm,#b3b2b1,wmo,Storm Surge Xifeng County,2025-01-13T03:09:00+00:00,China,0.4884542647082766,0,2,en,EAS,Asia
 '83adc3f73f',extremes,Cold Wave,#a7e9fa,wmo,Freezing Gaoyang County,2025-01-26T03:01:00+00:00,China,0.4884419728952805,0,2,en,EAS,Asia
-'ed469c35e8',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Pingle County,2024-12-20T03:04:00+00:00,China,0.4884416107655998,0,2,en,EAS,Asia
 '05b049b415',extremes,Snow&Ice,#d60d2b,wmo,Frost Cooperative city,2025-01-29T02:58:00+00:00,China,0.4884065007575466,0,2,en,EAS,Asia
 '4b63096be5',extremes,Precipitation,#d60d2b,wmo,Precipitation Vallée du Trient,2025-01-27T03:01:00+00:00,Switzerland,0.4883980828121442,0,2,en,WCE,Europe
 'c575c29852',extremes,Earthquake,#870007,usgs,Earthquake Devon Island Nunavut Canada,2025-01-14T02:57:00+00:00,,0.4883931732871998,0,2,en,NEN,North-America
@@ -12597,7 +12556,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'ef6da1b0a2',extremes,Snow&Ice,#d60d2b,wmo,Freezing Gushi County,2025-02-02T03:01:00+00:00,China,0.4876878458527406,0,2,en,EAS,Asia
 'a6b2f46d12',extremes,Snow&Ice,#d60d2b,wmo,Frost Pinghe County,2024-12-23T03:05:00+00:00,China,0.487681302930959,0,2,en,EAS,Asia
 '90bb4645fb',extremes,Snow&Ice,#d60d2b,wmo,Snow Statewide County,2024-12-29T03:09:00+00:00,China,0.4876785748961613,0,2,en,EAS,Asia
-'f5e213b0be',extremes,Snow&Ice,#d60d2b,wmo,Ice Lingui District,2024-12-20T03:04:00+00:00,China,0.4876759962260879,0,2,en,EAS,Asia
 '4598636a62',extremes,Storm,#b3b2b1,wmo,Storm Yingkou City,2025-01-18T02:55:00+00:00,China,0.4876672611260088,0,2,en,EAS,Asia
 '06d3a59bda',extremes,Cold Wave,#a7e9fa,wmo,Freezing Qingpu District,2025-02-03T03:01:00+00:00,China,0.487666312645298,0,2,en,EAS,Asia
 'b5df8a76a6',extremes,Storm,#b3b2b1,wmo,Storm Gu Xian,2025-01-26T12:05:00+00:00,China,0.4876651575014965,0,2,en,EAS,Asia
@@ -12681,7 +12639,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'a740469dfd',extremes,Snow&Ice,#d60d2b,wmo,Freezing Baokang County,2025-01-26T12:05:00+00:00,China,0.4871254101531164,0,2,en,EAS,Asia
 '507314e27e',extremes,Storm,#b3b2b1,wmo,Storm Surge jiangbei district,2025-01-27T03:01:00+00:00,China,0.4871222233823541,0,2,en,EAS,Asia
 '7c6c2b349a',extremes,Storm,#b3b2b1,wmo,Storm Surge weihui city,2025-01-26T12:05:00+00:00,China,0.4871024538841504,0,2,en,EAS,Asia
-'f5fd766a27',extremes,Snow&Ice,#d60d2b,wmo,Freezing Dayu County,2024-12-20T03:04:00+00:00,China,0.4870962560840125,0,2,en,EAS,Asia
 '25f273eb91',extremes,Storm,#b3b2b1,wmo,Storm Jiaxian,2025-01-26T03:01:00+00:00,China,0.4870623995063008,0,2,en,EAS,Asia
 'd6e88bd1bb',extremes,Storm,#b3b2b1,wmo,Storm Linli County,2025-01-25T02:55:00+00:00,China,0.4870505928692996,0,2,en,EAS,Asia
 'b81a979e54',extremes,Storm,#b3b2b1,wmo,Storm Surge Yuepuhu County,2025-01-23T03:00:00+00:00,China,0.4870416197183406,0,2,en,EAS,Asia
@@ -12771,7 +12728,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '71a1344694',extremes,Storm,#b3b2b1,wmo,Storm Surge Xixia County,2025-01-26T15:41:00+00:00,China,0.4862690752477888,0,2,en,EAS,Asia
 'bf57ab91ca',extremes,Snow&Ice,#d60d2b,wmo,Snow Xin an County,2025-01-24T03:00:00+00:00,China,0.4862601368306515,0,2,en,EAS,Asia
 'cf5a5bb5a2',extremes,Snow&Ice,#d60d2b,wmo,Snow Beian,2025-01-09T03:27:00+00:00,China,0.4862595754087976,0,2,en,EAS,Asia
-'c36e737474',extremes,Snow&Ice,#d60d2b,wmo,Snow Mianzhu City,2024-12-20T03:04:00+00:00,China,0.4862506213836248,0,2,en,EAS,Asia
 '76a371608f',extremes,Snow&Ice,#d60d2b,wmo,Snow Dayi County,2024-12-28T03:01:00+00:00,China,0.4862501451528768,0,2,en,EAS,Asia
 'c8e17e050c',extremes,Snow&Ice,#d60d2b,wmo,Snow Longxi County,2024-12-24T03:03:00+00:00,China,0.4862441985233161,0,2,en,EAS,Asia
 '7e86809b91',extremes,Storm,#b3b2b1,wmo,Storm Yongchang County,2025-01-10T03:07:00+00:00,China,0.4862305752719936,0,2,en,EAS,Asia
@@ -12840,7 +12796,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'a38535921e',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Hantai district,2025-01-26T17:07:00+00:00,China,0.4856582619947581,0,2,en,EAS,Asia
 '6d91fba51e',extremes,Snow&Ice,#d60d2b,wmo,Frost Tengxian,2024-12-21T03:01:00+00:00,China,0.4856514545276427,0,2,en,EAS,Asia
 '4c7eb80f6a',extremes,Storm,#b3b2b1,wmo,Storm Bayan County,2024-12-25T03:01:00+00:00,China,0.485650236594527,0,2,en,EAS,Asia
-'16c0123458',extremes,Snow&Ice,#d60d2b,wmo,Ice Ningdu County,2024-12-20T03:04:00+00:00,China,0.4856236812611473,0,2,en,EAS,Asia
 '0cc1bebb5e',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Rias Baixas,2025-01-29T02:58:00+00:00,Spain,0.4856224254228179,0,2,en,MED,Europe
 'f2f37cb268',extremes,Precipitation,#d60d2b,wmo,Downpour Sardegna,2025-01-16T02:59:00+00:00,Italy,0.4856122927270195,0,2,en,MED,Europe
 '98c6144f17',extremes,Snow&Ice,#d60d2b,wmo,Freezing Yidu City,2024-12-23T03:05:00+00:00,China,0.4856038927169234,0,2,en,EAS,Asia
@@ -12865,7 +12820,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '2ae31772a4',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Nenjiang City,2025-02-01T03:03:00+00:00,China,0.4852904550408741,0,2,en,EAS,Asia
 'e7fc06b4df',extremes,Precipitation,#d60d2b,wmo,Rain Schaffhausen,2025-01-05T03:08:00+00:00,Switzerland,0.4852651943463287,0,2,en,WCE,Europe
 '971b6a8a55',extremes,Snow&Ice,#d60d2b,wmo,Frost Hejin,2025-01-25T02:55:00+00:00,China,0.4852563863879783,0,2,en,EAS,Asia
-'ae01a721a4',extremes,Snow&Ice,#d60d2b,wmo,Frost Sunitezuoqi,2024-12-20T03:04:00+00:00,China,0.4852456110424702,0,2,en,EAS,Asia
 'e29366b54a',extremes,Snow&Ice,#d60d2b,wmo,Freezing Jinsha County,2025-01-05T03:08:00+00:00,China,0.4852429673208683,0,2,en,EAS,Asia
 '621e194c95',extremes,Snow&Ice,#d60d2b,wmo,Ice Qingcheng,2025-01-23T03:00:00+00:00,China,0.4852322509141932,0,2,en,EAS,Asia
 '7ee895dd22',extremes,Snow&Ice,#d60d2b,wmo,Frost Qinzhou District,2025-01-26T15:41:00+00:00,China,0.485222819083866,0,2,en,EAS,Asia
@@ -12936,7 +12890,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '5916216cd0',extremes,Snow&Ice,#d60d2b,wmo,Freezing Longhai District,2025-01-13T03:09:00+00:00,China,0.4846151921666661,0,2,en,EAS,Asia
 '6a1cb03527',extremes,Storm,#b3b2b1,wmo,Storm Surge Liangshan County,2025-01-26T12:51:00+00:00,China,0.4846066979778961,0,2,en,EAS,Asia
 '561ee66200',extremes,Storm,#b3b2b1,wmo,Storm Nanhe District,2025-01-14T02:57:00+00:00,China,0.4845963704122961,0,2,en,EAS,Asia
-'2b4cb7fb7b',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Lushunkou District,2024-12-20T03:04:00+00:00,China,0.4845900789704042,0,2,en,EAS,Asia
 '118868cfc6',extremes,Storm,#b3b2b1,wmo,Storm Xinshao County,2025-01-26T17:07:00+00:00,China,0.4845624984786654,0,2,en,EAS,Asia
 'c7e326de60',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Suifenhe City,2025-01-15T02:59:00+00:00,China,0.4845613188264338,0,2,en,EAS,Asia
 'd7e1490a83',extremes,Snow&Ice,#d60d2b,wmo,Ice Quanzhou City,2025-01-13T03:09:00+00:00,China,0.4845480822038344,0,2,en,EAS,Asia
@@ -13003,7 +12956,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '1955f201f8',extremes,Snow&Ice,#d60d2b,wmo,Avalanche dunhua,2025-01-28T02:59:00+00:00,China,0.4839244238047964,0,2,en,EAS,Asia
 '7a5d9baada',extremes,Snow&Ice,#d60d2b,wmo,Freezing Huidong County,2025-01-26T03:01:00+00:00,China,0.4839214566663977,0,2,en,EAS,Asia
 '5dd4363597',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Este sur y oeste de Tenerife,2025-01-23T03:00:00+00:00,Spain,0.4839070571976357,0,2,en,MED,Europe
-'1683e57678',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Suniteyou,2024-12-20T03:04:00+00:00,China,0.4838981958291666,0,2,en,EAS,Asia
 '81523a5705',extremes,Snow&Ice,#d60d2b,wmo,Frost Qixian County,2025-01-26T13:47:00+00:00,China,0.4838875763755096,0,2,en,EAS,Asia
 'b4e4024880',extremes,Storm,#b3b2b1,wmo,Storm Yunzhou District,2024-12-26T03:03:00+00:00,China,0.4838810431569795,0,2,en,EAS,Asia
 '2a971f64e2',extremes,Snow&Ice,#d60d2b,wmo,Ice Gejiu City,2025-01-26T15:41:00+00:00,China,0.4838759793266246,0,2,en,EAS,Asia
@@ -13055,7 +13007,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '28ee2845c3',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Weibin District,2025-01-26T15:41:00+00:00,China,0.4833996313718181,0,2,en,EAS,Asia
 '01dd364a61',extremes,Fog,#d60d2b,wmo,Fog Puding County,2025-01-12T03:10:00+00:00,China,0.4833917029220461,0,2,en,EAS,Asia
 'de977e4f9f',extremes,Storm,#b3b2b1,wmo,Storm Surge Ruzhou,2025-01-26T15:41:00+00:00,China,0.48337658405682,0,2,en,EAS,Asia
-'2f1b45d3c5',extremes,Snow&Ice,#d60d2b,wmo,Snow Shangdu County,2024-12-20T03:04:00+00:00,China,0.4833686366593738,0,2,en,EAS,Asia
 '350a34e750',extremes,Storm,#b3b2b1,wmo,Storm Surge yucheng city,2025-01-26T12:05:00+00:00,China,0.4833656933800068,0,2,en,EAS,Asia
 'b6cae31ff2',extremes,Storm,#b3b2b1,wmo,Storm Pingdingshan City,2025-01-26T13:47:00+00:00,China,0.4833535802101177,0,2,en,EAS,Asia
 'f1454efe9b',extremes,Snow&Ice,#d60d2b,wmo,Frost Zhengan County,2025-01-06T03:08:00+00:00,China,0.4833515890216137,0,2,en,EAS,Asia
@@ -13121,7 +13072,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'c61ccdf1f0',extremes,Storm,#b3b2b1,wmo,Storm Surge Chahar right front banner,2024-12-25T03:01:00+00:00,China,0.4826948173609004,0,2,en,EAS,Asia
 'eb56d7f520',extremes,Storm,#b3b2b1,wmo,Storm Surge Nanxian,2025-01-25T02:55:00+00:00,China,0.482692630578433,0,2,en,EAS,Asia
 'b9fc344909',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Xiapu County,2024-12-23T03:05:00+00:00,China,0.4826897928730839,0,2,en,EAS,Asia
-'0d9562e15d',extremes,Storm,#b3b2b1,wmo,Storm Surge Pinglu District,2024-12-20T03:04:00+00:00,China,0.4826840959671992,0,2,en,EAS,Asia
 '31eadb6564',extremes,Storm,#b3b2b1,wmo,Storm Shangcheng County,2025-01-26T12:51:00+00:00,China,0.4826823791917444,0,2,en,EAS,Asia
 '65725c5258',extremes,Snow&Ice,#d60d2b,wmo,Frost Suiping County,2025-02-02T03:01:00+00:00,China,0.4826744521825848,0,2,en,EAS,Asia
 '7746d559da',extremes,Snow&Ice,#d60d2b,wmo,Frost Longquan,2025-01-26T15:41:00+00:00,China,0.4826636679211715,0,2,en,EAS,Asia
@@ -13182,13 +13132,11 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '393e662980',extremes,Snow&Ice,#d60d2b,wmo,Ice Ebian Yi Autonomous County,2025-01-19T03:03:00+00:00,China,0.4820645701896768,0,2,en,EAS,Asia
 '96f58f0ba7',extremes,Snow&Ice,#d60d2b,wmo,Ice Kulun flag,2025-01-30T02:57:00+00:00,China,0.4820628580748102,0,2,en,EAS,Asia
 '4dbbde00d8',extremes,Storm,#b3b2b1,wmo,Storm Eldest son County,2024-12-28T03:01:00+00:00,China,0.4820410149854744,0,2,en,EAS,Asia
-'4ead6e4756',extremes,Snow&Ice,#d60d2b,wmo,Ice Fuqing City,2024-12-20T03:04:00+00:00,China,0.482039198579314,0,2,en,EAS,Asia
 'c6e8e06e6d',extremes,Snow&Ice,#d60d2b,wmo,Frost Guangnan County,2025-01-26T12:05:00+00:00,China,0.4820331998924201,0,2,en,EAS,Asia
 '593a4723b1',extremes,Snow&Ice,#d60d2b,wmo,Avalanche tieling city,2025-01-05T03:08:00+00:00,China,0.4820293882948273,0,2,en,EAS,Asia
 '6944dd2ea2',extremes,Storm,#b3b2b1,wmo,Storm Dongning City,2025-01-16T02:59:00+00:00,China,0.482025846222461,0,2,en,EAS,Asia
 '9e68367e7d',extremes,Snow&Ice,#d60d2b,wmo,Frost Chengjiang City,2025-01-26T15:41:00+00:00,China,0.4819992612546745,0,2,en,EAS,Asia
 '0c747a89b1',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Gaolan County,2025-02-02T03:01:00+00:00,China,0.4819958794137111,0,2,en,EAS,Asia
-'5e42bbeade',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Huade County,2024-12-20T03:04:00+00:00,China,0.4819940674287937,0,2,en,EAS,Asia
 'e64064cc29',extremes,Snow&Ice,#d60d2b,wmo,Freezing Caritas County,2025-01-26T12:51:00+00:00,China,0.4819677668553558,0,2,en,EAS,Asia
 '9936930d85',extremes,Snow&Ice,#d60d2b,wmo,Freezing Shangri La City,2025-01-15T02:59:00+00:00,China,0.481962710764307,0,2,en,EAS,Asia
 '336d6e39e2',extremes,Drought,#edc291,acwe,dry spell Western Australia,2024-12-25T03:02:00+00:00,Australia,0.4819365197720842,0,2,en,CAU,Oceania
@@ -13211,7 +13159,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '9591852b34',extremes,Snow&Ice,#d60d2b,wmo,Frost Changle District,2025-01-18T02:55:00+00:00,China,0.4817402714160396,0,2,en,EAS,Asia
 '7a84e4e6cb',extremes,Storm,#b3b2b1,wmo,Storm Xiangning County,2025-01-05T03:08:00+00:00,China,0.4817346720024374,0,2,en,EAS,Asia
 '9016477ee3',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lanping,2025-01-26T12:51:00+00:00,China,0.4817318102463858,0,2,en,EAS,Asia
-'ceddf1e036',extremes,Snow&Ice,#d60d2b,wmo,Snow Jingning County,2024-12-20T03:04:00+00:00,China,0.4817266749008292,0,2,en,EAS,Asia
 '050683049d',extremes,Storm,#b3b2b1,wmo,Storm Shilin Yi Autonomous County,2025-01-26T03:01:00+00:00,China,0.4817028746418573,0,2,en,EAS,Asia
 '42b20d1fdf',extremes,Snow&Ice,#d60d2b,wmo,Frost gaoping district,2025-01-26T12:51:00+00:00,China,0.4816985943141453,0,2,en,EAS,Asia
 '39140533a5',extremes,Storm,#b3b2b1,wmo,Storm Surge shahe,2025-01-14T02:57:00+00:00,China,0.4816956447644868,0,2,en,EAS,Asia
@@ -13238,7 +13185,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'db3219de4d',extremes,Storm,#b3b2b1,wmo,Storm Surge Wengniuteqi,2025-01-27T03:01:00+00:00,China,0.4814046178708717,0,2,en,EAS,Asia
 '0ca9502129',extremes,Snow&Ice,#d60d2b,wmo,Ice Chengjiang City,2025-01-26T03:01:00+00:00,China,0.481394618347946,0,2,en,EAS,Asia
 'd9123b9456',extremes,Storm,#b3b2b1,wmo,Storm Xincheng District,2024-12-25T03:01:00+00:00,China,0.4813896073668638,0,2,en,EAS,Asia
-'eec0a6e9ec',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Mingxi County,2024-12-20T03:04:00+00:00,China,0.4813851478978947,0,2,en,EAS,Asia
 '06d40d334d',extremes,Storm,#b3b2b1,wmo,Storm Surge Wenshui County,2025-01-26T13:47:00+00:00,China,0.4813488106562762,0,2,en,EAS,Asia
 '9e8910143a',extremes,Storm,#b3b2b1,wmo,Storm Surge Yongding District,2025-01-14T02:57:00+00:00,China,0.4813451588606968,0,2,en,EAS,Asia
 '9ecc2d0a62',extremes,Storm,#b3b2b1,wmo,Storm Surge Jiang County,2025-01-26T03:01:00+00:00,China,0.4813294491930562,0,2,en,EAS,Asia
@@ -13388,7 +13334,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'dab27453df',extremes,Snow&Ice,#d60d2b,wmo,Ice Huocheng County,2025-01-23T03:00:00+00:00,China,0.4797916424396841,0,2,en,EAS,Asia
 '112f286a5d',extremes,Storm,#b3b2b1,wmo,Storm Lankao County,2025-01-26T12:51:00+00:00,China,0.4797780225870093,0,2,en,EAS,Asia
 'f67535e9c6',extremes,Snow&Ice,#d60d2b,wmo,Snow Hequ County,2025-01-26T13:47:00+00:00,China,0.4797680210459225,0,2,en,EAS,Asia
-'a657eb648f',extremes,Snow&Ice,#d60d2b,wmo,Freezing Jiangle County,2024-12-20T03:04:00+00:00,China,0.4797615985937463,0,2,en,EAS,Asia
 '20a791c556',extremes,Snow&Ice,#d60d2b,wmo,Frost Xinfeng County,2024-12-22T03:08:00+00:00,China,0.4797307531157488,0,2,en,EAS,Asia
 '9f2775e6bb',extremes,Cold Wave,#a7e9fa,wmo,Freezing Xilin County,2025-01-26T12:05:00+00:00,China,0.4797297475191244,0,2,en,EAS,Asia
 '3215832638',extremes,Storm,#b3b2b1,wmo,Storm Surge Changyuan District,2025-01-26T03:01:00+00:00,China,0.4797293842977845,0,2,en,EAS,Asia
@@ -13468,7 +13413,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '0c46bad26d',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Gaotang County,2025-01-26T12:05:00+00:00,China,0.4788932478914612,0,2,en,EAS,Asia
 '5548937172',extremes,Storm,#b3b2b1,wmo,Storm Ninghai County,2025-01-26T17:07:00+00:00,China,0.478887148506519,0,2,en,EAS,Asia
 'f6c6b9fe0a',extremes,Snow&Ice,#d60d2b,wmo,Freezing Maitreya City,2025-01-06T03:08:00+00:00,China,0.4788711206266693,0,2,en,EAS,Asia
-'4e58e23b22',extremes,Snow&Ice,#d60d2b,wmo,Snow Fuzhou City,2024-12-20T03:04:00+00:00,China,0.4788560152367017,0,2,en,EAS,Asia
 '53f650f7cb',extremes,Snow&Ice,#d60d2b,wmo,Freezing Songpan County,2025-01-10T03:07:00+00:00,China,0.478853932077037,0,2,en,EAS,Asia
 'c8beca89b8',extremes,Storm,#b3b2b1,wmo,Storm Surge Danfeng County,2025-01-26T03:01:00+00:00,China,0.4788186612809008,0,2,en,EAS,Asia
 'c211b5ec3d',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Junction County,2025-01-26T12:51:00+00:00,China,0.4788142654224387,0,2,en,EAS,Asia
@@ -13805,7 +13749,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '67e8621276',extremes,Storm,#b3b2b1,wmo,Storm Xiangzhou District,2025-01-25T02:55:00+00:00,China,0.4749890105752555,0,2,en,EAS,Asia
 '4334f02392',extremes,Storm,#b3b2b1,wmo,Storm Surge Pingdu City,2025-01-26T15:41:00+00:00,China,0.4749846816207734,0,2,en,EAS,Asia
 '7450f5cf52',extremes,Precipitation,#d60d2b,wmo,Rain Área metropolitana de Tenerife,2025-01-22T03:02:00+00:00,Spain,0.4749747074392937,0,2,en,MED,Europe
-'6dcdd693f4',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Nanan City,2024-12-20T03:04:00+00:00,China,0.4749503442819085,0,2,en,EAS,Asia
 'f6384e1321',extremes,Storm,#b3b2b1,wmo,Storm Huojia County,2025-01-26T12:05:00+00:00,China,0.474934494670112,0,2,en,EAS,Asia
 'da0a76d3bb',extremes,Snow&Ice,#d60d2b,wmo,Ice Huichang County,2025-01-11T03:04:00+00:00,China,0.4749124443910464,0,2,en,EAS,Asia
 '29706afaf4',extremes,Storm,#b3b2b1,wmo,Storm Anyuan County,2025-01-26T03:01:00+00:00,China,0.4748913324017944,0,2,en,EAS,Asia
@@ -13832,7 +13775,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '480fc04c71',extremes,Snow&Ice,#d60d2b,wmo,Frost Erenhot City,2025-01-28T02:59:00+00:00,China,0.4746558572206815,0,2,en,EAS,Asia
 '56676778f3',extremes,Storm,#b3b2b1,wmo,Storm Lukou District,2025-01-05T03:08:00+00:00,China,0.4746523630818994,0,2,en,EAS,Asia
 '477f4ca569',extremes,Storm,#b3b2b1,wmo,Storm Surge Danjiangkou City,2025-01-26T13:47:00+00:00,China,0.4746464924973935,0,2,en,EAS,Asia
-'7096c790d2',extremes,Snow&Ice,#d60d2b,wmo,Frost Taipusiqi,2024-12-20T03:04:00+00:00,China,0.4746317087490786,0,2,en,EAS,Asia
 '99ac3746db',extremes,Snow&Ice,#d60d2b,wmo,Avalanche HunChun,2024-12-31T03:02:00+00:00,China,0.4745918666632047,0,2,en,EAS,Asia
 '74126225d2',extremes,Earthquake,#870007,usgs,Earthquake Pakistan,2025-01-25T02:55:00+00:00,Pakistan,0.474570542503274,0,2,en,WCA,Asia
 'fdbe105203',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Zhoukou,2025-01-31T02:59:00+00:00,China,0.4745607430043536,0,2,en,EAS,Asia
@@ -13939,7 +13881,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '024aa58fad',extremes,Snow&Ice,#d60d2b,wmo,Snow Diebu County,2025-01-26T12:05:00+00:00,China,0.4733175129347472,0,2,en,EAS,Asia
 'd4f0db38ea',extremes,Snow&Ice,#d60d2b,wmo,Freezing Zhouqu County,2025-01-27T03:01:00+00:00,China,0.4733084189119469,0,2,en,EAS,Asia
 '4dcb36e0f0',extremes,Snow&Ice,#d60d2b,wmo,Frost Dongxiang Autonomous County,2025-01-11T03:04:00+00:00,China,0.4732874639718156,0,2,en,EAS,Asia
-'6ad7dc1311',extremes,Precipitation,#d60d2b,wmo,Precipitation Slovenia South West,2024-12-20T03:04:00+00:00,Slovenia,0.4732858940495904,0,2,en,WCE,Europe
 '2ad4caa773',extremes,Storm,#b3b2b1,wmo,Storm Surge Neixiang County,2025-01-26T12:05:00+00:00,China,0.4732557273084258,0,2,en,EAS,Asia
 '6b41abde80',extremes,Fog,#d60d2b,wmo,Fog tuanfeng county,2025-01-06T03:08:00+00:00,China,0.4732555924370175,0,2,en,EAS,Asia
 '878c557203',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Binchuan County,2025-01-26T13:47:00+00:00,China,0.4732370217212414,0,2,en,EAS,Asia
@@ -13960,7 +13901,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'ee531249c5',extremes,Storm,#b3b2b1,wmo,Storm Surge Shangnan County,2025-01-14T02:57:00+00:00,China,0.4730642683029168,0,2,en,EAS,Asia
 '65e6276b02',extremes,Snow&Ice,#d60d2b,wmo,Snow Poyang County,2025-01-16T02:59:00+00:00,China,0.4730617987394758,0,2,en,EAS,Asia
 '67b7e20b53',extremes,Storm,#b3b2b1,wmo,Storm Surge Sakya County,2025-02-01T03:03:00+00:00,China,0.4730251171266354,0,2,en,EAS,Asia
-'94ac9f5229',extremes,Snow&Ice,#d60d2b,wmo,Frost Hangjinqi,2024-12-20T03:04:00+00:00,China,0.4730126708028015,0,2,en,EAS,Asia
 '9f965820f3',extremes,Snow&Ice,#d60d2b,wmo,Ice Yongji County,2025-01-14T02:57:00+00:00,China,0.4729935093240741,0,2,en,EAS,Asia
 '847e6d82f0',extremes,Snow&Ice,#d60d2b,wmo,Freezing Aihui District,2024-12-25T03:01:00+00:00,China,0.4729860368610522,0,2,en,EAS,Asia
 'cfb156e9e4',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Yichuan County,2025-01-26T03:01:00+00:00,China,0.4729644865998229,0,2,en,EAS,Asia
@@ -14018,7 +13958,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '87169c663f',extremes,Snow&Ice,#d60d2b,wmo,Ice Wafangdian City City,2025-01-26T13:47:00+00:00,China,0.4725106661923239,0,2,en,EAS,Asia
 'e84b0161ad',extremes,Fog,#d60d2b,wmo,Fog Qing an County,2025-01-25T02:55:00+00:00,China,0.4725035480317956,0,2,en,EAS,Asia
 'a029eacd70',extremes,Snow&Ice,#d60d2b,wmo,Ice Shanyin County,2025-01-25T02:55:00+00:00,China,0.4724961605436462,0,2,en,EAS,Asia
-'efea15ece6',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Qinzhou District,2024-12-20T03:04:00+00:00,China,0.4724865845218611,0,2,en,EAS,Asia
 '570e1c448a',extremes,Snow&Ice,#d60d2b,wmo,Snow Zezhou County,2025-01-27T03:01:00+00:00,China,0.4724747118166916,0,2,en,EAS,Asia
 'e2d706132e',extremes,Snow&Ice,#d60d2b,wmo,Snow Mengshan County,2025-01-18T02:55:00+00:00,China,0.4724724512397473,0,2,en,EAS,Asia
 'cb2e353ca6',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Meixian,2025-01-25T02:55:00+00:00,China,0.4724533677723819,0,2,en,EAS,Asia
@@ -14087,7 +14026,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'd02bd3317f',extremes,Storm,#b3b2b1,wmo,Storm Xiushui County,2025-01-26T12:05:00+00:00,China,0.471654447669431,0,2,en,EAS,Asia
 '578b5a3ac8',extremes,Snow&Ice,#d60d2b,wmo,Frost Xiaojin,2025-01-26T12:05:00+00:00,China,0.471650306142078,0,2,en,EAS,Asia
 '4cc70fb0e9',extremes,Snow&Ice,#d60d2b,wmo,Snow Foping County,2024-12-24T03:03:00+00:00,China,0.4716316655894703,0,2,en,EAS,Asia
-'e5eb9755f3',extremes,Precipitation,#d60d2b,wmo,Downpour Veneto,2024-12-20T03:04:00+00:00,Italy,0.4716171809437886,0,2,en,MED,Europe
 '58d92ddd9d',extremes,Fog,#d60d2b,wmo,Fog Qinggang County,2024-12-31T03:02:00+00:00,China,0.4716088773828659,0,2,en,EAS,Asia
 '2d8565cbcf',extremes,Snow&Ice,#d60d2b,wmo,Frost Fuzhou City,2024-12-21T03:01:00+00:00,China,0.4716052570653562,0,2,en,EAS,Asia
 '4aed5b5052',extremes,Storm,#b3b2b1,wmo,Storm Surge Chahar right middle banner,2025-01-26T12:51:00+00:00,China,0.4716020390035966,0,2,en,EAS,Asia
@@ -14105,7 +14043,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'f41677afb7',extremes,Snow&Ice,#d60d2b,wmo,Snow Dangchang County,2025-01-27T03:01:00+00:00,China,0.4714771853987393,0,2,en,EAS,Asia
 'd31314cd42',extremes,Snow&Ice,#d60d2b,wmo,Frost xingyang,2025-01-25T02:55:00+00:00,China,0.4714751711228814,0,2,en,EAS,Asia
 'a85823bf3b',extremes,Snow&Ice,#d60d2b,wmo,Avalanche QUANNAN County,2025-01-10T03:07:00+00:00,China,0.4714692606034864,0,2,en,EAS,Asia
-'fb988b6dec',extremes,Snow&Ice,#d60d2b,wmo,Frost Tianjun County,2024-12-20T03:04:00+00:00,China,0.4714533845906724,0,2,en,EAS,Asia
 '0cac89986c',extremes,Snow&Ice,#d60d2b,wmo,Ice Eshan Yi Autonomous County,2025-01-13T03:09:00+00:00,China,0.4714233598371222,0,2,en,EAS,Asia
 '47682ca642',extremes,Snow&Ice,#d60d2b,wmo,Ice Zi Chang,2025-01-24T03:00:00+00:00,China,0.4714227785983687,0,2,en,EAS,Asia
 'f3f192687f',extremes,Storm,#b3b2b1,wmo,Storm Fengrun District,2025-01-14T02:57:00+00:00,China,0.4714217959925152,0,2,en,EAS,Asia
@@ -14202,7 +14139,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '3a0abd9498',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Xiangcheng County,2025-01-09T03:27:00+00:00,China,0.4702962660416654,0,2,en,EAS,Asia
 '3ef52e96e7',extremes,Storm,#b3b2b1,wmo,Storm Surge Alukerqinqi,2025-01-09T03:27:00+00:00,China,0.4702429177690694,0,2,en,EAS,Asia
 'ac7bef588f',extremes,Snow&Ice,#d60d2b,wmo,Ice Huining County,2025-02-02T03:01:00+00:00,China,0.4702234661198273,0,2,en,EAS,Asia
-'7c468a0b23',extremes,Snow&Ice,#d60d2b,wmo,Freezing Songtao Miao Autonomous County,2024-12-20T03:04:00+00:00,China,0.4702092219929821,0,2,en,EAS,Asia
 '57be75a902',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Heyang County,2025-01-26T12:05:00+00:00,China,0.470199899851244,0,2,en,EAS,Asia
 'a46561ec00',extremes,Snow&Ice,#d60d2b,wmo,Ice Pingyao County,2025-01-26T12:51:00+00:00,China,0.4701917032497009,0,2,en,EAS,Asia
 'ab38f327f8',extremes,Snow&Ice,#d60d2b,wmo,Freezing Dengfeng,2025-01-26T17:07:00+00:00,China,0.4701600323134753,0,2,en,EAS,Asia
@@ -14277,7 +14213,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'c5a8d62215',extremes,Storm,#b3b2b1,wmo,Storm Surge Lankao County,2025-01-14T02:57:00+00:00,China,0.4694341542738752,0,2,en,EAS,Asia
 'c35ea19bdf',extremes,Snow&Ice,#d60d2b,wmo,Freezing Shunchang County,2025-01-14T02:57:00+00:00,China,0.469432472798783,0,2,en,EAS,Asia
 'd43a35c6e9',extremes,Snow&Ice,#d60d2b,wmo,Freezing Zhongjiang County,2025-01-26T13:47:00+00:00,China,0.4694082495956828,0,2,en,EAS,Asia
-'88d8a70788',extremes,Snow&Ice,#d60d2b,wmo,Ice Qianshan County,2024-12-20T03:04:00+00:00,China,0.4693882928499571,0,2,en,EAS,Asia
 'd0d948e269',extremes,Snow&Ice,#d60d2b,wmo,Frost Wanshanqu,2025-01-06T03:08:00+00:00,China,0.4693762618082437,0,2,en,EAS,Asia
 'b3be4699f7',extremes,Snow&Ice,#d60d2b,wmo,Frost Bayan Obo,2025-01-26T03:01:00+00:00,China,0.4693717686778116,0,2,en,EAS,Asia
 '1b6902851f',extremes,Snow&Ice,#d60d2b,wmo,Snow Danfeng County,2025-01-26T15:41:00+00:00,China,0.4693680202547695,0,2,en,EAS,Asia
@@ -14420,7 +14355,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'bc28d177fe',extremes,Snow&Ice,#d60d2b,wmo,Freezing Yumin County,2025-01-23T03:00:00+00:00,China,0.4677926525537296,0,2,en,EAS,Asia
 '82f2e73191',extremes,Snow&Ice,#d60d2b,wmo,Snow Xifeng County,2025-01-12T03:10:00+00:00,China,0.4677666712947114,0,2,en,EAS,Asia
 'fc31fbfba1',extremes,Snow&Ice,#d60d2b,wmo,Snow Jinsha County,2025-01-13T03:09:00+00:00,China,0.4677514565521904,0,2,en,EAS,Asia
-'190f2d77ff',extremes,Snow&Ice,#d60d2b,wmo,Freezing Zhenglanqi,2024-12-20T03:04:00+00:00,China,0.4677238688017002,0,2,en,EAS,Asia
 '61dc4485e6',extremes,Snow&Ice,#d60d2b,wmo,Frost Datian County,2025-01-26T12:51:00+00:00,China,0.4676840860169922,0,2,en,EAS,Asia
 '3c4c3be7bf',extremes,Storm,#b3b2b1,wmo,Storm Tongguan County,2025-01-26T03:01:00+00:00,China,0.4676784805011565,0,2,en,EAS,Asia
 'a18dce4c3b',extremes,Snow&Ice,#d60d2b,wmo,Freezing Ninglang Yi Autonomous County,2025-01-26T13:47:00+00:00,China,0.4676472036484672,0,2,en,EAS,Asia
@@ -14435,7 +14369,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'e097bc2a5c',extremes,Fog,#d60d2b,wmo,Fog Yushan County,2025-02-04T03:00:00+00:00,China,0.467561940161633,0,2,en,EAS,Asia
 '6aa9bc40bb',extremes,Snow&Ice,#d60d2b,wmo,Snow Yuanmou County,2025-01-26T17:07:00+00:00,China,0.467559064518085,0,2,en,EAS,Asia
 'f0374b4ce9',extremes,Storm,#b3b2b1,wmo,Storm Surge Dacheng County,2025-01-27T03:01:00+00:00,China,0.4675388675476314,0,2,en,EAS,Asia
-'6b210efb2c',extremes,Snow&Ice,#d60d2b,wmo,Frost Nanjing County,2024-12-20T03:04:00+00:00,China,0.4675307281455384,0,2,en,EAS,Asia
 '4b55121afe',extremes,Storm,#b3b2b1,wmo,Storm Gaoyang County,2025-01-26T03:01:00+00:00,China,0.4675272874526476,0,2,en,EAS,Asia
 '96ba315c1d',extremes,Storm,#b3b2b1,wmo,Storm wuzhong district,2025-01-26T17:07:00+00:00,China,0.4675252828607319,0,2,en,EAS,Asia
 'beb9be8b19',extremes,Snow&Ice,#d60d2b,wmo,Snow Fangshan County,2025-01-29T02:58:00+00:00,China,0.4675156805552993,0,2,en,EAS,Asia
@@ -14864,7 +14797,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '7ea6ea56cf',extremes,Snow&Ice,#d60d2b,wmo,Freezing Jingyang District,2025-01-11T03:04:00+00:00,China,0.4620658567971583,0,2,en,EAS,Asia
 '216e62cd42',extremes,Snow&Ice,#d60d2b,wmo,Frost Xuanen County,2025-01-05T03:08:00+00:00,China,0.4620538648439012,0,2,en,EAS,Asia
 '3dabaeb151',extremes,Storm,#b3b2b1,aidr,Storm Severe Storm Sydney New South Wales 1937,2025-01-02T03:02:00+00:00,,0.462028921101147,0,2,en,EAU,Oceania
-'75a9d3a607',extremes,Wildfire,#d60d2b,eonet,Wildfire in Sudan 1023082,2024-12-20T03:04:00+00:00,South Sudan,0.4620141001489952,0,2,en,NEAF,Africa
 '1ae6969d01',extremes,Storm,#b3b2b1,wmo,Storm Surge Huaxian,2025-01-26T03:01:00+00:00,China,0.4620115920875232,0,2,en,EAS,Asia
 'bcc3b8c29d',extremes,Snow&Ice,#d60d2b,wmo,Freezing Huade County,2025-01-26T12:51:00+00:00,China,0.4620076749389016,0,2,en,EAS,Asia
 'b339203ac4',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Liancheng County,2025-02-04T03:00:00+00:00,China,0.4619946317561786,0,2,en,EAS,Asia
@@ -15173,7 +15105,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '29cb92c9f6',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Guzhen County,2025-01-26T03:01:00+00:00,China,0.4576511722539407,0,2,en,EAS,Asia
 '1ffe071e66',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Jingyu County,2025-01-16T02:59:00+00:00,China,0.4576404344032858,0,2,en,EAS,Asia
 'b29196dc44',extremes,Earthquake,#870007,usgs,Earthquake 2025 Xizang China Earthquake,2025-01-07T03:06:00+00:00,China,0.4576354379212081,0,2,en,TIB,Asia
-'cbc1a80243',extremes,Wildfire,#d60d2b,eonet,Wildfire in Sudan 1023088,2024-12-20T03:04:00+00:00,South Sudan,0.4576303683721902,0,2,en,CAF,Africa
 '50b5beef1c',extremes,Snow&Ice,#d60d2b,wmo,Ice Jixian County,2025-01-09T03:27:00+00:00,China,0.4575872733888779,0,2,en,EAS,Asia
 '2267aac0e6',extremes,Snow&Ice,#d60d2b,wmo,Frost Yushe County,2025-01-26T12:05:00+00:00,China,0.4575664794373767,0,2,en,EAS,Asia
 '06e2515094',extremes,Storm,#b3b2b1,wmo,Storm Surge Longhui County,2025-01-26T12:05:00+00:00,China,0.4575568187526626,0,2,en,EAS,Asia
@@ -15296,7 +15227,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '49e1b35f1a',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Hunyuan County,2025-01-13T03:09:00+00:00,China,0.4554823023488751,0,2,en,EAS,Asia
 'c78f429537',extremes,Snow&Ice,#d60d2b,wmo,Freezing Xuanen County,2025-02-04T03:00:00+00:00,China,0.4554807847769399,0,2,en,EAS,Asia
 '5e9ee5a55f',extremes,Snow&Ice,#d60d2b,wmo,Freezing Anyang City,2025-01-26T03:01:00+00:00,China,0.4554807532014375,0,2,en,EAS,Asia
-'f0119bea46',extremes,Wildfire,#d60d2b,eonet,Wildfire in Mali 1023085,2024-12-20T03:04:00+00:00,Mali,0.4554485848092088,0,2,en,WAF,Africa
 'e774753583',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lushan County,2025-01-26T17:07:00+00:00,China,0.4554483632288102,0,2,en,EAS,Asia
 '54927bfe65',extremes,Flood,#030ba1,random,coastal flooding,2025-01-26T15:40:00+00:00,,0.4554301166453898,0,2,en,,
 '47f090863f',extremes,Fog,#d60d2b,wmo,Fog Hengyang County,2025-02-04T03:00:00+00:00,China,0.455407597520855,0,2,en,EAS,Asia
@@ -15319,11 +15249,9 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '153d180d9f',extremes,Snow&Ice,#d60d2b,wmo,Snow Suiyang County,2024-12-31T03:02:00+00:00,China,0.4551741900240827,0,2,en,EAS,Asia
 '70f64775b3',extremes,Storm,#b3b2b1,wmo,Storm gujiao city,2025-01-26T03:01:00+00:00,China,0.4551695259827845,0,2,en,EAS,Asia
 'f8c20ef29c',extremes,Wildfire,#d60d2b,eonet,Wildfire in Ghana 1023107,2024-12-24T03:02:00+00:00,Ghana,0.4551431785225038,0,2,en,WAF,Africa
-'1aa9b8aedc',extremes,Wildfire,#d60d2b,eonet,Wildfire in Burkina Faso Mali 1023086,2024-12-20T03:04:00+00:00,Burkina Faso,0.4551197408135572,0,2,en,SAH,Africa
 'cad2783a03',extremes,Snow&Ice,#d60d2b,wmo,Ice Xunyang,2025-01-26T12:05:00+00:00,China,0.4550983295358523,0,2,en,EAS,Asia
 'e83115f55c',extremes,Snow&Ice,#d60d2b,wmo,Freezing Yilong County,2025-01-11T03:04:00+00:00,China,0.4550577816699988,0,2,en,EAS,Asia
 '021ec704b9',extremes,Snow&Ice,#d60d2b,wmo,Frost Daocheng County,2025-01-25T02:55:00+00:00,China,0.4550413612268943,0,2,en,EAS,Asia
-'d463306fc3',extremes,Wildfire,#d60d2b,eonet,Wildfire in Cote d #039 Ivoire 1023083,2024-12-20T03:04:00+00:00,Ivory Coast,0.4549643136196429,0,2,en,WAF,Africa
 '0100104570',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Tuquan County,2025-01-26T13:47:00+00:00,China,0.4549561929660359,0,2,en,EAS,Asia
 '5295fde9b4',extremes,Wildfire,#d60d2b,eonet,Wildfire in Sudan 1023097,2024-12-22T03:07:00+00:00,South Sudan,0.4549392062164853,0,2,en,NEAF,Africa
 '7619dd87d7',extremes,Storm,#b3b2b1,wmo,Storm Surge Yanshan County,2025-01-26T03:01:00+00:00,China,0.4548751364442047,0,2,en,EAS,Asia
@@ -15442,7 +15370,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'ee65a2d6a3',extremes,Snow&Ice,#d60d2b,wmo,Freezing Changyuan District,2025-01-26T03:01:00+00:00,China,0.4532023185201881,0,2,en,EAS,Asia
 '3c0443a011',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Pujiang County,2025-01-26T12:51:00+00:00,China,0.4531940181308425,0,2,en,EAS,Asia
 '6696fac86e',extremes,Snow&Ice,#d60d2b,wmo,Snow Fuyi District,2025-01-26T17:07:00+00:00,China,0.4531841865666919,0,2,en,EAS,Asia
-'8a5a53a3f9',extremes,Wildfire,#d60d2b,eonet,Wildfire in Sudan 1023079,2024-12-20T03:04:00+00:00,South Sudan,0.4531822632403847,0,2,en,NEAF,Africa
 '4ac3f47fd5',extremes,Snow&Ice,#d60d2b,wmo,Frost Liuhe County,2025-01-05T03:08:00+00:00,China,0.4531750062787019,0,2,en,EAS,Asia
 '7e8bef34a1',extremes,Wildfire,#d60d2b,eonet,Wildfire in Ghana 1023100,2024-12-22T03:07:00+00:00,Ghana,0.4531390036895546,0,2,en,WAF,Africa
 '853cbcf838',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Xichong County,2025-01-26T12:51:00+00:00,China,0.4531002439547821,0,2,en,EAS,Asia
@@ -15508,7 +15435,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '69b74f7c80',extremes,Snow&Ice,#d60d2b,wmo,Frost Dengkou County,2025-01-26T15:41:00+00:00,China,0.4520911580070177,0,2,en,EAS,Asia
 '463144923f',extremes,Snow&Ice,#d60d2b,wmo,Ice Tongyu County,2025-01-26T15:41:00+00:00,China,0.452077357776135,0,2,en,EAS,Asia
 'fa0d511068',extremes,Snow&Ice,#d60d2b,wmo,Snow Yongji County,2025-01-27T03:01:00+00:00,China,0.4520757697800889,0,2,en,EAS,Asia
-'5c013442b1',extremes,Wildfire,#d60d2b,eonet,Wildfire in Central African Republic 1023089,2024-12-20T03:04:00+00:00,Central African Republic,0.4520586035810479,0,2,en,CAF,Africa
 'f710f4a6f1',extremes,Storm,#b3b2b1,wmo,Storm Qinglong County,2025-01-26T03:01:00+00:00,China,0.4520531990137731,0,2,en,EAS,Asia
 '53f4131851',extremes,Snow&Ice,#d60d2b,wmo,Frost Kongtong,2025-01-27T03:01:00+00:00,China,0.4520327241584899,0,2,en,EAS,Asia
 '7fc48e8d35',extremes,Wildfire,#d60d2b,eonet,Wildfire in Benin 1023129,2024-12-27T03:02:00+00:00,Benin,0.4520001624594593,0,2,en,WAF,Africa
@@ -15990,7 +15916,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '4651e7cb38',extremes,Snow&Ice,#d60d2b,wmo,Frost Nanyang City,2025-01-31T02:59:00+00:00,China,0.4419909151376445,0,2,en,EAS,Asia
 '7ed9845148',extremes,Snow&Ice,#d60d2b,wmo,Freezing Qianshan County,2025-01-28T02:59:00+00:00,China,0.4419863723812692,0,2,en,EAS,Asia
 '706a23dd74',extremes,Snow&Ice,#d60d2b,wmo,Frost Beiliu,2025-01-13T03:09:00+00:00,China,0.441981934573397,0,2,en,EAS,Asia
-'05a9217fae',extremes,Wildfire,#d60d2b,eonet,RX CALV C 133 Wildfire Vernon Louisiana,2024-12-21T03:01:00+00:00,United States,0.4419608099687458,0,2,en,CNA,North-America
 'eec02ddbb2',extremes,Wildfire,#d60d2b,eonet,Wildfire in Burkina Faso 1023401,2025-01-26T03:00:00+00:00,Burkina Faso,0.4419028771595185,0,2,en,WAF,Africa
 'fe0d5ac0bc',extremes,Snow&Ice,#d60d2b,wmo,Frost Ruyang County,2025-01-26T12:05:00+00:00,China,0.4419000933757522,0,2,en,EAS,Asia
 '3b617d834f',extremes,Wildfire,#d60d2b,eonet,Wildfire in Senegal 1023149,2024-12-31T03:01:00+00:00,Senegal,0.4418906553841084,0,2,en,WAF,Africa
@@ -16271,7 +16196,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 '8424e3a436',extremes,Wildfire,#d60d2b,eonet,Wildfire in Central African Republic 1023346,2025-01-17T02:59:00+00:00,Central African Republic,0.4321391684146749,0,2,en,CAF,Africa
 'c19c29f7e9',extremes,Wildfire,#d60d2b,eonet,Wildfire in Sudan 1023347,2025-01-18T02:55:00+00:00,South Sudan,0.4321238252153192,0,2,en,NEAF,Africa
 '9cf64d8066',extremes,Wildfire,#d60d2b,eonet,Wildfire in Sudan 1023270,2025-01-10T03:06:00+00:00,South Sudan,0.4321191292603245,0,2,en,NEAF,Africa
-'52af874334',extremes,Drought,#edc291,random,aridity,2024-12-21T03:01:00+00:00,,0.4321146130735233,0,2,en,,
 'a4b9e2b651',extremes,Wildfire,#d60d2b,eonet,Wildfire in Sudan 1023342,2025-01-17T02:59:00+00:00,South Sudan,0.4321023810019744,0,2,en,NEAF,Africa
 '13d44b20db',extremes,Wildfire,#d60d2b,eonet,Wildfire in Central African Republic 1023314,2025-01-13T03:08:00+00:00,Central African Republic,0.432042297987017,0,2,en,CAF,Africa
 'd3b6b353f4',extremes,Wildfire,#d60d2b,esawfa,Bushfire Kuwait,2025-01-04T03:02:00+00:00,Kuwait,0.4320301452015122,0,2,en,ARP,Asia
@@ -16279,7 +16203,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'e1f128b2b4',extremes,Earthquake,#870007,usgs,Earthquake Jatiroto,2025-01-26T17:07:00+00:00,Indonesia,0.4320081046776727,0,2,en,SEA,Asia
 'e46fbf6b9f',extremes,Wildfire,#d60d2b,eonet,Wildfire in Central African Republic 1023344,2025-01-20T03:01:00+00:00,Central African Republic,0.4319980770918529,0,2,en,CAF,Africa
 'e68727d340',extremes,Cold Wave,#a7e9fa,wmo,Freezing Junction County,2025-01-25T02:55:00+00:00,China,0.4319905224811743,0,2,en,EAS,Asia
-'0d2b3ea12d',extremes,Volcano,#b83202,eonet,Raung Volcano Indonesia,2024-12-21T03:01:00+00:00,Indonesia,0.4319402174981516,0,2,en,SEA,Asia
 'b068ff206d',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Tongjiang County,2025-01-26T17:07:00+00:00,China,0.4318946457687247,0,2,en,EAS,Asia
 '80a7e71af4',extremes,Wildfire,#d60d2b,eonet,Wildfire in Sudan 1023246,2025-01-08T03:06:00+00:00,South Sudan,0.4318803496628194,0,2,en,NEAF,Africa
 'ded9e29186',extremes,Wildfire,#d60d2b,eonet,Wildfire in Australia 1023365,2025-01-19T03:03:00+00:00,Australia,0.4318532030145717,0,2,en,EAU,Oceania
@@ -16612,7 +16535,6 @@ Western",2025-01-26T15:41:00+00:00,Ghana,0.7562769328501059,0,2,en,WAF,Africa
 'd08b37df75',extremes,Wildfire,#d60d2b,eonet,DCNF COMP 27 RX Wildfire Houston Texas,2025-02-01T03:02:00+00:00,United States,0.41136626235586,0,2,en,CNA,North-America
 '8f419a2040',extremes,Cold Wave,#a7e9fa,wmo,Freezing Dengzhou,2025-01-25T02:55:00+00:00,China,0.4112920258956729,0,2,en,EAS,Asia
 '8d52fb7fb0',extremes,Wildfire,#d60d2b,eonet,Wildfire in Australia 1023461,2025-02-02T03:00:00+00:00,Australia,0.4112709036589683,0,2,en,CAU,Oceania
-'87c7bd4eb8',extremes,Wildfire,#d60d2b,eonet,RX CALV C 262 265 Wildfire Vernon Louisiana,2024-12-21T03:01:00+00:00,United States,0.4111476090557386,0,2,en,CNA,North-America
 '6467235e20',extremes,Fog,#d60d2b,wmo,Fog Dongzhi County,2025-02-04T03:00:00+00:00,China,0.411049192001807,0,2,en,EAS,Asia
 '7769493aca',extremes,Wildfire,#d60d2b,eonet,Wildfire in Sudan 1023441,2025-02-04T02:59:00+00:00,South Sudan,0.4107520669183664,0,2,en,CAF,Africa
 '2637ff7c61',extremes,Wildfire,#d60d2b,eonet,Wildfire in Central African Republic 1023475,2025-02-04T02:59:00+00:00,Central African Republic,0.410596241202127,0,2,en,CAF,Africa
