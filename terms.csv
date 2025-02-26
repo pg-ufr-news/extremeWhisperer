@@ -1,10 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '481e050c88',extremes,Drought,#edc291,acwe,low water level Tasmania,2025-01-21T03:00:00+00:00,Australia,0.7919564845703755,1,2,en,SAU,Oceania
 'e398607be2',extremes,Wildfire,#d60d2b,fema,California Palisades Fire,2025-01-09T03:27:00+00:00,United States,0.7672572241222702,1,3,en,WNA,North-America
-'b5073473c2',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Garance,2025-02-26T03:05:00+00:00,,0.7594642005676697,0,2,en,MDG,Africa
-'8a442a950f',extremes,Heat Wave,#c40202,wmo,Heat Wave Bahia Blanca y alrededores,2025-02-26T03:06:00+00:00,Argentina,0.7566464994478482,0,2,en,SES,South-America
-'c72865acbd',extremes,Drought,#edc291,edo,Lack of Rain Togo,2025-01-28T02:59:00+00:00,Togo,0.7565224702138355,0,2,en,WAF,Africa
-'02711610b5',extremes,Storm,#b3b2b1,wmo,Storm Argentina,2025-02-19T03:03:00+00:00,Argentina,0.7563693492348703,0,2,en,SES,South-America
 '6916938461',extremes,Tropical Cyclone,#4f4f4f,relief,Typhoon Mozambique,2025-01-24T02:59:00+00:00,Mozambique,0.756350092602694,1,2,en,ESAF,Africa
 'ae62857aff',extremes,Flood,#030ba1,wmo,Flood CENTRAL ZAMBIA,2025-02-26T03:06:00+00:00,Zambia,0.7556336797033725,0,2,en,ESAF,Africa
 '4409ae0fad',extremes,Earthquake,#870007,usgs,Earthquake Parādīp Garh,2025-02-26T03:05:00+00:00,India,0.7545756469669915,0,2,en,BOB,Indian Ocean
@@ -3237,6 +3233,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5fe41fd1a9',extremes,Cold Wave,#a7e9fa,wmo,Freezing Red fort area,2025-01-24T03:00:00+00:00,China,0.652461759561417,0,2,en,EAS,Asia
 'ad41085b03',extremes,Wildfire,#d60d2b,wmo,Wildfire Wengyuan County,2025-02-04T03:00:00+00:00,China,0.6524302489561922,0,2,en,EAS,Asia
 '63f70691d5',extremes,Wildfire,#d60d2b,wmo,Wildfire Renhua county,2025-01-26T03:01:00+00:00,China,0.6524274832054178,1,1,en,EAS,Asia
+'02711610b5',extremes,Storm,#b3b2b1,wmo,Storm Argentina,2025-02-19T03:03:00+00:00,Argentina,0.6524036668496398,1,2,en,SES,South-America
 'a5e5433776',extremes,Storm,#b3b2b1,wmo,Storm Surge Columbia River Bar,2025-02-21T03:04:00+00:00,United States,0.6524036663359472,0,2,en,CNA,North-America
 'f97b94b956',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Uruguay,2025-02-13T03:02:00+00:00,Uruguay,0.6523970491156149,1,1,en,SES,South-America
 '79b2976573',extremes,Storm,#b3b2b1,wmo,Storm Surge Northern Lapland Mountains,2025-02-11T03:02:00+00:00,Sweden,0.6523731704396077,0,2,en,NEU,Europe
@@ -3962,12 +3959,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a63efd7f21',extremes,Heat Wave,#c40202,wmo,Heat Wave Tartagal y alrededores,2025-02-23T03:07:00+00:00,Argentina,0.6431695298866592,1,1,en,SES,South-America
 'f967c619f5',extremes,Storm,#b3b2b1,wmo,Storm BLIDA,2025-01-28T02:59:00+00:00,Algeria,0.6431648834889931,1,1,en,SAH,Africa
 'ed63e65540',extremes,Fog,#d60d2b,wmo,Fog Kabardino Balkar Republic,2025-01-30T02:57:00+00:00,Russia,0.6431519435333348,1,1,en,ESB,Europe
+'8a442a950f',extremes,Heat Wave,#c40202,wmo,Heat Wave Bahia Blanca y alrededores,2025-02-26T03:06:00+00:00,Argentina,0.643149524530671,1,1,en,SES,South-America
 'bd2d0ccf65',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Fukang,2025-01-23T03:00:00+00:00,China,0.6431175210013238,0,2,en,EAS,Asia
 '947351cbc9',extremes,Storm,#b3b2b1,wmo,Storm Southwest San Juan Mountains,2025-02-15T03:01:00+00:00,United States,0.6431136131409986,0,2,en,CNA,North-America
 '0026ff66a6',extremes,Flood,#030ba1,wmo,Flooding Western Australia Oakover River,2025-01-16T02:59:00+00:00,Australia,0.6431131211562007,1,1,en,CAU,Oceania
 'a77c243493',extremes,Wildfire,#d60d2b,wmo,Wildfire Chaonan District,2025-01-23T03:00:00+00:00,China,0.6431002641580476,1,1,en,EAS,Asia
 '54a0dffd3e',extremes,Precipitation,#d60d2b,wmo,Rain Litoral y Sierra,2025-01-26T15:41:00+00:00,Ecuador,0.6430503204718884,1,1,en,NWS,South-America
 'accd22e722',extremes,Snow&Ice,#d60d2b,wmo,Frost Southwest Serbia,2025-02-12T03:02:00+00:00,Serbia,0.6430487330649636,0,2,en,MED,Europe
+'c72865acbd',extremes,Drought,#edc291,edo,Lack of Rain Togo,2025-01-28T02:59:00+00:00,Togo,0.6430440996817601,1,1,en,WAF,Africa
 '081a5a2506',extremes,Precipitation,#d60d2b,relief,Torrential Rain Zimbabwe,2025-01-09T03:26:00+00:00,Zimbabwe,0.6430424668477995,0,2,en,ESAF,Africa
 '2c32502648',extremes,Precipitation,#d60d2b,wmo,Rain Slovenia,2025-01-09T03:27:00+00:00,Slovenia,0.6430398207786064,0,2,en,WCE,Europe
 'db33310c21',extremes,Snow&Ice,#d60d2b,wmo,Freezing Gjoa Haven,2025-01-25T02:55:00+00:00,Canada,0.6430397048944604,1,1,en,NEN,North-America
