@@ -2,8 +2,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4fb3d94e75',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Jude,2025-03-14T03:08:00+00:00,,0.7767535012874635,1,2,en,MDG,Africa
 'a58d27ff82',extremes,Tropical Cyclone,#4f4f4f,relief,Tropical Cyclone Reunion,2025-03-15T03:06:00+00:00,Reunion,0.7731250545991674,1,2,en,SIO,Africa
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg Antarctica,2025-03-07T03:09:00+00:00,,0.7664203514351052,1,3,en,,
-'00064cea94',extremes,Thunderstorm,#53785a,wmo,Severe Weather Bahrain,2025-03-05T03:08:00+00:00,Bahrain,0.7588783910305739,0,2,en,ARP,Asia
-'d865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2025-03-03T03:09:00+00:00,Australia,0.7588037322616333,0,2,en,CAU,Oceania
 '0f045e33e1',extremes,Storm,#b3b2b1,wmo,Storm Surge Reg. 4 Cordillera,2025-03-13T03:11:00+00:00,Chile,0.7587849985449676,0,2,en,SWS,South-America
 '42849985f9',extremes,Snow&Ice,#d60d2b,wmo,Ice Westfjords,2025-03-10T02:49:00+00:00,Iceland,0.7587816075135215,0,2,en,GIC,Europe
 'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,warm spell Australia,2025-01-26T12:05:00+00:00,Australia,0.7587519790620787,0,2,en,CAU,Oceania
@@ -1643,6 +1641,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c67af7e3fe',extremes,Earthquake,#870007,usgs,Earthquake Iceland,2025-02-23T03:07:00+00:00,Iceland,0.7114618740888639,0,2,en,GIC,Europe
 '52b6617305',extremes,Storm,#b3b2b1,wmo,Storm Surge Norway,2025-03-01T03:12:00+00:00,Norway,0.7114479738764742,0,2,en,NEU,Europe
 'baa9cd639a',extremes,Fog,#d60d2b,wmo,Fog Noord Brabant,2025-03-04T03:09:00+00:00,Netherlands,0.7114074426139132,0,2,en,NEU,Europe
+'d865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2025-03-03T03:09:00+00:00,Australia,0.7114056479396297,1,2,en,CAU,Oceania
 'f1d3442696',extremes,Drought,#edc291,edo,Drought Ukraine,2025-02-04T03:00:00+00:00,Ukraine,0.711345404628645,0,2,en,WCE,Europe
 '1f69c4beb3',extremes,Snow&Ice,#d60d2b,wmo,Frost Bering Strait Coast,2025-01-27T03:01:00+00:00,United States,0.7112850318940781,0,2,en,CNA,North-America
 '0b5dad7a57',extremes,Precipitation,#d60d2b,wmo,Rain Portugal,2025-01-29T02:58:00+00:00,Portugal,0.7112719757103989,0,2,en,MED,Europe
@@ -1927,11 +1926,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b47766f171',extremes,Drought,#edc291,edo,Dryness Israel,2025-03-14T03:09:00+00:00,Israel,0.699054055750973,1,2,en,MED,Asia
 '1d1eb8b66e',extremes,Earthquake,#870007,usgs,Earthquake south of Africa,2025-02-28T03:07:00+00:00,,0.6989284813571386,0,2,en,SOO,Antarctica
 '629cac4d2a',extremes,Drought,#edc291,edo,Lack of Rain Reunion,2025-01-26T15:41:00+00:00,Reunion,0.6988841283935585,0,2,en,SIO,Africa
-'19e427569b',extremes,Drought,#edc291,edo,Dry Spell Uruguay,2025-01-26T13:47:00+00:00,Uruguay,0.6988700761747204,0,2,en,SES,South-America
 '908c61fc6c',extremes,Storm,#b3b2b1,wmo,Storm Southern Rocky Mountain Front,2025-02-02T03:01:00+00:00,United States,0.6987947973202432,0,2,en,CNA,North-America
 '9220c62603',extremes,Fog,#d60d2b,wmo,Fog Meseta de Salamanca,2025-02-05T03:02:00+00:00,Spain,0.6987436089064051,0,2,en,MED,Europe
-'00aa235c89',extremes,Drought,#edc291,edo,Drought Oman,2025-01-26T13:47:00+00:00,Oman,0.698728519717304,0,2,en,ARP,Asia
-'f78df3cf12',extremes,Drought,#edc291,edo,Dryness Paraguay,2025-01-26T13:47:00+00:00,Paraguay,0.698581354874277,0,2,en,SES,South-America
 'dba8cbdda5',extremes,Flood,#030ba1,wmo,Flooding Latah ID Whitman WA,2025-02-23T03:07:00+00:00,United States,0.698571945276009,0,2,en,CNA,North-America
 '636a008855',extremes,Heat Wave,#c40202,acwe,mild winter Australia,2025-02-04T03:00:00+00:00,Australia,0.6984356762127434,0,2,en,CAU,Oceania
 '39dd0129b1',extremes,Snow&Ice,#d60d2b,wmo,Snow Serbia,2025-03-04T03:09:00+00:00,Serbia,0.6983864078366435,0,2,en,MED,Europe
@@ -1963,7 +1959,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bcc2ae1044',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Castelo Branco,2025-02-22T03:01:00+00:00,Portugal,0.6970989044676026,0,2,en,MED,Europe
 '21f9edc3df',extremes,Wildfire,#d60d2b,fema,Wildfire Oklahoma,2025-03-18T03:12:00+00:00,United States,0.6970569599800205,0,2,en,CNA,North-America
 'fe3d3a2b9d',extremes,Drought,#edc291,edo,Dryness Marshall Islands,2025-02-04T03:00:00+00:00,Marshall Islands,0.6970545529015639,0,2,en,NPO,Pacific Ocean
-'25f4501714',extremes,Drought,#edc291,edo,Lack of Rain Mauritania,2025-01-26T13:47:00+00:00,Mauritania,0.6969928664415146,0,2,en,SAH,Africa
 'b759e0d5cd',extremes,Drought,#edc291,edo,Dry Spell Panama,2025-01-28T02:59:00+00:00,Panama,0.6967271352235527,0,2,en,SCA,North-America
 'a3940a221c',extremes,Storm,#b3b2b1,wmo,Storm Brest Region,2025-03-04T03:09:00+00:00,Belarus,0.6966980314036686,0,2,en,WCE,Europe
 '2d04081c4f',extremes,Flood,#030ba1,wmo,Flashflood Richland Dawson Prairie Wibaux,2025-03-01T03:12:00+00:00,United States,0.6966885108328302,0,2,en,CNA,North-America
@@ -1987,9 +1982,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b676ca8eab',extremes,Snow&Ice,#d60d2b,wmo,Ice Baldwin Peninsula,2025-02-01T03:03:00+00:00,United States,0.6958481131010682,0,2,en,CNA,North-America
 '8c07f68c12',extremes,Storm,#b3b2b1,wmo,Storm Haida Gwaii North Vancouver Island,2025-02-15T03:01:00+00:00,Canada,0.6958165852699416,0,2,en,NEN,North-America
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarctic sea ice,2025-02-03T03:01:00+00:00,,0.695762205185727,0,2,en,,
-'6ef78a80e8',extremes,Drought,#edc291,edo,Lack of Rain Mexico,2025-01-26T13:47:00+00:00,Mexico,0.6957329732709031,0,2,en,NCA,North-America
 'cd28317347',extremes,Storm,#b3b2b1,wmo,Storm Chukotka Autonomous District,2025-02-03T03:01:00+00:00,Russia,0.6956392869681033,0,2,en,ESB,Europe
-'537e24b537',extremes,Drought,#edc291,edo,Lack of Rain Angola,2025-01-26T13:47:00+00:00,Angola,0.6954938347292149,0,2,en,WSAF,Africa
 '37f595dafe',extremes,Snow&Ice,#d60d2b,wmo,Freezing Red Bay to L'Anse au Clair,2025-02-07T03:03:00+00:00,Canada,0.6954231145998594,0,2,en,NEN,North-America
 '20a4d3bbd2',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Sanirajak Igloolik,2025-03-17T03:13:00+00:00,Canada,0.6953146604218187,0,2,en,NEN,North-America
 '99e86853f6',extremes,Snow&Ice,#d60d2b,wmo,Frost Croatia,2025-02-13T03:02:00+00:00,Croatia,0.6952983897299155,0,2,en,WCE,Europe
@@ -1999,7 +1992,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '170f2d7753',extremes,Storm,#b3b2b1,wmo,Storm Bristol Bay greater than 15 NM,2025-02-08T02:59:00+00:00,United States,0.6951790829407436,0,2,en,CNA,North-America
 '455c36ab2b',extremes,Storm,#b3b2b1,wmo,Storm Surge Minsk Region,2025-02-01T03:03:00+00:00,Belarus,0.6951020529147783,0,2,en,WCE,Europe
 'aa1d0b2300',extremes,Tropical Cyclone,#4f4f4f,relief,Tropical Cyclone Turkmenistan,2025-03-02T03:09:00+00:00,Turkmenistan,0.695058706535033,0,2,en,WCA,Asia
-'67fb38ba32',extremes,Storm,#b3b2b1,wmo,Storm Central Interior,2025-01-26T13:47:00+00:00,United States,0.6950126456616654,0,2,en,CNA,North-America
 '6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Australia,2025-02-05T03:02:00+00:00,Australia,0.6949801796041568,0,2,en,CAU,Oceania
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2025-02-12T03:02:00+00:00,Canada,0.6949734527628006,1,3,en,NEN,North-America
 '9d70ac5771',extremes,Tropical Cyclone,#4f4f4f,relief,Cyclone Myanmar,2025-02-20T03:03:00+00:00,Myanmar,0.6949731328243234,0,2,en,SAS,Asia
@@ -2009,7 +2001,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '375cff9977',extremes,Flood,#030ba1,wmo,Flooding Wheeler OR,2025-02-25T03:07:00+00:00,United States,0.6947573984957537,0,2,en,CNA,North-America
 '8261c5af16',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Kyklades,2025-01-30T02:57:00+00:00,Greece,0.6947548749771509,0,2,en,MED,Europe
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,warm spell Victoria,2025-02-10T03:04:00+00:00,Australia,0.694707550393148,0,2,en,SAU,Oceania
-'65a7ccdfa2',extremes,Drought,#edc291,edo,Drought Georgia,2025-01-26T13:47:00+00:00,Georgia,0.694704672253642,0,2,en,WCA,Asia
 '49ee31fe8a',extremes,Snow&Ice,#d60d2b,wmo,Snow Enontekiö,2025-03-17T03:13:00+00:00,Finland,0.6947011867842728,0,2,en,NEU,Europe
 '220661589e',extremes,Drought,#edc291,edo,Dryness Cameroon,2025-03-03T03:09:00+00:00,Cameroon,0.6946664359895662,0,2,en,CAF,Africa
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,Storm Greece,2025-02-05T03:02:00+00:00,Greece,0.6946632657201431,0,2,en,MED,Europe
@@ -2029,7 +2020,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4a7b9725a4',extremes,Storm,#b3b2b1,wmo,Storm Surge Akulivik,2025-03-16T03:13:00+00:00,Canada,0.6938907268117239,0,2,en,NEN,North-America
 '50d6b773ca',extremes,Drought,#edc291,edo,Dry Spell Kazakhstan,2025-02-06T03:02:00+00:00,Kazakhstan,0.6938766588418064,0,2,en,WSB,Asia
 '13329f4bf1',extremes,Snow&Ice,#d60d2b,wmo,Freezing Poland,2025-02-28T03:07:00+00:00,Poland,0.6938727746062245,0,2,en,WCE,Europe
-'41a66135e3',extremes,Snow&Ice,#d60d2b,wmo,Snow Antelope Valley,2025-01-26T13:47:00+00:00,United States,0.6938006253918082,0,2,en,CNA,North-America
 '4848638a8c',extremes,Flood,#030ba1,wmo,Flashflood Lawrence AR Randolph AR,2025-02-18T03:01:00+00:00,United States,0.6937695185607342,0,2,en,CNA,North-America
 'e17ce8f9be',extremes,Snow&Ice,#d60d2b,wmo,Frost Greece,2025-02-13T03:02:00+00:00,Greece,0.6937258013765756,0,2,en,MED,Europe
 'ab1f8c5967',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Republic of Khakassia,2025-02-18T03:01:00+00:00,Russia,0.6937102677650566,0,2,en,ESB,Europe
@@ -2045,13 +2035,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '76de7ea56d',extremes,Snow&Ice,#d60d2b,wmo,Snow Gomel Region,2025-02-10T03:03:00+00:00,Belarus,0.6928528433543798,0,2,en,WCE,Europe
 '527ee6a0b1',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Kivalina and Red Dog Dock,2025-03-07T03:10:00+00:00,United States,0.6928517504655252,0,2,en,CNA,North-America
 'a1f2f8a92f',extremes,Wildfire,#d60d2b,fema,Texas Welder Fire,2025-03-06T03:09:00+00:00,United States,0.6928321620813178,0,2,en,CNA,North-America
-'9580d6d5ca',extremes,Drought,#edc291,edo,Lack of Rain Marshall Islands,2025-01-26T13:47:00+00:00,Marshall Islands,0.6927524386600998,0,2,en,NPO,Pacific Ocean
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2025-02-22T03:01:00+00:00,Australia,0.6927005374309569,1,2,en,CAU,Oceania
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2025-03-01T03:11:00+00:00,United States,0.6926518544871012,1,3,en,ENA,North-America
 '853a5500ab',extremes,Snow&Ice,#d60d2b,wmo,Freezing Dempster,2025-02-21T03:04:00+00:00,Canada,0.6926418769153025,0,2,en,NEN,North-America
 '09111cb89e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Nordenskiöld Land,2025-02-04T03:00:00+00:00,Norway,0.692609975304888,0,2,en,NEU,Europe
 '0f50f15ab2',extremes,Storm,#b3b2b1,wmo,Storm Surge Serbia,2025-02-11T03:02:00+00:00,Serbia,0.6926048147734843,0,2,en,MED,Europe
-'b426d014da',extremes,Drought,#edc291,edo,Dry Spell Tanzania,2025-01-26T13:47:00+00:00,Tanzania,0.6925678886998498,0,2,en,SEAF,Africa
 'ad9c200cc9',extremes,Flood,#030ba1,wmo,Flooding Bleckley GA Pulaski GA,2025-02-19T03:03:00+00:00,United States,0.6925628106251389,0,2,en,CNA,North-America
 '18ebaae6fe',extremes,Fog,#d60d2b,wmo,Fog Lubelskie Province Puławski County,2025-02-25T03:07:00+00:00,Poland,0.692531528984432,0,2,en,WCE,Europe
 '8139bb2976',extremes,Storm,#b3b2b1,wmo,Storm Surge North Coast coastal sections,2025-02-16T03:07:00+00:00,Canada,0.6924567491322018,0,2,en,NEN,North-America
@@ -2064,7 +2052,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '15cca0457e',extremes,Storm,#b3b2b1,wmo,Storm Surge Potomac Seeley Lake Region,2025-01-31T02:59:00+00:00,United States,0.6921962095678436,0,2,en,CNA,North-America
 '8ab146c85a',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lane County Cascade Foothills,2025-02-02T03:01:00+00:00,United States,0.6921693632583328,0,2,en,CNA,North-America
 '0044435696',extremes,Precipitation,#d60d2b,wmo,Precipitation Attawapiskat Fort Albany Moosonee,2025-03-15T03:07:00+00:00,Canada,0.6921374833775941,0,2,en,NEN,North-America
-'b5f4dba174',extremes,Drought,#edc291,edo,Lack of Rain British Indian Ocean Territory,2025-01-26T13:47:00+00:00,British Indian Ocean Territory,0.6921318760289483,0,2,en,EIO,Indian Ocean
 'd054cd4026',extremes,Drought,#edc291,edo,Lack of Rain Samoa,2025-01-28T02:59:00+00:00,Samoa,0.6921265551396772,0,2,en,SPO,Pacific Ocean
 'a3632bd5f2',extremes,Snow&Ice,#d60d2b,wmo,Snow Stavropol Krai,2025-02-11T03:02:00+00:00,Russia,0.6921199185155099,0,2,en,ESB,Europe
 '4956d0912f',extremes,Storm,#b3b2b1,wmo,Storm Surge Eastern Tucker,2025-02-13T03:02:00+00:00,United States,0.6920819169702653,0,2,en,CNA,North-America
@@ -2074,7 +2061,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa9b6d17bf',extremes,Storm,#b3b2b1,wmo,Storm Surge Évora,2025-01-26T15:41:00+00:00,Portugal,0.6919842978275281,0,2,en,MED,Europe
 '6d8d342223',extremes,Earthquake,#870007,usgs,Earthquake Huoshilafu,2025-02-06T03:01:00+00:00,China,0.6919782272870211,0,2,en,ECA,Asia
 'b4a7e0ea3d',extremes,Drought,#edc291,edo,Dryness Turkmenistan,2025-01-26T15:41:00+00:00,Turkmenistan,0.691977634001677,0,2,en,WCA,Asia
-'26045faf18',extremes,Drought,#edc291,edo,Dryness Egypt,2025-01-26T13:47:00+00:00,Egypt,0.6919557185356229,0,2,en,SAH,Africa
 '8a0c10bcef',extremes,Wildfire,#d60d2b,wmo,Wildfire Guiyang City,2025-03-01T03:12:00+00:00,China,0.6919100887187923,0,2,en,EAS,Asia
 '200c06c3b9',extremes,Storm,#b3b2b1,wmo,Storm Elbe von Hamburg bis Cuxhaven,2025-02-12T03:02:00+00:00,Germany,0.6918955409831765,0,2,en,WCE,Europe
 '52ccb0fc6c',extremes,Fog,#d60d2b,wmo,Fog Marche,2025-02-24T03:08:00+00:00,Italy,0.6918867711791227,0,2,en,MED,Europe
@@ -2090,10 +2076,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '21de11299a',extremes,Storm,#b3b2b1,wmo,Storm Surge Northwest Beaverhead County,2025-01-31T02:59:00+00:00,United States,0.6917270321079569,0,2,en,CNA,North-America
 '77df6cfab7',extremes,Thunderstorm,#53785a,wmo,Hail Slovenia Sea,2025-01-27T03:01:00+00:00,Slovenia,0.691720944779742,0,2,en,WCE,Europe
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg calving,2025-02-05T03:01:00+00:00,,0.6917002546719055,0,2,en,,
-'0ff0748cd5',extremes,Storm,#b3b2b1,wmo,Storm Surge Eastern Aleutians,2025-01-26T13:47:00+00:00,United States,0.6916652403235618,0,2,en,CNA,North-America
 'bf2fd1931d',extremes,Snow&Ice,#d60d2b,relief,Cold Wave Mongolia,2025-03-14T03:08:00+00:00,Mongolia,0.6916238085114788,0,2,en,ESB,Asia
 '149f6bbb51',extremes,Fog,#d60d2b,wmo,Fog Central coastal zone,2025-02-24T03:08:00+00:00,Poland,0.6914576068411417,0,2,en,WCE,Europe
-'4eda6a5e25',extremes,Drought,#edc291,edo,Dry Spell Niger,2025-01-26T13:47:00+00:00,Niger,0.6914149083732221,0,2,en,SAH,Africa
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,Ice Spain,2025-03-01T03:12:00+00:00,Spain,0.691316538910555,0,2,en,MED,Europe
 'ee00bb4b9c',extremes,Fog,#d60d2b,wmo,Fog Altai Republic,2025-02-19T03:03:00+00:00,Russia,0.6912291428761881,0,2,en,ESB,Europe
 '33090bde78',extremes,Storm,#b3b2b1,wmo,Storm Outer Southeast Portland Metro,2025-02-13T03:02:00+00:00,United States,0.6912259691210382,0,2,en,CNA,North-America
@@ -2139,7 +2123,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f2330f8adb',extremes,Snow&Ice,#d60d2b,wmo,Ice North of Khabarovsk Krai,2025-03-10T02:49:00+00:00,Russia,0.689503738796315,0,2,en,ESB,Europe
 '8b994111a9',extremes,Snow&Ice,#d60d2b,wmo,Snow LiD,2025-02-09T03:04:00+00:00,Norway,0.6894823067585241,0,2,en,NEU,Europe
 '3715f4afab',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Khanty Mansi Autonomous District,2025-02-24T03:08:00+00:00,Russia,0.6894386142815961,0,2,en,ESB,Europe
-'cd0965a709',extremes,Drought,#edc291,edo,Drought Bouvet Island,2025-01-26T13:47:00+00:00,Bouvet Island,0.6893116386294587,0,2,en,SOO,Antarctica
 '82a2cff194',extremes,Drought,#edc291,edo,Lack of Rain Saint Lucia,2025-02-01T03:03:00+00:00,Saint Lucia,0.6892898541151024,0,2,en,CAR,North-America
 '86504a3617',extremes,Storm,#b3b2b1,wmo,Storm Surge Saratov Region,2025-02-15T03:01:00+00:00,Russia,0.6892893528087896,0,2,en,ESB,Europe
 '85dfa4d2e6',extremes,Snow&Ice,#d60d2b,wmo,Avalanche South of Khabarovsk Krai,2025-01-28T02:59:00+00:00,Russia,0.6892832523656852,0,2,en,ESB,Europe
@@ -2169,13 +2152,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0dad6cb33a',extremes,Snow&Ice,#d60d2b,wmo,Snow Gatineau,2025-02-07T03:03:00+00:00,Canada,0.6884272584462253,0,2,en,NEN,North-America
 '8f281e83db',extremes,Storm,#b3b2b1,wmo,Storm Surge Jackson Hole Star Valley,2025-02-01T03:03:00+00:00,United States,0.6884016586424222,0,2,en,CNA,North-America
 '1335dce81d',extremes,Flood,#030ba1,wmo,Flashflood Perry KY,2025-02-16T03:07:00+00:00,United States,0.6883644424486962,0,2,en,CNA,North-America
-'8a0023c67c',extremes,Drought,#edc291,edo,Dryness Kazakhstan,2025-01-26T13:47:00+00:00,Kazakhstan,0.6883438864602454,0,2,en,WSB,Asia
-'507a3869ef',extremes,Snow&Ice,#d60d2b,wmo,Frost Oswego Jefferson Lewis,2025-01-26T13:47:00+00:00,United States,0.6882741000841286,0,2,en,CNA,North-America
 '03a1dee2ca',extremes,Storm,#b3b2b1,wmo,Storm Surge Western Australia Geraldton Coast,2025-02-26T03:06:00+00:00,Australia,0.6882033090419569,0,2,en,CAU,Oceania
 '4e770bc10e',extremes,Precipitation,#d60d2b,wmo,Precipitation Belarus,2025-02-27T03:07:00+00:00,Belarus,0.6881809550648591,0,2,en,WCE,Europe
 '812a41cb71',extremes,Fog,#d60d2b,wmo,Fog Slovakia,2025-02-28T03:07:00+00:00,Slovakia,0.6881016349910372,0,2,en,WCE,Europe
 'a958ff45c7',extremes,Drought,#edc291,edo,Dry Spell Kyrgyzstan,2025-01-27T03:01:00+00:00,Kyrgyzstan,0.6880943979802105,0,2,en,WCA,Asia
-'9d3545201a',extremes,Storm,#b3b2b1,wmo,Storm Surge Central Transdanubia,2025-01-26T13:47:00+00:00,Hungary,0.6880897531459237,0,2,en,WCE,Europe
 'ce048913ae',extremes,Storm,#b3b2b1,wmo,Storm Surge Logan McDowell Wyoming,2025-02-11T03:02:00+00:00,United States,0.6880879012019903,0,2,en,CNA,North-America
 '59dbb99c28',extremes,Storm,#b3b2b1,wmo,Storm Flathead Mission Valleys,2025-01-31T02:59:00+00:00,United States,0.6880863736355803,0,2,en,CNA,North-America
 'abdbede9a7',extremes,Snow&Ice,#d60d2b,wmo,Snow Resurrection Bay,2025-01-30T02:57:00+00:00,United States,0.6880828179253553,0,2,en,CNA,North-America
@@ -2218,15 +2198,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '71968fd8ec',extremes,Snow&Ice,#d60d2b,wmo,Frost Sunnmøre,2025-02-05T03:02:00+00:00,Norway,0.6868970622908736,0,2,en,NEU,Europe
 'b7bbe54d7b',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lofoten og Vesterålen,2025-03-05T03:08:00+00:00,Norway,0.6867817677042825,0,2,en,NEU,Europe
 '7c7b86aba9',extremes,Snow&Ice,#d60d2b,wmo,Ice South Central Siskiyou County,2025-01-31T02:59:00+00:00,United States,0.6867501167005903,0,2,en,CNA,North-America
-'60c6411407',extremes,Drought,#edc291,edo,Drought Iraq,2025-01-26T13:47:00+00:00,Iraq,0.6867289787573279,0,2,en,WCA,Asia
 '8650417750',extremes,Drought,#edc291,edo,Dry Spell Republic of the Congo,2025-03-17T03:13:00+00:00,Republic of the Congo,0.6866627980041479,0,2,en,CAF,Africa
-'4d5705c676',extremes,Drought,#edc291,edo,Lack of Rain Austria,2025-01-26T13:47:00+00:00,Austria,0.6866593170825794,0,2,en,WCE,Europe
 '1a70efb535',extremes,Wildfire,#d60d2b,acwe,bushfire Victoria,2025-02-05T03:02:00+00:00,Australia,0.6866502164112221,1,2,en,SAU,Oceania
 'f65b9f27af',extremes,Thunderstorm,#53785a,wmo,Hail Croatia,2025-01-26T15:41:00+00:00,Croatia,0.6866255723220528,0,2,en,WCE,Europe
 '3eaf564840',extremes,Snow&Ice,#d60d2b,wmo,Frost Trollheimen,2025-02-10T03:03:00+00:00,Norway,0.6864424375621297,0,2,en,NEU,Europe
 '89cad15a4a',extremes,Snow&Ice,#d60d2b,wmo,Frost South of Khabarovsk Krai,2025-01-27T03:01:00+00:00,Russia,0.6863320965073342,0,2,en,ESB,Europe
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arctic sea ice,2025-01-27T03:00:00+00:00,,0.6863287347729568,0,2,en,,
-'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2025-01-26T13:47:00+00:00,Uganda,0.6862837511261836,0,2,en,SEAF,Africa
 '733921c69e',extremes,Storm,#b3b2b1,wmo,Storm Surge Jewish Autonomous Region,2025-02-05T03:02:00+00:00,Russia,0.6862813693238939,0,2,en,ESB,Europe
 'e21122fc55',extremes,Drought,#edc291,aidr,Environment Drought Queensland and New South Wales,2025-03-11T03:10:00+00:00,Australia,0.6862420992914406,0,2,en,CAU,Oceania
 '6896a1cd72',extremes,Storm,#b3b2b1,wmo,Storm Surge Kabardino Balkar Republic,2025-02-04T03:00:00+00:00,Russia,0.6862081230152606,0,2,en,ESB,Europe
@@ -2238,7 +2215,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '794811ce8f',extremes,Flood,#030ba1,wmo,Flashflood Dyer TN,2025-02-18T03:01:00+00:00,United States,0.6859467852368748,0,2,en,CNA,North-America
 '5806f4b7d7',extremes,Snow&Ice,#d60d2b,wmo,Snow Israel,2025-02-06T03:02:00+00:00,Israel,0.6859406512755643,0,2,en,MED,Asia
 '3da137c98c',extremes,Flood,#030ba1,wmo,Flood Colbert AL Lauderdale AL,2025-02-17T03:06:00+00:00,United States,0.6858770316741928,0,2,en,CNA,North-America
-'617402fc79',extremes,Drought,#edc291,edo,Dry Spell Eritrea,2025-01-26T13:47:00+00:00,Eritrea,0.6857919223887097,0,2,en,SAH,Africa
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,Freezing Iceland,2025-03-01T03:12:00+00:00,Iceland,0.6857546542099624,1,2,en,GIC,Europe
 'a2fb8c843a',extremes,Drought,#edc291,edo,Dryness Eritrea,2025-01-28T02:59:00+00:00,Eritrea,0.6857388760230257,0,2,en,SAH,Africa
 '5cdea4e4af',extremes,Drought,#edc291,edo,Dry Spell Cambodia,2025-02-01T03:03:00+00:00,Cambodia,0.6856212557648554,0,2,en,SEA,Asia
@@ -2253,7 +2229,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,Heat Wave Brazil,2025-03-01T03:12:00+00:00,Brazil,0.6852180538229382,1,2,en,SAM,South-America
 '66365f45cb',extremes,Flood,#030ba1,wmo,Flashflood George MS Greene MS Perry MS,2025-02-16T03:07:00+00:00,United States,0.685211181639678,0,2,en,CNA,North-America
 'a62aafcad5',extremes,Snow&Ice,#d60d2b,wmo,Snow Bosnia and Herzegovina,2025-02-04T03:00:00+00:00,Bosnia and Herzegovina,0.685174770842219,0,2,en,MED,Europe
-'2fdcb6497f',extremes,Drought,#edc291,edo,Dryness Pitcairn,2025-01-26T13:47:00+00:00,Pitcairn,0.6851422675183374,0,2,en,SPO,Pacific Ocean
 '5e8e7d143b',extremes,Storm,#b3b2b1,wmo,Storm Surge South of Khabarovsk Krai,2025-02-18T03:01:00+00:00,Russia,0.6851383622854417,0,2,en,ESB,Europe
 '386eefdbd3',extremes,Snow&Ice,#d60d2b,wmo,Frost Chuvash Republic,2025-02-04T03:00:00+00:00,Russia,0.6851080129977725,0,2,en,ESB,Europe
 '7841275e4b',extremes,Storm,#b3b2b1,wmo,Storm Surge Western Plumas County Lassen Park,2025-02-03T03:01:00+00:00,United States,0.6850612183917136,0,2,en,CNA,North-America
@@ -2263,7 +2238,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80321cddca',extremes,Flood,#030ba1,wmo,Flood Spokane WA,2025-02-24T03:08:00+00:00,United States,0.6849775924420354,0,2,en,CNA,North-America
 '7b285750a9',extremes,Drought,#edc291,edo,Lack of Rain Saint Martin,2025-02-02T03:01:00+00:00,Saint Martin,0.6849762393445054,0,2,en,CAR,North-America
 '1c62febad5',extremes,Snow&Ice,#d60d2b,wmo,Ice Krasnodar Krai,2025-02-09T03:04:00+00:00,Russia,0.6849705465511534,0,2,en,ESB,Europe
-'dd4c653a93',extremes,Drought,#edc291,edo,Dry Spell Curacao,2025-01-26T13:47:00+00:00,Curacao,0.684951182837279,0,2,en,CAR,North-America
 '1bb74e8945',extremes,Snow&Ice,#d60d2b,wmo,Ice Tula Region,2025-03-15T03:07:00+00:00,Russia,0.6849256719354923,0,2,en,ESB,Europe
 '784ce26a82',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Italy,2025-02-08T02:59:00+00:00,Italy,0.6848585512934805,0,2,en,MED,Europe
 '4857bfe0da',extremes,Snow&Ice,#d60d2b,wmo,Frost Parts of Finnmark and North Troms,2025-02-04T03:00:00+00:00,Norway,0.6848100104313397,0,2,en,NEU,Europe
@@ -2276,7 +2250,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bece73bd24',extremes,Storm,#b3b2b1,wmo,Storm Kangiqsujuaq Raglan Lake,2025-02-16T03:07:00+00:00,Canada,0.6844502319434387,0,2,en,NEN,North-America
 '8068e6b5b7',extremes,Storm,#b3b2b1,wmo,Storm Surge Spain,2025-03-04T03:09:00+00:00,Spain,0.6844360390134753,0,2,en,MED,Europe
 '1048a4f212',extremes,Storm,#b3b2b1,wmo,Storm Victoria East Gippsland Coast,2025-02-01T03:03:00+00:00,Australia,0.6844041613637759,0,2,en,CAU,Oceania
-'f892b42e3d',extremes,Snow&Ice,#d60d2b,wmo,Ice Kemerovo Region,2025-01-26T13:47:00+00:00,Russia,0.6843981550526282,0,2,en,ESB,Europe
 '2e6ef0bbe8',extremes,Precipitation,#d60d2b,wmo,Downpour Fort Hope Lansdowne House Ogoki,2025-03-15T03:07:00+00:00,Canada,0.6843916016974293,0,2,en,NEN,North-America
 '1ccd8c33a5',extremes,Drought,#edc291,edo,Lack of Rain Portugal,2025-01-31T02:59:00+00:00,Portugal,0.6843903416337428,0,2,en,NAO,Atlantic Ocean
 '2effde8c63',extremes,Storm,#b3b2b1,wmo,Storm Surge Leningrad Region,2025-03-02T03:09:00+00:00,Russia,0.6843848582099485,0,2,en,ESB,Europe
@@ -2290,7 +2263,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da77585914',extremes,Snow&Ice,#d60d2b,wmo,Ice Ojai Valley,2025-01-29T02:58:00+00:00,United States,0.6842448425913756,0,2,en,CNA,North-America
 '1d14e81334',extremes,Snow&Ice,#d60d2b,wmo,Freezing Omsk Region,2025-02-13T03:02:00+00:00,Russia,0.6842025625040106,0,2,en,ESB,Europe
 '2281ee5d91',extremes,Snow&Ice,#d60d2b,wmo,Avalanche The mountain in southern Norway,2025-03-15T03:07:00+00:00,Norway,0.6841873625131403,0,2,en,NEU,Europe
-'de410364d5',extremes,Drought,#edc291,edo,Dry Spell Uzbekistan,2025-01-26T13:47:00+00:00,Uzbekistan,0.6841802256976842,0,2,en,WCA,Asia
 '92de25186d',extremes,Storm,#b3b2b1,wmo,Storm Upper Tanana Valley,2025-01-27T03:01:00+00:00,United States,0.6841496634958032,0,2,en,CNA,North-America
 '973b381ee1',extremes,Snow&Ice,#d60d2b,wmo,Freezing Central Carbon County,2025-02-02T03:01:00+00:00,United States,0.6840578575300812,0,2,en,CNA,North-America
 'e779a4acd4',extremes,Storm,#b3b2b1,wmo,Storm Adak to Kiska Pacific Side,2025-03-03T03:09:00+00:00,United States,0.6840571049102484,0,2,en,CNA,North-America
@@ -2303,11 +2275,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69d9894cd9',extremes,Storm,#b3b2b1,wmo,Storm Surge Western Chelan County,2025-01-31T02:59:00+00:00,United States,0.6837961768564487,0,2,en,CNA,North-America
 '1437786210',extremes,Flood,#030ba1,relief,Flooding Sri Lanka,2025-02-09T03:03:00+00:00,Sri Lanka,0.6837957311914168,0,2,en,BOB,Asia
 'd4689956ea',extremes,Snow&Ice,#d60d2b,wmo,Frost Hood Canal Area,2025-02-04T03:00:00+00:00,United States,0.6837377198512793,0,2,en,CNA,North-America
-'023d124975',extremes,Drought,#edc291,edo,Dryness Sri Lanka,2025-01-26T13:47:00+00:00,Sri Lanka,0.6836952103568236,0,2,en,BOB,Asia
 '493559b064',extremes,Storm,#b3b2b1,wmo,Storm Soome lahe lääneosa,2025-02-21T03:04:00+00:00,Estonia,0.6836854973117444,0,2,en,NEU,Europe
 '9a93354f3b',extremes,Drought,#edc291,edo,Dry Spell Angola,2025-01-26T15:41:00+00:00,Angola,0.6836789077317746,0,2,en,WSAF,Africa
 'c2d1bb983e',extremes,Storm,#b3b2b1,wmo,Storm Surge BnS,2025-03-03T03:09:00+00:00,Norway,0.6836433656103741,0,2,en,NEU,Europe
-'41225e527b',extremes,Drought,#edc291,edo,Dry Spell French Polynesia,2025-01-26T13:47:00+00:00,French Polynesia,0.6835791171237939,0,2,en,SPO,Pacific Ocean
 'bb7f82afd7',extremes,Snow&Ice,#d60d2b,wmo,Snow Sverdlovsk Region,2025-02-02T03:01:00+00:00,Russia,0.6835381008874781,0,2,en,ESB,Europe
 '8c968ce575',extremes,Storm,#b3b2b1,wmo,Storm Lower Clark Fork Region,2025-01-31T02:59:00+00:00,United States,0.6835320121525915,0,2,en,CNA,North-America
 '00e2d24bb6',extremes,Snow&Ice,#d60d2b,wmo,Ice Mountain roads south part Norway,2025-03-05T03:08:00+00:00,Norway,0.6835125652034798,0,2,en,NEU,Europe
@@ -2333,7 +2303,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a369761c2',extremes,Storm,#b3b2b1,wmo,Storm Del Norte Interior,2025-02-04T03:00:00+00:00,United States,0.6828074549768378,0,2,en,CNA,North-America
 '45278c4de3',extremes,Drought,#edc291,edo,Dry Spell Somalia,2025-02-06T03:02:00+00:00,Somalia,0.6827998605102125,0,2,en,NEAF,Africa
 'b93ff5ce1c',extremes,Flood,#030ba1,wmo,Flashflood Henrico VA City of Richmond VA,2025-02-19T03:03:00+00:00,United States,0.6827705902525497,0,2,en,CNA,North-America
-'7e40fc6e30',extremes,Drought,#edc291,edo,Lack of Rain Mauritius,2025-01-26T13:47:00+00:00,Mauritius,0.68271311630687,0,2,en,SIO,Indian Ocean
 '7472b91f47',extremes,Storm,#b3b2b1,wmo,Storm Surge Chevery,2025-02-17T03:06:00+00:00,Canada,0.6826680349908989,0,2,en,NEN,North-America
 'ce7ca89385',extremes,Fog,#d60d2b,wmo,Fog Pomorskie Province Słupsk County,2025-02-25T03:07:00+00:00,Poland,0.6826387477615108,0,2,en,WCE,Europe
 '7848090bb3',extremes,Flood,#030ba1,wmo,Flood Fulton KY,2025-02-26T03:06:00+00:00,United States,0.6826234408684456,0,2,en,CNA,North-America
@@ -2361,7 +2330,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indian summer,2025-02-20T03:03:00+00:00,,0.6816214058805624,0,2,en,,
 'f923454bc6',extremes,Drought,#edc291,edo,Drought Anguilla,2025-01-26T15:41:00+00:00,Anguilla,0.6815868952747123,0,2,en,CAR,North-America
 'c96888200b',extremes,Storm,#b3b2b1,wmo,Storm Saratov Region,2025-02-04T03:00:00+00:00,Russia,0.6815843222504316,0,2,en,ESB,Europe
-'8d138ce8d8',extremes,Drought,#edc291,edo,Dry Spell Saint Barthelemy,2025-01-26T13:47:00+00:00,Saint Barthelemy,0.681581080673011,0,2,en,CAR,North-America
 '4c7fd8a889',extremes,Fog,#d60d2b,wmo,Fog East Makedonia,2025-02-01T03:03:00+00:00,Greece,0.6815687758179283,0,2,en,MED,Europe
 '6ccf450c8e',extremes,Drought,#edc291,edo,Dry Spell Saint Pierre and Miquelon,2025-01-27T03:01:00+00:00,Saint Pierre and Miquelon,0.6815683231331623,0,2,en,ENA,North-America
 'b5762ee71d',extremes,Flood,#030ba1,wmo,Flooding Carroll MS Leflore MS,2025-02-17T03:06:00+00:00,United States,0.6814949023400215,0,2,en,CNA,North-America
@@ -2369,7 +2337,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7183b884b1',extremes,Drought,#edc291,edo,Drought Japan,2025-02-11T03:03:00+00:00,Japan,0.6814505136280211,0,2,en,EAS,Asia
 'a1c4d049be',extremes,Fog,#d60d2b,wmo,Fog Mazowieckie Province Miński County,2025-02-25T03:07:00+00:00,Poland,0.681447766406896,0,2,en,WCE,Europe
 'f434a5525f',extremes,Drought,#edc291,edo,Dryness Mexico,2025-01-26T15:41:00+00:00,Mexico,0.6814351041069144,0,2,en,NCA,North-America
-'5d869c3e0f',extremes,Precipitation,#d60d2b,wmo,Rain France,2025-01-26T13:47:00+00:00,France,0.6814293044465086,0,2,en,WCE,Europe
 'cc4e03d468',extremes,Fog,#d60d2b,wmo,Fog Southern Great Plain,2025-03-01T03:12:00+00:00,Hungary,0.6813902424624185,0,2,en,WCE,Europe
 '911ab8d369',extremes,Snow&Ice,#d60d2b,wmo,Freezing France,2025-03-02T03:09:00+00:00,France,0.6813473351635428,0,2,en,WCE,Europe
 '1452522387',extremes,Precipitation,#d60d2b,wmo,Torrential Rain North Macedonia,2025-03-13T03:11:00+00:00,North Macedonia,0.68134285127932,0,2,en,MED,Europe
@@ -2380,13 +2347,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '625db112cc',extremes,Storm,#b3b2b1,wmo,Storm Surge Adak to Kiska Bering Side,2025-03-07T03:10:00+00:00,United States,0.6811869727211941,0,2,en,CNA,North-America
 '8daec4f52d',extremes,Earthquake,#870007,usgs,Earthquake southeast of Easter Island,2025-01-30T02:57:00+00:00,,0.6811462044880562,0,2,en,SPO,Pacific Ocean
 'fb84d0e288',extremes,Storm,#b3b2b1,wmo,Storm Surge Santarém,2025-01-26T15:41:00+00:00,Portugal,0.6811234137091339,0,2,en,MED,Europe
-'d3a1d8b859',extremes,Drought,#edc291,edo,Dry Spell Samoa,2025-01-26T13:47:00+00:00,Samoa,0.681082693409339,0,2,en,SPO,Pacific Ocean
 'ca0ca97e2f',extremes,Snow&Ice,#d60d2b,wmo,Ice Bristol Bay,2025-01-26T15:41:00+00:00,United States,0.6810028603358734,0,2,en,CNA,North-America
 '8352f2224a',extremes,Fog,#d60d2b,wmo,Fog Pomorskie Province Gdańsk County,2025-02-25T03:07:00+00:00,Poland,0.6809190685027817,0,2,en,WCE,Europe
 'd709d1b341',extremes,Snow&Ice,#d60d2b,wmo,Snow Yellowstone National Park,2025-03-13T03:11:00+00:00,United States,0.680850583431034,0,2,en,CNA,North-America
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Snow Switzerland,2025-02-27T03:07:00+00:00,Switzerland,0.6807743476494548,0,2,en,WCE,Europe
-'8a2f2c0d0e',extremes,Drought,#edc291,edo,Lack of Rain Ukraine,2025-01-26T13:47:00+00:00,Ukraine,0.680711723482519,0,2,en,WCE,Europe
-'526907f81a',extremes,Drought,#edc291,edo,Dry Spell Micronesia,2025-01-26T13:47:00+00:00,Micronesia,0.6806839346607989,0,2,en,NPO,Pacific Ocean
 '856319c9c9',extremes,Flood,#030ba1,wmo,Flooding Claiborne TN Union TN,2025-02-16T03:07:00+00:00,United States,0.6806724572547957,0,2,en,CNA,North-America
 'd386b5f7fc',extremes,Storm,#b3b2b1,wmo,Storm Surge Butte Blackfoot Region,2025-02-03T03:01:00+00:00,United States,0.6805959011537336,0,2,en,CNA,North-America
 'dc11794194',extremes,Storm,#b3b2b1,wmo,Storm Surge most areas,2025-02-06T03:02:00+00:00,Jordan,0.6805884894349415,0,2,en,MED,Asia
@@ -2394,7 +2358,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '164b89cad9',extremes,Landslide,#572c03,fema,Landslide Kentucky,2025-02-17T03:06:00+00:00,United States,0.680466083062761,1,2,en,ENA,North-America
 'b0e40e4133',extremes,Snow&Ice,#d60d2b,wmo,Frost Saint Petersburg,2025-02-02T03:01:00+00:00,Russia,0.6803801022537649,0,2,en,ESB,Europe
 '33ae85b585',extremes,Earthquake,#870007,usgs,Earthquake Tulagi,2025-01-31T02:58:00+00:00,Solomon Islands,0.6803210392076693,0,2,en,EPO,Oceania
-'deebf112c9',extremes,Drought,#edc291,edo,Lack of Rain Colombia,2025-01-26T13:47:00+00:00,Colombia,0.6802864813681627,0,2,en,NWS,South-America
 'fb7769ac53',extremes,Storm,#b3b2b1,wmo,Storm Surge Chechen Republic,2025-02-15T03:01:00+00:00,Russia,0.6802804191216661,0,2,en,ESB,Europe
 '885597e0f4',extremes,Wildfire,#d60d2b,eonet,Wildfire Australia,2025-02-09T03:03:00+00:00,Australia,0.680179931905476,1,3,en,SAU,Oceania
 'd26160772e',extremes,Snow&Ice,#d60d2b,wmo,Ice San Bernardino County Mountains,2025-03-15T03:07:00+00:00,United States,0.680139578220507,0,2,en,CNA,North-America
@@ -2427,7 +2390,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3a830d97f',extremes,Storm,#b3b2b1,wmo,Storm Surge North and West of Nunivak Island,2025-02-01T03:03:00+00:00,United States,0.6791800768585495,0,2,en,CNA,North-America
 '0cfcdc295e',extremes,Snow&Ice,#d60d2b,wmo,Frost Slovakia,2025-02-10T03:03:00+00:00,Slovakia,0.6791453615190722,0,2,en,WCE,Europe
 'e3b5a52cce',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Saudi Arabia,2025-03-06T03:09:00+00:00,Saudi Arabia,0.6791393873639905,1,2,en,ARP,Asia
-'aa0a49f374',extremes,Drought,#edc291,edo,Drought Solomon Islands,2025-01-26T13:47:00+00:00,Solomon Islands,0.6791272389206559,0,2,en,EPO,Pacific Ocean
 '8374a92bc0',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Kabardino Balkar Republic,2025-02-08T02:59:00+00:00,Russia,0.6791260849589049,0,2,en,ESB,Europe
 'c2d2a88352',extremes,Wildfire,#d60d2b,wmo,Wildfire Dapu County,2025-02-13T03:02:00+00:00,China,0.6791248485255996,0,2,en,EAS,Asia
 '27bfeaeef2',extremes,Earthquake,#870007,usgs,Earthquake Kuril Islands,2025-02-01T03:02:00+00:00,,0.6791112403835331,0,2,en,RFE,Asia
@@ -2443,7 +2405,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f379f525f',extremes,Storm,#b3b2b1,wmo,Storm Surge Lower Yukon River,2025-02-11T03:02:00+00:00,United States,0.6787748861455984,0,2,en,CNA,North-America
 '544ea63692',extremes,Flood,#030ba1,wmo,Flashflood Hart KY,2025-02-17T03:06:00+00:00,United States,0.6787555842845382,0,2,en,CNA,North-America
 '25f080edf3',extremes,Storm,#b3b2b1,wmo,Storm Klaipėda county,2025-03-15T03:07:00+00:00,Lithuania,0.6787018896223334,0,2,en,WCE,Europe
-'793d326ef1',extremes,Drought,#edc291,edo,Lack of Rain Wallis and Futuna,2025-01-26T13:47:00+00:00,Wallis and Futuna,0.6786928484634748,0,2,en,SPO,Pacific Ocean
 '3e07519e3b',extremes,Fog,#d60d2b,wmo,Fog Grodno Region,2025-03-02T03:09:00+00:00,Belarus,0.6786682606170823,0,2,en,WCE,Europe
 '0cfb65b58d',extremes,Fog,#d60d2b,wmo,Fog China,2025-03-01T03:12:00+00:00,China,0.6786008883254262,0,2,en,EAS,Asia
 'd64c7f6a30',extremes,Storm,#b3b2b1,wmo,Storm Arctic coast of Sakha Republic,2025-02-22T03:01:00+00:00,Russia,0.6785536644676824,0,2,en,ESB,Europe
@@ -2493,7 +2454,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b158468bd',extremes,Flood,#030ba1,wmo,Flooding Nordland sør for Saltfjellet,2025-03-02T03:09:00+00:00,Norway,0.6771339194835614,0,2,en,NEU,Europe
 '9a4155dadd',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Bering Strait Coast,2025-01-31T02:59:00+00:00,United States,0.6771171092831907,0,2,en,CNA,North-America
 'dcb37644fc',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Central Carbon County,2025-02-01T03:03:00+00:00,United States,0.6771140988665032,0,2,en,CNA,North-America
-'75579b650e',extremes,Drought,#edc291,edo,Drought Romania,2025-01-26T13:47:00+00:00,Romania,0.6770795507842539,0,2,en,WCE,Europe
 '25fa5d45d6',extremes,Snow&Ice,#d60d2b,wmo,Snow West Central Highlands,2025-03-13T03:11:00+00:00,United States,0.6770751636174687,0,2,en,CNA,North-America
 '60edcbd48f',extremes,Storm,#b3b2b1,wmo,Storm Mineral and Southern Lyon Counties,2025-03-12T03:09:00+00:00,United States,0.6770364574291532,0,2,en,CNA,North-America
 '86601f60eb',extremes,Snow&Ice,#d60d2b,wmo,Frost Tyumen Region,2025-02-02T03:01:00+00:00,Russia,0.6769479040017039,0,2,en,ESB,Europe
@@ -2501,7 +2461,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0302f33099',extremes,Snow&Ice,#d60d2b,wmo,Frost Romsdal,2025-02-13T03:02:00+00:00,Norway,0.6768725936192762,0,2,en,NEU,Europe
 '914dbb16b0',extremes,Fog,#d60d2b,wmo,Fog Groningen,2025-03-02T03:09:00+00:00,Netherlands,0.6768643718961258,0,2,en,NEU,Europe
 '2bf54435b6',extremes,Storm,#b3b2b1,wmo,Storm Surge Republic of Tatarstan,2025-03-07T03:10:00+00:00,Russia,0.6768436299793273,0,2,en,ESB,Europe
-'503492b519',extremes,Drought,#edc291,edo,Dryness Panama,2025-01-26T13:47:00+00:00,Panama,0.6768305074496788,0,2,en,SCA,North-America
 '3ca39c2d6b',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Sverdlovsk Region,2025-03-11T03:10:00+00:00,Russia,0.6767663720698878,0,2,en,ESB,Europe
 '7b260799e0',extremes,Precipitation,#d60d2b,wmo,Rain Belarus,2025-02-22T03:01:00+00:00,Belarus,0.6767419299353445,0,2,en,WCE,Europe
 '086d1df094',extremes,Drought,#edc291,edo,Dryness Saudi Arabia,2025-01-26T15:41:00+00:00,Saudi Arabia,0.676707154006539,0,2,en,ARP,Asia
@@ -2515,14 +2474,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72e11a01af',extremes,Drought,#edc291,edo,Lack of Rain Niue,2025-02-06T03:02:00+00:00,Niue,0.6764201468260048,0,2,en,SPO,Oceania
 'da25b76ced',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Ivone,2025-03-12T03:08:00+00:00,,0.6763374565508473,1,1,en,SIO,Indian Ocean
 '74ae24437b',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Spain,2025-03-04T03:09:00+00:00,Spain,0.6762575806026488,0,2,en,MED,Europe
-'5d8c239887',extremes,Drought,#edc291,edo,Lack of Rain Libya,2025-01-26T13:47:00+00:00,Libya,0.675988054336533,0,2,en,SAH,Africa
 '02f56319a7',extremes,Flood,#030ba1,aidr,flood Australia,2025-03-03T03:09:00+00:00,Australia,0.6758865188341481,1,3,en,CAU,Oceania
 '41301505f1',extremes,Flood,#030ba1,wmo,Flooding Clay IL Richland IL,2025-02-18T03:01:00+00:00,United States,0.675886066268669,0,2,en,CNA,North-America
 '0a8ea93e65',extremes,Storm,#b3b2b1,wmo,Storm Western Chelan County,2025-02-01T03:03:00+00:00,United States,0.6758851806844821,0,2,en,CNA,North-America
 '367a55d0c2',extremes,Storm,#b3b2b1,wmo,Storm north of Amur Region,2025-02-07T03:03:00+00:00,Russia,0.675823201393756,0,2,en,ESB,Europe
 'e8d57c448a',extremes,Storm,#b3b2b1,wmo,Storm Manitowoc,2025-02-12T03:02:00+00:00,United States,0.6757669059128388,0,2,en,CNA,North-America
 '6f68e738c2',extremes,Drought,#edc291,edo,Dry Spell Gambia,2025-01-26T15:41:00+00:00,Gambia,0.6757514780280025,0,2,en,WAF,Africa
-'f112e168d2',extremes,Drought,#edc291,edo,Dry Spell Tonga,2025-01-26T13:47:00+00:00,Tonga,0.6757158449415451,0,2,en,SPO,Pacific Ocean
 'aaa5adeda5',extremes,Storm,#b3b2b1,wmo,Storm Surge Victoria East Gippsland Coast,2025-03-03T03:09:00+00:00,Australia,0.6757155890974706,0,2,en,CAU,Oceania
 '0d00705738',extremes,Storm,#b3b2b1,wmo,Storm Surge West Glacier Region,2025-01-31T02:59:00+00:00,United States,0.6756869465569119,0,2,en,CNA,North-America
 '96f7d98271',extremes,Flood,#030ba1,cmeter,Flood Cairns,2025-02-08T02:59:00+00:00,Australia,0.6756712796514397,1,1,en,NAU,Oceania
@@ -2539,7 +2496,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22095e052e',extremes,Storm,#b3b2b1,wmo,Storm Shelikof Strait,2025-03-08T02:46:00+00:00,United States,0.6753250627906973,0,2,en,CNA,North-America
 '3ff8557d06',extremes,Iceberg,#d60d2b,eonet,Iceberg C29,2025-02-16T03:06:00+00:00,,0.6753154786773097,1,1,en,EAN,
 '2395f52e9d',extremes,Earthquake,#870007,usgs,Earthquake San Miguel Achiutla,2025-03-18T03:12:00+00:00,Mexico,0.6753062538301986,0,2,en,SCA,North-America
-'1015a0ebc0',extremes,Storm,#b3b2b1,wmo,Storm Surge Western Transdanubia,2025-01-26T13:47:00+00:00,Hungary,0.6752880025755326,0,2,en,WCE,Europe
 '008dd597dd',extremes,Wildfire,#d60d2b,wmo,Wildfire Wuchuan City,2025-02-26T03:06:00+00:00,China,0.6752647947416203,0,2,en,EAS,Asia
 '0cac641476',extremes,Heat Wave,#c40202,acwe,warm spell Northern Territory,2025-03-07T12:06:00+00:00,Australia,0.6751468972555326,1,1,en,CAU,Oceania
 '1a86b74f4d',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Bianca,2025-02-25T03:06:00+00:00,,0.6751222097830447,1,1,en,SIO,Indian Ocean
@@ -2557,7 +2513,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ddff15d6d9',extremes,Earthquake,#870007,usgs,Earthquake South Shetland Islands,2025-03-14T03:08:00+00:00,,0.6746958293655707,0,2,en,SOO,Antarctica
 '736286d2ec',extremes,Storm,#b3b2b1,wmo,Storm Surge Tasmania Lower East Coast,2025-03-09T02:50:00+00:00,Australia,0.6746627503992244,0,2,en,CAU,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,relief,Volcano Philippines,2025-02-24T03:07:00+00:00,Philippines,0.6745613465190722,1,1,en,SEA,Asia
-'4333b13fc6',extremes,Snow&Ice,#d60d2b,wmo,Ice Rheinwald,2025-01-26T13:47:00+00:00,Switzerland,0.6745355399426667,0,2,en,WCE,Europe
 '96a8b19a4b',extremes,Drought,#edc291,edo,Dry Spell Turkmenistan,2025-02-26T03:06:00+00:00,Turkmenistan,0.674442477004064,0,2,en,WCA,Asia
 'f838ae753e',extremes,Fog,#d60d2b,wmo,Fog Lubelskie Province Kraśnicki County,2025-02-25T03:07:00+00:00,Poland,0.6744280215234578,0,2,en,WCE,Europe
 '1a26ac2d2a',extremes,Snow&Ice,#d60d2b,wmo,Snow Slovakia,2025-02-10T03:03:00+00:00,Slovakia,0.6743863225907669,0,2,en,WCE,Europe
@@ -2595,7 +2550,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '900b0a20b0',extremes,Snow&Ice,#d60d2b,wmo,Ice Central Siskiyou County,2025-02-02T03:01:00+00:00,United States,0.673543356971109,0,2,en,CNA,North-America
 '1f75faaeb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Wasatch Mountains I 80 North,2025-01-31T02:59:00+00:00,United States,0.6735385773254833,0,2,en,CNA,North-America
 '0b346f5eb9',extremes,Precipitation,#d60d2b,wmo,Downpour Slovenia,2025-01-28T02:59:00+00:00,Slovenia,0.6735338288852637,0,2,en,WCE,Europe
-'1a44ba5f85',extremes,Drought,#edc291,edo,Lack of Rain Tunisia,2025-01-26T13:47:00+00:00,Tunisia,0.6735281394379171,0,2,en,MED,Africa
 '042a66735c',extremes,Snow&Ice,#d60d2b,wmo,Ice Karachay Cherkess Republic,2025-02-15T03:01:00+00:00,Russia,0.6735197806524674,0,2,en,ESB,Europe
 'b65df81551',extremes,Storm,#b3b2b1,wmo,Storm Absaroka Mountains,2025-02-06T03:02:00+00:00,United States,0.6735111425113508,0,2,en,CNA,North-America
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2025-02-13T03:02:00+00:00,Canada,0.6735073039773936,1,3,en,NEN,North-America
@@ -2629,7 +2583,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b224009b08',extremes,Storm,#b3b2b1,wmo,Storm South of Amur Region,2025-02-07T03:03:00+00:00,Russia,0.6725479696116938,0,2,en,ESB,Europe
 '3eddf8db4a',extremes,Snow&Ice,#d60d2b,wmo,Freezing Smolensk Region,2025-02-01T03:03:00+00:00,Russia,0.6725195683352836,0,2,en,ESB,Europe
 '97d1399097',extremes,Fog,#d60d2b,wmo,Fog Opolskie Province Opolski County,2025-02-25T03:07:00+00:00,Poland,0.6725135066574309,0,2,en,WCE,Europe
-'0f2da3a57f',extremes,Snow&Ice,#d60d2b,wmo,Ice Komi Republic,2025-01-26T13:47:00+00:00,Russia,0.6724460097429273,0,2,en,ESB,Europe
 'ca3585b0da',extremes,Precipitation,#d60d2b,wmo,Downpour Pickle Lake Cat Lake,2025-03-14T03:09:00+00:00,Canada,0.6723589657432668,0,2,en,NEN,North-America
 '71256bb339',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Indre Troms,2025-01-31T02:59:00+00:00,Norway,0.6723416173904384,0,2,en,NEU,Europe
 '243377a3f6',extremes,Drought,#edc291,edo,Dryness Colombia,2025-01-26T15:41:00+00:00,Colombia,0.6723359795115532,0,2,en,NWS,South-America
@@ -2643,12 +2596,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be0ad12c80',extremes,Storm,#b3b2b1,wmo,Storm Surge Cody Foothills,2025-02-06T03:02:00+00:00,United States,0.6721704399153641,0,2,en,CNA,North-America
 'bc9bbff08a',extremes,Precipitation,#d60d2b,wmo,Downpour Eastern Serbia,2025-03-12T03:09:00+00:00,Serbia,0.6721543341341029,0,2,en,MED,Europe
 'b1c32750eb',extremes,Storm,#b3b2b1,wmo,Storm Belgorod Region,2025-03-05T03:08:00+00:00,Russia,0.6721436921764956,0,2,en,ESB,Europe
-'090e2c613b',extremes,Snow&Ice,#d60d2b,wmo,Frost Guarda,2025-01-26T13:47:00+00:00,Portugal,0.6721379988834035,0,2,en,MED,Europe
 'e5a801b9d9',extremes,Flood,#030ba1,wmo,Flooding Edmonson KY,2025-02-16T03:07:00+00:00,United States,0.6721301605500343,0,2,en,CNA,North-America
 '544cdb0fe5',extremes,Snow&Ice,#d60d2b,wmo,Ice Tyumen Region,2025-02-06T03:02:00+00:00,Russia,0.6721200600153527,0,2,en,ESB,Europe
 '9f0ac80891',extremes,Storm,#b3b2b1,wmo,Storm Murmansk Region,2025-03-12T03:09:00+00:00,Russia,0.6720967257576981,0,2,en,ESB,Europe
 'cf8d1e9ba0',extremes,Fog,#d60d2b,wmo,Fog Śląskie Province Częstochowa County,2025-02-25T03:07:00+00:00,Poland,0.672044534552223,0,2,en,WCE,Europe
-'0397d17e37',extremes,Drought,#edc291,edo,Drought Tajikistan,2025-01-26T13:47:00+00:00,Tajikistan,0.6719617367727717,0,2,en,WCA,Asia
 'b090044b11',extremes,Storm,#b3b2b1,wmo,Storm Surge Tasmania South West Coast,2025-02-13T03:02:00+00:00,Australia,0.6718491677227513,0,2,en,CAU,Oceania
 '029f1aac2e',extremes,Fog,#d60d2b,wmo,Fog Podlaskie Province Kolneński County,2025-02-28T03:07:00+00:00,Poland,0.6718196441960502,0,2,en,WCE,Europe
 'd7c38f3484',extremes,Drought,#edc291,edo,Dryness Algeria,2025-01-27T03:01:00+00:00,Algeria,0.6718087200300111,0,2,en,SAH,Africa
@@ -2659,7 +2610,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69cf592c21',extremes,Snow&Ice,#d60d2b,wmo,Ice Southwest Wyoming,2025-02-01T03:03:00+00:00,United States,0.6716700138864765,0,2,en,CNA,North-America
 '07796d8445',extremes,Storm,#b3b2b1,wmo,Storm Surge Northern Hungary,2025-03-12T03:09:00+00:00,Hungary,0.6716441939942824,0,2,en,WCE,Europe
 'ee68d27fc5',extremes,Flood,#030ba1,aidr,pluvial flooding New Zealand,2025-03-18T03:12:00+00:00,New Zealand,0.6716215173102424,1,1,en,NZ,Oceania
-'a55dc66580',extremes,Drought,#edc291,edo,Drought Guam,2025-01-26T13:47:00+00:00,Guam,0.6716059164708966,0,2,en,NPO,Oceania
 'dfbbd0188a',extremes,Storm,#b3b2b1,wmo,Storm Surge Harrison Daviess Caldwell Ray,2025-03-04T03:09:00+00:00,United States,0.6715331111681796,0,2,en,CNA,North-America
 '41a953a27b',extremes,Snow&Ice,#d60d2b,wmo,Frost Visegrad,2025-02-09T03:04:00+00:00,Bosnia and Herzegovina,0.6715063718133494,0,2,en,MED,Europe
 '6b7e33c797',extremes,Snow&Ice,#d60d2b,wmo,Freezing Wyoming Allegany,2025-02-13T03:02:00+00:00,United States,0.6714761622201428,0,2,en,CNA,North-America
@@ -2671,7 +2621,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c7e19890f0',extremes,Storm,#b3b2b1,wmo,Storm Östlich Rügen,2025-03-04T03:09:00+00:00,Germany,0.6712792877969416,0,2,en,WCE,Europe
 '2064be337a',extremes,Fog,#d60d2b,wmo,Fog Friuli Venezia Giulia,2025-02-23T03:07:00+00:00,Italy,0.6712725033876846,0,2,en,MED,Europe
 'aabdcb08eb',extremes,Earthquake,#870007,usgs,Earthquake Martinique,2025-03-03T03:09:00+00:00,Martinique,0.6712668182964816,0,2,en,CAR,North-America
-'f7f3daf475',extremes,Storm,#b3b2b1,wmo,Storm Kvarner i Kvarneric region,2025-01-26T13:47:00+00:00,Croatia,0.6712458444263474,0,2,en,WCE,Europe
 '9ac1bb2d02',extremes,Storm,#b3b2b1,wmo,Storm Smolensk Region,2025-03-12T03:09:00+00:00,Russia,0.6712383643968456,0,2,en,ESB,Europe
 '4c0abd6791',extremes,Storm,#b3b2b1,wmo,Storm Surge Selkämeren pohjoisosa Merenkurkku,2025-02-22T03:01:00+00:00,Finland,0.6712258500072914,0,2,en,NEU,Europe
 '989f07449b',extremes,Snow&Ice,#d60d2b,wmo,Freezing Klamath Basin,2025-02-01T03:03:00+00:00,United States,0.6712106311837326,0,2,en,CNA,North-America
@@ -2696,8 +2645,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '435d975ba7',extremes,Storm,#b3b2b1,wmo,Storm Salt Lake Valley,2025-03-18T03:12:00+00:00,United States,0.6708720264227167,0,2,en,CNA,North-America
 '0f8483308e',extremes,Snow&Ice,#d60d2b,wmo,Frost White Pine County,2025-03-12T03:09:00+00:00,United States,0.670863295363916,0,2,en,CNA,North-America
 'a0068b2b6b',extremes,Flood,#030ba1,aidr,Flood Rainfall and Flooding Queensland February March 2022,2025-02-10T03:04:00+00:00,Australia,0.6708509133300029,1,2,en,EAU,Oceania
-'c98330318c',extremes,Drought,#edc291,edo,Dryness French Guiana,2025-01-26T13:47:00+00:00,French Guiana,0.6708282116941484,0,2,en,NSA,South-America
-'ccefefc59e',extremes,Drought,#edc291,random,flash drought,2025-01-26T13:46:00+00:00,,0.6707535325899386,0,2,en,,
 '5dfabc9983',extremes,Storm,#b3b2b1,wmo,Storm Surge Lander Foothills,2025-02-02T03:01:00+00:00,United States,0.670742666241641,0,2,en,CNA,North-America
 'b6cef22543',extremes,Drought,#edc291,random,water restriction,2025-02-25T03:06:00+00:00,,0.6707161850262017,0,2,en,,
 '608967f3c5',extremes,Drought,#edc291,edo,Dryness Bolivia,2025-01-27T03:01:00+00:00,Bolivia,0.670666955931204,0,2,en,SAM,South-America
@@ -2732,7 +2679,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6be55d0cfc',extremes,Wildfire,#d60d2b,wmo,Wildfire Xuwen County,2025-02-25T03:07:00+00:00,China,0.6700580789234444,0,2,en,EAS,Asia
 '020bf84439',extremes,Storm,#b3b2b1,wmo,Storm Surge Northern Great Plain,2025-03-11T03:10:00+00:00,Hungary,0.6700236708518689,0,2,en,WCE,Europe
 '6cfc55b8b1',extremes,Drought,#edc291,edo,Dryness Bonaire Saint Eustatius and Saba,2025-01-28T02:59:00+00:00,Bonaire; Saint Eustatius and Saba ,0.6700222548153094,0,2,en,CAR,North-America
-'6c2aa26b6c',extremes,Drought,#edc291,edo,Dryness Ecuador,2025-01-26T13:47:00+00:00,Ecuador,0.6700094450041281,0,2,en,EPO,Pacific Ocean
 '3d84dbb72f',extremes,Storm,#b3b2b1,wmo,Storm Clarence Strait,2025-01-29T02:58:00+00:00,United States,0.669997144792244,0,2,en,CNA,North-America
 'bc7918338a',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Baraga Marquette Alger,2025-03-06T03:09:00+00:00,United States,0.6699914412804454,0,2,en,CNA,North-America
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2025-03-05T03:08:00+00:00,Australia,0.6699872423850328,1,2,en,CAU,Oceania
@@ -2797,9 +2743,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f4c1eebbf2',extremes,Snow&Ice,#d60d2b,wmo,Freezing Eastern Beaufort Sea Coast,2025-02-06T03:02:00+00:00,United States,0.668046567710992,0,2,en,CNA,North-America
 '8fe21554e9',extremes,Snow&Ice,#d60d2b,wmo,Avalanche White Mountains,2025-03-11T03:10:00+00:00,United States,0.6680353581814382,0,2,en,CNA,North-America
 '5e1c3c63c1',extremes,Snow&Ice,#d60d2b,wmo,Snow Newcastle,2025-03-07T03:10:00+00:00,United States,0.667951164151527,0,2,en,CNA,North-America
-'a70a6fe697',extremes,Storm,#b3b2b1,wmo,Storm Surge Myjava,2025-01-26T13:47:00+00:00,Slovakia,0.66795029575279,0,2,en,WCE,Europe
 '1a97d7983f',extremes,Storm,#b3b2b1,wmo,Storm Sierra Madre Range,2025-02-13T03:02:00+00:00,United States,0.6679059032695209,0,2,en,CNA,North-America
-'77096c3de3',extremes,Drought,#edc291,edo,Lack of Rain Western Sahara,2025-01-26T13:47:00+00:00,Western Sahara,0.6678367124859892,0,2,en,SAH,Africa
 'e164ff009b',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Kurgan Region,2025-02-24T03:08:00+00:00,Russia,0.6677495598904564,0,2,en,ESB,Europe
 '5dcee2ff83',extremes,Precipitation,#d60d2b,wmo,Precipitation Fort Hope Lansdowne House Ogoki,2025-03-16T03:13:00+00:00,Canada,0.6677382506769686,0,2,en,NEN,North-America
 'b1c0b1dfe6',extremes,Storm,#b3b2b1,wmo,Storm Haute Garonne Hérault Tarn,2025-03-09T02:50:00+00:00,France,0.6677282294304355,0,2,en,WCE,Europe
@@ -2807,7 +2751,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bc294b50d8',extremes,Storm,#b3b2b1,wmo,Storm Surge Republic of Karelia,2025-03-15T03:07:00+00:00,Russia,0.6676497738272208,0,2,en,ESB,Europe
 'f4291ebc8d',extremes,Flood,#030ba1,wmo,Flooding Majuro,2025-03-03T03:09:00+00:00,United States,0.6676332630867984,0,2,en,CNA,North-America
 '74489c2083',extremes,Storm,#b3b2b1,wmo,Storm Surge Big Island Summit,2025-02-02T03:01:00+00:00,United States,0.6675364306624915,0,2,en,CNA,North-America
-'4800c921bf',extremes,Storm,#b3b2b1,wmo,Storm Surge Kosrae,2025-01-26T13:47:00+00:00,United States,0.667529576879667,0,2,en,CNA,North-America
 '6977541e84',extremes,Drought,#edc291,edo,Drought Madagascar,2025-02-11T03:03:00+00:00,Madagascar,0.667529028257831,1,1,en,MDG,Africa
 '59905db753',extremes,Wildfire,#d60d2b,wmo,Wildfire Nan ao County,2025-02-19T03:03:00+00:00,China,0.667514219974528,0,2,en,EAS,Asia
 'f45aba3aea',extremes,Thunderstorm,#53785a,eswd,Heavy Rain Portugal,2025-03-12T03:08:00+00:00,Portugal,0.6674194003919265,1,1,en,MED,Europe
@@ -2819,14 +2762,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c21a6e3b8d',extremes,Snow&Ice,#d60d2b,wmo,Ice Western Chelan County,2025-02-20T03:03:00+00:00,United States,0.6673411437059376,0,2,en,CNA,North-America
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2025-02-16T03:07:00+00:00,Australia,0.6673395967535988,0,2,en,CAU,Oceania
 '35bd62c5a9',extremes,Drought,#edc291,edo,Drought India,2025-01-26T15:41:00+00:00,India,0.6672439407617802,0,2,en,SAS,Asia
-'cae0947003',extremes,Drought,#edc291,edo,Lack of Rain Grenada,2025-01-26T13:47:00+00:00,Grenada,0.6672108750120628,0,2,en,CAR,North-America
 '935b4ad68f',extremes,Storm,#b3b2b1,wmo,Storm Novgorod Region,2025-03-14T03:09:00+00:00,Russia,0.6671419669351968,0,2,en,ESB,Europe
 '0e469f1b6e',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Hlavní město Praha,2025-02-14T03:02:00+00:00,Czechia,0.6671318344931221,0,2,en,WCE,Europe
 '20f23acf4e',extremes,Storm,#b3b2b1,wmo,Storm Surge Penobscot Bay,2025-02-05T03:02:00+00:00,United States,0.6671268885932921,0,2,en,CNA,North-America
-'43ba97a0bd',extremes,Drought,#edc291,edo,Dryness Singapore,2025-01-26T13:47:00+00:00,Singapore,0.6670885487108075,0,2,en,SEA,Asia
 '4a3c612f60',extremes,Storm,#b3b2b1,aidr,Heavy rainfall and floods New South Wales February 2020,2025-02-23T03:07:00+00:00,,0.6670789764152735,1,1,en,EAU,Oceania
 '1225128eb4',extremes,Storm,#b3b2b1,wmo,Storm Surge New South Wales Batemans Coast,2025-02-07T03:03:00+00:00,Australia,0.6670151541207567,0,2,en,CAU,Oceania
-'ebe3f8a23f',extremes,Drought,#edc291,edo,Lack of Rain Kiribati,2025-01-26T13:47:00+00:00,Kiribati,0.6670110314124003,0,2,en,EAO,Atlantic Ocean
 '3f2d60b7aa',extremes,Snow&Ice,#d60d2b,wmo,Freezing Friesland,2025-02-10T03:03:00+00:00,Netherlands,0.6670051628024013,0,2,en,NEU,Europe
 'f200016680',extremes,Drought,#edc291,edo,Dryness Guatemala,2025-01-27T03:01:00+00:00,Guatemala,0.6669147501772419,0,2,en,SCA,North-America
 'c9b82ca020',extremes,Storm,#b3b2b1,wmo,Storm Surge South Central Mountains,2025-02-12T03:02:00+00:00,United States,0.6668280925892064,0,2,en,CNA,North-America
@@ -2853,7 +2793,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c65291c7dd',extremes,Thunderstorm,#53785a,wmo,Severe Weather Split region,2025-02-14T03:02:00+00:00,Croatia,0.6663826467307805,0,2,en,WCE,Europe
 '22ec7b00f3',extremes,Flood,#030ba1,wmo,Flashflood Decatur TN Hardin TN,2025-02-22T03:01:00+00:00,United States,0.6663358416982661,0,2,en,CNA,North-America
 '2096f9b691',extremes,Drought,#edc291,edo,Lack of Rain Bhutan,2025-02-04T03:00:00+00:00,Bhutan,0.6662536884330714,1,2,en,TIB,Asia
-'1397b5f4ed',extremes,Drought,#edc291,edo,Dryness South Africa,2025-01-26T13:47:00+00:00,South Africa,0.66621524671939,0,2,en,ESAF,Africa
 '5d0eb68da4',extremes,Storm,#b3b2b1,wmo,Storm Northern Clearwater Mountains,2025-02-04T03:00:00+00:00,United States,0.6661781350698961,0,2,en,CNA,North-America
 '8f9b19ab0f',extremes,Drought,#edc291,acwe,drought Victoria,2025-02-19T03:03:00+00:00,Australia,0.6661731110738128,1,1,en,SAU,Oceania
 '741e69e050',extremes,Storm,#b3b2b1,wmo,Storm San Gorgonio Pass Near Banning,2025-03-02T03:09:00+00:00,United States,0.6661657603050473,0,2,en,CNA,North-America
@@ -2866,7 +2805,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '38a1a191a5',extremes,Snow&Ice,#d60d2b,wmo,Ice Bragança,2025-01-28T02:59:00+00:00,Portugal,0.6660072307812288,0,2,en,MED,Europe
 'fada59714f',extremes,Drought,#edc291,edo,Lack of Rain Zambia,2025-02-06T03:02:00+00:00,Zambia,0.6659933184178449,1,2,en,ESAF,Africa
 '0cbe8c6ff7',extremes,Storm,#b3b2b1,wmo,Storm Stephens Passage,2025-01-30T02:57:00+00:00,United States,0.6659642690176726,0,2,en,CNA,North-America
-'c21580f9f9',extremes,Drought,#edc291,edo,Lack of Rain British Virgin Islands,2025-01-26T13:47:00+00:00,British Virgin Islands,0.6659206792762727,0,2,en,CAR,North-America
 'fff848823a',extremes,Snow&Ice,#d60d2b,wmo,Freezing Northern Lynn Canal,2025-02-01T03:03:00+00:00,United States,0.6658499620523651,0,2,en,CNA,North-America
 '5bd3759e67',extremes,Drought,#edc291,edo,Drought Wallis and Futuna,2025-01-27T03:01:00+00:00,Wallis and Futuna,0.6658357807740937,0,2,en,SPO,Pacific Ocean
 '838e7b4b22',extremes,Storm,#b3b2b1,wmo,Storm Northern Oneida Southern Oneida,2025-01-30T02:57:00+00:00,United States,0.6658243346603521,0,2,en,CNA,North-America
@@ -2898,7 +2836,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c964982cb',extremes,Fog,#d60d2b,wmo,Fog Pomorskie Province Malborski County,2025-02-28T03:07:00+00:00,Poland,0.6649973852286105,0,2,en,WCE,Europe
 '39ec5d5260',extremes,Snow&Ice,#d60d2b,wmo,Snow Romsdal,2025-02-02T03:01:00+00:00,Norway,0.6649964585465044,0,2,en,NEU,Europe
 '61bcd02de5',extremes,Drought,#edc291,edo,Drought Mozambique,2025-03-07T12:05:00+00:00,Mozambique,0.6649861743678306,0,2,en,ESAF,Africa
-'8f60e373dd',extremes,Drought,#edc291,edo,Dryness Heard Island and McDonald Islands,2025-01-26T13:47:00+00:00,Heard Island and McDonald Islands,0.6649837007925294,0,2,en,SOO,Antarctica
 'cb68a058c7',extremes,Snow&Ice,#d60d2b,wmo,Ice Indre Sogn,2025-01-26T17:07:00+00:00,Norway,0.6648841175081921,0,2,en,NEU,Europe
 'fc0152e181',extremes,Fog,#d60d2b,wmo,Fog Łódzkie Province Łowicki County,2025-02-25T03:07:00+00:00,Poland,0.6648836122959348,0,2,en,WCE,Europe
 'd248c4695e',extremes,Storm,#b3b2b1,wmo,Storm vaishali patna saran,2025-03-01T03:12:00+00:00,India,0.6648668688017826,0,2,en,SAS,Asia
@@ -2916,7 +2853,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a20612e67',extremes,Drought,#edc291,edo,Lack of Rain Trinidad and Tobago,2025-01-26T15:41:00+00:00,Trinidad and Tobago,0.6644872793916923,0,2,en,NSA,North-America
 '854f6d8047',extremes,Storm,#b3b2b1,wmo,Storm Faro,2025-03-07T03:10:00+00:00,Portugal,0.6644302103381947,0,2,en,MED,Europe
 'c5f06c92a1',extremes,Storm,#b3b2b1,wmo,Storm Central Lapland Mountains,2025-02-07T03:03:00+00:00,Sweden,0.6643978623194842,0,2,en,NEU,Europe
-'df7822377d',extremes,Storm,#b3b2b1,wmo,Storm Delta Junction,2025-01-26T13:47:00+00:00,United States,0.664376230282469,0,2,en,CNA,North-America
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Canada,2025-03-06T03:09:00+00:00,Canada,0.6643696869078474,1,3,en,NEN,North-America
 '74fe763b2e',extremes,Earthquake,#870007,usgs,Earthquake Hualien City,2025-03-17T03:12:00+00:00,Taiwan,0.6643637061324275,0,2,en,EAS,Asia
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-02-25T03:07:00+00:00,United States,0.6643535873982978,0,2,en,CNA,North-America
@@ -2940,7 +2876,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9cd38ea519',extremes,Storm,#b3b2b1,wmo,Storm Nemaha Pawnee Richardson,2025-02-11T03:02:00+00:00,United States,0.664096999847339,0,2,en,CNA,North-America
 '19d9197157',extremes,Snow&Ice,#d60d2b,wmo,Frost White Mountains,2025-03-12T03:09:00+00:00,United States,0.6640937425825768,0,2,en,CNA,North-America
 'e1a8446dd4',extremes,Snow&Ice,#d60d2b,wmo,Freezing Northern Perkins Southern Perkins,2025-03-18T03:12:00+00:00,United States,0.664063963838142,0,2,en,CNA,North-America
-'10e0a011d0',extremes,Drought,#edc291,edo,Lack of Rain Saint Vincent and the Grenadines,2025-01-26T13:47:00+00:00,Saint Vincent and the Grenadines,0.6640568155646797,0,2,en,CAR,North-America
 'fc3d7fdaa0',extremes,Landslide,#572c03,fema,Kentucky Severe Storms Straight line Winds Flooding Landslides and Mudslides,2025-02-26T03:06:00+00:00,United States,0.6640483011259332,1,1,en,ENA,North-America
 'cb0dc09b04',extremes,Drought,#edc291,edo,Lack of Rain Ireland,2025-02-02T03:01:00+00:00,Ireland,0.6640430326568847,0,2,en,NEU,Europe
 '3d67bc4e03',extremes,Snow&Ice,#d60d2b,wmo,Ice Smolensk Region,2025-03-18T03:12:00+00:00,Russia,0.6640367603859557,0,2,en,ESB,Europe
@@ -2983,16 +2918,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e79fead5ca',extremes,Storm,#b3b2b1,wmo,Storm Surge Elbe von Hamburg bis Cuxhaven,2025-02-11T03:02:00+00:00,Germany,0.6631164925499007,0,2,en,WCE,Europe
 '5bddfda332',extremes,Storm,#b3b2b1,wmo,Storm Surge Richland Dawson Prairie,2025-02-03T03:01:00+00:00,United States,0.6630887434144828,0,2,en,CNA,North-America
 '28bb23a3f4',extremes,Snow&Ice,#d60d2b,wmo,Ice Hermagor,2025-03-15T03:07:00+00:00,Austria,0.6630885100400307,0,2,en,WCE,Europe
-'ca8927c5a9',extremes,Drought,#edc291,edo,Lack of Rain Barbados,2025-01-26T13:47:00+00:00,Barbados,0.6630408795627013,0,2,en,CAR,North-America
 '8a931531d9',extremes,Storm,#b3b2b1,wmo,Storm Ružomberok,2025-01-26T17:07:00+00:00,Slovakia,0.6630329926266468,0,2,en,WCE,Europe
 '6bfb7a8a3c',extremes,Snow&Ice,#d60d2b,wmo,Snow Bering Strait Coast,2025-03-07T03:10:00+00:00,United States,0.663029228840864,0,2,en,CNA,North-America
 '70960138bb',extremes,Iceberg,#d60d2b,eonet,Iceberg B38,2025-02-02T03:00:00+00:00,Antarctica,0.66301927305582,0,2,en,WAN,Antarctica
 '7fd0d4aa8d',extremes,Snow&Ice,#d60d2b,wmo,Freezing Teton and Gros Ventre Mountains,2025-03-13T03:11:00+00:00,United States,0.6630094527660075,0,2,en,CNA,North-America
 '17eba9bc23',extremes,Storm,#b3b2b1,wmo,Storm City and Borough of Yakutat,2025-02-14T03:02:00+00:00,United States,0.6630068614974162,0,2,en,CNA,North-America
-'d17a3f7ac5',extremes,Snow&Ice,#d60d2b,wmo,Frost South of Kuril islands,2025-01-26T13:47:00+00:00,Russia,0.6629864297105896,0,2,en,ESB,Europe
 '3b65176ec5',extremes,Storm,#b3b2b1,wmo,Storm Saint Matthew Island Waters,2025-02-09T03:04:00+00:00,United States,0.662982054686043,0,2,en,CNA,North-America
 '8739f63c97',extremes,Storm,#b3b2b1,wmo,Storm Viana do Castelo,2025-02-21T03:04:00+00:00,Portugal,0.6629720936002661,0,2,en,MED,Europe
-'2ec306c29a',extremes,Snow&Ice,#d60d2b,wmo,Frost Bering Sea Offshore East of 171W,2025-01-26T13:47:00+00:00,United States,0.662967418191273,0,2,en,CNA,North-America
 'cc9c315c8c',extremes,Earthquake,#870007,usgs,Earthquake Puerto Madero,2025-02-03T03:01:00+00:00,Mexico,0.6629234541893984,0,2,en,SCA,North-America
 'f6f162b48c',extremes,Storm,#b3b2b1,wmo,Storm Okanogan Highlands,2025-03-13T03:11:00+00:00,United States,0.6629171895144184,0,2,en,CNA,North-America
 '493152cec4',extremes,Snow&Ice,#d60d2b,wmo,Frost Klagenfurt Land,2025-03-15T03:07:00+00:00,Austria,0.6629144878403325,0,2,en,WCE,Europe
@@ -3019,7 +2951,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5bba07a1fb',extremes,Wildfire,#d60d2b,wmo,Wildfire Chenghai District,2025-01-28T02:59:00+00:00,China,0.6624946236242486,0,2,en,EAS,Asia
 '07ce06ae23',extremes,Storm,#b3b2b1,wmo,Storm Helgoland,2025-01-31T02:59:00+00:00,Germany,0.662478632419533,0,2,en,WCE,Europe
 '8c362c1849',extremes,Storm,#b3b2b1,wmo,Storm Surge El Hierro,2025-01-30T02:57:00+00:00,Spain,0.6624705561840526,0,2,en,MED,Europe
-'295cef0bde',extremes,Snow&Ice,#d60d2b,wmo,Freezing Western Chippewa Central Chippewa,2025-01-26T13:47:00+00:00,United States,0.6624579194564388,0,2,en,CNA,North-America
 'eaa4af0962',extremes,Storm,#b3b2b1,wmo,Storm Surge Republic of Kalmykia,2025-02-27T03:07:00+00:00,Russia,0.6624481029916739,0,2,en,ESB,Europe
 'e7e5fd439f',extremes,Drought,#edc291,edo,Dry Spell American Samoa,2025-01-26T15:41:00+00:00,American Samoa,0.6624208689829326,0,2,en,SPO,Pacific Ocean
 'cc72840a57',extremes,Snow&Ice,#d60d2b,wmo,Snow Heiane,2025-01-27T03:01:00+00:00,Norway,0.6624118137448312,0,2,en,NEU,Europe
@@ -3038,7 +2969,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e1f2d9b961',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Sierra Madre Range Snowy Range,2025-02-07T03:03:00+00:00,United States,0.6621855256092721,0,2,en,CNA,North-America
 '8fcb0ee3cf',extremes,Snow&Ice,#d60d2b,wmo,Freezing Southern Denali Borough,2025-01-27T03:01:00+00:00,United States,0.6621640486401206,0,2,en,CNA,North-America
 'ac767ebf32',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Qingzhou City,2025-03-01T03:12:00+00:00,China,0.6621511378925947,0,2,en,EAS,Asia
-'e9560fc8a0',extremes,Drought,#edc291,edo,Dryness Niue,2025-01-26T13:47:00+00:00,Niue,0.6621175791176063,0,2,en,SPO,Oceania
 'd87e74edec',extremes,Storm,#b3b2b1,wmo,Storm Upper Yampa River Basin,2025-02-15T03:01:00+00:00,United States,0.6621127323842525,0,2,en,CNA,North-America
 'a8dcbbf352',extremes,Drought,#edc291,edo,Dryness Vanuatu,2025-01-26T15:41:00+00:00,Vanuatu,0.6620903521356336,0,2,en,SPO,Pacific Ocean
 '10b49cde82',extremes,Tropical Cyclone,#4f4f4f,cmeter,Tropical Cyclone Port Hedland,2025-03-07T03:10:00+00:00,Australia,0.661981831275298,0,2,en,NAU,Oceania
@@ -3060,7 +2990,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bb1c9e9049',extremes,Precipitation,#d60d2b,wmo,Rain Bosnia and Herzegovina,2025-02-14T03:02:00+00:00,Bosnia and Herzegovina,0.6617218975193478,0,2,en,MED,Europe
 'bef1a25283',extremes,Drought,#edc291,edo,Dry Spell Syria,2025-02-06T03:02:00+00:00,Syria,0.661720138406399,1,2,en,MED,Asia
 'f3fb7023d9',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Tromsø,2025-03-01T03:12:00+00:00,Norway,0.6616518499723787,0,2,en,NEU,Europe
-'efa6ba5fb5',extremes,Snow&Ice,#d60d2b,wmo,Freezing Sunnmøre,2025-01-26T13:47:00+00:00,Norway,0.6615869722478528,0,2,en,NEU,Europe
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,hail,2025-03-05T03:07:00+00:00,,0.6615814493767247,0,2,en,,
 'b394f9525d',extremes,Flood,#030ba1,wmo,Flashflood Charlotte VA Halifax VA,2025-02-18T03:01:00+00:00,United States,0.661551999411515,0,2,en,CNA,North-America
 '4285fcec53',extremes,Storm,#b3b2b1,wmo,Storm Surge Penobscot Bay Casco Bay,2025-01-26T17:07:00+00:00,United States,0.6615434827953082,0,2,en,CNA,North-America
@@ -3102,7 +3031,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b87a41f64c',extremes,Iceberg,#d60d2b,eonet,Iceberg A76C,2025-02-23T03:07:00+00:00,Antarctica,0.6607817854888857,1,1,en,WAN,Antarctica
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Fog Germany,2025-02-01T03:03:00+00:00,Germany,0.6607738984695278,1,2,en,WCE,Europe
 'ccbf2850c0',extremes,Wildfire,#d60d2b,eonet,Wildfire in Mali 1023524,2025-02-25T03:06:00+00:00,Mali,0.6607669502919326,0,2,en,SAH,Africa
-'44c2634040',extremes,Wildfire,#d60d2b,cmeter,Los Angeles Wildfires,2025-01-26T13:47:00+00:00,United States,0.6607101175984506,0,2,en,WNA,North-America
 '5775b9e128',extremes,Snow&Ice,#d60d2b,wmo,Freezing Karachay Cherkess Republic,2025-02-14T03:02:00+00:00,Russia,0.6606646011695441,0,2,en,ESB,Europe
 '7eec3c8f36',extremes,Drought,#edc291,edo,Dryness Samoa,2025-01-26T15:41:00+00:00,Samoa,0.6606378123742489,0,2,en,SPO,Pacific Ocean
 'be9f558b73',extremes,Storm,#b3b2b1,wmo,Storm San Francisco Peninsula Coast,2025-02-04T03:00:00+00:00,United States,0.6605981476012867,0,2,en,CNA,North-America
@@ -3115,7 +3043,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d2f7df845',extremes,Drought,#edc291,edo,Drought Palestinian Territory,2025-02-20T03:03:00+00:00,Palestinian Territory,0.6604756771901683,1,1,en,MED,Asia
 '67170bdf4e',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone 25S,2025-03-09T02:49:00+00:00,,0.6604713607921094,1,1,en,MDG,Africa
 '3e44521d53',extremes,Storm,#b3b2b1,wmo,Storm Surge Augusta Rockingham,2025-02-12T03:02:00+00:00,United States,0.6604659484357239,0,2,en,CNA,North-America
-'957c870453',extremes,Drought,#edc291,edo,Dryness Iceland,2025-01-26T13:47:00+00:00,Iceland,0.6604309234050437,0,2,en,GIC,Europe
 '202e18ec69',extremes,Snow&Ice,#d60d2b,wmo,Snow Opolskie Province Głubczycki County,2025-02-13T03:02:00+00:00,Poland,0.660429586204172,0,2,en,WCE,Europe
 '0dbfb0c2b4',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave China,2025-02-15T03:01:00+00:00,China,0.6604229071275495,1,3,en,EAS,Asia
 'db05a91fee',extremes,Storm,#b3b2b1,wmo,Storm Surge Ostfriesische Küste Helgoland,2025-02-11T03:02:00+00:00,Germany,0.6604123138351998,0,2,en,WCE,Europe
@@ -3145,7 +3072,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '24a388e940',extremes,Storm,#b3b2b1,wmo,Storm Surge Östlich Fehmarn bis Rügen,2025-03-03T03:09:00+00:00,Germany,0.6598416328570496,0,2,en,WCE,Europe
 '9942e2b4c0',extremes,Precipitation,#d60d2b,wmo,Rain Greece,2025-02-16T03:07:00+00:00,Greece,0.6598261334049991,0,2,en,MED,Europe
 'bb1aca775f',extremes,Wildfire,#d60d2b,wmo,Wildfire Longhu District,2025-01-28T02:59:00+00:00,China,0.6598223966092777,0,2,en,EAS,Asia
-'37222e0f0e',extremes,Drought,#edc291,edo,Dry Spell French Southern Territories,2025-01-26T13:47:00+00:00,French Southern Territories,0.6598119865388115,0,2,en,SOO,Antarctica
 '0ca87424f0',extremes,Drought,#edc291,edo,Dryness Morocco,2025-02-19T03:03:00+00:00,Morocco,0.6597797269709784,1,1,en,MED,Africa
 '4a1117c274',extremes,Storm,#b3b2b1,wmo,Storm Surge Southwest Wyoming,2025-02-07T03:03:00+00:00,United States,0.6597757080850796,0,2,en,CNA,North-America
 '70585359d1',extremes,Storm,#b3b2b1,wmo,Storm Surge Southern Sea of Bothnia,2025-02-04T03:00:00+00:00,Sweden,0.6597318373802833,0,2,en,NEU,Europe
@@ -3178,7 +3104,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2349a552a7',extremes,Storm,#b3b2b1,wmo,Storm Surge Kostroma Region,2025-03-09T02:50:00+00:00,Russia,0.6590356320280932,0,2,en,ESB,Europe
 'c9db71d33c',extremes,Storm,#b3b2b1,wmo,Storm Sullivan,2025-02-07T03:03:00+00:00,United States,0.6590016214946691,0,2,en,CNA,North-America
 '6ee03c3d03',extremes,Drought,#edc291,edo,Dry Spell Antigua and Barbuda,2025-01-27T03:01:00+00:00,Antigua and Barbuda,0.6589791183599235,0,2,en,CAR,North-America
-'637e8efd59',extremes,Precipitation,#d60d2b,wmo,Precipitation Guarda,2025-01-26T13:47:00+00:00,Portugal,0.6589510850191496,0,2,en,MED,Europe
 '597397a484',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Ofoten,2025-01-26T15:41:00+00:00,Norway,0.6589196089182622,0,2,en,NEU,Europe
 'd4e8827adb',extremes,Snow&Ice,#d60d2b,wmo,Freezing Saint Petersburg,2025-03-13T03:11:00+00:00,Russia,0.6589137354185848,0,2,en,ESB,Europe
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,Storm North Sydney Hailstorm 2017,2025-03-06T03:09:00+00:00,,0.6589085692289193,1,1,en,EAU,Oceania
@@ -3186,12 +3111,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '90e6558608',extremes,Earthquake,#870007,usgs,Earthquake southern Mid Atlantic Ridge,2025-03-13T03:10:00+00:00,,0.6588772182942906,0,2,en,SAO,Atlantic Ocean
 'f4ea021b6c',extremes,Snow&Ice,#d60d2b,wmo,Ice Stavropol Krai,2025-03-18T03:12:00+00:00,Russia,0.6588468188242961,0,2,en,ESB,Europe
 'e62732cf92',extremes,Storm,#b3b2b1,wmo,Storm Surge Central Laramie County,2025-02-07T03:03:00+00:00,United States,0.6588376434345619,0,2,en,CNA,North-America
-'28cf44e53a',extremes,Drought,#edc291,edo,Dryness New Caledonia,2025-01-26T13:47:00+00:00,New Caledonia,0.6587662769400996,0,2,en,SPO,Oceania
-'3b32d1a6f1',extremes,Storm,#b3b2b1,wmo,Storm Nové Zámky,2025-01-26T13:47:00+00:00,Slovakia,0.6587493714566734,0,2,en,WCE,Europe
-'414b6dc570',extremes,Drought,#edc291,edo,Dryness Guadeloupe,2025-01-26T13:47:00+00:00,Guadeloupe,0.6587479702858506,0,2,en,CAR,North-America
 'c0c306510d',extremes,Storm,#b3b2b1,wmo,Storm Pribilof Islands Nearshore Waters,2025-02-15T03:01:00+00:00,United States,0.658722517457261,0,2,en,CNA,North-America
 '38e672b274',extremes,Drought,#edc291,edo,Dryness Gabon,2025-03-13T03:11:00+00:00,Gabon,0.6587159956820783,1,1,en,CAF,Africa
-'ee3c8d829a',extremes,Wildfire,#d60d2b,wmo,Wildfire Nanxiong City,2025-01-26T13:47:00+00:00,China,0.6587065037746653,0,2,en,EAS,Asia
 '2ec4433b3b',extremes,Snow&Ice,#d60d2b,wmo,Ice Eastern Juab Millard Counties,2025-03-13T03:11:00+00:00,United States,0.6586959196734756,0,2,en,CNA,North-America
 'f053cbc24e',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Svalbard øst,2025-01-28T02:59:00+00:00,Norway,0.6586540767056915,0,2,en,NEU,Europe
 '25363f256f',extremes,Fog,#d60d2b,wmo,Fog Pomorskie Province Pucki County,2025-02-26T03:06:00+00:00,Poland,0.6586223203856973,0,2,en,WCE,Europe
@@ -3211,12 +3132,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b517f7ba58',extremes,Landslide,#572c03,relief,Land Slide Papua New Guinea,2025-02-15T03:01:00+00:00,Papua New Guinea,0.6583564658641503,0,2,en,SEA,Oceania
 '8cef3848e0',extremes,Landslide,#572c03,wmo,Rockslide deler av Trøndelag,2025-03-06T03:09:00+00:00,Norway,0.6583529528529612,0,2,en,NEU,Europe
 '90ef4b4bca',extremes,Fog,#d60d2b,wmo,Fog Pomorskie Province Gdynia County,2025-02-28T03:07:00+00:00,Poland,0.6583390602696786,0,2,en,WCE,Europe
-'10752e4a37',extremes,Drought,#edc291,edo,Dry Spell Luxembourg,2025-01-26T13:47:00+00:00,Luxembourg,0.6582694789992422,0,2,en,WCE,Europe
 'ed97afdbbc',extremes,Flood,#030ba1,wmo,Flood Elliott KY Fleming KY Rowan KY,2025-02-16T03:07:00+00:00,United States,0.6582644276391618,0,2,en,CNA,North-America
 '4d446959e2',extremes,Drought,#edc291,edo,Drought Estonia,2025-01-28T02:59:00+00:00,Estonia,0.6582316831356282,0,2,en,NEU,Europe
 'aa045bb69f',extremes,Snow&Ice,#d60d2b,wmo,Freezing Cordillera Cantábrica de Palencia,2025-01-27T03:01:00+00:00,Spain,0.658222668881773,0,2,en,MED,Europe
 '2e97281900',extremes,Storm,#b3b2b1,wmo,Storm Surge Costa Oeste de A Coruña,2025-01-28T02:59:00+00:00,Spain,0.6582168462258194,0,2,en,MED,Europe
-'8fefe12eed',extremes,Drought,#edc291,edo,Dry Spell Cabo Verde,2025-01-26T13:47:00+00:00,Cabo Verde,0.658207527718889,0,2,en,NAO,Atlantic Ocean
 'bf31be9540',extremes,Snow&Ice,#d60d2b,wmo,Freezing Pohjanmaa,2025-02-15T03:01:00+00:00,Finland,0.6582040312401111,0,2,en,NEU,Europe
 'bf242fe474',extremes,Drought,#edc291,edo,Drought Zambia,2025-03-15T03:07:00+00:00,Zambia,0.6581519134429845,0,2,en,ESAF,Africa
 '64871847ef',extremes,Storm,#b3b2b1,wmo,Storm Surge Bayfield Ashland Iron,2025-03-05T03:08:00+00:00,United States,0.6580896223143107,0,2,en,CNA,North-America
@@ -3228,7 +3147,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2423612f99',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Gomel Region,2025-02-13T03:02:00+00:00,Belarus,0.6579625470487745,0,2,en,WCE,Europe
 '5169b80f22',extremes,Earthquake,#870007,usgs,Earthquake Samarai,2025-02-21T03:04:00+00:00,Papua New Guinea,0.6579612675924053,0,2,en,SEA,Oceania
 'cce13e2954',extremes,Drought,#edc291,edo,Lack of Rain Saint Kitts and Nevis,2025-02-08T02:59:00+00:00,Saint Kitts and Nevis,0.6579129737124625,0,2,en,CAR,North-America
-'b64451d0c0',extremes,Drought,#edc291,edo,Drought Burkina Faso,2025-01-26T13:47:00+00:00,Burkina Faso,0.6579037861694598,0,2,en,WAF,Africa
 '9d59b1d751',extremes,Flood,#030ba1,acwe,flash flood South Australia,2025-02-11T03:03:00+00:00,Australia,0.6578992518690259,1,2,en,SAU,Oceania
 '9b1df77b65',extremes,Storm,#b3b2b1,wmo,Storm Winkler Ward Crane,2025-03-15T03:07:00+00:00,United States,0.657829828478714,0,2,en,CNA,North-America
 'bbb3b03037',extremes,Snow&Ice,#d60d2b,wmo,Frost Penza Region,2025-02-04T03:00:00+00:00,Russia,0.6578017413045965,0,2,en,ESB,Europe
@@ -3419,14 +3337,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '19762e7c85',extremes,Storm,#b3b2b1,wmo,Storm San Bernardino County Mountains,2025-03-05T03:08:00+00:00,United States,0.6544487525040794,0,2,en,CNA,North-America
 'fc8c3c6441',extremes,Snow&Ice,#d60d2b,wmo,Frost Nordenskiöld Land,2025-03-01T03:12:00+00:00,Norway,0.6544097163551159,0,2,en,NEU,Europe
 '3cce4aafda',extremes,Storm,#b3b2b1,wmo,Storm Surge Trebinje,2025-03-03T03:09:00+00:00,Bosnia and Herzegovina,0.6543976107243707,0,2,en,MED,Europe
-'4cb94f3104',extremes,Drought,#edc291,edo,Lack of Rain Thailand,2025-01-26T13:47:00+00:00,Thailand,0.6543411500276772,0,2,en,SEA,Asia
 'f022e4d772',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Western Siskiyou County,2025-02-02T03:01:00+00:00,United States,0.6543315878722492,0,2,en,CNA,North-America
 '5876f74566',extremes,Drought,#edc291,edo,Dry Spell Jordan,2025-02-06T03:02:00+00:00,Jordan,0.6543139860411141,1,1,en,MED,Asia
 'be0f3b52a5',extremes,Thunderstorm,#53785a,wmo,Hail Dent MO,2025-03-15T03:07:00+00:00,United States,0.6543124937465928,0,2,en,CNA,North-America
 '2fb88f632c',extremes,Storm,#b3b2b1,wmo,Storm Surge Apple and Lucerne Valleys,2025-02-12T03:02:00+00:00,United States,0.6542923083521469,0,2,en,CNA,North-America
 'e98bbbbe23',extremes,Drought,#edc291,edo,Drought British Indian Ocean Territory,2025-01-28T02:59:00+00:00,British Indian Ocean Territory,0.6542863234574494,0,2,en,EIO,Indian Ocean
 '03d988bdbe',extremes,Snow&Ice,#d60d2b,wmo,Snow Upper Wind River Basin,2025-02-01T03:03:00+00:00,United States,0.6542564712542587,0,2,en,CNA,North-America
-'f9ca61dfbb',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Haiyuan County,2025-01-26T13:47:00+00:00,China,0.6542329586693324,0,2,en,EAS,Asia
 'e98822cde8',extremes,Snow&Ice,#d60d2b,wmo,Freezing North Bay Interior Mountains,2025-01-26T15:41:00+00:00,United States,0.6542306297438408,0,2,en,CNA,North-America
 '62dc5cf511',extremes,Storm,#b3b2b1,aidr,Storm Severe Storm Melbourne Victoria 2010,2025-02-10T03:04:00+00:00,Australia,0.6541892525103808,0,2,en,SAU,Oceania
 '226aacca8d',extremes,Snow&Ice,#d60d2b,wmo,Frost Śląskie Province Cieszyński County,2025-02-06T03:02:00+00:00,Poland,0.6541451301340053,0,2,en,WCE,Europe
@@ -3534,7 +3450,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '31aa163365',extremes,Snow&Ice,#d60d2b,wmo,Ice Sierra Madre Range Snowy Range,2025-02-08T02:59:00+00:00,United States,0.6525258514273878,0,2,en,CNA,North-America
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,Severe Weather India,2025-02-01T03:03:00+00:00,India,0.6525234179574367,1,3,en,SAS,Asia
 '138ae391f5',extremes,Drought,#edc291,edo,Dryness Montserrat,2025-01-26T15:41:00+00:00,Montserrat,0.6524856636013805,0,2,en,CAR,North-America
-'d3d3fb7f10',extremes,Drought,#edc291,edo,Dryness Aruba,2025-01-26T13:47:00+00:00,Aruba,0.6524844696594717,0,2,en,CAR,North-America
 '9a2564abb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Turukhanskiy m.r.,2025-02-08T02:59:00+00:00,Russia,0.6524806353048461,0,2,en,ESB,Europe
 'a02a6c3459',extremes,Snow&Ice,#d60d2b,wmo,Snow coast and fjords in Finnmark,2025-03-09T02:50:00+00:00,Norway,0.6524710977680778,0,2,en,NEU,Europe
 'c245947051',extremes,Storm,#b3b2b1,wmo,Storm Surge Box Butte,2025-03-07T12:05:00+00:00,United States,0.6524429776207841,0,2,en,CNA,North-America
@@ -3549,7 +3464,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '87c22da874',extremes,Storm,#b3b2b1,wmo,Storm Surge Monterey Bay,2025-02-03T03:01:00+00:00,United States,0.652315637117032,0,2,en,CNA,North-America
 'a567066d27',extremes,Precipitation,#d60d2b,wmo,Precipitation Vega del Segura,2025-03-06T03:09:00+00:00,Spain,0.6522514754239199,0,2,en,MED,Europe
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,Rain Tanzania,2025-03-11T03:10:00+00:00,Tanzania,0.6522308880054176,1,1,en,SEAF,Africa
-'af6244e0ab',extremes,Drought,#edc291,edo,Dryness Nicaragua,2025-01-26T13:47:00+00:00,Nicaragua,0.652175552523129,0,2,en,SCA,North-America
 'e4344b4520',extremes,Fog,#d60d2b,wmo,Fog Lubelskie Province Łęczyński County,2025-02-25T03:07:00+00:00,Poland,0.6521599680485793,0,2,en,WCE,Europe
 '9fe7527bd8',extremes,Snow&Ice,#d60d2b,wmo,Ice Central Yampa River Basin,2025-03-18T03:12:00+00:00,United States,0.6521516095395059,0,2,en,CNA,North-America
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2025-01-26T03:01:00+00:00,United Kingdom,0.6521305426307044,1,3,en,NEU,Europe
@@ -3614,7 +3528,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '51030ebe61',extremes,Snow&Ice,#d60d2b,wmo,Freezing Małopolskie Province Olkuski County,2025-02-07T03:03:00+00:00,Poland,0.6510472966122216,0,2,en,WCE,Europe
 '6a851b2a38',extremes,Precipitation,#d60d2b,wmo,Downpour Zimbabwe,2025-02-09T03:04:00+00:00,Zimbabwe,0.6510370535151282,1,1,en,ESAF,Africa
 '5e80e3965c',extremes,Storm,#b3b2b1,wmo,Storm Surge Tuva Republic,2025-02-06T03:02:00+00:00,Russia,0.6509748413995962,0,2,en,ESB,Europe
-'1c5d59d5b4',extremes,Storm,#b3b2b1,wmo,Storm Hartberg Fürstenfeld,2025-01-26T13:47:00+00:00,Austria,0.6509729635249517,0,2,en,WCE,Europe
 '957d4b577c',extremes,Flood,#030ba1,wmo,Flood Richland Dawson Prairie Wibaux,2025-02-27T03:07:00+00:00,United States,0.6509675069327108,0,2,en,CNA,North-America
 'bc85c67872',extremes,Storm,#b3b2b1,wmo,Storm Kuwait,2025-02-06T03:02:00+00:00,Kuwait,0.650955711870373,1,3,en,ARP,Asia
 '377be24f16',extremes,Snow&Ice,#d60d2b,wmo,Freezing Tromsø,2025-02-23T03:07:00+00:00,Norway,0.6509332746387116,0,2,en,NEU,Europe
@@ -3654,7 +3567,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '21500f47db',extremes,Snow&Ice,#d60d2b,wmo,Ice Śląskie Province Bielski County,2025-02-19T03:03:00+00:00,Poland,0.6505098212585831,0,2,en,WCE,Europe
 'dd18e408aa',extremes,Flood,#030ba1,wmo,Flashflood Whitley KY,2025-02-21T03:04:00+00:00,United States,0.6504978589765997,0,2,en,CNA,North-America
 '566ad039a7',extremes,Fog,#d60d2b,wmo,Fog Lučenec,2025-02-28T03:07:00+00:00,Slovakia,0.650488562963724,0,2,en,WCE,Europe
-'63663feccd',extremes,Drought,#edc291,edo,Lack of Rain Moldova,2025-01-26T13:47:00+00:00,Moldova,0.6504847857418677,0,2,en,WCE,Europe
 '7e368143e7',extremes,Storm,#b3b2b1,wmo,Storm Banat,2025-02-07T03:03:00+00:00,Serbia,0.6504783306310299,0,2,en,MED,Europe
 'b093c2aaee',extremes,Snow&Ice,#d60d2b,wmo,Snow Sumadija,2025-02-12T03:02:00+00:00,Serbia,0.6504475527350658,0,2,en,MED,Europe
 '3298e986c8',extremes,Snow&Ice,#d60d2b,wmo,Frost Republic of Tatarstan,2025-01-28T02:59:00+00:00,Russia,0.6504439118127712,0,2,en,ESB,Europe
@@ -3676,7 +3588,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '37e56f1a3d',extremes,Storm,#b3b2b1,wmo,Storm Southern Lynn Canal,2025-02-10T03:03:00+00:00,United States,0.6502466393889789,0,2,en,CNA,North-America
 '862cad798d',extremes,Fog,#d60d2b,wmo,Fog Tvrdošín,2025-02-28T03:07:00+00:00,Slovakia,0.6502368469694725,0,2,en,WCE,Europe
 'c0e60b23ec',extremes,Snow&Ice,#d60d2b,wmo,Snow Northwestern San Juan Mountains,2025-01-29T02:58:00+00:00,United States,0.6502205271483803,0,2,en,CNA,North-America
-'4c41cf44c9',extremes,Snow&Ice,#d60d2b,wmo,Ice Sheep Range,2025-01-26T13:47:00+00:00,United States,0.6502185807495062,0,2,en,CNA,North-America
 '6cd0d362c5',extremes,Snow&Ice,#d60d2b,wmo,Snow Slovenia,2025-02-15T03:01:00+00:00,Slovenia,0.6502185794007974,1,1,en,WCE,Europe
 'ff225c4f6b',extremes,Storm,#b3b2b1,wmo,Storm Baldwin Peninsula,2025-01-30T02:57:00+00:00,United States,0.650200108204687,0,2,en,CNA,North-America
 'fdb0ae744a',extremes,Snow&Ice,#d60d2b,wmo,Ice Western Arctic Coast,2025-02-21T03:04:00+00:00,United States,0.6501830720968464,0,2,en,CNA,North-America
