@@ -8,10 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4fb3d94e75',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Jude,2025-03-14T03:08:00+00:00,,0.7767535012874635,1,2,en,MDG,Africa
 'a58d27ff82',extremes,Tropical Cyclone,#4f4f4f,relief,Tropical Cyclone Reunion,2025-03-15T03:06:00+00:00,Reunion,0.7731250545991674,1,2,en,SIO,Africa
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg Antarctica,2025-03-07T03:09:00+00:00,,0.7664203514351052,1,3,en,,
-'27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2025-04-14T03:29:00+00:00,Solomon Islands,0.7566199199792883,0,2,en,EPO,Oceania
-'27e5411070',extremes,Precipitation,#d60d2b,wmo,Downpour Solomon Islands,2025-04-14T03:29:00+00:00,Solomon Islands,0.7549254464326306,0,2,en,EPO,Oceania
-'dcfcc9d323',extremes,Storm,#b3b2b1,wmo,Storm Surge Auckland and Great Barrier Island,2025-04-14T03:29:00+00:00,New Zealand,0.7542399596859184,0,2,en,NZ,Oceania
-'a77fe28103',extremes,Precipitation,#d60d2b,wmo,Downpour Auckland and Great Barrier Island,2025-04-14T03:29:00+00:00,New Zealand,0.7542274957259547,0,2,en,NZ,Oceania
 '256f4688ba',extremes,Tsunami,#690191,usgs,Tsunami Tonga,2025-03-31T03:27:00+00:00,Tonga,0.7540047232654834,1,3,en,SPO,Pacific Ocean
 'b4680f45bf',extremes,Snow&Ice,#d60d2b,wmo,Frost Belarus,2025-03-15T03:07:00+00:00,Belarus,0.7539157095927118,0,2,en,WCE,Europe
 'aedeabde24',extremes,Precipitation,#d60d2b,wmo,Rain Costa ecuatoriana sur,2025-04-14T03:29:00+00:00,Ecuador,0.7536004354934245,0,2,en,NWS,South-America
@@ -4236,6 +4232,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a8ea93e65',extremes,Storm,#b3b2b1,wmo,Storm Western Chelan County,2025-03-20T03:10:00+00:00,United States,0.6417234216916006,0,2,en,CNA,North-America
 '510ed94b67',extremes,Storm,#b3b2b1,wmo,Storm Podkarpackie Province Leski County,2025-04-06T03:24:00+00:00,Poland,0.6417159466411947,0,2,en,WCE,Europe
 '946630d1a6',extremes,Drought,#edc291,edo,Lack of Rain Armenia,2025-03-13T03:11:00+00:00,Armenia,0.6416898974556698,0,2,en,WCA,Asia
+'27e5411070',extremes,Precipitation,#d60d2b,wmo,Downpour Solomon Islands,2025-04-14T03:29:00+00:00,Solomon Islands,0.641686629467736,1,1,en,EPO,Oceania
 'd3a17f14fa',extremes,Flood,#030ba1,relief,Flood Madagascar,2025-03-14T03:08:00+00:00,Madagascar,0.641685326227113,1,2,en,MDG,Africa
 '8e26b5df34',extremes,Flood,#030ba1,wmo,Flooding Smith TX Wood TX,2025-03-12T03:09:00+00:00,United States,0.6416823973178915,1,1,en,CNA,North-America
 '09c422b652',extremes,Snow&Ice,#d60d2b,wmo,Frost Ibérica riojana,2025-03-13T03:11:00+00:00,Spain,0.641669419825312,0,2,en,MED,Europe
@@ -4311,8 +4308,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0347e33442',extremes,Snow&Ice,#d60d2b,wmo,Freezing Pardubický kraj Králíky Žamberk,2025-03-14T03:09:00+00:00,Czechia,0.6411345839402798,1,1,en,WCE,Europe
 '00b6307be8',extremes,Heat Wave,#c40202,wmo,Heat Wave Porbandar district of Gujarat,2025-03-31T03:27:00+00:00,India,0.6411297672058492,1,1,en,SAS,Asia
 '2d0dd72fc4',extremes,Storm,#b3b2b1,wmo,Storm EL OUED,2025-03-15T03:07:00+00:00,Algeria,0.6411215738254333,1,1,en,SAH,Africa
+'dcfcc9d323',extremes,Storm,#b3b2b1,wmo,Storm Surge Auckland and Great Barrier Island,2025-04-14T03:29:00+00:00,New Zealand,0.6411039657330306,1,1,en,NZ,Oceania
 '0534a8b2b7',extremes,Storm,#b3b2b1,wmo,Storm Surge Epirus,2025-03-30T03:27:00+00:00,Greece,0.6410997711726915,0,2,en,MED,Europe
 '6eb04608c3',extremes,Drought,#edc291,edo,Drought Maldives,2025-03-17T03:13:00+00:00,Maldives,0.641097361640418,0,2,en,EIO,Indian Ocean
+'a77fe28103',extremes,Precipitation,#d60d2b,wmo,Downpour Auckland and Great Barrier Island,2025-04-14T03:29:00+00:00,New Zealand,0.6410933713670615,1,1,en,NZ,Oceania
 'ddce611b1d',extremes,Drought,#edc291,edo,Drought Guadeloupe,2025-03-13T03:11:00+00:00,Guadeloupe,0.641083430060635,0,2,en,CAR,North-America
 'f6f4af36c6',extremes,Wildfire,#d60d2b,wmo,Wildfire Heshan City,2025-03-22T03:11:00+00:00,China,0.6410827512842718,0,2,en,EAS,Asia
 '661239a2ec',extremes,Drought,#edc291,edo,Dryness Tuvalu,2025-03-25T03:13:00+00:00,Tuvalu,0.6410704650922378,0,2,en,EPO,Pacific Ocean
