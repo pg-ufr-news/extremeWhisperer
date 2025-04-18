@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'aec30bde6b',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Errol,2025-04-17T03:25:00+00:00,,0.8244364774039682,1,2,en,NAU,Oceania
+'f5a74f7219',extremes,Wildfire,#d60d2b,effis,Bushfire Arcos de Valdevez Portugal,2025-04-01T03:32:00+00:00,Portugal,0.799567083786166,0,2,en,MED,Europe
 '4ded068ac2',extremes,Tsunami,#690191,usgs,Tsunami Kimbe,2025-04-06T03:24:00+00:00,Papua New Guinea,0.7978823377016521,1,2,en,EPO,Pacific Ocean
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,Hail Seychelles,2025-03-26T03:12:00+00:00,Seychelles,0.7958538321941611,1,2,en,EIO,Africa
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,Storm Trinidad and Tobago,2025-04-09T03:15:00+00:00,Trinidad and Tobago,0.7936218059959824,1,2,en,NSA,North-America
@@ -8,7 +9,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a664c64a1',extremes,Landslide,#572c03,relief,Landslide Ecuador,2025-03-26T03:12:00+00:00,Ecuador,0.7849906679157423,1,2,en,NWS,South-America
 '4fb3d94e75',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Jude,2025-03-14T03:08:00+00:00,,0.7767535012874635,1,2,en,MDG,Africa
 'a58d27ff82',extremes,Tropical Cyclone,#4f4f4f,relief,Tropical Cyclone Reunion,2025-03-15T03:06:00+00:00,Reunion,0.7731250545991674,1,2,en,SIO,Africa
+'221e658bfd',extremes,Drought,#edc291,edo,Dryness Luxembourg,2025-04-15T03:28:00+00:00,Luxembourg,0.7687844824520809,0,2,en,WCE,Europe
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg Antarctica,2025-03-07T03:09:00+00:00,,0.7664203514351052,1,3,en,,
+'6e3d09effe',extremes,Snow&Ice,#d60d2b,wmo,Freezing Resolute,2025-04-18T03:15:00+00:00,Canada,0.7602677671108674,0,2,en,NEN,North-America
+'3da20aeef8',extremes,Precipitation,#d60d2b,wmo,Downpour Tasman northwest of Motueka,2025-04-18T03:15:00+00:00,New Zealand,0.7584768615958117,0,2,en,NZ,Oceania
+'468cd6b554',extremes,Storm,#b3b2b1,wmo,Storm Surge Westfjords,2025-03-31T03:27:00+00:00,Iceland,0.7575015989894878,0,2,en,GIC,Europe
 '676a85a2fa',extremes,Drought,#edc291,edo,Dryness Sao Tome and Principe,2025-02-28T03:07:00+00:00,Sao Tome and Principe,0.7564940682778556,0,2,en,WAF,Africa
 '8d5bbc659e',extremes,Flood,#030ba1,wmo,Flood Malawi,2025-03-15T03:07:00+00:00,Malawi,0.7561877273287131,0,2,en,ESAF,Africa
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,Storm Chile,2025-04-18T03:15:00+00:00,Chile,0.7557319015246353,0,2,en,SWS,South-America
@@ -213,6 +218,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9da491ef0b',extremes,Tsunami,#690191,usgs,Tsunami Pangai,2025-04-02T03:14:00+00:00,Tonga,0.7495546203150043,0,2,en,SPO,Pacific Ocean
 '1f00251fcb',extremes,Flood,#030ba1,wmo,Flood Queensland Mary River,2025-03-07T03:10:00+00:00,Australia,0.7495538462212841,0,2,en,CAU,Oceania
 'd358980b80',extremes,Flood,#030ba1,wmo,Flooding Ljubljanica,2025-03-14T03:09:00+00:00,Slovenia,0.7495303229224045,0,2,en,WCE,Europe
+'f727ea0509',extremes,Storm,#b3b2b1,wmo,Storm Surge Kotzebue Sound greater than 10 NM,2025-04-03T03:14:00+00:00,United States,0.7495165732692043,0,2,en,CNA,North-America
 'e77a1f72bb',extremes,Fog,#d60d2b,wmo,Fog Zeeland,2025-03-28T03:15:00+00:00,Netherlands,0.7495099855570992,0,2,en,NEU,Europe
 'bf72d6a294',extremes,Cold Wave,#a7e9fa,wmo,Freezing Jingyuan,2025-03-15T03:07:00+00:00,China,0.7494978556388029,0,2,en,EAS,Asia
 '1095faa178',extremes,Fog,#d60d2b,wmo,Fog South of Kuril islands,2025-04-10T03:23:00+00:00,Russia,0.7494883110869679,0,2,en,ESB,Europe
@@ -391,6 +397,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a379b2774c',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Kangiqsujuaq Raglan Lake,2025-03-08T02:46:00+00:00,Canada,0.7466736668872126,0,2,en,NEN,North-America
 '2fb48b83de',extremes,Flood,#030ba1,wmo,Flooding Kalamazoo MI,2025-04-05T03:12:00+00:00,United States,0.7466704765260119,0,2,en,CNA,North-America
 '0ce9a654c8',extremes,Snow&Ice,#d60d2b,wmo,Frost Southeast Iceland,2025-03-02T03:09:00+00:00,Iceland,0.7466527289932292,0,2,en,GIC,Europe
+'b161504c38',extremes,Flood,#030ba1,wmo,Flashflood Queensland Condamine Rivers,2025-03-30T03:27:00+00:00,Australia,0.7466098174556223,0,2,en,CAU,Oceania
 '218bb45875',extremes,Flood,#030ba1,wmo,Flooding Le Flore OK,2025-04-05T03:12:00+00:00,United States,0.7465793968428389,0,2,en,CNA,North-America
 'bfdd2b1e9f',extremes,Precipitation,#d60d2b,wmo,Rain Russia,2025-03-10T02:49:00+00:00,Russia,0.7465490077131406,0,2,en,ESB,Europe
 '0994b19b20',extremes,Snow&Ice,#d60d2b,wmo,Ice Finland,2025-04-02T03:15:00+00:00,Finland,0.7465445312651167,0,2,en,NEU,Europe
