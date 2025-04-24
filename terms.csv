@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'aec30bde6b',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Errol,2025-04-17T03:25:00+00:00,,0.8244364774039682,1,2,en,NAU,Oceania
+'eba0dae408',extremes,Iceberg,#d60d2b,eonet,Iceberg B15AB,2025-04-06T03:24:00+00:00,,0.7981274991518935,0,2,en,EAN,
 '4ded068ac2',extremes,Tsunami,#690191,usgs,Tsunami Kimbe,2025-04-06T03:24:00+00:00,Papua New Guinea,0.7978823377016521,1,2,en,EPO,Pacific Ocean
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,Hail Seychelles,2025-03-26T03:12:00+00:00,Seychelles,0.7958538321941611,1,2,en,EIO,Africa
 '10752e4a37',extremes,Drought,#edc291,edo,Dry Spell Luxembourg,2025-03-19T03:12:00+00:00,Luxembourg,0.7947555035455176,1,2,en,WCE,Europe
@@ -10,9 +11,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4fb3d94e75',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Jude,2025-03-14T03:08:00+00:00,,0.7767535012874635,1,2,en,MDG,Africa
 'a58d27ff82',extremes,Tropical Cyclone,#4f4f4f,relief,Tropical Cyclone Reunion,2025-03-15T03:06:00+00:00,Reunion,0.7731250545991674,1,2,en,SIO,Africa
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg Antarctica,2025-03-07T03:09:00+00:00,,0.7664203514351052,1,3,en,,
+'0622f659dd',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Chile,2025-04-24T03:28:00+00:00,Chile,0.7568192266099922,0,2,en,SWS,South-America
+'be647fc7a4',extremes,Storm,#b3b2b1,wmo,Storm Surge Ecuador,2025-04-23T03:26:00+00:00,Ecuador,0.756561943592403,0,2,en,NWS,South-America
+'ed5f212eae',extremes,Precipitation,#d60d2b,wmo,Rain Togo,2025-04-24T03:28:00+00:00,Togo,0.7545797282904211,0,2,en,WAF,Africa
 '84eb3ca3bf',extremes,Fog,#d60d2b,wmo,Fog Astrakhan Region,2025-04-11T03:23:00+00:00,Russia,0.7545656910556097,0,2,en,ESB,Europe
 '1260f3a52f',extremes,Heat Wave,#c40202,wmo,Heat Wave Moscow,2025-04-21T03:30:00+00:00,Russia,0.7543772993555216,0,2,en,ESB,Europe
 '256f4688ba',extremes,Tsunami,#690191,usgs,Tsunami Tonga,2025-03-31T03:27:00+00:00,Tonga,0.7540047232654834,1,3,en,SPO,Pacific Ocean
+'3421a57149',extremes,Storm,#b3b2b1,wmo,Storm Ecuador,2025-04-20T03:27:00+00:00,Ecuador,0.7539441931615769,0,2,en,NWS,South-America
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,Ice Iceland,2025-04-16T03:27:00+00:00,Iceland,0.753905881387998,0,2,en,GIC,Europe
 '520d37d7b0',extremes,Fog,#d60d2b,wmo,Fog Belarus,2025-04-14T03:29:00+00:00,Belarus,0.7537288286239551,0,2,en,WCE,Europe
 'dadd7aa1d0',extremes,Heat Wave,#c40202,wmo,Heat Wave Tver Region,2025-04-21T03:30:00+00:00,Russia,0.7529017235116485,0,2,en,ESB,Europe
@@ -2787,6 +2792,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '37e56f1a3d',extremes,Storm,#b3b2b1,wmo,Storm Southern Lynn Canal,2025-03-27T03:13:00+00:00,United States,0.665103064871743,0,2,en,CNA,North-America
 'f3540d61aa',extremes,Wildfire,#d60d2b,effis,Wild Fire Locarn Côtes d'Armor,2025-04-15T03:28:00+00:00,France,0.6650900005035113,0,2,en,WCE,Europe
 'a015e9081f',extremes,Drought,#edc291,edo,Dryness United Kingdom,2025-03-21T03:12:00+00:00,United Kingdom,0.6650523568123823,0,2,en,NEU,Europe
+'174e70acae',extremes,Thunderstorm,#53785a,wmo,Severe Weather Spain,2025-04-22T03:26:00+00:00,Spain,0.6650249316257144,0,2,en,MED,Europe
 '2b1687fc3e',extremes,Storm,#b3b2b1,wmo,Storm Surge Ružomberok,2025-03-09T02:50:00+00:00,Slovakia,0.6650185961650712,0,2,en,WCE,Europe
 'dfb65e5159',extremes,Snow&Ice,#d60d2b,wmo,Freezing Finnmarkskysten,2025-04-07T03:25:00+00:00,Norway,0.6650008068979678,0,2,en,NEU,Europe
 '61bcd02de5',extremes,Drought,#edc291,edo,Drought Mozambique,2025-03-07T12:05:00+00:00,Mozambique,0.6649861743678306,0,2,en,ESAF,Africa
@@ -9494,6 +9500,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4cd9ea1549',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Western Serbia,2025-04-22T03:26:00+00:00,Serbia,0.5253199559287598,0,2,en,MED,Europe
 'c2e588d8fc',extremes,Precipitation,#d60d2b,acwe,precipitation Queensland,2025-03-09T02:50:00+00:00,Australia,0.5252802341325267,0,2,en,CAU,Oceania
 'e4489ea984',extremes,Cold Wave,#a7e9fa,wmo,Freezing Huixian,2025-04-12T03:13:00+00:00,China,0.5252741041628519,0,2,en,EAS,Asia
+'7052e30906',extremes,Storm,#b3b2b1,wmo,Storm Surge Zhongning County,2025-04-15T03:28:00+00:00,China,0.5252689960132287,0,2,en,EAS,Asia
 '97d0427ddb',extremes,Precipitation,#d60d2b,wmo,Precipitation Smolensk Region,2025-03-19T03:11:00+00:00,Russia,0.525190128196728,0,2,en,ESB,Europe
 '31d803b03b',extremes,Cold Wave,#a7e9fa,wmo,Freezing Guannan County,2025-03-15T03:07:00+00:00,China,0.5251611077128092,0,2,en,EAS,Asia
 '8196c21ff8',extremes,Cold Wave,#a7e9fa,wmo,Freezing Funing District,2025-03-27T03:13:00+00:00,China,0.5251588153691554,0,2,en,EAS,Asia
@@ -9867,6 +9874,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '63fd95ba54',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Jingning She Autonomous County,2025-03-18T03:12:00+00:00,China,0.513215252673064,0,2,en,EAS,Asia
 '8743cb73c5',extremes,Cold Wave,#a7e9fa,wmo,Freezing Gulang County,2025-04-11T03:23:00+00:00,China,0.5131707147054925,0,2,en,EAS,Asia
 'dde3fc89a2',extremes,Cold Wave,#a7e9fa,wmo,Freezing Huanglong County,2025-04-11T03:23:00+00:00,China,0.5131670219941408,0,2,en,EAS,Asia
+'5375dc566e',extremes,Storm,#b3b2b1,wmo,Storm Surge Buerjin County,2025-04-10T03:23:00+00:00,China,0.5131264257869165,0,2,en,EAS,Asia
 'd2186c908d',extremes,Snow&Ice,#d60d2b,wmo,Frost Linwei,2025-03-29T03:11:00+00:00,China,0.512978735229925,0,2,en,EAS,Asia
 '3caee41f70',extremes,Snow&Ice,#d60d2b,wmo,Ice Baoxing County,2025-03-17T03:13:00+00:00,China,0.5129226417836349,0,2,en,EAS,Asia
 'ff76643ad4',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Jiangzhou,2025-03-13T03:11:00+00:00,China,0.5128916861975881,0,2,en,EAS,Asia
@@ -10409,6 +10417,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3401709dd8',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Zogang County,2025-03-19T03:11:00+00:00,China,0.4983783159255943,0,2,en,EAS,Asia
 '05184dc9e4',extremes,Storm,#b3b2b1,wmo,Storm Kangbao County,2025-03-19T03:11:00+00:00,China,0.4983641561841578,0,2,en,EAS,Asia
 '642ee946f5',extremes,Snow&Ice,#d60d2b,wmo,Frost Qiaojia County,2025-03-17T03:13:00+00:00,China,0.4983591894650129,0,2,en,EAS,Asia
+'c47fff3031',extremes,Storm,#b3b2b1,wmo,Storm Surge Tori County,2025-04-09T03:15:00+00:00,China,0.4983349947198173,0,2,en,EAS,Asia
 '40520e8e6d',extremes,Snow&Ice,#d60d2b,wmo,Freezing Eight Suxian,2025-03-17T03:13:00+00:00,China,0.4982618264629152,0,2,en,EAS,Asia
 '74deb54168',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Chengcheng County,2025-03-29T03:11:00+00:00,China,0.4982308295582235,0,2,en,EAS,Asia
 '03bae306ac',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Monthey Val d'Illiez,2025-04-16T03:27:00+00:00,Switzerland,0.4982305382346418,0,2,en,WCE,Europe
@@ -11493,6 +11502,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4b4e80bc5f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm shayang county,2025-04-11T03:23:00+00:00,China,0.4826656955544214,0,2,en,EAS,Asia
 '1d82bdca11',extremes,Snow&Ice,#d60d2b,wmo,Snow Yingze District,2025-03-27T03:13:00+00:00,China,0.4826581033041972,0,2,en,EAS,Asia
 'f990128ab0',extremes,Snow&Ice,#d60d2b,wmo,Freezing Yongshou County,2025-03-30T03:27:00+00:00,China,0.482655516527135,0,2,en,EAS,Asia
+'96746af95b',extremes,Storm,#b3b2b1,wmo,Storm Kuche County,2025-04-17T03:26:00+00:00,China,0.4826431533519525,0,2,en,EAS,Asia
 '7c8e8c16bc',extremes,Thunderstorm,#53785a,wmo,Severe Weather Tongjiang County,2025-04-19T03:12:00+00:00,China,0.4826404880567284,0,2,en,EAS,Asia
 'ac52b41ea6',extremes,Fog,#d60d2b,wmo,Fog Shangri La City,2025-03-14T03:09:00+00:00,China,0.4826341323189882,0,2,en,EAS,Asia
 'a18dce4c3b',extremes,Snow&Ice,#d60d2b,wmo,Freezing Ninglang Yi Autonomous County,2025-03-20T03:10:00+00:00,China,0.4826318294942215,0,2,en,EAS,Asia
@@ -11850,6 +11860,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0bba4ca634',extremes,Wildfire,#d60d2b,eonet,Wildfire in Thailand 1023660,2025-04-06T03:24:00+00:00,Thailand,0.4789797402825635,0,2,en,SEA,Asia
 'ce6f359f39',extremes,Storm,#b3b2b1,wmo,Storm Gaoling District,2025-03-14T03:09:00+00:00,China,0.4789748641310299,0,2,en,EAS,Asia
 'fc178d3577',extremes,Storm,#b3b2b1,wmo,Storm DuShan,2025-03-28T03:15:00+00:00,China,0.4789726079495424,0,2,en,EAS,Asia
+'324b811263',extremes,Snow&Ice,#d60d2b,wmo,Ice Zhidoi County,2025-04-11T03:23:00+00:00,China,0.4789692912015283,0,2,en,EAS,Asia
 'aed8f5431b',extremes,Storm,#b3b2b1,wmo,Storm Tonghua County,2025-03-29T03:11:00+00:00,China,0.4789640396929679,0,2,en,EAS,Asia
 '634a3adf31',extremes,Storm,#b3b2b1,wmo,Storm Surge Huantai County,2025-04-04T03:14:00+00:00,China,0.4789495481181242,0,2,en,EAS,Asia
 '02e175dac1',extremes,Storm,#b3b2b1,wmo,Storm Surge Zhuozi County,2025-03-20T03:10:00+00:00,China,0.4789401357615506,0,2,en,EAS,Asia
@@ -14307,6 +14318,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2dd876123',extremes,Storm,#b3b2b1,wmo,Storm Surge qidong,2025-04-12T03:13:00+00:00,China,0.4526577377222737,0,2,en,EAS,Asia
 '0dcb2e1623',extremes,Thunderstorm,#53785a,wmo,Severe Weather Ceheng County,2025-04-12T03:13:00+00:00,China,0.4526538562060743,0,2,en,EAS,Asia
 '5cc3b6ead7',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Changji City,2025-04-16T03:27:00+00:00,China,0.4526236236015573,0,2,en,EAS,Asia
+'3596d9c489',extremes,Snow&Ice,#d60d2b,wmo,Frost Shilou County,2025-04-05T03:12:00+00:00,China,0.4526157799674796,0,2,en,EAS,Asia
 '556195d387',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Daye,2025-04-21T03:30:00+00:00,China,0.4525867939646062,0,2,en,EAS,Asia
 'b29eda15f3',extremes,Storm,#b3b2b1,wmo,Storm Liuzhou City,2025-03-16T03:13:00+00:00,China,0.4525679544944122,0,2,en,EAS,Asia
 '22386dc020',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Shanyin County,2025-04-11T03:23:00+00:00,China,0.4525458348124525,0,2,en,EAS,Asia
