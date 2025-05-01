@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'aec30bde6b',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Errol,2025-04-17T03:25:00+00:00,,0.8244364774039682,1,2,en,NAU,Oceania
 '4ded068ac2',extremes,Tsunami,#690191,usgs,Tsunami Kimbe,2025-04-06T03:24:00+00:00,Papua New Guinea,0.7978823377016521,1,2,en,EPO,Pacific Ocean
-'ea7fff69dc',extremes,Iceberg,#d60d2b,eonet,Iceberg A23C,2025-04-29T03:27:00+00:00,,0.79755366043518,0,2,en,SOO,Antarctica
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,Hail Seychelles,2025-03-26T03:12:00+00:00,Seychelles,0.7958538321941611,1,2,en,EIO,Africa
 '10752e4a37',extremes,Drought,#edc291,edo,Dry Spell Luxembourg,2025-03-19T03:12:00+00:00,Luxembourg,0.7947555035455176,1,2,en,WCE,Europe
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,Storm Trinidad and Tobago,2025-04-09T03:15:00+00:00,Trinidad and Tobago,0.7936218059959824,1,2,en,NSA,North-America
@@ -9,10 +8,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42add64e8c',extremes,Tsunami,#690191,usgs,Tsunami Reykjanes Ridge,2025-04-04T03:13:00+00:00,,0.7912251702518218,1,2,en,NAO,Atlantic Ocean
 '8a664c64a1',extremes,Landslide,#572c03,relief,Landslide Ecuador,2025-03-26T03:12:00+00:00,Ecuador,0.7849906679157423,1,2,en,NWS,South-America
 '4fb3d94e75',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Jude,2025-03-14T03:08:00+00:00,,0.7767535012874635,1,2,en,MDG,Africa
-'e6200fd658',extremes,Drought,#edc291,edo,Drought Angola,2025-04-23T03:26:00+00:00,Angola,0.7765560278973755,0,2,en,WSAF,Africa
 'a58d27ff82',extremes,Tropical Cyclone,#4f4f4f,relief,Tropical Cyclone Reunion,2025-03-15T03:06:00+00:00,Reunion,0.7731250545991674,1,2,en,SIO,Africa
-'1ff36d7a46',extremes,Drought,#edc291,edo,Dryness Belgium,2025-04-15T03:28:00+00:00,Belgium,0.7700509270266321,0,2,en,WCE,Europe
-'5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Tanzania,2025-04-13T04:19:00+00:00,Tanzania,0.7666322793874583,0,2,en,SEAF,Africa
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,iceberg Antarctica,2025-03-07T03:09:00+00:00,,0.7664203514351052,1,3,en,,
 'a5c68ddd24',extremes,Snow&Ice,#d60d2b,wmo,Frost Lewis Pass SH7,2025-05-01T03:35:00+00:00,New Zealand,0.7552918012661387,0,2,en,NZ,Oceania
 '256f4688ba',extremes,Tsunami,#690191,usgs,Tsunami Tonga,2025-03-31T03:27:00+00:00,Tonga,0.7540047232654834,1,3,en,SPO,Pacific Ocean
@@ -3132,6 +3128,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5300a3db3e',extremes,Snow&Ice,#d60d2b,wmo,Ice Lower Yampa River Basin,2025-03-18T03:12:00+00:00,United States,0.6600917867557035,0,2,en,CNA,North-America
 '6f584e2cf3',extremes,Cold Wave,#a7e9fa,wmo,Freezing Qiaodong District,2025-03-15T03:07:00+00:00,China,0.6600782301404958,0,2,en,EAS,Asia
 'f8f25ffd16',extremes,Thunderstorm,#53785a,eswd,Lightning Russia,2025-04-09T03:15:00+00:00,Russia,0.6600738425577691,0,2,en,EEU,Europe
+'e6200fd658',extremes,Drought,#edc291,edo,Drought Angola,2025-04-23T03:26:00+00:00,Angola,0.6600726537127692,1,1,en,WSAF,Africa
 'd1c982777a',extremes,Snow&Ice,#d60d2b,wmo,Ice Kirov Region,2025-04-11T03:23:00+00:00,Russia,0.6600713483245475,0,2,en,ESB,Europe
 'fb0bb1e568',extremes,Landslide,#572c03,relief,Land Slide Ecuador,2025-03-26T03:12:00+00:00,Ecuador,0.6599742593009061,1,1,en,NWS,South-America
 '39014be2d3',extremes,Snow&Ice,#d60d2b,wmo,Frost Manistee Wexford Missaukee,2025-03-16T03:13:00+00:00,United States,0.6599116732552407,0,2,en,CNA,North-America
@@ -3399,6 +3396,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '235a86bc55',extremes,Fog,#d60d2b,wmo,Fog Gao An City,2025-04-28T03:30:00+00:00,China,0.6546407205611223,0,2,en,EAS,Asia
 '7517434da4',extremes,Drought,#edc291,edo,Drought Reunion,2025-03-16T03:14:00+00:00,Reunion,0.6545622898958451,0,2,en,SIO,Africa
 '0200c9ff67',extremes,Snow&Ice,#d60d2b,wmo,Freezing Traverse Big Stone,2025-04-01T03:32:00+00:00,United States,0.6545484825168136,0,2,en,CNA,North-America
+'1ff36d7a46',extremes,Drought,#edc291,edo,Dryness Belgium,2025-04-15T03:28:00+00:00,Belgium,0.6545433179726373,1,1,en,WCE,Europe
 '4eb192dce0',extremes,Snow&Ice,#d60d2b,wmo,Frost Western Arctic Plains,2025-03-30T03:27:00+00:00,United States,0.6545431258452044,0,2,en,CNA,North-America
 'f261d3decf',extremes,Storm,#b3b2b1,wmo,Storm Surge West Slope Northern Sierra Nevada,2025-03-13T03:11:00+00:00,United States,0.6545180598850575,0,2,en,CNA,North-America
 'dfbb2a2a1d',extremes,Drought,#edc291,edo,Lack of Rain Uruguay,2025-03-18T03:12:00+00:00,Uruguay,0.6544980265654066,0,2,en,SES,South-America
@@ -3558,6 +3556,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3096af361',extremes,Storm,#b3b2b1,wmo,Storm Tamsweg,2025-03-31T03:27:00+00:00,Austria,0.6516998845970376,0,2,en,WCE,Europe
 'e57e470a20',extremes,Snow&Ice,#d60d2b,wmo,Ice Marshall Nemaha Clay Riley,2025-03-19T03:11:00+00:00,United States,0.6516944530165234,0,2,en,CNA,North-America
 'a8c2fe0070',extremes,Snow&Ice,#d60d2b,wmo,Frost Westfjords,2025-03-22T03:11:00+00:00,Iceland,0.6516413475817806,1,1,en,GIC,Europe
+'5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Tanzania,2025-04-13T04:19:00+00:00,Tanzania,0.6516374374793396,1,1,en,SEAF,Africa
 '245567e7d1',extremes,Snow&Ice,#d60d2b,wmo,Snow Svidník,2025-04-29T03:28:00+00:00,Slovakia,0.651629156828943,0,2,en,WCE,Europe
 'bede88dc5d',extremes,Drought,#edc291,edo,Dryness American Samoa,2025-03-18T03:12:00+00:00,American Samoa,0.6516276216156613,0,2,en,SPO,Pacific Ocean
 'fd7b801911',extremes,Flood,#030ba1,wmo,Flood Keweenaw,2025-04-15T03:28:00+00:00,United States,0.6515969840795389,0,2,en,CNA,North-America
