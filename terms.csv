@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'7d78c6cb71',extremes,Storm,#b3b2b1,wmo,Storm Green Bay White Bay,2025-04-20T03:27:00+00:00,Canada,0.7459033555092336,0,2,en,NEN,North-America
 '0bfa049b47',extremes,Cold Wave,#a7e9fa,wmo,Freezing Wien Döbling,2025-04-06T03:24:00+00:00,Austria,0.7458828956928474,0,2,en,WCE,Europe
 '812a41cb71',extremes,Fog,#d60d2b,wmo,Fog Slovakia,2025-04-19T03:12:00+00:00,Slovakia,0.7458063950765715,0,2,en,WCE,Europe
 'f354979867',extremes,Wildfire,#d60d2b,wmo,Wildfire Orenburg Region,2025-04-21T03:30:00+00:00,Russia,0.7457831211226885,0,2,en,ESB,Europe
@@ -1275,6 +1274,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92035e2c20',extremes,Drought,#edc291,edo,Dry Spell Madagascar,2025-04-08T03:15:00+00:00,Madagascar,0.6896316515323401,0,2,en,MDG,Africa
 'b03391eb46',extremes,Earthquake,#870007,usgs,Earthquake Kuqa,2025-05-06T03:29:00+00:00,China,0.6896225547521202,0,2,en,ECA,Asia
 'e61067da6a',extremes,Storm,#b3b2b1,wmo,Storm Surge Valga maakond Võru maakond,2025-04-14T03:29:00+00:00,Estonia,0.6895827309643243,0,2,en,NEU,Europe
+'7d78c6cb71',extremes,Storm,#b3b2b1,wmo,Storm Green Bay White Bay,2025-04-20T03:27:00+00:00,Canada,0.6895093286534368,1,2,en,NEN,North-America
 '0ed0e9d733',extremes,Snow&Ice,#d60d2b,wmo,Freezing Považská Bystrica,2025-04-29T03:28:00+00:00,Slovakia,0.6894887776425359,0,2,en,WCE,Europe
 '7f73f7e626',extremes,Storm,#b3b2b1,wmo,Storm Surge France,2025-04-15T03:28:00+00:00,France,0.6894598037597777,0,2,en,WCE,Europe
 'ee745cd212',extremes,Drought,#edc291,edo,Drought U.S. Virgin Islands,2025-05-02T03:31:00+00:00,U.S. Virgin Islands,0.6893830662695762,0,2,en,CAR,North-America
@@ -7571,7 +7571,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '007f19207d',extremes,Storm,#b3b2b1,wmo,Storm Surge Yuhang District,2025-05-09T03:31:00+00:00,China,0.4788657077063026,0,2,en,EAS,Asia
 '2911d096d5',extremes,Storm,#b3b2b1,wmo,Storm Surge Huangshigang District,2025-04-21T03:30:00+00:00,China,0.4788601117289347,0,2,en,EAS,Asia
 '1a2c0f515c',extremes,Storm,#b3b2b1,wmo,Storm Huaiyang District,2025-05-02T03:30:00+00:00,China,0.4788507498717376,0,2,en,EAS,Asia
-'6827bc6327',extremes,Storm,#b3b2b1,wmo,Storm Wuming District,2025-04-12T03:13:00+00:00,China,0.478847494412934,0,2,en,EAS,Asia
 '6b7a8c2f1c',extremes,Storm,#b3b2b1,wmo,Storm Surge Dong e County,2025-04-14T03:29:00+00:00,China,0.4788377696929375,0,2,en,EAS,Asia
 'df716ed362',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Shishou City,2025-04-21T03:30:00+00:00,China,0.4787926507727609,0,2,en,EAS,Asia
 'a2f737a9f3',extremes,Storm,#b3b2b1,wmo,Storm Cooperative city,2025-04-14T03:29:00+00:00,China,0.4787843350129618,0,2,en,EAS,Asia
@@ -10802,7 +10801,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a652c78afc',extremes,Drought,#edc291,random,megadrought,2025-04-30T03:27:00+00:00,,0.3797210026454668,0,2,en,,
 '09a2a109c3',extremes,Precipitation,#d60d2b,wmo,Downpour Lustre county,2025-05-09T03:31:00+00:00,China,0.3699885136948417,1,1,en,EAS,Asia
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,frost,2025-05-12T03:32:00+00:00,,0.3693012912049907,0,2,en,,
-'ec3b09f97c',extremes,Thunderstorm,#53785a,wmo,Severe Weather municipal district,2025-04-25T03:28:00+00:00,China,0.36811911959893806,1,2,en,EAS,Asia
+'ec3b09f97c',extremes,Thunderstorm,#53785a,wmo,Severe Weather municipal district,2025-04-25T03:28:00+00:00,China,0.368119119598938,1,2,en,EAS,Asia
 '4148b706be',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Hengzhou City,2025-05-09T03:31:00+00:00,China,0.3665434005843954,1,1,en,EAS,Asia
 '89f6cdce94',extremes,Thunderstorm,#53785a,wmo,Severe Weather Wangmo county,2025-04-23T03:26:00+00:00,China,0.3576405970064911,1,1,en,EAS,Asia
 '595acbcf9f',extremes,Heat Wave,#c40202,random,hottest day,2025-05-08T03:31:00+00:00,,0.3532892157025792,0,2,en,,
