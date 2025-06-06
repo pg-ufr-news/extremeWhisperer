@@ -1,7 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'df189581df',extremes,Wildfire,#d60d2b,wmo,Wildfire Nizhny Novgorod Region,2025-04-26T03:15:00+00:00,Russia,0.7381804467082899,0,2,en,ESB,Europe
 'c770f870cb',extremes,Wildfire,#d60d2b,fema,Wildfire New Mexico,2025-04-19T03:11:00+00:00,United States,0.7381668129298096,1,2,en,WNA,North-America
-'25191a012c',extremes,Flood,#030ba1,wmo,Flood Payne OK,2025-05-01T03:35:00+00:00,United States,0.738165633144173,0,2,en,CNA,North-America
 '76fdf9832d',extremes,Snow&Ice,#d60d2b,wmo,Frost South of Krasnoyarsk Krai,2025-04-29T03:28:00+00:00,Russia,0.7379108911625567,0,2,en,ESB,Europe
 'be0dcc9cd5',extremes,Fog,#d60d2b,wmo,Fog Karachay Cherkess Republic,2025-04-29T03:28:00+00:00,Russia,0.7378352337251554,0,2,en,ESB,Europe
 '66889dc3f2',extremes,Earthquake,#870007,usgs,Earthquake Ollagüe,2025-05-01T03:35:00+00:00,Chile,0.7378237677848537,0,2,en,SWS,South-America
@@ -450,7 +448,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f81c28997e',extremes,Storm,#b3b2b1,wmo,Storm Western Australia Eucla Coast,2025-04-25T03:28:00+00:00,Australia,0.7026406847304814,0,2,en,CAU,Oceania
 'bbfe3bda09',extremes,Snow&Ice,#d60d2b,wmo,Freezing Slovakia,2025-04-27T03:28:00+00:00,Slovakia,0.702592400204796,0,2,en,WCE,Europe
 '4edc7586ed',extremes,Flood,#030ba1,wmo,Flashflood Center of Sakha Republic,2025-05-03T03:26:00+00:00,Russia,0.7025829877388673,0,2,en,ESB,Europe
-'a4d55539f1',extremes,Flood,#030ba1,wmo,Flooding Lincoln MO,2025-04-21T03:30:00+00:00,United States,0.702523955225211,0,2,en,CNA,North-America
 '367efc68df',extremes,Storm,#b3b2b1,wmo,Storm Slovenia South East,2025-04-26T03:15:00+00:00,Slovenia,0.7024744257055365,0,2,en,WCE,Europe
 '686ba6a637',extremes,Storm,#b3b2b1,wmo,Storm MSILA,2025-05-04T03:33:00+00:00,Algeria,0.7023517700248563,0,2,en,SAH,Africa
 '924042ea68',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Bulgaria,2025-04-18T03:15:00+00:00,Bulgaria,0.7022660140662579,0,2,en,MED,Europe
@@ -1766,9 +1763,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '644bfaab71',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Slovenia Sea,2025-05-06T03:30:00+00:00,Slovenia,0.6276811468700565,0,2,en,WCE,Europe
 'c9c5d76009',extremes,Flood,#030ba1,wmo,Flashflood Jewish Autonomous Region,2025-05-02T03:30:00+00:00,Russia,0.6276380230900296,1,1,en,ESB,Europe
 '282493c34e',extremes,Earthquake,#870007,usgs,Earthquake Malango,2025-05-03T03:26:00+00:00,Solomon Islands,0.6276056870923858,1,1,en,EPO,Oceania
+'25191a012c',extremes,Flood,#030ba1,wmo,Flood Payne OK,2025-05-01T03:35:00+00:00,United States,0.6275908031725471,1,2,en,CNA,North-America
 '22045a461a',extremes,Earthquake,#870007,usgs,Earthquake Izu Islands Japan region,2025-05-03T03:26:00+00:00,,0.627585614464367,0,2,en,NPO,Pacific Ocean
 '80bec73052',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Centro de Navarra,2025-05-10T03:27:00+00:00,Spain,0.6275102904149011,0,2,en,MED,Europe
 'c8d36d481c',extremes,Snow&Ice,#d60d2b,wmo,Frost Ryazan Region,2025-04-27T03:28:00+00:00,Russia,0.627493703715748,1,1,en,ESB,Europe
+'df189581df',extremes,Wildfire,#d60d2b,wmo,Wildfire Nizhny Novgorod Region,2025-04-26T03:15:00+00:00,Russia,0.6274533797020464,1,1,en,ESB,Europe
 'c91298975c',extremes,Thunderstorm,#53785a,wmo,Hail most areas,2025-05-01T03:35:00+00:00,Jordan,0.6274421801108229,0,2,en,MED,Asia
 '6cfc55b8b1',extremes,Drought,#edc291,edo,Dryness Bonaire Saint Eustatius and Saba,2025-04-29T03:28:00+00:00,Bonaire; Saint Eustatius and Saba ,0.6274377429365123,0,2,en,CAR,North-America
 'ff3b93aa66',extremes,Cold Wave,#a7e9fa,wmo,Freezing Fugu County,2025-04-20T03:27:00+00:00,China,0.6274290598563016,0,2,en,EAS,Asia
@@ -3262,7 +3261,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c1578475a7',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Portalegre,2025-05-02T03:30:00+00:00,Portugal,0.5430004919715822,0,2,en,MED,Europe
 'ffb3d7f75b',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Vega del Segura,2025-05-12T03:33:00+00:00,Spain,0.5429535992096362,0,2,en,MED,Europe
 '3d83458aa2',extremes,Flood,#030ba1,wmo,Flood Pettis MO,2025-04-22T03:26:00+00:00,United States,0.5427990881608289,0,2,en,CNA,North-America
-'42a88b8dd3',extremes,Drought,#edc291,edo,Lack of Rain Guinea Bissau,2025-05-01T03:35:00+00:00,Guinea-Bissau,0.5427988390636661,0,2,en,WAF,Africa
 '8085f19638',extremes,Thunderstorm,#53785a,wmo,Severe Weather Southeastern Serbia,2025-04-25T03:28:00+00:00,Serbia,0.5427854463777769,0,2,en,MED,Europe
 'ab4a28763e',extremes,Storm,#b3b2b1,wmo,Storm Qinglong,2025-05-01T03:35:00+00:00,China,0.5427795832226014,0,2,en,EAS,Asia
 'c3eb563a88',extremes,Thunderstorm,#53785a,wmo,Hail Western Transdanubia,2025-05-04T03:33:00+00:00,Hungary,0.5427336347090918,0,2,en,WCE,Europe
@@ -5100,6 +5098,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '564891e99b',extremes,Storm,#b3b2b1,wmo,Storm Surge songshan district,2025-05-01T03:35:00+00:00,China,0.4614842624813845,0,2,en,EAS,Asia
 '30ff1114a4',extremes,Wildfire,#d60d2b,eonet,Wildfire in Mexico 1023698,2025-04-26T03:14:00+00:00,Mexico,0.4614730265136035,0,2,en,NCA,North-America
 '584bc432f7',extremes,Precipitation,#d60d2b,wmo,Rain municipal district,2025-05-06T03:30:00+00:00,China,0.4614231753234001,0,2,en,EAS,Asia
+'42a88b8dd3',extremes,Drought,#edc291,edo,Lack of Rain Guinea Bissau,2025-05-01T03:35:00+00:00,Guinea-Bissau,0.4613790132041162,1,1,en,WAF,Africa
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,typhoon,2025-04-22T03:25:00+00:00,,0.461308276185524,0,2,en,,
 '75a4617347',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Kaiping City,2025-05-08T03:31:00+00:00,China,0.4613080236675321,0,2,en,EAS,Asia
 '525fc683ca',extremes,Drought,#edc291,edo,Lack of Rain Chile,2025-05-07T03:30:00+00:00,Chile,0.4611967402983395,0,2,en,SPO,Pacific Ocean
