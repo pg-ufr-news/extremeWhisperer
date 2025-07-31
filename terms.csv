@@ -10,8 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e40d44c836',extremes,Earthquake,#870007,usgs,Earthquake Burica,2025-07-15T03:48:00+00:00,Panama,0.8155540128319472,1,2,en,SCA,South-America
 '8502429ce2',extremes,Heat Wave,#c40202,wmo,Heat Wave Castelo Branco,2025-06-26T15:51:00+00:00,Portugal,0.813166053062761,1,2,en,MED,Europe
 'a560bcfef3',extremes,Volcano,#b83202,eonet,Reykjanes Volcano Iceland,2025-07-22T03:48:00+00:00,,0.7927814072801368,1,3,en,GIC,
-'7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2025-06-26T15:51:00+00:00,Australia,0.7739915645025968,0,2,en,EAU,Oceania
-'58f77fa85f',extremes,Thunderstorm,#53785a,wmo,Hail Spain,2025-07-02T03:39:00+00:00,Spain,0.7738750967593733,0,2,en,MED,Europe
 '3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2025-06-27T03:39:00+00:00,Australia,0.7738620106385562,0,2,en,SAU,Oceania
 '59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,wildfire Queensland,2025-07-25T03:49:00+00:00,Australia,0.773824859603647,0,2,en,CAU,Oceania
 '95b5264574',extremes,Heat Wave,#c40202,wmo,Heat Wave Canada,2025-06-27T08:54:00+00:00,Canada,0.7737480818577301,0,2,en,NEN,North-America
@@ -3226,9 +3224,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4a5a22c922',extremes,Storm,#b3b2b1,wmo,Storm Surge Pirineo oscense,2025-07-12T03:43:00+00:00,Spain,0.6632833685307796,0,2,en,MED,Europe
 '02bc9c64a4',extremes,Drought,#edc291,edo,Lack of Rain Cambodia,2025-06-27T08:54:00+00:00,Cambodia,0.6632766630054924,0,2,en,SEA,Asia
 '74561143f4',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Luqiao District,2025-07-07T03:43:00+00:00,China,0.6632309463977466,0,2,en,EAS,Asia
-'5cbd0f70b7',extremes,Heat Wave,#c40202,wmo,Heat Wave Southeastern Serbia,2025-06-26T15:51:00+00:00,Serbia,0.663166053062761,1,2,en,MED,Europe
 '768d0f8039',extremes,Heat Wave,#c40202,wmo,Heat Wave Villach Land,2025-06-26T15:51:00+00:00,Austria,0.663166053062761,1,2,en,WCE,Europe
 'f6da83822a',extremes,Thunderstorm,#53785a,wmo,Hail Bulgaria,2025-06-26T15:51:00+00:00,Bulgaria,0.663166053062761,1,2,en,MED,Europe
+'5cbd0f70b7',extremes,Heat Wave,#c40202,wmo,Heat Wave Southeastern Serbia,2025-06-26T15:51:00+00:00,Serbia,0.663166053062761,1,2,en,MED,Europe
 '428c796967',extremes,Earthquake,#870007,usgs,Earthquake Spain,2025-07-15T03:48:00+00:00,Spain,0.6631497136581328,0,2,en,MED,Europe
 '17b150a7a2',extremes,Earthquake,#870007,usgs,Earthquake Tanzania,2025-07-10T03:40:00+00:00,Tanzania,0.6631132617308844,1,1,en,SEAF,Africa
 '2743391e03',extremes,Heat Wave,#c40202,wmo,Heat Wave Olomoucký kraj Přerov,2025-07-03T03:39:00+00:00,Czechia,0.6630876783134565,0,2,en,WCE,Europe
@@ -3242,10 +3240,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '64ad829968',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Switzerland,2025-06-26T15:51:00+00:00,Switzerland,0.663016128062761,1,1,en,WCE,Europe
 '2e28dfa4bf',extremes,Heat Wave,#c40202,wmo,Heat Wave Cyprus,2025-06-26T15:51:00+00:00,Cyprus,0.663016098062761,1,1,en,MED,Europe
 '9e9e9c4928',extremes,Heat Wave,#c40202,wmo,Heat Wave Central Hungary,2025-06-26T15:51:00+00:00,Hungary,0.663016098062761,1,1,en,WCE,Europe
-'dd436a35cc',extremes,Heat Wave,#c40202,wmo,Heat Wave Bulgaria,2025-06-26T15:51:00+00:00,Bulgaria,0.663016053062761,1,1,en,MED,Europe
 'f5775d3d49',extremes,Heat Wave,#c40202,wmo,Heat Wave Wan County,2025-06-26T15:51:00+00:00,China,0.663016053062761,1,1,en,EAS,Asia
-'accf7e59ae',extremes,Thunderstorm,#53785a,wmo,Severe Weather Belarus,2025-06-26T15:51:00+00:00,Belarus,0.663016053062761,1,1,en,WCE,Europe
+'dd436a35cc',extremes,Heat Wave,#c40202,wmo,Heat Wave Bulgaria,2025-06-26T15:51:00+00:00,Bulgaria,0.663016053062761,1,1,en,MED,Europe
 'c8bad6097f',extremes,Heat Wave,#c40202,wmo,Heat Wave Basilicata,2025-06-26T15:51:00+00:00,Italy,0.663016053062761,1,1,en,MED,Europe
+'accf7e59ae',extremes,Thunderstorm,#53785a,wmo,Severe Weather Belarus,2025-06-26T15:51:00+00:00,Belarus,0.663016053062761,1,1,en,WCE,Europe
+'18b799438e',extremes,Thunderstorm,#53785a,wmo,Severe Weather Shizuishan,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
+'451df00fa0',extremes,Thunderstorm,#53785a,wmo,Severe Weather Hulftegg Untertoggenburg,2025-06-26T15:51:00+00:00,Switzerland,0.663016038062761,1,1,en,WCE,Europe
 'aa63737fed',extremes,Heat Wave,#c40202,wmo,Heat Wave Litoral sur de Valencia,2025-06-26T15:51:00+00:00,Spain,0.663016038062761,1,1,en,MED,Europe
 '588f9f1194',extremes,Thunderstorm,#53785a,wmo,Severe Weather Lauterbrunnen Wilderswil,2025-06-26T15:51:00+00:00,Switzerland,0.663016038062761,1,1,en,WCE,Europe
 '51eca7e9c1',extremes,Heat Wave,#c40202,wmo,Heat Wave Kriti,2025-06-26T15:51:00+00:00,Greece,0.663016038062761,1,1,en,MED,Europe
@@ -3256,24 +3256,24 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4e95e47b7e',extremes,Thunderstorm,#53785a,wmo,Severe Weather Dolný Kubín,2025-06-26T15:51:00+00:00,Slovakia,0.663016038062761,1,1,en,WCE,Europe
 'c0bb1b34e6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Habahe County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 'fef3a05e03',extremes,Thunderstorm,#53785a,wmo,Severe Weather Gomel Region,2025-06-26T15:51:00+00:00,Belarus,0.663016038062761,1,1,en,WCE,Europe
-'18b799438e',extremes,Thunderstorm,#53785a,wmo,Severe Weather Shizuishan,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
-'e7c704f65b',extremes,Thunderstorm,#53785a,wmo,Hail Nové Mesto nad Váhom,2025-06-26T15:51:00+00:00,Slovakia,0.663016038062761,1,1,en,WCE,Europe
 '92f0e51d30',extremes,Heat Wave,#c40202,wmo,Heat Wave Morena y Condado,2025-06-26T15:51:00+00:00,Spain,0.663016038062761,1,1,en,MED,Europe
+'5485e96cb1',extremes,Heat Wave,#c40202,wmo,Heat Wave Jinxi County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
+'e7c704f65b',extremes,Thunderstorm,#53785a,wmo,Hail Nové Mesto nad Váhom,2025-06-26T15:51:00+00:00,Slovakia,0.663016038062761,1,1,en,WCE,Europe
 '5e70c4afad',extremes,Heat Wave,#c40202,wmo,Heat Wave Zlaté Moravce,2025-06-26T15:51:00+00:00,Slovakia,0.663016038062761,1,1,en,WCE,Europe
 '6a6e6d1f40',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Tumotezuoqi,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 '79e0171bed',extremes,Heat Wave,#c40202,wmo,Heat Wave Sur de Lugo,2025-06-26T15:51:00+00:00,Spain,0.663016038062761,1,1,en,MED,Europe
 '5dd4b0774d',extremes,Heat Wave,#c40202,wmo,Heat Wave Eferding,2025-06-26T15:51:00+00:00,Austria,0.663016038062761,1,1,en,WCE,Europe
 '5aa46b465f',extremes,Thunderstorm,#53785a,wmo,Hail Daye,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
-'ef7604df11',extremes,Heat Wave,#c40202,wmo,Heat Wave Trebišov,2025-06-26T15:51:00+00:00,Slovakia,0.663016038062761,1,1,en,WCE,Europe
+'5096180895',extremes,Thunderstorm,#53785a,wmo,Severe Weather Tianzhu Tibetan Autonomous County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 '1d4990d32f',extremes,Thunderstorm,#53785a,wmo,Severe Weather Klagenfurt Land,2025-06-26T15:51:00+00:00,Austria,0.663016038062761,1,1,en,WCE,Europe
 'faef176192',extremes,Heat Wave,#c40202,wmo,Heat Wave Anyuan County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 '8a206f1178',extremes,Heat Wave,#c40202,wmo,Heat Wave Cumbres de Gran Canaria,2025-06-26T15:51:00+00:00,Spain,0.663016038062761,1,1,en,MED,Europe
-'05e221a968',extremes,Heat Wave,#c40202,wmo,Heat Wave Sanyuan District,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
-'b847f55060',extremes,Heat Wave,#c40202,wmo,Heat Wave Backa,2025-06-26T15:51:00+00:00,Serbia,0.663016038062761,1,1,en,MED,Europe
-'451df00fa0',extremes,Thunderstorm,#53785a,wmo,Severe Weather Hulftegg Untertoggenburg,2025-06-26T15:51:00+00:00,Switzerland,0.663016038062761,1,1,en,WCE,Europe
-'5485e96cb1',extremes,Heat Wave,#c40202,wmo,Heat Wave Jinxi County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 'b3ceda1be8',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Śląskie Province Jaworzno County,2025-06-26T15:51:00+00:00,Poland,0.663016038062761,1,1,en,WCE,Europe
-'7fb4ddf871',extremes,Thunderstorm,#53785a,wmo,Severe Weather Małopolskie Province Brzeski County,2025-06-26T15:51:00+00:00,Poland,0.663016038062761,1,1,en,WCE,Europe
+'ef7604df11',extremes,Heat Wave,#c40202,wmo,Heat Wave Trebišov,2025-06-26T15:51:00+00:00,Slovakia,0.663016038062761,1,1,en,WCE,Europe
+'05e221a968',extremes,Heat Wave,#c40202,wmo,Heat Wave Sanyuan District,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
+'5f8abece56',extremes,Thunderstorm,#53785a,wmo,Severe Weather Wien Wieden,2025-06-26T15:51:00+00:00,Austria,0.663016038062761,1,1,en,WCE,Europe
+'ed6c099aa8',extremes,Thunderstorm,#53785a,wmo,Severe Weather Urumqi City,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
+'199f2cf0e3',extremes,Heat Wave,#c40202,wmo,Heat Wave Banja Luka,2025-06-26T15:51:00+00:00,Bosnia and Herzegovina,0.663016038062761,1,1,en,MED,Europe
 'e3ffaecf0f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Xinzhou District,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 '6a7ad15d32',extremes,Heat Wave,#c40202,wmo,Heat Wave Ried im Innkreis,2025-06-26T15:51:00+00:00,Austria,0.663016038062761,1,1,en,WCE,Europe
 '1db7aa9053',extremes,Heat Wave,#c40202,wmo,Heat Wave Yiyang County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
@@ -3284,25 +3284,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5f53238c2',extremes,Heat Wave,#c40202,wmo,Heat Wave Nancheng County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 'f5b3527112',extremes,Thunderstorm,#53785a,wmo,Severe Weather Yongxin County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 'aa6792ebfd',extremes,Heat Wave,#c40202,wmo,Heat Wave Hollabrunn,2025-06-26T15:51:00+00:00,Austria,0.663016038062761,1,1,en,WCE,Europe
-'ed6c099aa8',extremes,Thunderstorm,#53785a,wmo,Severe Weather Urumqi City,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 '2ff5ad616c',extremes,Thunderstorm,#53785a,wmo,Severe Weather Innertkirchen Guttannen,2025-06-26T15:51:00+00:00,Switzerland,0.663016038062761,1,1,en,WCE,Europe
-'5f8abece56',extremes,Thunderstorm,#53785a,wmo,Severe Weather Wien Wieden,2025-06-26T15:51:00+00:00,Austria,0.663016038062761,1,1,en,WCE,Europe
+'57b0fbcc9f',extremes,Heat Wave,#c40202,wmo,Heat Wave Serranía de Cuenca,2025-06-26T15:51:00+00:00,Spain,0.663016038062761,1,1,en,MED,Europe
+'624ee2eae8',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Guanling,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 '9ae4725cd4',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Luzern Alpnach,2025-06-26T15:51:00+00:00,Switzerland,0.663016038062761,1,1,en,WCE,Europe
 '031f851e00',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Taizhou City,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 '97967e6d49',extremes,Thunderstorm,#53785a,wmo,Severe Weather Śląskie Province Rybnik County,2025-06-26T15:51:00+00:00,Poland,0.663016038062761,1,1,en,WCE,Europe
 '5980ae6b3d',extremes,Thunderstorm,#53785a,wmo,Severe Weather Podkarpackie Province Krosno County,2025-06-26T15:51:00+00:00,Poland,0.663016038062761,1,1,en,WCE,Europe
 '8b63278dd1',extremes,Heat Wave,#c40202,wmo,Heat Wave East Peloponnisos,2025-06-26T15:51:00+00:00,Greece,0.663016038062761,1,1,en,MED,Europe
 '111445dcb7',extremes,Heat Wave,#c40202,wmo,Heat Wave Waidhofen an der Thaya,2025-06-26T15:51:00+00:00,Austria,0.663016038062761,1,1,en,WCE,Europe
-'624ee2eae8',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Guanling,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
+'7fb4ddf871',extremes,Thunderstorm,#53785a,wmo,Severe Weather Małopolskie Province Brzeski County,2025-06-26T15:51:00+00:00,Poland,0.663016038062761,1,1,en,WCE,Europe
 'e050960c85',extremes,Heat Wave,#c40202,wmo,Heat Wave Marche,2025-06-26T15:51:00+00:00,Italy,0.663016038062761,1,1,en,MED,Europe
 'c869ad982b',extremes,Heat Wave,#c40202,wmo,Heat Wave Tonghua City,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 'eac6b2d6d2',extremes,Thunderstorm,#53785a,wmo,Hail Albulatal,2025-06-26T15:51:00+00:00,Switzerland,0.663016038062761,1,1,en,WCE,Europe
-'57b0fbcc9f',extremes,Heat Wave,#c40202,wmo,Heat Wave Serranía de Cuenca,2025-06-26T15:51:00+00:00,Spain,0.663016038062761,1,1,en,MED,Europe
-'5096180895',extremes,Thunderstorm,#53785a,wmo,Severe Weather Tianzhu Tibetan Autonomous County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 '4610159f47',extremes,Thunderstorm,#53785a,wmo,Hail Bole,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
-'bde0260e34',extremes,Heat Wave,#c40202,wmo,Heat Wave Montes del norte y Anchuras,2025-06-26T15:51:00+00:00,Spain,0.663016038062761,1,1,en,MED,Europe
+'b847f55060',extremes,Heat Wave,#c40202,wmo,Heat Wave Backa,2025-06-26T15:51:00+00:00,Serbia,0.663016038062761,1,1,en,MED,Europe
 '29d6e16fd2',extremes,Thunderstorm,#53785a,wmo,Hail Appenzell,2025-06-26T15:51:00+00:00,Switzerland,0.663016038062761,1,1,en,WCE,Europe
-'77d12ccb7d',extremes,Thunderstorm,#53785a,wmo,Thunderstorm nördliches Tavetsch,2025-06-26T15:51:00+00:00,Switzerland,0.663016038062761,1,1,en,WCE,Europe
+'6f888e469f',extremes,Thunderstorm,#53785a,wmo,Severe Weather Tori County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 '4495d1fc35',extremes,Thunderstorm,#53785a,wmo,Severe Weather Friuli Venezia Giulia,2025-06-26T15:51:00+00:00,Italy,0.663016038062761,1,1,en,MED,Europe
 '32ce61a4fd',extremes,Thunderstorm,#53785a,wmo,Hail Haiyan County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 'ddcb5d8eb9',extremes,Thunderstorm,#53785a,wmo,Severe Weather Emilia e Romagna,2025-06-26T15:51:00+00:00,Italy,0.663016038062761,1,1,en,MED,Europe
@@ -3314,8 +3312,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '89eb6e2fd1',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Gmunden,2025-06-26T15:51:00+00:00,Austria,0.663016038062761,1,1,en,WCE,Europe
 'dfd81e22e7',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Pomorskie Province Tczewski County,2025-06-26T15:51:00+00:00,Poland,0.663016038062761,1,1,en,WCE,Europe
 '0b0da55346',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Wuzhong city,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
-'6f888e469f',extremes,Thunderstorm,#53785a,wmo,Severe Weather Tori County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 '5db12e850e',extremes,Thunderstorm,#53785a,wmo,Severe Weather Nayong County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
+'30cdce2a00',extremes,Thunderstorm,#53785a,wmo,Hail Glarus Süd Grosstal,2025-06-26T15:51:00+00:00,Switzerland,0.663016038062761,1,1,en,WCE,Europe
 '53ff3ed4c6',extremes,Heat Wave,#c40202,wmo,Heat Wave Osijek region,2025-06-26T15:51:00+00:00,Croatia,0.663016038062761,1,1,en,WCE,Europe
 '79948e7ab3',extremes,Heat Wave,#c40202,wmo,Heat Wave Valle del Guadalquivir de Jaén,2025-06-26T15:51:00+00:00,Spain,0.663016038062761,1,1,en,MED,Europe
 'b95521f607',extremes,Heat Wave,#c40202,wmo,Heat Wave Primorsky Krai,2025-06-26T15:51:00+00:00,Russia,0.663016038062761,1,1,en,ESB,Europe
@@ -3327,11 +3325,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '735546fc90',extremes,Thunderstorm,#53785a,wmo,Severe Weather Małopolskie Province Suski County,2025-06-26T15:51:00+00:00,Poland,0.663016038062761,1,1,en,WCE,Europe
 '8948244fef',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Tongshan County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 '35976f0f51',extremes,Thunderstorm,#53785a,wmo,Severe Weather Wien Landstraße,2025-06-26T15:51:00+00:00,Austria,0.663016038062761,1,1,en,WCE,Europe
-'30cdce2a00',extremes,Thunderstorm,#53785a,wmo,Hail Glarus Süd Grosstal,2025-06-26T15:51:00+00:00,Switzerland,0.663016038062761,1,1,en,WCE,Europe
+'77d12ccb7d',extremes,Thunderstorm,#53785a,wmo,Thunderstorm nördliches Tavetsch,2025-06-26T15:51:00+00:00,Switzerland,0.663016038062761,1,1,en,WCE,Europe
 '68e083953b',extremes,Heat Wave,#c40202,wmo,Heat Wave Tongyu County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
-'63117a57f1',extremes,Thunderstorm,#53785a,wmo,Hail Mingguang City,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
-'199f2cf0e3',extremes,Heat Wave,#c40202,wmo,Heat Wave Banja Luka,2025-06-26T15:51:00+00:00,Bosnia and Herzegovina,0.663016038062761,1,1,en,MED,Europe
-'5816192083',extremes,Thunderstorm,#53785a,wmo,Severe Weather Tvrdošín,2025-06-26T15:51:00+00:00,Slovakia,0.663016038062761,1,1,en,WCE,Europe
+'c1e892d4e7',extremes,Thunderstorm,#53785a,wmo,Hail Akeqi County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 'b1be5f6528',extremes,Heat Wave,#c40202,wmo,Heat Wave Wien Innere Stadt,2025-06-26T15:51:00+00:00,Austria,0.663016038062761,1,1,en,WCE,Europe
 'ec99330b85',extremes,Thunderstorm,#53785a,wmo,Hail Hollabrunn,2025-06-26T15:51:00+00:00,Austria,0.663016038062761,1,1,en,WCE,Europe
 'c366e9882a',extremes,Heat Wave,#c40202,wmo,Heat Wave Vöcklabruck,2025-06-26T15:51:00+00:00,Austria,0.663016038062761,1,1,en,WCE,Europe
@@ -3342,8 +3338,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97c0e0abc1',extremes,Thunderstorm,#53785a,wmo,Severe Weather Jimsar County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 'd0cacfcd20',extremes,Heat Wave,#c40202,wmo,Heat Wave Wien Währing,2025-06-26T15:51:00+00:00,Austria,0.663016038062761,1,1,en,WCE,Europe
 '123638282e',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Wien Simmering,2025-06-26T15:51:00+00:00,Austria,0.663016038062761,1,1,en,WCE,Europe
-'c1e892d4e7',extremes,Thunderstorm,#53785a,wmo,Hail Akeqi County,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
-'69d01417d8',extremes,Thunderstorm,#53785a,wmo,Hail Wien Mariahilf,2025-06-26T15:51:00+00:00,Austria,0.663016038062761,1,1,en,WCE,Europe
+'bde0260e34',extremes,Heat Wave,#c40202,wmo,Heat Wave Montes del norte y Anchuras,2025-06-26T15:51:00+00:00,Spain,0.663016038062761,1,1,en,MED,Europe
+'63117a57f1',extremes,Thunderstorm,#53785a,wmo,Hail Mingguang City,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 '4705a6d555',extremes,Heat Wave,#c40202,wmo,Heat Wave Montes de Toledo,2025-06-26T15:51:00+00:00,Spain,0.663016038062761,1,1,en,MED,Europe
 '643932e3f1',extremes,Thunderstorm,#53785a,wmo,Hail Łódzkie Province Łęczycki County,2025-06-26T15:51:00+00:00,Poland,0.663016038062761,1,1,en,WCE,Europe
 '8c3d59aa0a',extremes,Heat Wave,#c40202,wmo,Heat Wave Yuehu District,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
@@ -3355,6 +3351,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '059d1b9ab1',extremes,Thunderstorm,#53785a,wmo,Severe Weather Huinong District,2025-06-26T15:51:00+00:00,China,0.663016038062761,1,1,en,EAS,Asia
 '16140a3cb2',extremes,Thunderstorm,#53785a,wmo,Severe Weather Lipetsk Region,2025-06-26T15:51:00+00:00,Russia,0.663016038062761,1,1,en,ESB,Europe
 'e72726e5f6',extremes,Heat Wave,#c40202,wmo,Heat Wave La Mancha conquense,2025-06-26T15:51:00+00:00,Spain,0.663016038062761,1,1,en,MED,Europe
+'69d01417d8',extremes,Thunderstorm,#53785a,wmo,Hail Wien Mariahilf,2025-06-26T15:51:00+00:00,Austria,0.663016038062761,1,1,en,WCE,Europe
+'5816192083',extremes,Thunderstorm,#53785a,wmo,Severe Weather Tvrdošín,2025-06-26T15:51:00+00:00,Slovakia,0.663016038062761,1,1,en,WCE,Europe
 'b0e70ac455',extremes,Tsunami,#690191,usgs,Tsunami Tual,2025-07-17T03:46:00+00:00,Indonesia,0.6629687108607537,1,1,en,SEA,Asia
 '7c20594d07',extremes,Storm,#b3b2b1,eswd,Severe Wind France,2025-06-26T15:50:00+00:00,France,0.6629349996993867,0,2,en,WCE,Europe
 '3e4b341619',extremes,Storm,#b3b2b1,random,storm,2025-06-28T03:32:00+00:00,,0.662924486806256,0,2,en,,
@@ -3536,6 +3534,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4a931bcb98',extremes,Heat Wave,#c40202,wmo,Heat Wave Alytus county Marijampolė county,2025-07-06T03:44:00+00:00,Lithuania,0.6583356959573275,0,2,en,WCE,Europe
 '1015a0ebc0',extremes,Storm,#b3b2b1,wmo,Storm Surge Western Transdanubia,2025-07-09T03:41:00+00:00,Hungary,0.6583269026350689,0,2,en,WCE,Europe
 'd73f5771a1',extremes,Storm,#b3b2b1,wmo,Storm East of Sakha Republic,2025-07-01T03:49:00+00:00,Russia,0.6582720862181802,0,2,en,ESB,Europe
+'58f77fa85f',extremes,Thunderstorm,#53785a,wmo,Hail Spain,2025-07-02T03:39:00+00:00,Spain,0.6582443722454673,1,2,en,MED,Europe
 '5937c23b3a',extremes,Drought,#edc291,edo,Drought Benin,2025-06-27T08:54:00+00:00,Benin,0.6582332735090882,0,2,en,WAF,Africa
 '489d5397a4',extremes,Heat Wave,#c40202,acwe,mild winter Northern Territory,2025-07-28T03:56:00+00:00,Australia,0.6581539866421154,1,1,en,NAU,Oceania
 'c47b93a96c',extremes,Drought,#edc291,edo,Dryness Falkland Islands,2025-06-30T03:43:00+00:00,Falkland Islands,0.658084530220352,0,2,en,SSA,South-America
