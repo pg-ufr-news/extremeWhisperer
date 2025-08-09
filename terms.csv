@@ -10,10 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e40d44c836',extremes,Earthquake,#870007,usgs,Earthquake Burica,2025-07-15T03:48:00+00:00,Panama,0.8155540128319472,1,2,en,SCA,South-America
 '8502429ce2',extremes,Heat Wave,#c40202,wmo,Heat Wave Castelo Branco,2025-06-26T15:51:00+00:00,Portugal,0.813166053062761,1,2,en,MED,Europe
 'adeb90b57f',extremes,Drought,#edc291,edo,Dryness Serbia,2025-06-27T08:54:00+00:00,Serbia,0.806536833362731,1,2,en,MED,Europe
-'761266dc83',extremes,Iceberg,#d60d2b,eonet,Iceberg C38B,2025-07-27T03:56:00+00:00,,0.7979500317619544,0,2,en,EAN,
-'fe2660794a',extremes,Iceberg,#d60d2b,eonet,Iceberg D35,2025-07-20T03:55:00+00:00,,0.7976633928870874,0,2,en,EAN,
-'c089c0f588',extremes,Iceberg,#d60d2b,eonet,Iceberg C39,2025-08-06T03:54:00+00:00,,0.7973200132101815,0,2,en,EAN,
-'46dd9fca3e',extremes,Landslide,#572c03,relief,Landslide Mexico,2025-08-06T03:54:00+00:00,Mexico,0.7964725025526515,0,2,en,NCA,North-America
 'a560bcfef3',extremes,Volcano,#b83202,eonet,Reykjanes Volcano Iceland,2025-07-22T03:48:00+00:00,,0.7927814072801368,1,3,en,GIC,
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2025-07-27T03:56:00+00:00,New Zealand,0.7722853780446947,0,2,en,NZ,Oceania
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Ecuador,2025-08-05T03:57:00+00:00,Ecuador,0.7719947955198204,0,2,en,NWS,South-America
@@ -2612,6 +2608,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1397b5f4ed',extremes,Drought,#edc291,edo,Dryness South Africa,2025-07-06T03:44:00+00:00,South Africa,0.6809770160830863,0,2,en,ESAF,Africa
 '6ef449a924',extremes,Drought,#edc291,edo,Dryness Georgia,2025-06-27T03:39:00+00:00,Georgia,0.6809596002717535,1,2,en,WCA,Asia
 'ef7604df11',extremes,Heat Wave,#c40202,wmo,Heat Wave Trebišov,2025-07-23T03:50:00+00:00,Slovakia,0.6809559424142905,0,2,en,WCE,Europe
+'46dd9fca3e',extremes,Landslide,#572c03,relief,Landslide Mexico,2025-08-06T03:54:00+00:00,Mexico,0.6809020471697538,1,2,en,NCA,North-America
 'da0dd9c723',extremes,Storm,#b3b2b1,wmo,Storm Grodno Region,2025-06-26T15:51:00+00:00,Belarus,0.680893363489794,0,2,en,WCE,Europe
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2025-06-26T15:51:00+00:00,Australia,0.6808914182453918,1,2,en,EAU,Oceania
 '26b14d04da',extremes,Drought,#edc291,edo,Lack of Rain United Kingdom,2025-06-27T03:39:00+00:00,United Kingdom,0.6808617928748811,1,2,en,NEU,Europe
@@ -2930,6 +2927,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ccc2ebfc23',extremes,Storm,#b3b2b1,wmo,Storm Southern Sea of Bothnia,2025-07-04T03:37:00+00:00,Sweden,0.6781363812931201,0,2,en,NEU,Europe
 '0798884e7d',extremes,Flood,#030ba1,wmo,Flashflood Pangasinan La Union,2025-06-27T08:54:00+00:00,Philippines,0.6780740087477947,0,2,en,SEA,Asia
 'd6d8eef993',extremes,Thunderstorm,#53785a,wmo,Hail Hong Kong Hong Kong SAR China,2025-07-21T03:54:00+00:00,Hong Kong,0.6780543620717483,0,2,en,EAS,Asia
+'fe2660794a',extremes,Iceberg,#d60d2b,eonet,Iceberg D35,2025-07-20T03:55:00+00:00,,0.6780138839540243,1,1,en,EAN,
 '2adac29f34',extremes,Precipitation,#d60d2b,wmo,Precipitation Omsk Region,2025-07-03T03:39:00+00:00,Russia,0.6780069737380631,0,2,en,ESB,Europe
 '8d71378d87',extremes,Wildfire,#d60d2b,wmo,Wildfire Moere and Romsdal,2025-07-19T03:41:00+00:00,Norway,0.6779578674574743,0,2,en,NEU,Europe
 '4b823c754e',extremes,Storm,#b3b2b1,wmo,Storm Surge Primorsky Krai,2025-06-29T03:45:00+00:00,Russia,0.6779534949823328,0,2,en,ESB,Europe
@@ -2941,6 +2939,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5775d3d49',extremes,Heat Wave,#c40202,wmo,Heat Wave Wan County,2025-07-21T03:54:00+00:00,China,0.6778009575234213,0,2,en,EAS,Asia
 'c368e8fa32',extremes,Wildfire,#d60d2b,fema,Alaska Himalaya Road Fire,2025-06-26T15:50:00+00:00,United States,0.6777932939178469,0,2,en,NWN,North-America
 'cc855d70a2',extremes,Drought,#edc291,edo,Dryness Tajikistan,2025-06-29T03:45:00+00:00,Tajikistan,0.677773942294805,0,2,en,WCA,Asia
+'c089c0f588',extremes,Iceberg,#d60d2b,eonet,Iceberg C39,2025-08-06T03:54:00+00:00,,0.6777220112286543,1,1,en,EAN,
 'ed118f75cf',extremes,Storm,#b3b2b1,wmo,Storm Surge Vitebsk Region,2025-06-27T09:48:00+00:00,Belarus,0.6777054674278031,0,2,en,WCE,Europe
 '5effaca307',extremes,Drought,#edc291,edo,Dry Spell Slovenia,2025-06-30T03:43:00+00:00,Slovenia,0.6776985684549219,0,2,en,WCE,Europe
 '1061b3a472',extremes,Heat Wave,#c40202,wmo,Heat Wave Sistema Central de Ávila,2025-06-27T03:38:00+00:00,Spain,0.6776751167779661,0,2,en,MED,Europe
