@@ -10,9 +10,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e40d44c836',extremes,Earthquake,#870007,usgs,Earthquake Burica,2025-07-15T03:48:00+00:00,Panama,0.8155540128319472,1,2,en,SCA,South-America
 '8502429ce2',extremes,Heat Wave,#c40202,wmo,Heat Wave Castelo Branco,2025-06-26T15:51:00+00:00,Portugal,0.813166053062761,1,2,en,MED,Europe
 'adeb90b57f',extremes,Drought,#edc291,edo,Dryness Serbia,2025-06-27T08:54:00+00:00,Serbia,0.806536833362731,1,2,en,MED,Europe
+'761266dc83',extremes,Iceberg,#d60d2b,eonet,Iceberg C38B,2025-07-27T03:56:00+00:00,,0.7979500317619544,0,2,en,EAN,
 'a560bcfef3',extremes,Volcano,#b83202,eonet,Reykjanes Volcano Iceland,2025-07-22T03:48:00+00:00,,0.7927814072801368,1,3,en,GIC,
+'95d1c4ae53',extremes,Thunderstorm,#53785a,wmo,Severe Weather Vanuatu,2025-08-14T03:40:00+00:00,Vanuatu,0.7736790046924218,0,2,en,SPO,Oceania
+'125ea98162',extremes,Thunderstorm,#53785a,wmo,Hail Southeast Iceland,2025-08-13T03:39:00+00:00,Iceland,0.7718175501362919,0,2,en,GIC,Europe
+'19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,Frost New Zealand,2025-08-08T03:54:00+00:00,New Zealand,0.7701296671911315,0,2,en,NZ,Oceania
 '3eaafee2ea',extremes,Wildfire,#d60d2b,fema,Colorado Elk Fire,2025-08-11T03:54:00+00:00,United States,0.769912311932626,1,2,en,WNA,North-America
 'ad9e0f2296',extremes,Wildfire,#d60d2b,fema,Wildfire California,2025-08-10T03:53:00+00:00,United States,0.7698695960538953,1,3,en,WNA,North-America
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Brazil,2025-08-08T03:54:00+00:00,Brazil,0.7691786233413662,0,2,en,SAM,South-America
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,Snow Argentina,2025-07-25T03:49:00+00:00,Argentina,0.7658832932330741,0,2,en,SES,South-America
 '65a7ccdfa2',extremes,Drought,#edc291,edo,Drought Georgia,2025-08-11T03:54:00+00:00,Georgia,0.7654878670802217,0,2,en,WCA,Asia
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2025-06-28T03:33:00+00:00,United States,0.7640555672463101,0,2,en,CNA,North-America
@@ -1177,6 +1182,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f023c3f9fa',extremes,Flood,#030ba1,wmo,Flashflood Anderson TX Cherokee TX,2025-06-27T03:38:00+00:00,United States,0.7393386708060756,0,2,en,CNA,North-America
 'e621717414',extremes,Flood,#030ba1,wmo,Flooding Tazewell VA,2025-06-29T03:45:00+00:00,United States,0.7392455300988933,0,2,en,CNA,North-America
 '30f1b4395e',extremes,Drought,#edc291,edo,Lack of Rain Palau,2025-07-20T03:55:00+00:00,Palau,0.7391953789569243,0,2,en,EPO,Pacific Ocean
+'0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2025-08-14T03:40:00+00:00,Canada,0.7391930335990483,0,2,en,NEN,North-America
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Severe Weather Italy,2025-06-29T03:45:00+00:00,Italy,0.7391845261953582,0,2,en,MED,Europe
 '2f9c97075e',extremes,Storm,#b3b2b1,eswd,Strong Wind Ukraine,2025-07-16T03:47:00+00:00,Ukraine,0.7391718907242874,0,2,en,WCE,Europe
 '9863ca0ff2',extremes,Flood,#030ba1,wmo,Flood Guilford NC,2025-07-14T03:51:00+00:00,United States,0.7391648263888356,0,2,en,CNA,North-America
@@ -9675,6 +9681,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80f5dad7f1',extremes,Heat Wave,#c40202,wmo,Heat Wave Nanzhang County,2025-07-04T03:37:00+00:00,China,0.5496983990605825,0,2,en,EAS,Asia
 'daab3672d0',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Zwettl,2025-07-26T03:46:00+00:00,Austria,0.5496921319891976,0,2,en,WCE,Europe
 '6eda5002d0',extremes,Storm,#b3b2b1,wmo,Storm Meixian District,2025-08-14T03:40:00+00:00,China,0.5496702320776901,0,2,en,EAS,Asia
+'b1d56de062',extremes,Snow&Ice,#d60d2b,random,hoarfrost,2025-08-12T03:36:00+00:00,,0.5496417001336363,0,2,en,,
 '641c69741d',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Interior sur de Castellón,2025-07-31T03:52:00+00:00,Spain,0.5496332362049108,0,2,en,MED,Europe
 'e00c5a55d0',extremes,Heat Wave,#c40202,wmo,Heat Wave Huoqiu,2025-07-04T03:37:00+00:00,China,0.5496259752493574,0,2,en,EAS,Asia
 '2870c874f5',extremes,Heat Wave,#c40202,wmo,Heat Wave Qinyang City,2025-07-03T03:39:00+00:00,China,0.5495935419657941,0,2,en,EAS,Asia
@@ -9962,6 +9969,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c4aab57f2',extremes,Heat Wave,#c40202,wmo,Heat Wave Wuqiao County,2025-07-19T03:41:00+00:00,China,0.545529375627805,0,2,en,EAS,Asia
 'c03b75f6d2',extremes,Heat Wave,#c40202,wmo,Heat Wave Heshan City,2025-07-03T03:39:00+00:00,China,0.5455106490041784,0,2,en,EAS,Asia
 'eeb22d715d',extremes,Flood,#030ba1,wmo,Flashflood Kežmarok,2025-07-10T03:41:00+00:00,Slovakia,0.5455031606998725,0,2,en,WCE,Europe
+'31af2038e5',extremes,Earthquake,#870007,usgs,Earthquake Pante Makasar,2025-08-11T03:53:00+00:00,Timor Leste,0.5454916993497546,0,2,en,SEA,Asia
 '38afbc900d',extremes,Heat Wave,#c40202,wmo,Heat Wave yuanjiang city,2025-07-06T03:44:00+00:00,China,0.5454858548529066,0,2,en,EAS,Asia
 '5a2cd3f534',extremes,Heat Wave,#c40202,wmo,Heat Wave Baqiao District,2025-07-04T03:37:00+00:00,China,0.5454701731704074,0,2,en,EAS,Asia
 '2e7d721901',extremes,Heat Wave,#c40202,wmo,Heat Wave Fengfeng mining area,2025-07-13T03:49:00+00:00,China,0.5454608776692764,0,2,en,EAS,Asia
@@ -10133,6 +10141,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5372326770',extremes,Storm,#b3b2b1,wmo,Storm Surge Mianning County,2025-07-19T03:41:00+00:00,China,0.5428567685153876,0,2,en,EAS,Asia
 '33d22a06e1',extremes,Heat Wave,#c40202,wmo,Heat Wave Shixing County,2025-07-03T03:39:00+00:00,China,0.5428552114108965,0,2,en,EAS,Asia
 'd6c7038967',extremes,Heat Wave,#c40202,wmo,Heat Wave Liling City,2025-07-03T03:39:00+00:00,China,0.5428513293089883,0,2,en,EAS,Asia
+'851c6b37fc',extremes,Storm,#b3b2b1,wmo,Storm Nanhu District,2025-07-31T03:52:00+00:00,China,0.5428333000568266,0,2,en,EAS,Asia
 '84619e57da',extremes,Storm,#b3b2b1,wmo,Storm Xiangshan County,2025-08-06T03:54:00+00:00,China,0.5428076665224404,0,2,en,EAS,Asia
 '650d2116f8',extremes,Storm,#b3b2b1,wmo,Storm Surge Anhua County,2025-07-21T03:54:00+00:00,China,0.5427940590883078,0,2,en,EAS,Asia
 '48cd9948f9',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Quanzhou City,2025-08-13T03:39:00+00:00,China,0.5427734261692053,0,2,en,EAS,Asia
@@ -10225,11 +10234,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cc6b5bd72c',extremes,Precipitation,#d60d2b,wmo,Precipitation Interior de Alicante,2025-07-24T03:49:00+00:00,Spain,0.5411968066497203,0,2,en,MED,Europe
 '2d3972c453',extremes,Storm,#b3b2b1,wmo,Storm Surge Changji City,2025-06-28T03:33:00+00:00,China,0.5411317701327231,0,2,en,EAS,Asia
 'a90a1aeac0',extremes,Storm,#b3b2b1,wmo,Storm Boluo County,2025-07-01T03:49:00+00:00,China,0.5411269560318626,0,2,en,EAS,Asia
+'50c7b6d9c1',extremes,Storm,#b3b2b1,wmo,Storm Xingning City,2025-08-04T04:07:00+00:00,China,0.5411184358699436,0,2,en,EAS,Asia
 '8c30aab82b',extremes,Earthquake,#870007,usgs,Earthquake Naisano Dua,2025-08-11T03:53:00+00:00,Indonesia,0.5411122544624076,0,2,en,SEA,Asia
 '51cbece63d',extremes,Storm,#b3b2b1,wmo,Storm Shennongjia Forestry District,2025-07-02T03:39:00+00:00,China,0.5410969928875095,0,2,en,EAS,Asia
 '3f94279416',extremes,Flood,#030ba1,wmo,Flashflood Shelby AL,2025-08-03T04:00:00+00:00,United States,0.5410942626979544,0,2,en,CNA,North-America
 '881472b879',extremes,Heat Wave,#c40202,wmo,Heat Wave zichuan district,2025-07-27T03:56:00+00:00,China,0.5410735971632895,0,2,en,EAS,Asia
 'f70a6aab7c',extremes,Heat Wave,#c40202,wmo,Heat Wave Zhuhai City,2025-07-04T03:37:00+00:00,China,0.5410565826410207,0,2,en,EAS,Asia
+'bc745d1c8d',extremes,Heat Wave,#c40202,wmo,Heat Wave Chongming District,2025-08-06T03:54:00+00:00,China,0.5410221903587817,0,2,en,EAS,Asia
 '53297f1ece',extremes,Storm,#b3b2b1,wmo,Storm Surge Binjiang,2025-07-12T03:43:00+00:00,China,0.5410058238845155,0,2,en,EAS,Asia
 '998fa601ac',extremes,Storm,#b3b2b1,wmo,Storm Kangbashi District,2025-07-25T03:49:00+00:00,China,0.5409852320754799,0,2,en,EAS,Asia
 '250952595d',extremes,Heat Wave,#c40202,wmo,Heat Wave Mianchi County,2025-07-16T03:47:00+00:00,China,0.5409634325701611,0,2,en,EAS,Asia
@@ -10348,6 +10359,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66fa522067',extremes,Storm,#b3b2b1,wmo,Storm Surge Lianzhou city,2025-07-09T03:41:00+00:00,China,0.5390289869468622,0,2,en,EAS,Asia
 '561ca8590e',extremes,Heat Wave,#c40202,wmo,Heat Wave Hanshan District,2025-07-13T03:49:00+00:00,China,0.5390063150979465,0,2,en,EAS,Asia
 '94e9dd4459',extremes,Heat Wave,#c40202,wmo,Heat Wave Luopu County,2025-07-05T03:33:00+00:00,China,0.5390010450155378,0,2,en,EAS,Asia
+'5eae50a8c5',extremes,Drought,#edc291,edo,Drought Singapore,2025-07-25T03:49:00+00:00,Singapore,0.5389922111343411,0,2,en,SEA,Asia
 'e210545e53',extremes,Storm,#b3b2b1,wmo,Storm Five counties,2025-07-05T03:33:00+00:00,China,0.5389758356445201,0,2,en,EAS,Asia
 'e7b9976e4e',extremes,Heat Wave,#c40202,wmo,Heat Wave sanshui district,2025-07-14T03:51:00+00:00,China,0.5389171747171383,0,2,en,EAS,Asia
 'b9f7aa5ac2',extremes,Heat Wave,#c40202,wmo,Heat Wave Chancheng district,2025-07-06T03:44:00+00:00,China,0.5388825993037812,0,2,en,EAS,Asia
@@ -10421,6 +10433,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e1e71f0ca1',extremes,Heat Wave,#c40202,wmo,Heat Wave Jiashan County,2025-07-16T03:47:00+00:00,China,0.5378250746118706,0,2,en,EAS,Asia
 'c91e91d3fd',extremes,Storm,#b3b2b1,wmo,Storm Surge Weicheng District,2025-06-29T03:45:00+00:00,China,0.5378147135830031,0,2,en,EAS,Asia
 'd3f651bf45',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Shengsi County,2025-07-30T03:53:00+00:00,China,0.537798562055362,0,2,en,EAS,Asia
+'7dc6543da8',extremes,Storm,#b3b2b1,wmo,Storm Tonglu County,2025-08-13T03:39:00+00:00,China,0.5377905476985487,0,2,en,EAS,Asia
 '79b2d45089',extremes,Heat Wave,#c40202,wmo,Heat Wave Weicheng District,2025-07-03T03:39:00+00:00,China,0.5377597272718937,0,2,en,EAS,Asia
 '708cbb1154',extremes,Heat Wave,#c40202,wmo,Heat Wave Chengkou County,2025-07-15T03:48:00+00:00,China,0.5377498011156614,0,2,en,EAS,Asia
 '9f7bad3b27',extremes,Storm,#b3b2b1,wmo,Storm Surge Xintian County,2025-08-14T03:40:00+00:00,China,0.5377311038089116,0,2,en,EAS,Asia
@@ -10438,8 +10451,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29096e7270',extremes,Thunderstorm,#53785a,wmo,Hail Śląskie Province Żory County,2025-07-28T03:56:00+00:00,Poland,0.537524957097914,0,2,en,WCE,Europe
 'd36f3a84b4',extremes,Precipitation,#d60d2b,wmo,Downpour Prelitoral de Barcelona,2025-07-12T03:43:00+00:00,Spain,0.5375167260739476,0,2,en,MED,Europe
 'dc7070a77b',extremes,Thunderstorm,#53785a,wmo,Severe Weather Norway,2025-08-01T04:06:00+00:00,Norway,0.5375032049584737,0,2,en,NEU,Europe
+'f09669f6f0',extremes,Heat Wave,#c40202,wmo,Heat Wave Helong,2025-07-25T03:49:00+00:00,China,0.5374946627383533,0,2,en,EAS,Asia
 '54a16f147e',extremes,Storm,#b3b2b1,wmo,Storm Jiangkou County,2025-07-18T03:48:00+00:00,China,0.5374414828154118,0,2,en,EAS,Asia
 '89fa10072b',extremes,Earthquake,#870007,usgs,Earthquake Tejar,2025-07-19T03:41:00+00:00,Costa Rica,0.5374144736890281,0,2,en,SCA,North-America
+'5d71f92099',extremes,Precipitation,#d60d2b,wmo,Downpour Orenburg Region,2025-08-08T03:54:00+00:00,Russia,0.5373993440569302,0,2,en,ESB,Europe
 'b12de7f7b5',extremes,Heat Wave,#c40202,wmo,Heat Wave Xiangshui,2025-07-01T03:49:00+00:00,China,0.5373933966623821,0,2,en,EAS,Asia
 '64dd692b7f',extremes,Heat Wave,#c40202,wmo,Heat Wave Wuping County,2025-07-04T03:37:00+00:00,China,0.5373928100725565,0,2,en,EAS,Asia
 'e5d3440e1a',extremes,Storm,#b3b2b1,wmo,Storm Yao Autonomous County of Ruyuan,2025-07-02T03:39:00+00:00,China,0.5373671412804204,0,2,en,EAS,Asia
@@ -10521,6 +10536,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '264403d822',extremes,Storm,#b3b2b1,wmo,Storm Surge Loudi Economic District,2025-07-21T03:54:00+00:00,China,0.5360890332515578,0,2,en,EAS,Asia
 '0e76ff45cf',extremes,Storm,#b3b2b1,wmo,Storm Surge Pingqiao District,2025-08-10T03:53:00+00:00,China,0.5360514491966218,0,2,en,EAS,Asia
 '45e8e19147',extremes,Storm,#b3b2b1,wmo,Storm tuanfeng county,2025-08-12T03:37:00+00:00,China,0.536027280356457,0,2,en,EAS,Asia
+'96ddf7b7a0',extremes,Storm,#b3b2b1,wmo,Storm Surge Fangcheng District,2025-08-05T03:57:00+00:00,China,0.5359613992097715,0,2,en,EAS,Asia
 'a5d647a660',extremes,Storm,#b3b2b1,wmo,Storm Yushu,2025-07-04T03:37:00+00:00,China,0.5359573012189466,0,2,en,EAS,Asia
 'c21ddd8575',extremes,Earthquake,#870007,usgs,Earthquake Hiroo,2025-07-29T03:58:00+00:00,Japan,0.5359331658308937,0,2,en,EAS,Asia
 '8e9d81743e',extremes,Heat Wave,#c40202,wmo,Heat Wave Suxian,2025-07-03T03:39:00+00:00,China,0.535920789705371,0,2,en,EAS,Asia
@@ -10576,6 +10592,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2e0de1a714',extremes,Heat Wave,#c40202,wmo,Heat Wave Huojia County,2025-07-04T03:37:00+00:00,China,0.5351858307318497,0,2,en,EAS,Asia
 'c8ec0a72f8',extremes,Storm,#b3b2b1,wmo,Storm Yunxi District,2025-06-29T03:45:00+00:00,China,0.5351836145401554,0,2,en,EAS,Asia
 '1b5eacb9eb',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Veľký Krtíš,2025-07-26T03:46:00+00:00,Slovakia,0.5351823056159085,0,2,en,WCE,Europe
+'ba420b3b6e',extremes,Storm,#b3b2b1,wmo,Storm Surge Wuxing District,2025-07-30T03:53:00+00:00,China,0.5351784630485825,0,2,en,EAS,Asia
 '26530cdc60',extremes,Thunderstorm,#53785a,wmo,Hail Śląskie Province Pszczyński County,2025-07-15T03:48:00+00:00,Poland,0.5351725383906262,0,2,en,WCE,Europe
 '6d784fb807',extremes,Storm,#b3b2b1,wmo,Storm Daning County,2025-07-08T03:39:00+00:00,China,0.5351601144475912,0,2,en,EAS,Asia
 '462850cc5f',extremes,Storm,#b3b2b1,wmo,Storm Yuyang District,2025-07-19T03:41:00+00:00,China,0.5351389756969729,0,2,en,EAS,Asia
@@ -10633,6 +10650,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c758769fdb',extremes,Storm,#b3b2b1,wmo,Storm Haikou City,2025-06-28T03:33:00+00:00,China,0.5343131825401483,0,2,en,EAS,Asia
 '094324a9e9',extremes,Storm,#b3b2b1,wmo,Storm Surge Xinxing County,2025-07-29T03:59:00+00:00,China,0.5343112741806952,0,2,en,EAS,Asia
 'b92dc837fd',extremes,Heat Wave,#c40202,wmo,Heat Wave Luanzhou City,2025-07-13T03:49:00+00:00,China,0.5342851825320806,0,2,en,EAS,Asia
+'aee660031c',extremes,Heat Wave,#c40202,wmo,Heat Wave Pudong New Area,2025-08-03T04:00:00+00:00,China,0.5342632183887515,0,2,en,EAS,Asia
 '9a778d31d7',extremes,Storm,#b3b2b1,wmo,Storm Surge luhe county,2025-08-05T03:57:00+00:00,China,0.5341801717638294,0,2,en,EAS,Asia
 '4092cd6db6',extremes,Heat Wave,#c40202,wmo,Heat Wave Cheng An county,2025-07-05T03:33:00+00:00,China,0.5341771452446954,0,2,en,EAS,Asia
 '5cdb483db3',extremes,Storm,#b3b2b1,wmo,Storm Yingjing County,2025-07-05T03:33:00+00:00,China,0.5341654353888667,0,2,en,EAS,Asia
@@ -10683,11 +10701,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35e2d03d17',extremes,Heat Wave,#c40202,wmo,Heat Wave Huludao City,2025-07-04T03:37:00+00:00,China,0.5333919582014386,0,2,en,EAS,Asia
 'cdab38daeb',extremes,Heat Wave,#c40202,wmo,Heat Wave Barkol Kazakh Autonomous County,2025-07-15T03:48:00+00:00,China,0.5333845706078654,0,2,en,EAS,Asia
 '7d0dff1c8b',extremes,Heat Wave,#c40202,wmo,Heat Wave Haibowan District,2025-07-17T03:47:00+00:00,China,0.533368431198407,0,2,en,EAS,Asia
+'04bfece19b',extremes,Storm,#b3b2b1,wmo,Storm Huaping County,2025-07-26T03:46:00+00:00,China,0.5332712179779258,0,2,en,EAS,Asia
 '3c99191e71',extremes,Heat Wave,#c40202,wmo,Heat Wave Zhuolu County,2025-07-04T03:37:00+00:00,China,0.5332578125212833,0,2,en,EAS,Asia
 'a76584f49a',extremes,Heat Wave,#c40202,wmo,Heat Wave Yuxian,2025-07-15T03:48:00+00:00,China,0.533250634843572,0,2,en,EAS,Asia
 '281b7f570a',extremes,Drought,#edc291,acwe,dry spell South Australia,2025-07-01T03:49:00+00:00,Australia,0.5332503658400246,0,2,en,SAU,Oceania
 '23eb0a7674',extremes,Heat Wave,#c40202,wmo,Heat Wave Xunyang,2025-07-03T03:39:00+00:00,China,0.5332334463077981,0,2,en,EAS,Asia
 'ed71c03f17',extremes,Precipitation,#d60d2b,wmo,Rain Northern Hungary,2025-07-15T03:48:00+00:00,Hungary,0.5332274293253622,0,2,en,WCE,Europe
+'62c215a38c',extremes,Storm,#b3b2b1,wmo,Storm Fengkai County,2025-08-03T04:00:00+00:00,China,0.5331894149390148,0,2,en,EAS,Asia
 '21e572f1fa',extremes,Heat Wave,#c40202,wmo,Heat Wave Jilin City,2025-07-08T03:39:00+00:00,China,0.5331701583599192,0,2,en,EAS,Asia
 '1694bf74d2',extremes,Storm,#b3b2b1,wmo,Storm Surge qingzhen,2025-06-29T03:45:00+00:00,China,0.5331582602157174,0,2,en,EAS,Asia
 '345544eab4',extremes,Storm,#b3b2b1,wmo,Storm Taishan City,2025-06-30T03:43:00+00:00,China,0.5331220205284232,0,2,en,EAS,Asia
@@ -10876,6 +10896,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '41391e4c9d',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Yongqiao District,2025-07-31T03:52:00+00:00,China,0.52979023264663,0,2,en,EAS,Asia
 'dad817271e',extremes,Storm,#b3b2b1,wmo,Storm Longyou County,2025-06-29T03:45:00+00:00,China,0.5297855823282112,0,2,en,EAS,Asia
 'd2ab6fe635',extremes,Storm,#b3b2b1,wmo,Storm Qingzhou City,2025-07-30T03:53:00+00:00,China,0.5297428911541681,0,2,en,EAS,Asia
+'04f990069a',extremes,Drought,#edc291,edo,Lack of Rain Belarus,2025-08-09T03:39:00+00:00,Belarus,0.529738564914059,0,2,en,WCE,Europe
 '48cc2cdac4',extremes,Storm,#b3b2b1,wmo,Storm Xiapu County,2025-07-09T03:41:00+00:00,China,0.5296757748058682,0,2,en,EAS,Asia
 '1a8b1b71ae',extremes,Storm,#b3b2b1,wmo,Storm Xingbin District,2025-07-13T03:49:00+00:00,China,0.5296752446328344,0,2,en,EAS,Asia
 '157df9fcce',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Parts of Vestlandet,2025-06-29T03:45:00+00:00,Norway,0.5296670693458965,0,2,en,NEU,Europe
@@ -10988,6 +11009,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83b037d3d6',extremes,Storm,#b3b2b1,wmo,Storm Lianghe County,2025-07-25T03:49:00+00:00,China,0.5282146288024803,0,2,en,EAS,Asia
 '7b0cda18d6',extremes,Thunderstorm,#53785a,wmo,Hail Depresión central de Barcelona,2025-07-02T03:39:00+00:00,Spain,0.5282018210083148,0,2,en,MED,Europe
 '1d1a5e21ae',extremes,Heat Wave,#c40202,wmo,Heat Wave Kuche County,2025-07-04T03:37:00+00:00,China,0.5281484075630203,0,2,en,EAS,Asia
+'50ddc5afa3',extremes,Storm,#b3b2b1,wmo,Storm Deqin County,2025-07-27T03:56:00+00:00,China,0.5281363525086868,0,2,en,EAS,Asia
 'e50a81a70e',extremes,Storm,#b3b2b1,wmo,Storm Surge honghu city,2025-07-21T03:54:00+00:00,China,0.5281095645714897,0,2,en,EAS,Asia
 '26ef637e2f',extremes,Heat Wave,#c40202,wmo,Heat Wave Dianbai District,2025-07-05T03:33:00+00:00,China,0.5280989898676004,0,2,en,EAS,Asia
 '652216b34f',extremes,Storm,#b3b2b1,wmo,Storm Surge Dingxiang County,2025-07-03T03:39:00+00:00,China,0.528061942920238,0,2,en,EAS,Asia
@@ -11093,6 +11115,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd80954fe9f',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Wenling City,2025-07-08T03:39:00+00:00,China,0.5262275461329219,0,2,en,EAS,Asia
 'af92745a03',extremes,Earthquake,#870007,usgs,Earthquake Nagasaki,2025-07-25T03:48:00+00:00,Japan,0.5262197266190533,0,2,en,EAS,Asia
 '1a0832a19c',extremes,Precipitation,#d60d2b,wmo,Precipitation Wahlern Plaffeien,2025-07-28T03:56:00+00:00,Switzerland,0.5261760930764099,0,2,en,WCE,Europe
+'0a76952074',extremes,Storm,#b3b2b1,wmo,Storm Surge hannan district,2025-08-12T03:37:00+00:00,China,0.5261376124011685,0,2,en,EAS,Asia
 'e32eca4b34',extremes,Storm,#b3b2b1,wmo,Storm Surge Tianmen,2025-08-10T03:53:00+00:00,China,0.5261265976603113,0,2,en,EAS,Asia
 'a4764a7e7f',extremes,Tropical Cyclone,#4f4f4f,relief,Tropical Cyclone Bangladesh,2025-08-03T04:00:00+00:00,Bangladesh,0.5260928798617209,0,2,en,SAS,Asia
 '22f01beca5',extremes,Storm,#b3b2b1,wmo,Storm Surge Qingyun County,2025-07-29T03:59:00+00:00,China,0.5260756973816924,0,2,en,EAS,Asia
@@ -11120,6 +11143,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd9adbeea7d',extremes,Storm,#b3b2b1,wmo,Storm Surge Chenxi County,2025-07-21T03:54:00+00:00,China,0.5257226838149752,0,2,en,EAS,Asia
 'f86559b46c',extremes,Storm,#b3b2b1,wmo,Storm Tengchong City,2025-08-12T03:37:00+00:00,China,0.5257150988725011,0,2,en,EAS,Asia
 '4342c50a39',extremes,Storm,#b3b2b1,wmo,Storm Fangzheng County,2025-08-11T03:54:00+00:00,China,0.5256926035586891,0,2,en,EAS,Asia
+'a472442a1b',extremes,Storm,#b3b2b1,wmo,Storm Surge Pudong New Area,2025-07-25T03:49:00+00:00,China,0.525683202004407,0,2,en,EAS,Asia
 'a8b6c50bff',extremes,Storm,#b3b2b1,wmo,Storm Shuangbai County,2025-07-31T03:52:00+00:00,China,0.525603014577431,0,2,en,EAS,Asia
 'b6def97a3c',extremes,Thunderstorm,#53785a,wmo,Hail Grodno Region,2025-07-14T03:51:00+00:00,Belarus,0.525570489724923,0,2,en,WCE,Europe
 '39976373ca',extremes,Heat Wave,#c40202,wmo,Heat Wave Cangwu County,2025-07-03T03:39:00+00:00,China,0.5255303231958472,0,2,en,EAS,Asia
@@ -11215,6 +11239,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '657d049939',extremes,Earthquake,#870007,usgs,Earthquake Taira,2025-08-04T04:07:00+00:00,Japan,0.5241686268351308,0,2,en,EAS,Asia
 '566e0d31b8',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Cordillera Cantábrica de Burgos,2025-07-10T03:41:00+00:00,Spain,0.5241665481544012,0,2,en,MED,Europe
 '609900664d',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Huaian District,2025-07-31T03:52:00+00:00,China,0.5241557133777391,0,2,en,EAS,Asia
+'dfad6759ce',extremes,Storm,#b3b2b1,wmo,Storm Wuzhai County,2025-07-25T03:49:00+00:00,China,0.5241498690020551,0,2,en,EAS,Asia
 '1deb7be7ac',extremes,Heat Wave,#c40202,wmo,Heat Wave Meishan City,2025-07-26T03:46:00+00:00,China,0.5241277302012851,0,2,en,EAS,Asia
 '2097889eed',extremes,Heat Wave,#c40202,wmo,Heat Wave Wucheng District,2025-07-05T03:33:00+00:00,China,0.5241200183182378,0,2,en,EAS,Asia
 'c8e4cf9a0f',extremes,Storm,#b3b2b1,wmo,Storm Surge Xinyi City,2025-07-11T03:47:00+00:00,China,0.5240662733489204,0,2,en,EAS,Asia
@@ -11231,6 +11256,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8adb3e34c7',extremes,Storm,#b3b2b1,wmo,Storm Surge Harbor District,2025-07-24T03:49:00+00:00,China,0.5237787808810073,0,2,en,EAS,Asia
 '87b0e86fff',extremes,Heat Wave,#c40202,wmo,Heat Wave Kailu County,2025-07-09T03:41:00+00:00,China,0.5237557775766805,0,2,en,EAS,Asia
 '5a944cd51d',extremes,Thunderstorm,#53785a,wmo,Hail West Sterea,2025-07-18T03:48:00+00:00,Greece,0.5237521540397666,0,2,en,MED,Europe
+'1ba1252534',extremes,Storm,#b3b2b1,wmo,Storm Surge Qujiang District,2025-08-08T03:54:00+00:00,China,0.5237221101118452,0,2,en,EAS,Asia
 '06fa4acdb0',extremes,Thunderstorm,#53785a,wmo,Severe Weather Johnson WY Natrona WY,2025-07-16T03:47:00+00:00,United States,0.5236639909385932,0,2,en,CNA,North-America
 'f61745316c',extremes,Storm,#b3b2b1,wmo,Storm Surge Daming County,2025-08-04T04:07:00+00:00,China,0.523625690686805,0,2,en,EAS,Asia
 '5050a22b33',extremes,Drought,#edc291,edo,Dry Spell United States,2025-08-14T03:40:00+00:00,United States,0.5236225893100643,0,2,en,WCE,Europe
@@ -11295,6 +11321,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3aa81244de',extremes,Storm,#b3b2b1,wmo,Storm Jiayin County,2025-07-02T03:39:00+00:00,China,0.5223028169173816,0,2,en,EAS,Asia
 '050683049d',extremes,Storm,#b3b2b1,wmo,Storm Shilin Yi Autonomous County,2025-07-07T03:43:00+00:00,China,0.522273167202836,0,2,en,EAS,Asia
 'a190f15617',extremes,Storm,#b3b2b1,wmo,Storm Xingan County,2025-07-20T03:55:00+00:00,China,0.52226986769918,0,2,en,EAS,Asia
+'1c9e5898f1',extremes,Storm,#b3b2b1,wmo,Storm Qingpu District,2025-07-30T03:53:00+00:00,China,0.5221666940025647,0,2,en,EAS,Asia
 '5e6df55a3d',extremes,Heat Wave,#c40202,wmo,Heat Wave Lingshan County,2025-07-25T03:49:00+00:00,China,0.5221421710343039,0,2,en,EAS,Asia
 'ac7a01e25b',extremes,Storm,#b3b2b1,wmo,Storm Surge Jimsar County,2025-07-02T03:39:00+00:00,China,0.5220872990903442,0,2,en,EAS,Asia
 '907ce7521f',extremes,Storm,#b3b2b1,wmo,Storm Surge Mengzi City,2025-07-02T03:39:00+00:00,China,0.5220559595658392,0,2,en,EAS,Asia
@@ -11323,6 +11350,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '65c0b7ad00',extremes,Earthquake,#870007,usgs,Earthquake Magdalena,2025-07-22T03:48:00+00:00,Philippines,0.5217511876231156,0,2,en,SEA,Asia
 'cd15c269c0',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Meseta de Burgos,2025-07-11T03:47:00+00:00,Spain,0.5216519615673889,0,2,en,MED,Europe
 'c05e9bd140',extremes,Storm,#b3b2b1,wmo,Storm Surge Minquan County,2025-07-21T03:54:00+00:00,China,0.5216385132699402,0,2,en,EAS,Asia
+'f6ffd9db2a',extremes,Storm,#b3b2b1,wmo,Storm Surge Baoshan District,2025-07-26T03:46:00+00:00,China,0.5216223219967877,0,2,en,EAS,Asia
 'b1f36e50e4',extremes,Storm,#b3b2b1,wmo,Storm Surge Emeishan City,2025-07-19T03:41:00+00:00,China,0.5215985037504572,0,2,en,EAS,Asia
 '898bd4a31c',extremes,Precipitation,#d60d2b,wmo,Downpour Brienz Interlaken,2025-08-01T04:06:00+00:00,Switzerland,0.5215881051856548,0,2,en,WCE,Europe
 '3b57b58937',extremes,Storm,#b3b2b1,wmo,Storm Pudong New Area,2025-07-18T03:48:00+00:00,China,0.5214993059307352,0,2,en,EAS,Asia
@@ -11392,6 +11420,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c91d94219f',extremes,Storm,#b3b2b1,wmo,Storm Guazhou County,2025-07-07T03:43:00+00:00,China,0.5204699978963716,0,2,en,EAS,Asia
 '0412b83db7',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane huiyang district,2025-08-13T03:39:00+00:00,China,0.5204583092396889,0,2,en,EAS,Asia
 '14a34653b5',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Baoshan District,2025-07-31T03:52:00+00:00,China,0.5203548051729866,0,2,en,EAS,Asia
+'0b5ca17ca5',extremes,Storm,#b3b2b1,wmo,Storm Haiyan County,2025-08-12T03:37:00+00:00,China,0.5203482833411477,0,2,en,EAS,Asia
 '0a1f721c85',extremes,Storm,#b3b2b1,wmo,Storm Surge Haifeng County,2025-07-10T03:41:00+00:00,China,0.5202791029360231,0,2,en,EAS,Asia
 '5fc3ec91e8',extremes,Storm,#b3b2b1,wmo,Storm Hong an County,2025-08-11T03:54:00+00:00,China,0.5202604064210014,0,2,en,EAS,Asia
 '8782633dff',extremes,Storm,#b3b2b1,wmo,Storm Renze District,2025-06-28T03:33:00+00:00,China,0.520214864746568,0,2,en,EAS,Asia
@@ -11480,6 +11509,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4e55ccbb2c',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Mingguang City,2025-08-01T04:06:00+00:00,China,0.5186656050942119,0,2,en,EAS,Asia
 '535291516f',extremes,Storm,#b3b2b1,wmo,Storm Surge Tongjiang City,2025-07-12T03:43:00+00:00,China,0.5186603383292789,0,2,en,EAS,Asia
 '9d51c6df79',extremes,Storm,#b3b2b1,wmo,Storm Surge Rongxian,2025-07-11T03:47:00+00:00,China,0.5186466575931586,0,2,en,EAS,Asia
+'cfed67e757',extremes,Storm,#b3b2b1,wmo,Storm Gongqingcheng,2025-08-03T04:00:00+00:00,China,0.5186438908754266,0,2,en,EAS,Asia
 'a793728cd0',extremes,Storm,#b3b2b1,wmo,Storm Surge Huachuan County,2025-07-21T03:54:00+00:00,China,0.5186338551271159,0,2,en,EAS,Asia
 'a5af635a7b',extremes,Storm,#b3b2b1,wmo,Storm Surge Pingshan County,2025-07-27T03:56:00+00:00,China,0.5186235043108648,0,2,en,EAS,Asia
 '4b55121afe',extremes,Storm,#b3b2b1,wmo,Storm Gaoyang County,2025-08-05T03:57:00+00:00,China,0.5186059940687671,0,2,en,EAS,Asia
@@ -11517,6 +11547,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f877f969d1',extremes,Storm,#b3b2b1,wmo,Storm Pubei County,2025-06-29T03:45:00+00:00,China,0.5180628112140562,0,2,en,EAS,Asia
 'e43a6c6faa',extremes,Storm,#b3b2b1,wmo,Storm Yingshouyingzi Mining District,2025-07-24T03:49:00+00:00,China,0.5180455456000191,0,2,en,EAS,Asia
 '1be89fdce7',extremes,Storm,#b3b2b1,wmo,Storm Guan County,2025-08-04T04:07:00+00:00,China,0.5180331181873321,0,2,en,EAS,Asia
+'37950e61e3',extremes,Heat Wave,#c40202,wmo,Heat Wave City of Kunshan,2025-08-13T03:39:00+00:00,China,0.5180303527853235,0,2,en,EAS,Asia
 'c84406ff12',extremes,Storm,#b3b2b1,wmo,Storm Surge Mishan,2025-07-31T03:52:00+00:00,China,0.5180194950278291,0,2,en,EAS,Asia
 '1111c3611a',extremes,Storm,#b3b2b1,wmo,Storm Surge Qianxi City,2025-07-21T03:54:00+00:00,China,0.5180138803731972,0,2,en,EAS,Asia
 '3ace6657a8',extremes,Storm,#b3b2b1,wmo,Storm Xixiang County,2025-06-30T03:43:00+00:00,China,0.5179983771935569,0,2,en,EAS,Asia
@@ -11583,6 +11614,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa1ffc7119',extremes,Storm,#b3b2b1,wmo,Storm Surge haining city,2025-07-09T03:41:00+00:00,China,0.5169788682591612,0,2,en,EAS,Asia
 '230f5c5e43',extremes,Heat Wave,#c40202,wmo,Heat Wave Longgang city,2025-08-09T03:39:00+00:00,China,0.5169627459097303,0,2,en,EAS,Asia
 'dcfbd79d90',extremes,Storm,#b3b2b1,wmo,Storm Surge Minqing County,2025-07-21T03:54:00+00:00,China,0.5169624695036488,0,2,en,EAS,Asia
+'4cc4fc6cb4',extremes,Storm,#b3b2b1,wmo,Storm Yuping Dong Autonomous County,2025-07-28T03:56:00+00:00,China,0.5169447802816616,0,2,en,EAS,Asia
 'c5184e4031',extremes,Heat Wave,#c40202,wmo,Heat Wave haining city,2025-07-05T03:33:00+00:00,China,0.5169111813443221,0,2,en,EAS,Asia
 'db7ab99e4e',extremes,Storm,#b3b2b1,wmo,Storm Weishi County,2025-07-23T03:50:00+00:00,China,0.5169091287011597,0,2,en,EAS,Asia
 '0912c32d20',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Conghua District,2025-07-20T03:55:00+00:00,China,0.5168771992388742,0,2,en,EAS,Asia
@@ -11713,11 +11745,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2a63ed81cf',extremes,Storm,#b3b2b1,wmo,Storm Mulan County,2025-07-12T03:43:00+00:00,China,0.51413858796098,0,2,en,EAS,Asia
 '8ce4970789',extremes,Storm,#b3b2b1,wmo,Storm Xichong County,2025-08-10T03:53:00+00:00,China,0.5141348695514122,0,2,en,EAS,Asia
 '4b90f8500f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Turukhanskiy m.r.,2025-07-06T03:44:00+00:00,Russia,0.514125074270361,0,2,en,ESB,Europe
+'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,heavy rain,2025-07-28T03:56:00+00:00,,0.514116858169408,0,2,en,,
 'bb392ac1c0',extremes,Storm,#b3b2b1,wmo,Storm Du an Yao Autonomous County,2025-07-13T03:49:00+00:00,China,0.5141143210139768,0,2,en,EAS,Asia
 '676d75aea7',extremes,Landslide,#572c03,fema,Kansas Severe Storms Straight line Winds Tornadoes and Flooding,2025-07-24T03:49:00+00:00,United States,0.5141019244610967,0,2,en,CNA,North-America
 '1ea3827360',extremes,Thunderstorm,#53785a,wmo,Severe Weather South of Krasnoyarsk Krai,2025-07-04T03:37:00+00:00,Russia,0.5140604043729691,0,2,en,ESB,Europe
 '3f1278e1a4',extremes,Storm,#b3b2b1,wmo,Storm Lianping County,2025-07-19T03:41:00+00:00,China,0.5140601415624934,0,2,en,EAS,Asia
 'c108ba6e4e',extremes,Thunderstorm,#53785a,wmo,Severe Weather Katihar Purnia districts of Bihar,2025-08-13T03:39:00+00:00,India,0.5140377906354452,0,2,en,SAS,Asia
+'8c98918b38',extremes,Heat Wave,#c40202,wmo,Heat Wave Baoshan District,2025-08-07T03:55:00+00:00,China,0.5140358074573927,0,2,en,EAS,Asia
 'ec7b39f0d6',extremes,Storm,#b3b2b1,wmo,Storm Surge Wuchuan City,2025-08-02T03:44:00+00:00,China,0.5140322966598855,0,2,en,EAS,Asia
 'c11aa7d6a6',extremes,Heat Wave,#c40202,wmo,Heat Wave Yining City,2025-07-18T03:48:00+00:00,China,0.5139742402850692,0,2,en,EAS,Asia
 '10315c595c',extremes,Thunderstorm,#53785a,wmo,Severe Weather Kaliningrad Region,2025-07-22T03:48:00+00:00,Russia,0.5139524705808464,0,2,en,ESB,Europe
@@ -11757,6 +11791,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1008eb059',extremes,Storm,#b3b2b1,wmo,Storm Surge Xingan,2025-07-12T03:43:00+00:00,China,0.51339263278898,0,2,en,EAS,Asia
 '19d6ba1ce9',extremes,Storm,#b3b2b1,wmo,Storm Huai an County,2025-07-29T03:59:00+00:00,China,0.5133484007587824,0,2,en,EAS,Asia
 'c316d3cfe5',extremes,Storm,#b3b2b1,wmo,Storm Qionghai City,2025-07-11T03:47:00+00:00,China,0.5133337904204462,0,2,en,EAS,Asia
+'6d7c920c97',extremes,Storm,#b3b2b1,wmo,Storm Surge Songjiang District,2025-07-25T03:49:00+00:00,China,0.5133214591527383,0,2,en,EAS,Asia
 '58ce33cd9c',extremes,Storm,#b3b2b1,wmo,Storm Lunan District,2025-07-03T03:39:00+00:00,China,0.5132961492330691,0,2,en,EAS,Asia
 '504d615afc',extremes,Heat Wave,#c40202,wmo,Heat Wave Zezhou County,2025-07-13T03:49:00+00:00,China,0.5132620181010745,0,2,en,EAS,Asia
 'ad14021e81',extremes,Storm,#b3b2b1,wmo,Storm Yugan County,2025-07-10T03:41:00+00:00,China,0.5132580791695176,0,2,en,EAS,Asia
@@ -11780,6 +11815,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '345d38a49f',extremes,Storm,#b3b2b1,wmo,Storm Surge Ding an County,2025-07-02T03:39:00+00:00,China,0.5128948493604193,0,2,en,EAS,Asia
 'e84532b8bc',extremes,Storm,#b3b2b1,wmo,Storm weihui city,2025-08-05T03:57:00+00:00,China,0.5128709428050381,0,2,en,EAS,Asia
 'c0ccebb09a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Pomoravlje,2025-07-19T03:41:00+00:00,Serbia,0.5128173007781334,0,2,en,MED,Europe
+'7a9f856c9a',extremes,Storm,#b3b2b1,wmo,Storm Surge Dalian,2025-07-29T03:59:00+00:00,China,0.5128135307157646,0,2,en,EAS,Asia
 '16a420a456',extremes,Storm,#b3b2b1,wmo,Storm Qinggang County,2025-07-20T03:55:00+00:00,China,0.5128125042089833,0,2,en,EAS,Asia
 'ff5dd93efb',extremes,Storm,#b3b2b1,wmo,Storm Surge wuhua district,2025-07-30T03:53:00+00:00,China,0.5128041850593161,0,2,en,EAS,Asia
 '59933cd977',extremes,Storm,#b3b2b1,wmo,Storm Surge Xinfu District,2025-08-03T04:00:00+00:00,China,0.5127805072093887,0,2,en,EAS,Asia
@@ -11808,6 +11844,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10993d7c57',extremes,Storm,#b3b2b1,fema,Missouri Severe Storms and Flooding,2025-07-24T03:49:00+00:00,United States,0.5123978733711956,0,2,en,CNA,North-America
 'b5f6897402',extremes,Storm,#b3b2b1,wmo,Storm Turpan city,2025-07-06T03:44:00+00:00,China,0.5123937344035604,0,2,en,EAS,Asia
 '66cef2d041',extremes,Storm,#b3b2b1,wmo,Storm Chongming District,2025-07-25T03:49:00+00:00,China,0.5123759231207897,0,2,en,EAS,Asia
+'a7d5d25b51',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Samara Region,2025-08-10T03:53:00+00:00,Russia,0.5123682021445461,0,2,en,ESB,Europe
 '9cccc1d976',extremes,Storm,#b3b2b1,wmo,Storm Surge Chengde County,2025-07-13T03:49:00+00:00,China,0.5123611400580594,0,2,en,EAS,Asia
 '5dba525025',extremes,Storm,#b3b2b1,wmo,Storm Surge Guling Town,2025-08-14T03:40:00+00:00,China,0.5123528144453845,0,2,en,EAS,Asia
 '75486dfb2f',extremes,Storm,#b3b2b1,wmo,Storm Surge Hepu County,2025-08-04T04:07:00+00:00,China,0.5123497754782087,0,2,en,EAS,Asia
@@ -11836,6 +11873,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4760af4def',extremes,Landslide,#572c03,wmo,Landslide Luquan District,2025-07-29T03:59:00+00:00,China,0.5117822563762132,0,2,en,EAS,Asia
 '6f401cc3e9',extremes,Storm,#b3b2b1,wmo,Storm Xian an District,2025-06-29T03:45:00+00:00,China,0.5117576805211537,0,2,en,EAS,Asia
 'd3a2624358',extremes,Storm,#b3b2b1,wmo,Storm Qixingguan District,2025-07-08T03:39:00+00:00,China,0.5116759714053488,0,2,en,EAS,Asia
+'f71ee1d874',extremes,Storm,#b3b2b1,wmo,Storm Minfeng County,2025-07-31T03:52:00+00:00,China,0.5116331930128795,0,2,en,EAS,Asia
 '349781b48d',extremes,Storm,#b3b2b1,wmo,Storm Surge Hotan City,2025-07-01T03:49:00+00:00,China,0.5116084347686604,0,2,en,EAS,Asia
 'b246f4bbe4',extremes,Storm,#b3b2b1,wmo,Storm Nanjiang County,2025-07-07T03:43:00+00:00,China,0.5115908987486372,0,2,en,EAS,Asia
 'fecc67f92a',extremes,Storm,#b3b2b1,wmo,Storm Surge Licheng County,2025-06-29T03:45:00+00:00,China,0.5115807386307254,0,2,en,EAS,Asia
@@ -11848,6 +11886,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bfdb5b7cbb',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Astrakhan Region,2025-07-24T03:49:00+00:00,Russia,0.5114701780214456,0,2,en,ESB,Europe
 '9c5b5e2e5b',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Gmünd,2025-07-03T03:39:00+00:00,Austria,0.5114585977373131,0,2,en,WCE,Europe
 'd64195a16b',extremes,Storm,#b3b2b1,wmo,Storm Hekou District,2025-08-09T03:39:00+00:00,China,0.5114516956639191,0,2,en,EAS,Asia
+'5f81a6f048',extremes,Storm,#b3b2b1,wmo,Storm Surge Ningwu County,2025-08-03T04:00:00+00:00,China,0.5114471690705654,0,2,en,EAS,Asia
 'aa93153305',extremes,Storm,#b3b2b1,wmo,Storm Yuanping,2025-07-02T03:39:00+00:00,China,0.5114433310888211,0,2,en,EAS,Asia
 '4b6a1ed5f2',extremes,Drought,#edc291,edo,Drought Cabo Verde,2025-08-09T03:39:00+00:00,Cabo Verde,0.5114380036684623,0,2,en,NAO,Atlantic Ocean
 'dee7dd42b1',extremes,Storm,#b3b2b1,wmo,Storm Surge Maqu County,2025-07-08T03:39:00+00:00,China,0.5114198953396639,0,2,en,EAS,Asia
@@ -11855,8 +11894,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d3fd8c125',extremes,Storm,#b3b2b1,wmo,Storm Bailu Town,2025-07-12T03:43:00+00:00,China,0.5112310492248793,0,2,en,EAS,Asia
 'd534618ebb',extremes,Storm,#b3b2b1,wmo,Storm Surge Changfeng County,2025-08-10T03:53:00+00:00,China,0.5112125401591598,0,2,en,EAS,Asia
 'b847656d0a',extremes,Storm,#b3b2b1,wmo,Storm Surge Da an City,2025-07-02T03:39:00+00:00,China,0.5111252354248057,0,2,en,EAS,Asia
+'5d63e1549b',extremes,Storm,#b3b2b1,wmo,Storm Suixi County,2025-08-05T03:57:00+00:00,China,0.5110134117829563,0,2,en,EAS,Asia
 '7dd626a3fb',extremes,Storm,#b3b2b1,wmo,Storm Saline Lake District,2025-08-05T03:57:00+00:00,China,0.5109917757249345,0,2,en,EAS,Asia
 'a02349342d',extremes,Storm,#b3b2b1,wmo,Storm Surge Gangu County,2025-07-24T03:49:00+00:00,China,0.5109432708645257,0,2,en,EAS,Asia
+'ae3979352d',extremes,Storm,#b3b2b1,wmo,Storm Surge Simao District,2025-07-31T03:52:00+00:00,China,0.5109382386888215,0,2,en,EAS,Asia
 '5b9af3c94d',extremes,Heat Wave,#c40202,wmo,Heat Wave Changchun City,2025-07-09T03:41:00+00:00,China,0.5109301590933157,0,2,en,EAS,Asia
 '23ede44775',extremes,Earthquake,#870007,usgs,Earthquake Takedamachi,2025-07-27T03:56:00+00:00,Japan,0.5109252393053745,0,2,en,EAS,Asia
 '4b75eb79ba',extremes,Storm,#b3b2b1,wmo,Storm xuecheng district,2025-07-31T03:52:00+00:00,China,0.5109044223658479,0,2,en,EAS,Asia
@@ -11928,6 +11969,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0638b9a71e',extremes,Storm,#b3b2b1,wmo,Storm Lincheng County,2025-08-09T03:39:00+00:00,China,0.5089958250875958,0,2,en,EAS,Asia
 '725ac4a730',extremes,Storm,#b3b2b1,wmo,Storm Surge Fuliang County,2025-07-31T03:52:00+00:00,China,0.5089767668060936,0,2,en,EAS,Asia
 'e8f0ebce2e',extremes,Storm,#b3b2b1,wmo,Storm Surge Jinggangshan City,2025-07-21T03:54:00+00:00,China,0.5089679953364848,0,2,en,EAS,Asia
+'4c08b16889',extremes,Storm,#b3b2b1,wmo,Storm Surge LAN Xian,2025-07-29T03:59:00+00:00,China,0.5089611946050522,0,2,en,EAS,Asia
 '8b8947eb8c',extremes,Storm,#b3b2b1,wmo,Storm Xingan,2025-07-11T03:47:00+00:00,China,0.5089513599412796,0,2,en,EAS,Asia
 'a444afcb4d',extremes,Storm,#b3b2b1,wmo,Storm Surge Horqin Left Middle Banner,2025-07-16T03:47:00+00:00,China,0.5089215192210343,0,2,en,EAS,Asia
 '6cb9a36a77',extremes,Storm,#b3b2b1,wmo,Storm The State District,2025-08-11T03:54:00+00:00,China,0.5089106980028126,0,2,en,EAS,Asia
@@ -12038,6 +12080,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a09084bc9',extremes,Storm,#b3b2b1,wmo,Storm Yuhang District,2025-06-29T03:45:00+00:00,China,0.506485060123933,0,2,en,EAS,Asia
 '178f76c10c',extremes,Storm,#b3b2b1,wmo,Storm Surge Huangling County,2025-06-30T03:43:00+00:00,China,0.5064721230790742,0,2,en,EAS,Asia
 '5f7e4fa2ca',extremes,Storm,#b3b2b1,wmo,Storm Yucheng District,2025-08-09T03:39:00+00:00,China,0.5064320876035694,0,2,en,EAS,Asia
+'1c8bb1f3a8',extremes,Storm,#b3b2b1,wmo,Storm Surge Zhenyuan County,2025-08-12T03:37:00+00:00,China,0.5063453246443514,0,2,en,EAS,Asia
 'b56dae013e',extremes,Storm,#b3b2b1,wmo,Storm Surge Suibin County,2025-07-03T03:39:00+00:00,China,0.5063249626896792,0,2,en,EAS,Asia
 '6da213bdfc',extremes,Precipitation,#d60d2b,wmo,Precipitation Chaoyang District,2025-07-22T03:48:00+00:00,China,0.5063198313424091,0,2,en,EAS,Asia
 'e3e02fba4d',extremes,Storm,#b3b2b1,wmo,Storm Surge Yitong Manchu Autonomous County,2025-07-11T03:47:00+00:00,China,0.5063047538823703,0,2,en,EAS,Asia
@@ -12055,6 +12098,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c902b47b8',extremes,Storm,#b3b2b1,wmo,Storm Fenggang,2025-07-11T03:47:00+00:00,China,0.506055943876135,0,2,en,EAS,Asia
 'a4877f2acd',extremes,Thunderstorm,#53785a,wmo,Hail Tambov Region,2025-07-04T03:37:00+00:00,Russia,0.506055689699098,0,2,en,ESB,Europe
 '911875bcd1',extremes,Storm,#b3b2b1,wmo,Storm Mangshi,2025-07-12T03:43:00+00:00,China,0.5060506292812625,0,2,en,EAS,Asia
+'38be4fce6c',extremes,Storm,#b3b2b1,wmo,Storm Surge Ganxian,2025-08-04T04:07:00+00:00,China,0.5060394045776405,0,2,en,EAS,Asia
 'ba8196112f',extremes,Storm,#b3b2b1,wmo,Storm Surge jiexiu city,2025-07-01T03:49:00+00:00,China,0.5060300971839516,0,2,en,EAS,Asia
 '01cf25aeab',extremes,Storm,#b3b2b1,wmo,Storm Songxi County,2025-07-13T03:49:00+00:00,China,0.5059564369005498,0,2,en,EAS,Asia
 '0c18f78620',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Xinxing County,2025-07-20T03:55:00+00:00,China,0.505933540494227,0,2,en,EAS,Asia
@@ -12080,6 +12124,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33fe9c2202',extremes,Thunderstorm,#53785a,wmo,Hail Republic of Karelia,2025-07-13T03:49:00+00:00,Russia,0.5054320227492952,0,2,en,ESB,Europe
 '45500dcb47',extremes,Precipitation,#d60d2b,random,record rainfall,2025-07-02T03:38:00+00:00,,0.5054197780057856,0,2,en,,
 'cd4549c8b1',extremes,Thunderstorm,#53785a,wmo,Hail Metropolitana y Henares,2025-08-14T03:40:00+00:00,Spain,0.505413878904316,0,2,en,MED,Europe
+'130e48d2c5',extremes,Storm,#b3b2b1,wmo,Storm Surge Dexing,2025-07-31T03:52:00+00:00,China,0.5052815328969976,0,2,en,EAS,Asia
 '7730389bd8',extremes,Storm,#b3b2b1,wmo,Storm Surge Fengfeng mining area,2025-08-09T03:39:00+00:00,China,0.5052765351623458,0,2,en,EAS,Asia
 'b0dc5bdb82',extremes,Storm,#b3b2b1,wmo,Storm Jinsha County,2025-06-29T03:45:00+00:00,China,0.505221717209206,0,2,en,EAS,Asia
 'e993d7224f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Evenkiyskiy m.r.,2025-07-15T03:48:00+00:00,Russia,0.5051742173587946,0,2,en,ESB,Europe
@@ -12104,6 +12149,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '738190fea3',extremes,Storm,#b3b2b1,wmo,Storm Wuxi County,2025-07-01T03:49:00+00:00,China,0.5048897274769978,0,2,en,EAS,Asia
 '623e49ef1d',extremes,Storm,#b3b2b1,wmo,Storm Fenyi County,2025-07-30T03:53:00+00:00,China,0.5048712128723584,0,2,en,EAS,Asia
 '3f626f9617',extremes,Storm,#b3b2b1,wmo,Storm Surge Qinyang City,2025-07-05T03:33:00+00:00,China,0.5048591226654833,0,2,en,EAS,Asia
+'f7326849db',extremes,Storm,#b3b2b1,wmo,Storm Surge Youyu County,2025-08-08T03:54:00+00:00,China,0.5048503707306543,0,2,en,EAS,Asia
 '814c9ef7f8',extremes,Storm,#b3b2b1,wmo,Storm Surge Ningjiang district,2025-07-13T03:49:00+00:00,China,0.5048455938226111,0,2,en,EAS,Asia
 '394d4f849c',extremes,Storm,#b3b2b1,wmo,Storm Surge Yanchi County,2025-07-04T03:37:00+00:00,China,0.5048403554586972,0,2,en,EAS,Asia
 '967e45935c',extremes,Storm,#b3b2b1,wmo,Storm Wuping County,2025-08-03T04:00:00+00:00,China,0.5047959595678753,0,2,en,EAS,Asia
@@ -12186,7 +12232,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '25e89c2734',extremes,Thunderstorm,#53785a,wmo,Hail Toscana,2025-07-05T03:33:00+00:00,Italy,0.5026008907618981,0,2,en,MED,Europe
 'e78eae35c4',extremes,Storm,#b3b2b1,wmo,Storm Surge Xuyong County,2025-07-03T03:39:00+00:00,China,0.5025647124073817,0,2,en,EAS,Asia
 '877290ea32',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Guang an District,2025-07-07T03:43:00+00:00,China,0.5025571057343807,0,2,en,EAS,Asia
+'451ba303bb',extremes,Storm,#b3b2b1,wmo,Storm Surge tuanfeng county,2025-08-11T03:54:00+00:00,China,0.5025411706494655,0,2,en,EAS,Asia
 'ee3af43927',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Republic of Karelia,2025-07-31T03:52:00+00:00,Russia,0.5025298460691399,0,2,en,ESB,Europe
+'4c6b50d91b',extremes,Storm,#b3b2b1,wmo,Storm Surge Wushi County,2025-07-30T03:53:00+00:00,China,0.5025192471326279,0,2,en,EAS,Asia
 '5de3ae8364',extremes,Storm,#b3b2b1,wmo,Storm Surge Shanshan County,2025-07-12T03:43:00+00:00,China,0.5024954313407912,0,2,en,EAS,Asia
 '4eaf672a4a',extremes,Storm,#b3b2b1,wmo,Storm Surge Tang Wang County,2025-07-03T03:39:00+00:00,China,0.5024894674601987,0,2,en,EAS,Asia
 '45e209e91c',extremes,Landslide,#572c03,wmo,Rockslide Jianzha County,2025-06-29T03:45:00+00:00,China,0.5024447576463216,0,2,en,EAS,Asia
@@ -12494,6 +12542,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f4fba39a7',extremes,Drought,#edc291,acwe,dry spell Queensland,2025-07-02T03:39:00+00:00,Australia,0.4907361535854379,0,2,en,CAU,Oceania
 '35d493389d',extremes,Thunderstorm,#53785a,eswd,Lightning Spain,2025-08-13T03:39:00+00:00,Spain,0.4906872871239733,0,2,en,MED,Europe
 '016b24717e',extremes,Storm,#b3b2b1,wmo,Storm Surge Poyang County,2025-07-10T03:41:00+00:00,China,0.4906611820176093,0,2,en,EAS,Asia
+'7a4e1f857c',extremes,Storm,#b3b2b1,wmo,Storm Surge Rugao,2025-08-02T03:44:00+00:00,China,0.49055847912069,0,2,en,EAS,Asia
 '758d3f1389',extremes,Storm,#b3b2b1,wmo,Storm Nanan City,2025-07-22T03:48:00+00:00,China,0.4905026788926519,0,2,en,EAS,Asia
 'b5da523bf1',extremes,Thunderstorm,#53785a,wmo,Hail Ibérica de Burgos,2025-08-12T03:37:00+00:00,Spain,0.4904596729328802,0,2,en,MED,Europe
 '9869fe52d0',extremes,Precipitation,#d60d2b,wmo,Precipitation Pingshan County,2025-07-19T03:41:00+00:00,China,0.4904070985516496,0,2,en,EAS,Asia
@@ -12616,6 +12665,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e3c6604856',extremes,Thunderstorm,#53785a,wmo,Severe Weather Trenčín,2025-07-24T03:49:00+00:00,Slovakia,0.4867208596605936,0,2,en,WCE,Europe
 '28c5aae843',extremes,Thunderstorm,#53785a,wmo,Severe Weather Bytča,2025-07-26T03:46:00+00:00,Slovakia,0.4867164033695832,0,2,en,WCE,Europe
 '0ae1735bf6',extremes,Thunderstorm,#53785a,wmo,Hail Eisenstadt Stadt,2025-07-08T03:39:00+00:00,Austria,0.486705198835726,0,2,en,WCE,Europe
+'8c2a427db8',extremes,Precipitation,#d60d2b,wmo,Rain xuanzhou district,2025-08-01T04:06:00+00:00,China,0.4865345671340879,0,2,en,EAS,Asia
 '7fe82cd305',extremes,Thunderstorm,#53785a,wmo,Severe Weather Karlovac region,2025-07-06T03:44:00+00:00,Croatia,0.4865132813908738,0,2,en,WCE,Europe
 '9a88b3e3bf',extremes,Precipitation,#d60d2b,wmo,Downpour Mabian,2025-07-21T03:54:00+00:00,China,0.4864299151437739,0,2,en,EAS,Asia
 'a478e24bce',extremes,Storm,#b3b2b1,wmo,Storm Qidong County,2025-07-10T03:41:00+00:00,China,0.4863944110031431,0,2,en,EAS,Asia
@@ -12662,6 +12712,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4745dcf72d',extremes,Storm,#b3b2b1,wmo,Storm Daishan County,2025-07-28T03:56:00+00:00,China,0.4851294531265344,0,2,en,EAS,Asia
 'f7c5690916',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Qionghai City,2025-07-20T03:55:00+00:00,China,0.4851173058404548,0,2,en,EAS,Asia
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,Heat Wave Paris,2025-07-11T03:48:00+00:00,France,0.4851141870802241,0,2,en,NEAF,Africa
+'2e16320cb5',extremes,Storm,#b3b2b1,wmo,Storm Surge Manasi County,2025-08-05T03:57:00+00:00,China,0.4851129660889089,0,2,en,EAS,Asia
 'd9987644f9',extremes,Thunderstorm,#53785a,wmo,Hail Pomorskie Province Chojnicki County,2025-07-08T03:39:00+00:00,Poland,0.4851102067558437,0,2,en,WCE,Europe
 'b6d5d581d8',extremes,Thunderstorm,#53785a,wmo,Hail Wien Simmering,2025-07-24T03:49:00+00:00,Austria,0.4850989157302805,0,2,en,WCE,Europe
 'c5688951bb',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Kirchdorf an der Krems,2025-07-26T03:46:00+00:00,Austria,0.4850979163468595,0,2,en,WCE,Europe
@@ -12890,6 +12941,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2dec55547f',extremes,Precipitation,#d60d2b,wmo,Downpour Xuanen County,2025-07-01T03:49:00+00:00,China,0.4785492612340749,0,2,en,EAS,Asia
 '2513e1e4dd',extremes,Earthquake,#870007,usgs,Earthquake Linfen,2025-07-26T03:46:00+00:00,China,0.4785459137975985,0,2,en,EAS,Asia
 '80dffceb51',extremes,Storm,#b3b2b1,wmo,Storm Surge Xinghe County,2025-07-07T03:43:00+00:00,China,0.4785129098022364,0,2,en,EAS,Asia
+'93fad436cf',extremes,Drought,#edc291,edo,Lack of Rain Vietnam,2025-07-25T03:49:00+00:00,Vietnam,0.4785069451159884,0,2,en,SEA,Asia
 '8f3c36da08',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Siziwangqi,2025-07-26T03:46:00+00:00,China,0.4784441793167846,0,2,en,EAS,Asia
 '7e8b1eebe5',extremes,Storm,#b3b2b1,wmo,Storm Mudanjiang City,2025-07-07T03:43:00+00:00,China,0.4784277743075484,0,2,en,EAS,Asia
 'e4b6fd64a5',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Depresión central de Tarragona,2025-07-10T03:41:00+00:00,Spain,0.4784207742588887,0,2,en,MED,Europe
@@ -12931,6 +12983,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1f56b6a321',extremes,Precipitation,#d60d2b,wmo,Precipitation changyang tujia autonomous county,2025-08-11T03:54:00+00:00,China,0.4773409953083658,0,2,en,EAS,Asia
 '3bdf4b27f7',extremes,Precipitation,#d60d2b,wmo,Rain Yixian County,2025-07-01T03:49:00+00:00,China,0.4773299483701385,0,2,en,EAS,Asia
 'ecee1a0fa0',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Ibérica de Soria,2025-07-02T03:39:00+00:00,Spain,0.477313923121779,0,2,en,MED,Europe
+'5665a02529',extremes,Iceberg,#d60d2b,eonet,Iceberg A85,2025-08-03T04:00:00+00:00,Antarctica,0.4772949892950307,0,2,en,EAN,Antarctica
 '9ae2312070',extremes,Wildfire,#d60d2b,eonet,Iron Wildfire Miami Dade Florida,2025-07-17T03:46:00+00:00,United States,0.4772788168153169,0,2,en,ENA,North-America
 'f55631065a',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Yanbian County,2025-08-08T03:54:00+00:00,China,0.4772764312617725,0,2,en,EAS,Asia
 '6533059109',extremes,Precipitation,#d60d2b,wmo,Rain Chunan County,2025-08-13T03:39:00+00:00,China,0.4772711727733198,0,2,en,EAS,Asia
@@ -12954,6 +13007,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '846e5dc2f2',extremes,Precipitation,#d60d2b,wmo,Rain Xiaochang County,2025-08-10T03:53:00+00:00,China,0.4769024832076626,0,2,en,EAS,Asia
 'e8febe4fff',extremes,Precipitation,#d60d2b,wmo,Downpour xindu district,2025-08-10T03:53:00+00:00,China,0.4769008654795116,0,2,en,EAS,Asia
 '8a45caaaf4',extremes,Thunderstorm,#53785a,wmo,Hail Landeck,2025-07-26T03:46:00+00:00,Austria,0.4768796384793267,0,2,en,WCE,Europe
+'a2e4d0aeb2',extremes,Precipitation,#d60d2b,wmo,Precipitation Yingshan County,2025-08-11T03:54:00+00:00,China,0.4768644011714766,0,2,en,EAS,Asia
 'a89577f5a2',extremes,Wildfire,#d60d2b,eonet,Sowbelly Wildfire Mesa Colorado,2025-07-15T03:48:00+00:00,United States,0.4768578843035777,0,2,en,WNA,North-America
 '8a92cd2a04',extremes,Flood,#030ba1,fema,Texas Severe Storms Straight line Winds and Flooding,2025-07-07T03:43:00+00:00,United States,0.4768570989575156,0,2,en,CNA,North-America
 'acdd2e20cc',extremes,Precipitation,#d60d2b,wmo,Downpour Dafang County,2025-07-01T03:49:00+00:00,China,0.4768532961670764,0,2,en,EAS,Asia
@@ -13035,6 +13089,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56acdbe05f',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Yuexi County,2025-07-31T03:52:00+00:00,China,0.4755428163883718,0,2,en,EAS,Asia
 'f55a12216c',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Gaozhou City,2025-07-21T03:54:00+00:00,China,0.4755400810608753,0,2,en,EAS,Asia
 '02e1bac819',extremes,Storm,#b3b2b1,wmo,Storm Surge Taonan,2025-07-29T03:59:00+00:00,China,0.4755297231355289,0,2,en,EAS,Asia
+'b1512b35d8',extremes,Flood,#030ba1,relief,Flash Flood Nigeria,2025-07-27T03:56:00+00:00,Nigeria,0.4755267760200306,0,2,en,WAF,Africa
 'df4c098c91',extremes,Precipitation,#d60d2b,wmo,Downpour Nong an County,2025-07-26T03:46:00+00:00,China,0.4755248136829698,0,2,en,EAS,Asia
 '17c4d2e1ef',extremes,Landslide,#572c03,wmo,Rockslide huadian city,2025-07-30T03:53:00+00:00,China,0.4754898936351008,0,2,en,EAS,Asia
 '0352890e4f',extremes,Precipitation,#d60d2b,wmo,Rain Daya Bay District,2025-08-05T03:57:00+00:00,China,0.4754855392534113,0,2,en,EAS,Asia
@@ -13483,6 +13538,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '607db8f543',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Liaoyuan City,2025-07-30T03:53:00+00:00,China,0.4684464315250408,0,2,en,EAS,Asia
 '70eeccff67',extremes,Precipitation,#d60d2b,wmo,Downpour fuding,2025-07-07T03:43:00+00:00,China,0.4684389490197705,0,2,en,EAS,Asia
 '14fb886df2',extremes,Precipitation,#d60d2b,wmo,Precipitation Zanhuang County,2025-07-26T03:46:00+00:00,China,0.4684259243107741,0,2,en,EAS,Asia
+'b9bf3eaa72',extremes,Precipitation,#d60d2b,wmo,Rain Lianzhou city,2025-08-06T03:54:00+00:00,China,0.4684122604632731,0,2,en,EAS,Asia
 'a599891cba',extremes,Precipitation,#d60d2b,wmo,Downpour Maguan County,2025-06-30T03:43:00+00:00,China,0.4683937817997791,0,2,en,EAS,Asia
 'fc0d466c1f',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Daocheng County,2025-08-05T03:57:00+00:00,China,0.4683561156783734,0,2,en,EAS,Asia
 '8c158861de',extremes,Thunderstorm,#53785a,wmo,Hail Ibérica de Soria,2025-07-04T03:37:00+00:00,Spain,0.4683261727335127,0,2,en,MED,Europe
@@ -13540,6 +13596,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '460ec87763',extremes,Precipitation,#d60d2b,wmo,Precipitation Shijingshan District,2025-07-24T03:49:00+00:00,China,0.4674025756692055,0,2,en,EAS,Asia
 '3549e0f3d7',extremes,Precipitation,#d60d2b,wmo,Rain Saihan District,2025-07-24T03:49:00+00:00,China,0.4673987048397368,0,2,en,EAS,Asia
 '6b29650eaa',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Yongtai County,2025-07-27T03:56:00+00:00,China,0.4673909876388314,0,2,en,EAS,Asia
+'7d5c0f1509',extremes,Storm,#b3b2b1,wmo,Storm Surge Yangshan County,2025-08-14T03:40:00+00:00,China,0.4673666347776376,0,2,en,EAS,Asia
 '0353ecdf81',extremes,Precipitation,#d60d2b,wmo,Downpour Binyang County,2025-08-05T03:57:00+00:00,China,0.467347641232149,0,2,en,EAS,Asia
 '21ab768ed7',extremes,Precipitation,#d60d2b,wmo,Rain Pingan District,2025-06-29T03:45:00+00:00,China,0.4673344850379815,0,2,en,EAS,Asia
 '0cc1d47ff5',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Foping County,2025-08-10T03:53:00+00:00,China,0.4673331502815452,0,2,en,EAS,Asia
@@ -13691,6 +13748,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edc2bc550d',extremes,Precipitation,#d60d2b,wmo,Downpour Longhu District,2025-08-02T03:44:00+00:00,China,0.4650431364007432,0,2,en,EAS,Asia
 'f664da248e',extremes,Precipitation,#d60d2b,wmo,Downpour Liannan Yao Autonomous County,2025-08-07T03:55:00+00:00,China,0.4650252135175841,0,2,en,EAS,Asia
 'abdbe51078',extremes,Flood,#030ba1,wmo,Flood Pingluo County,2025-08-04T04:07:00+00:00,China,0.4650021747867795,0,2,en,EAS,Asia
+'bec00b646c',extremes,Drought,#edc291,edo,Drought Mali,2025-07-31T03:52:00+00:00,Mali,0.4649866529666307,0,2,en,WAF,Africa
 '39f19a9f71',extremes,Landslide,#572c03,wmo,Mudslide Putuo District,2025-07-29T03:59:00+00:00,China,0.464980367481751,0,2,en,EAS,Asia
 '847fd74475',extremes,Precipitation,#d60d2b,wmo,Downpour Peixian,2025-08-14T03:40:00+00:00,China,0.4649735607640288,0,2,en,EAS,Asia
 '9a4a3fe47e',extremes,Thunderstorm,#53785a,wmo,Hail Lulong County,2025-06-30T03:43:00+00:00,China,0.4649083910531164,0,2,en,EAS,Asia
@@ -14007,6 +14065,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '79a024add8',extremes,Thunderstorm,#53785a,wmo,Hail Depresión central de Tarragona,2025-07-11T03:47:00+00:00,Spain,0.4598778261904013,0,2,en,MED,Europe
 '9cbae042a9',extremes,Thunderstorm,#53785a,wmo,Hail Cordillera Cantábrica de Palencia,2025-07-04T03:37:00+00:00,Spain,0.4598574543242115,0,2,en,MED,Europe
 'b00b3b0bcc',extremes,Flood,#030ba1,wmo,Flooding Weixian County,2025-08-03T04:00:00+00:00,China,0.4598502680328456,0,2,en,EAS,Asia
+'a462142f37',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Pingguo City,2025-08-04T04:07:00+00:00,China,0.4598474222100701,0,2,en,EAS,Asia
 'ccb7703f95',extremes,Precipitation,#d60d2b,wmo,Precipitation Gaobeidian City,2025-08-05T03:57:00+00:00,China,0.4598385109850196,0,2,en,EAS,Asia
 'f5c7faea76',extremes,Storm,#b3b2b1,wmo,Storm Surge Huarong District,2025-08-07T03:55:00+00:00,China,0.4597975840862069,0,2,en,EAS,Asia
 'ac7ab10199',extremes,Precipitation,#d60d2b,wmo,Downpour Zhenkang County,2025-07-06T03:44:00+00:00,China,0.4597934090780957,0,2,en,EAS,Asia
@@ -14175,6 +14234,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '68b1799dbe',extremes,Precipitation,#d60d2b,wmo,Downpour Kaiping City,2025-07-11T03:47:00+00:00,China,0.4575098764368385,0,2,en,EAS,Asia
 'f8e8f685d3',extremes,Precipitation,#d60d2b,wmo,Rain cixi city,2025-08-03T04:00:00+00:00,China,0.4574424049519247,0,2,en,EAS,Asia
 '92edbb51e2',extremes,Storm,#b3b2b1,wmo,Storm Surge Linjiang,2025-07-20T03:55:00+00:00,China,0.4574141117005952,0,2,en,EAS,Asia
+'0a05d555ce',extremes,Flood,#030ba1,wmo,Flashflood Helan County,2025-07-31T03:52:00+00:00,China,0.4574102426482117,0,2,en,EAS,Asia
 'fd4eb9dcfc',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Qijiang District,2025-08-11T03:54:00+00:00,China,0.457409785882689,0,2,en,EAS,Asia
 'ee3a5c0d68',extremes,Thunderstorm,#53785a,wmo,Severe Weather Sankt Johann im Pongau,2025-07-23T03:50:00+00:00,Austria,0.4573498716571297,0,2,en,WCE,Europe
 '0e9f654be8',extremes,Precipitation,#d60d2b,wmo,Downpour Daming County,2025-07-23T03:50:00+00:00,China,0.4573165274249661,0,2,en,EAS,Asia
@@ -14612,7 +14672,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '951476f7ca',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Xinlong County,2025-07-03T03:39:00+00:00,China,0.4497422834959993,0,2,en,EAS,Asia
 'd5a997224e',extremes,Precipitation,#d60d2b,wmo,Rain Huolingol Shi,2025-07-09T03:41:00+00:00,China,0.4497360846154934,0,2,en,EAS,Asia
 '4a41e92135',extremes,Precipitation,#d60d2b,wmo,Downpour Yongji County,2025-08-02T03:44:00+00:00,China,0.4497275003799801,0,2,en,EAS,Asia
+'1b928a3725',extremes,Thunderstorm,#53785a,wmo,Hail Tongzhou District,2025-07-27T03:56:00+00:00,China,0.4497029275066129,0,2,en,EAS,Asia
 '82bfcec092',extremes,Precipitation,#d60d2b,wmo,Precipitation Yunyang District,2025-07-11T03:47:00+00:00,China,0.4496896548468154,0,2,en,EAS,Asia
+'4bf7dc30b6',extremes,Storm,#b3b2b1,wmo,Storm Jinshan District,2025-08-11T03:54:00+00:00,China,0.4496654964883599,0,2,en,EAS,Asia
 '3d59285b08',extremes,Storm,#b3b2b1,wmo,Storm Xinle City,2025-08-04T04:07:00+00:00,China,0.449648202837827,0,2,en,EAS,Asia
 'd18498d4dd',extremes,Precipitation,#d60d2b,wmo,Downpour Binchuan County,2025-07-26T03:46:00+00:00,China,0.4496461264645577,0,2,en,EAS,Asia
 '85416c8c26',extremes,Precipitation,#d60d2b,wmo,Rain Lanshan County,2025-08-06T03:54:00+00:00,China,0.4496381875680247,0,2,en,EAS,Asia
@@ -14796,6 +14858,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5997b9429',extremes,Thunderstorm,#53785a,wmo,Severe Weather Xianfeng County,2025-08-02T03:44:00+00:00,China,0.4470370364994968,0,2,en,EAS,Asia
 'f049f09668',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Naiman,2025-07-01T03:49:00+00:00,China,0.4470285479083579,0,2,en,EAS,Asia
 'dec00199fc',extremes,Thunderstorm,#53785a,wmo,Severe Weather Guangling County,2025-06-30T03:43:00+00:00,China,0.447017249827493,0,2,en,EAS,Asia
+'c660119466',extremes,Landslide,#572c03,relief,Landslide Vietnam,2025-07-26T03:46:00+00:00,Vietnam,0.4469645569431073,0,2,en,SEA,Asia
 '8f3709b8e9',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Xianyou County,2025-07-14T03:51:00+00:00,China,0.4469474474853733,0,2,en,EAS,Asia
 '3a85548716',extremes,Thunderstorm,#53785a,wmo,Severe Weather Changli County,2025-06-30T03:43:00+00:00,China,0.4469468740236094,0,2,en,EAS,Asia
 'c33e1e6904',extremes,Thunderstorm,#53785a,wmo,Hail Dingyuan County,2025-07-08T03:39:00+00:00,China,0.4469165539689989,0,2,en,EAS,Asia
@@ -14983,6 +15046,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16f18b36c8',extremes,Thunderstorm,#53785a,wmo,Severe Weather Eryuan County,2025-07-28T03:56:00+00:00,China,0.4449972120269382,0,2,en,EAS,Asia
 'abc33f22cb',extremes,Thunderstorm,#53785a,wmo,Hail maojian district,2025-06-30T03:43:00+00:00,China,0.4449654143286429,0,2,en,EAS,Asia
 '89561f9c86',extremes,Thunderstorm,#53785a,wmo,Hail Wuchuan City,2025-07-29T03:59:00+00:00,China,0.4449510079927996,0,2,en,EAS,Asia
+'de8ad9fe6f',extremes,Precipitation,#d60d2b,wmo,Downpour Pingluo County,2025-07-31T03:52:00+00:00,China,0.4449451736619788,0,2,en,EAS,Asia
 '99ae2eaba8',extremes,Wildfire,#d60d2b,eonet,Rush Wildfire Valley Idaho,2025-07-15T03:48:00+00:00,United States,0.4449444025436427,0,2,en,WNA,North-America
 '8ff4ad4157',extremes,Thunderstorm,#53785a,wmo,Hail Lichuan city,2025-07-23T03:50:00+00:00,China,0.4449410503261309,0,2,en,EAS,Asia
 '7c21b8c494',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Shucheng County,2025-08-01T04:06:00+00:00,China,0.4449353993473274,0,2,en,EAS,Asia
@@ -15009,6 +15073,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a93e455776',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Changtai District,2025-07-29T03:59:00+00:00,China,0.4447142206767301,0,2,en,EAS,Asia
 '4cc75b05de',extremes,Thunderstorm,#53785a,wmo,Severe Weather Huishui County,2025-08-06T03:54:00+00:00,China,0.4447108111905146,0,2,en,EAS,Asia
 '191804d420',extremes,Thunderstorm,#53785a,wmo,Hail Wuqia County,2025-07-12T03:43:00+00:00,China,0.4446972105098452,0,2,en,EAS,Asia
+'b7a6a7616b',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Hoboksar Mongol Autonomous County,2025-08-10T03:53:00+00:00,China,0.4446924628210878,0,2,en,EAS,Asia
 'abd48de623',extremes,Thunderstorm,#53785a,wmo,Hail Artux City,2025-07-24T03:49:00+00:00,China,0.4446908038266428,0,2,en,EAS,Asia
 'dd8d6a46d1',extremes,Thunderstorm,#53785a,wmo,Severe Weather Siping City,2025-07-30T03:53:00+00:00,China,0.4446843598311123,0,2,en,EAS,Asia
 '5e5ae4771d',extremes,Flood,#030ba1,wmo,Flooding Songxi County,2025-07-09T03:41:00+00:00,China,0.4446600918269414,0,2,en,EAS,Asia
@@ -15088,6 +15153,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be43592c4c',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Dechang County,2025-08-08T03:54:00+00:00,China,0.4440220707044503,0,2,en,EAS,Asia
 'cd78066b8c',extremes,Thunderstorm,#53785a,wmo,Severe Weather Weihai City,2025-08-02T03:44:00+00:00,China,0.4440064979971316,0,2,en,EAS,Asia
 'a3f3980564',extremes,Precipitation,#d60d2b,wmo,Downpour xinghua,2025-08-02T03:44:00+00:00,China,0.443995946549194,0,2,en,EAS,Asia
+'5b0e6798f5',extremes,Storm,#b3b2b1,wmo,Storm Surge Binyang County,2025-08-01T04:06:00+00:00,China,0.443989479342479,0,2,en,EAS,Asia
 'da77b5167a',extremes,Earthquake,#870007,usgs,Earthquake Hayuliang,2025-07-18T03:48:00+00:00,India,0.443982781324834,0,2,en,SAS,Asia
 '74d145bbcb',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Danzhai County,2025-07-28T03:56:00+00:00,China,0.4439715817195785,0,2,en,EAS,Asia
 '03c5c1721b',extremes,Thunderstorm,#53785a,wmo,Severe Weather Shawan County,2025-08-11T03:54:00+00:00,China,0.4439664791265182,0,2,en,EAS,Asia
@@ -16098,6 +16164,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b4119e855',extremes,Thunderstorm,#53785a,wmo,Severe Weather Lingao County,2025-07-08T03:39:00+00:00,China,0.4365781459424572,0,2,en,EAS,Asia
 '9a0ef4890c',extremes,Thunderstorm,#53785a,wmo,Severe Weather Kashi City,2025-07-09T03:41:00+00:00,China,0.4365711698329865,0,2,en,EAS,Asia
 '02c2e55f0e',extremes,Thunderstorm,#53785a,wmo,Hail Leting County,2025-07-20T03:55:00+00:00,China,0.4365649456020203,0,2,en,EAS,Asia
+'782a6173cf',extremes,Storm,#b3b2b1,wmo,Storm Bama,2025-07-31T03:52:00+00:00,China,0.4365546978264842,0,2,en,EAS,Asia
 '5876ac9d64',extremes,Thunderstorm,#53785a,wmo,Severe Weather Junlian County,2025-08-06T03:54:00+00:00,China,0.4365499676269448,0,2,en,EAS,Asia
 '004256a370',extremes,Thunderstorm,#53785a,wmo,Hail Hengzhou City,2025-06-30T03:43:00+00:00,China,0.4365451055643069,0,2,en,EAS,Asia
 '4941c547ca',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Wan An county,2025-07-28T03:56:00+00:00,China,0.4365393402354934,0,2,en,EAS,Asia
@@ -16544,6 +16611,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ddae2805c5',extremes,Storm,#b3b2b1,wmo,Storm Surge Chikan District,2025-07-02T03:39:00+00:00,China,0.4330839969570605,0,2,en,EAS,Asia
 'cd5b1a9428',extremes,Thunderstorm,#53785a,wmo,Severe Weather Langxi County,2025-07-08T03:39:00+00:00,China,0.4330803088475918,0,2,en,EAS,Asia
 '72166b9358',extremes,Thunderstorm,#53785a,wmo,Severe Weather Ergun City,2025-07-20T03:55:00+00:00,China,0.4330764833978395,0,2,en,EAS,Asia
+'bc5458c172',extremes,Thunderstorm,#53785a,wmo,Severe Weather Rongjiang County,2025-07-30T03:53:00+00:00,China,0.4330750855111764,0,2,en,EAS,Asia
 '47d84a4899',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Tongchuan District,2025-07-09T03:41:00+00:00,China,0.4330735377502022,0,2,en,EAS,Asia
 'b532a29117',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Linxi County,2025-08-08T03:54:00+00:00,China,0.4330611062818498,0,2,en,EAS,Asia
 'bbdf00cb6b',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Xingbin District,2025-07-22T03:48:00+00:00,China,0.4330513357538721,0,2,en,EAS,Asia
@@ -17124,6 +17192,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c42fe2c792',extremes,Storm,#b3b2b1,wmo,Storm Xinrong District,2025-07-02T03:39:00+00:00,China,0.4256967395387144,0,2,en,EAS,Asia
 'f5c6a24727',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Buerjin County,2025-07-05T03:33:00+00:00,China,0.4256864317537319,0,2,en,EAS,Asia
 '8f80bae6a4',extremes,Thunderstorm,#53785a,wmo,Hail Wuyishan City,2025-07-12T03:43:00+00:00,China,0.425685879750508,0,2,en,EAS,Asia
+'8395b516c2',extremes,Storm,#b3b2b1,wmo,Storm Nanhai District,2025-08-14T03:40:00+00:00,China,0.4256731819968402,0,2,en,EAS,Asia
 '63da078fbb',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Shunping,2025-07-09T03:41:00+00:00,China,0.425642606745467,0,2,en,EAS,Asia
 'ddcd61a6f6',extremes,Thunderstorm,#53785a,wmo,Severe Weather Xixia County,2025-07-17T03:47:00+00:00,China,0.4256420652634599,0,2,en,EAS,Asia
 '22fd16f464',extremes,Landslide,#572c03,wmo,Rockslide Gutian County,2025-07-21T03:54:00+00:00,China,0.4256118545445743,0,2,en,EAS,Asia
