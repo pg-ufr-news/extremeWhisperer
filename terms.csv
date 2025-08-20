@@ -3,8 +3,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c2234bb1a5',extremes,Tsunami,#690191,usgs,Tsunami Atka,2025-07-17T03:46:00+00:00,Alaska,0.8158370501242058,1,2,en,NPO,North-America
 'e40d44c836',extremes,Earthquake,#870007,usgs,Earthquake Burica,2025-07-15T03:48:00+00:00,Panama,0.8155540128319472,1,2,en,SCA,South-America
 'a560bcfef3',extremes,Volcano,#b83202,eonet,Reykjanes Volcano Iceland,2025-07-22T03:48:00+00:00,,0.7927814072801368,1,3,en,GIC,
+'4033774f46',extremes,Landslide,#572c03,relief,Land Slide Nepal,2025-08-19T03:30:00+00:00,Nepal,0.7911880942630963,0,2,en,TIB,Asia
 '3eaafee2ea',extremes,Wildfire,#d60d2b,fema,Colorado Elk Fire,2025-08-11T03:54:00+00:00,United States,0.769912311932626,1,2,en,WNA,North-America
 'ad9e0f2296',extremes,Wildfire,#d60d2b,fema,Wildfire California,2025-08-10T03:53:00+00:00,United States,0.7698695960538953,1,3,en,WNA,North-America
+'c95e885889',extremes,Thunderstorm,#53785a,wmo,Severe Weather India,2025-08-08T03:54:00+00:00,India,0.7609760710080656,0,2,en,SAS,Asia
+'0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,Frost Chile,2025-08-01T04:06:00+00:00,Chile,0.760973595241265,0,2,en,SWS,South-America
 'a042df04f6',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Thailand,2025-07-06T03:44:00+00:00,Thailand,0.7606639375267322,0,2,en,SEA,Asia
 '1375321fd3',extremes,Flood,#030ba1,relief,Flood Nigeria,2025-08-10T03:52:00+00:00,Nigeria,0.7605843605765982,0,2,en,WAF,Africa
 'b810b0cd39',extremes,Thunderstorm,#53785a,wmo,Hail Cork Kerry Limerick,2025-08-18T03:50:00+00:00,Ireland,0.7605679891164635,0,2,en,NEU,Europe
@@ -168,6 +171,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '384838564d',extremes,Snow&Ice,#d60d2b,wmo,Ice Crown Range Road,2025-08-07T03:55:00+00:00,New Zealand,0.7567486534234492,0,2,en,NZ,Oceania
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,Heat Wave Chile,2025-08-03T04:00:00+00:00,Chile,0.7567435016123906,0,2,en,SWS,South-America
 'd3e9b8c212',extremes,Storm,#b3b2b1,wmo,Storm Antigua and Barbuda,2025-08-13T03:39:00+00:00,Antigua and Barbuda,0.7567058540563979,0,2,en,CAR,North-America
+'1c0214d974',extremes,Storm,#b3b2b1,wmo,Storm South Africa,2025-08-09T03:39:00+00:00,South Africa,0.756690144288624,0,2,en,WSAF,Africa
 '8c4a64cb73',extremes,Fog,#d60d2b,wmo,Fog North of Kuril islands,2025-07-31T03:52:00+00:00,Russia,0.7566723805586515,0,2,en,ESB,Europe
 'f2a6d25b24',extremes,Wildfire,#d60d2b,wmo,Wildfire Parts of Troms,2025-07-18T03:48:00+00:00,Norway,0.7566653249123001,0,2,en,NEU,Europe
 'a01a4d5226',extremes,Storm,#b3b2b1,wmo,Storm Northland,2025-07-03T03:39:00+00:00,New Zealand,0.7566572688997049,0,2,en,NZ,Oceania
@@ -248,6 +252,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7357c22dd',extremes,Fog,#d60d2b,wmo,Fog North Western Negev Western Negev,2025-07-28T03:56:00+00:00,Israel,0.75521488069771,0,2,en,MED,Asia
 '0c32f6c523',extremes,Wildfire,#d60d2b,wmo,Wildfire Kirov Region,2025-07-21T03:54:00+00:00,Russia,0.7552060070321969,0,2,en,ESB,Europe
 '6b8f6a44b5',extremes,Fog,#d60d2b,wmo,Fog Ulyanovsk Region,2025-07-24T03:49:00+00:00,Russia,0.7551758763765292,0,2,en,ESB,Europe
+'0077950340',extremes,Wildfire,#d60d2b,wmo,Wildfire Norway,2025-08-02T03:44:00+00:00,Norway,0.7551661714080132,0,2,en,NEU,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,Storm Iceland,2025-08-06T03:54:00+00:00,Iceland,0.7551515267123969,0,2,en,GIC,Europe
 '845bd9a9ef',extremes,Wildfire,#d60d2b,wmo,Wildfire Perm Krai,2025-07-18T03:48:00+00:00,Russia,0.7551326239909435,0,2,en,ESB,Europe
 'c248619f6b',extremes,Fog,#d60d2b,wmo,Fog South of Kamchatka Krai,2025-07-26T03:46:00+00:00,Russia,0.7551264383136529,0,2,en,ESB,Europe
@@ -10973,6 +10978,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '91d0dc4b0a',extremes,Storm,#b3b2b1,wmo,Storm Daying County,2025-08-10T03:53:00+00:00,China,0.5081164132734467,0,2,en,EAS,Asia
 '71cf288806',extremes,Thunderstorm,#53785a,wmo,Severe Weather Vladimir Region,2025-07-20T03:55:00+00:00,Russia,0.5081015755889133,0,2,en,ESB,Europe
 '28878a34a9',extremes,Storm,#b3b2b1,wmo,Storm Wudang District,2025-07-03T03:39:00+00:00,China,0.5080958268943763,0,2,en,EAS,Asia
+'9e7dd3f9c0',extremes,Drought,#edc291,edo,Lack of Rain South Georgia and the South Sandwich Islands,2025-08-15T03:41:00+00:00,South Georgia and the South Sandwich Islands,0.5080771160891474,0,2,en,SOO,Antarctica
 '61dee61313',extremes,Heat Wave,#c40202,wmo,Heat Wave Lu Chuan County,2025-08-13T03:39:00+00:00,China,0.507997664076347,0,2,en,EAS,Asia
 'ca3e2ff8d3',extremes,Storm,#b3b2b1,wmo,Storm Surge Yingze District,2025-07-09T03:41:00+00:00,China,0.5079547348940039,0,2,en,EAS,Asia
 'bbe5e748ec',extremes,Drought,#edc291,edo,Dryness Iran,2025-08-17T03:44:00+00:00,Iran,0.5079390944900202,0,2,en,WCA,Asia
