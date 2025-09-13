@@ -1,15 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '15514a0d91',extremes,Tropical Cyclone,#4f4f4f,eonet,Hurricane Kiko,2025-09-03T03:08:00+00:00,,0.8266460185845133,1,3,en,NPO,Pacific Ocean
-'506b415e54',extremes,Landslide,#572c03,relief,Landslide Uganda,2025-09-12T03:08:00+00:00,Uganda,0.7975554684812423,0,2,en,SEAF,Africa
 'a560bcfef3',extremes,Volcano,#b83202,eonet,Reykjanes Volcano Iceland,2025-07-22T03:48:00+00:00,,0.7927814072801368,1,3,en,GIC,
 '62ac66f1ac',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Fernand,2025-08-26T03:30:00+00:00,,0.7925330836365494,1,3,en,NAO,Atlantic Ocean
 '3958ac469f',extremes,Tropical Cyclone,#4f4f4f,relief,Hurricane United States Virgin Islands,2025-09-05T03:12:00+00:00,United States Virgin Islands,0.7744482540384359,1,3,en,CAR,North-America
-'54cf54e367',extremes,Flood,#030ba1,relief,Flood Uganda,2025-08-24T03:36:00+00:00,Uganda,0.7735835814465876,0,2,en,SEAF,Africa
 '3eaafee2ea',extremes,Wildfire,#d60d2b,fema,Colorado Elk Fire,2025-08-11T03:54:00+00:00,United States,0.769912311932626,1,2,en,WNA,North-America
 'ad9e0f2296',extremes,Wildfire,#d60d2b,fema,Wildfire California,2025-08-10T03:53:00+00:00,United States,0.7698695960538953,1,3,en,WNA,North-America
 '37d08d7316',extremes,Precipitation,#d60d2b,acwe,wet spell South Australia,2025-08-28T03:25:00+00:00,Australia,0.7594958840006263,1,2,en,SAU,Oceania
-'b4527605c1',extremes,Snow&Ice,#d60d2b,wmo,Freezing Porters Pass SH73,2025-09-10T03:09:00+00:00,New Zealand,0.7553298178790432,0,2,en,NZ,Oceania
-'9abdcab263',extremes,Heat Wave,#c40202,wmo,Heat Wave Aupaluk Tasiujaq Kuujjuaq,2025-08-06T03:54:00+00:00,Canada,0.7553070899450486,0,2,en,NEN,North-America
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,Storm Seychelles,2025-08-29T03:24:00+00:00,Seychelles,0.7553029912571373,0,2,en,EIO,Africa
 '630b164795',extremes,Wildfire,#d60d2b,wmo,Wildfire Israel,2025-08-13T03:39:00+00:00,Israel,0.7553012220308899,0,2,en,MED,Asia
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2025-08-08T03:54:00+00:00,United States,0.7552933118394148,0,2,en,CNA,North-America
@@ -3339,6 +3335,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4e809028d6',extremes,Storm,#b3b2b1,wmo,Storm Surge Pamlico Sound,2025-08-01T04:06:00+00:00,United States,0.6575834504399111,0,2,en,CNA,North-America
 '790bb54e5c',extremes,Storm,#b3b2b1,wmo,Storm Surge Forties,2025-08-04T04:07:00+00:00,Norway,0.6575762173214885,0,2,en,NEU,Europe
 'c3eac47bb6',extremes,Storm,#b3b2b1,wmo,Storm Surge East Peloponnisos,2025-09-04T03:09:00+00:00,Greece,0.6575627944885206,0,2,en,MED,Europe
+'54cf54e367',extremes,Flood,#030ba1,relief,Flood Uganda,2025-08-24T03:36:00+00:00,Uganda,0.6575463742295994,1,1,en,SEAF,Africa
 'a8bd41531c',extremes,Thunderstorm,#53785a,wmo,Hail West Makedonia,2025-08-17T03:43:00+00:00,Greece,0.6575319040308856,0,2,en,MED,Europe
 '38ee469df4',extremes,Storm,#b3b2b1,wmo,Storm Westmoreland Northumberland,2025-08-23T03:24:00+00:00,United States,0.657505248237783,0,2,en,CNA,North-America
 '0392d8d3fc',extremes,Heat Wave,#c40202,wmo,Heat Wave Wien Brigittenau,2025-08-08T03:54:00+00:00,Austria,0.657503757349367,0,2,en,WCE,Europe
@@ -4215,7 +4212,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3484a124a1',extremes,Storm,#b3b2b1,wmo,Storm Surge 05 05m 06,2025-08-16T03:34:00+00:00,Chile,0.6420475995933123,1,1,en,SWS,South-America
 '59bf84a5dd',extremes,Fog,#d60d2b,wmo,Fog Khanty Mansi Autonomous District,2025-08-15T03:41:00+00:00,Russia,0.6420451209504148,1,1,en,ESB,Europe
 '16e539790d',extremes,Heat Wave,#c40202,wmo,Heat Wave Schangnau Sigriswil,2025-08-09T03:39:00+00:00,Switzerland,0.6420427427166733,0,2,en,WCE,Europe
+'b4527605c1',extremes,Snow&Ice,#d60d2b,wmo,Freezing Porters Pass SH73,2025-09-10T03:09:00+00:00,New Zealand,0.6420303451971867,1,1,en,NZ,Oceania
 '65feac863c',extremes,Storm,#b3b2b1,wmo,Storm Surge Anne Arundel,2025-09-05T03:12:00+00:00,United States,0.6420120893262913,0,2,en,CNA,North-America
+'9abdcab263',extremes,Heat Wave,#c40202,wmo,Heat Wave Aupaluk Tasiujaq Kuujjuaq,2025-08-06T03:54:00+00:00,Canada,0.6420110264532912,1,1,en,NEN,North-America
 '80b81cc984',extremes,Heat Wave,#c40202,wmo,Heat Wave Suroeste de A Coruña,2025-08-02T03:44:00+00:00,Spain,0.6420008636792438,0,2,en,MED,Europe
 '6cf14ca636',extremes,Drought,#edc291,edo,Lack of Rain Guatemala,2025-08-16T03:34:00+00:00,Guatemala,0.6419542988684207,0,2,en,SCA,North-America
 'ee4d28e6eb',extremes,Drought,#edc291,edo,Dry Spell Iran,2025-08-06T03:55:00+00:00,Iran,0.641940012547409,0,2,en,WCA,Asia
