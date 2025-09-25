@@ -1,12 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '15514a0d91',extremes,Tropical Cyclone,#4f4f4f,eonet,Hurricane Kiko,2025-09-03T03:08:00+00:00,,0.8266460185845133,1,3,en,NPO,Pacific Ocean
-'8ad784f5e2',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Cyclone Blossom,2025-09-12T03:08:00+00:00,,0.7977561715456499,0,2,en,EIO,Indian Ocean
 '01e3ca3339',extremes,Tsunami,#690191,usgs,Tsunami Petropavlovsk Kamchatsky,2025-09-14T03:22:00+00:00,Russia,0.793526909057457,1,2,en,RFE,Asia
 '62ac66f1ac',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Fernand,2025-08-26T03:30:00+00:00,,0.7925330836365494,1,3,en,NAO,Atlantic Ocean
 'a0a138f51a',extremes,Precipitation,#d60d2b,wmo,Downpour Sudan,2025-08-20T03:30:00+00:00,Sudan,0.7914314778636649,1,2,en,NEAF,Africa
-'ab159a1b9e',extremes,Precipitation,#d60d2b,relief,Torrential Rain Sudan,2025-09-23T03:11:00+00:00,Sudan,0.7889345292123173,0,2,en,SAH,Africa
-'32ab136707',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Bualoi,2025-09-25T03:23:00+00:00,,0.7859049767130711,0,2,en,NPO,Pacific Ocean
-'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2025-09-15T03:29:00+00:00,Australia,0.7782707187271093,0,2,en,SAU,Oceania
 '3958ac469f',extremes,Tropical Cyclone,#4f4f4f,relief,Hurricane United States Virgin Islands,2025-09-05T03:12:00+00:00,United States Virgin Islands,0.7744482540384359,1,3,en,CAR,North-America
 '0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2025-09-09T03:15:00+00:00,Canada,0.7719915335825678,0,2,en,NEN,North-America
 '3eaafee2ea',extremes,Wildfire,#d60d2b,fema,Colorado Elk Fire,2025-08-11T03:54:00+00:00,United States,0.769912311932626,1,2,en,WNA,North-America
@@ -1045,6 +1041,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '26454be041',extremes,Earthquake,#870007,usgs,Earthquake Meiktila,2025-08-06T03:54:00+00:00,Burma (Myanmar),0.7327217864959572,0,2,en,SAS,Asia
 'abed4dd544',extremes,Storm,#b3b2b1,wmo,Storm Surge Dempster Old Crow,2025-08-30T03:11:00+00:00,Canada,0.732714818011411,0,2,en,NEN,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2025-09-17T03:09:00+00:00,Australia,0.7327119842190416,0,2,en,CAU,Oceania
+'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2025-09-15T03:29:00+00:00,Australia,0.7327110751488122,1,2,en,SAU,Oceania
 '6d0448f11b',extremes,Flood,#030ba1,wmo,Flooding Ganga Kahalgaon Bhagalpur Bihar,2025-08-17T03:43:00+00:00,India,0.7326630800414385,0,2,en,SAS,Asia
 '3e07519e3b',extremes,Fog,#d60d2b,wmo,Fog Grodno Region,2025-08-28T03:25:00+00:00,Belarus,0.7326586822768241,0,2,en,WCE,Europe
 '1133ce1349',extremes,Earthquake,#870007,usgs,Earthquake Costa Rica,2025-08-08T03:54:00+00:00,Costa Rica,0.7326244898514653,0,2,en,SCA,North-America
@@ -2873,6 +2870,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7df86bf1c9',extremes,Snow&Ice,#d60d2b,wmo,Snow Australia,2025-08-09T03:39:00+00:00,Australia,0.6706267672703765,1,2,en,CAU,Oceania
 '1baf2ed40c',extremes,Storm,#b3b2b1,wmo,Storm Astrakhan Region,2025-08-13T03:39:00+00:00,Russia,0.6705996682127205,0,2,en,ESB,Europe
 '0548444ce0',extremes,Iceberg,#d60d2b,eonet,Iceberg A23A,2025-08-12T03:37:00+00:00,Antarctica,0.670595187782781,1,2,en,EAN,Antarctica
+'ab159a1b9e',extremes,Precipitation,#d60d2b,relief,Torrential Rain Sudan,2025-09-23T03:11:00+00:00,Sudan,0.6705944248304697,1,1,en,SAH,Africa
 '26dc110943',extremes,Drought,#edc291,edo,Lack of Rain Nicaragua,2025-08-17T03:44:00+00:00,Nicaragua,0.6705497781406788,0,2,en,SCA,North-America
 '5937c23b3a',extremes,Drought,#edc291,edo,Drought Benin,2025-08-13T03:39:00+00:00,Benin,0.6705222627171061,0,2,en,WAF,Africa
 '2c96546107',extremes,Storm,#b3b2b1,wmo,Storm Republic of Khakassia,2025-08-10T03:53:00+00:00,Russia,0.6705214492551734,0,2,en,ESB,Europe
@@ -2978,6 +2976,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da8b9380c1',extremes,Heat Wave,#c40202,wmo,Heat Wave Huichang County,2025-08-10T03:53:00+00:00,China,0.6680724989237444,0,2,en,EAS,Asia
 'efa7ec02f7',extremes,Fog,#d60d2b,wmo,Fog Huachi County,2025-08-24T03:36:00+00:00,China,0.6680580740831041,0,2,en,EAS,Asia
 '42028adc12',extremes,Drought,#edc291,edo,Dry Spell Guam,2025-08-13T03:39:00+00:00,Guam,0.6680492795165149,0,2,en,NPO,Oceania
+'32ab136707',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Bualoi,2025-09-25T03:23:00+00:00,,0.6680192302061104,1,1,en,NPO,Pacific Ocean
 'e7f7b79e1f',extremes,Drought,#edc291,edo,Drought Bosnia and Herzegovina,2025-08-12T03:37:00+00:00,Bosnia and Herzegovina,0.6680108940248308,0,2,en,MED,Europe
 '93fb59b12d',extremes,Thunderstorm,#53785a,wmo,Hail Novosibirsk Region,2025-08-22T03:30:00+00:00,Russia,0.6679812199083093,0,2,en,ESB,Europe
 'c2f2996351',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone huiyang district,2025-09-23T03:12:00+00:00,China,0.6679730113087455,0,2,en,EAS,Asia
