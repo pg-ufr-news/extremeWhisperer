@@ -1,9 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2025-09-17T03:09:00+00:00,Jamaica,0.7717029356133254,1,2,en,CAR,North-America
-'5e6e38f9b1',extremes,Storm,#b3b2b1,wmo,Storm Norte y noreste del país,2025-10-25T03:25:00+00:00,Paraguay,0.7541121544579801,0,2,en,SES,South-America
-'19431f7bd9',extremes,Wildfire,#d60d2b,wmo,Wildfire Republic of Dagestan,2025-10-20T03:36:00+00:00,Russia,0.753768928316632,0,2,en,ESB,Europe
-'a4330fb409',extremes,Landslide,#572c03,wmo,Mudslide Deler av østlandet,2025-10-24T03:15:00+00:00,Norway,0.7536102421957295,0,2,en,NEU,Europe
-'38e672b274',extremes,Drought,#edc291,edo,Dryness Gabon,2025-09-22T03:29:00+00:00,Gabon,0.7535567839666021,0,2,en,CAF,Africa
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,Thunderstorm South Africa,2025-10-19T03:34:00+00:00,South Africa,0.7530209359087646,0,2,en,WSAF,Africa
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2025-10-09T03:14:00+00:00,Australia,0.7528850033108895,0,2,en,CAU,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2025-09-07T03:24:00+00:00,Jamaica,0.7527391734528035,0,2,en,CAR,North-America
@@ -3722,6 +3718,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dfd7c05912',extremes,Fog,#d60d2b,wmo,Fog Flevoland,2025-09-29T03:27:00+00:00,Netherlands,0.6407319827481358,1,1,en,NEU,Europe
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,Storm Surge Ecuador,2025-09-18T03:11:00+00:00,Ecuador,0.6407273907092591,1,1,en,NWS,South-America
 '7638ee2306',extremes,Wildfire,#d60d2b,wmo,Wildfire Kurgan Region,2025-10-07T03:12:00+00:00,Russia,0.640705304720459,1,1,en,ESB,Europe
+'19431f7bd9',extremes,Wildfire,#d60d2b,wmo,Wildfire Republic of Dagestan,2025-10-20T03:36:00+00:00,Russia,0.6407035890691372,1,1,en,ESB,Europe
 'f354979867',extremes,Wildfire,#d60d2b,wmo,Wildfire Orenburg Region,2025-09-26T03:14:00+00:00,Russia,0.6407028227432515,1,1,en,ESB,Europe
 'e9f2b42100',extremes,Heat Wave,#c40202,wmo,Heat Wave La Plata y alrededores,2025-10-01T09:06:00+00:00,Argentina,0.6406989282889394,1,1,en,SES,South-America
 'bdb3ebf6fc',extremes,Fog,#d60d2b,wmo,Fog Chechen Republic,2025-09-22T03:29:00+00:00,Russia,0.6406782321077661,1,1,en,ESB,Europe
@@ -3732,10 +3729,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a2f7270ea5',extremes,Tsunami,#690191,usgs,Tsunami Mene Grande,2025-09-25T03:23:00+00:00,Venezuela,0.6406054232215269,1,1,en,NSA,South-America
 '70a85fc3fe',extremes,Landslide,#572c03,wmo,Rockslide Liulin County,2025-09-17T03:09:00+00:00,China,0.6405932968419302,0,2,en,EAS,Asia
 'f635f9286a',extremes,Storm,#b3b2b1,wmo,Storm Surge Sverdlovsk Region,2025-09-24T03:13:00+00:00,Russia,0.6405776418493168,0,2,en,ESB,Europe
+'a4330fb409',extremes,Landslide,#572c03,wmo,Mudslide Deler av østlandet,2025-10-24T03:15:00+00:00,Norway,0.64056870586637,1,1,en,NEU,Europe
 '6fb781b401',extremes,Fog,#d60d2b,wmo,Fog Śląskie Province Myszkowski County,2025-10-08T03:11:00+00:00,Poland,0.640566810934675,1,1,en,WCE,Europe
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,Heat Wave Resistencia y alrededores,2025-10-02T03:11:00+00:00,Argentina,0.6405559412287537,1,1,en,SES,South-America
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,Freezing Eastfjords,2025-10-22T03:33:00+00:00,Iceland,0.6405328390318448,1,1,en,GIC,Europe
 'd39daa58c4',extremes,Storm,#b3b2b1,wmo,Storm Surge Southeast Iceland,2025-10-16T03:27:00+00:00,Iceland,0.6405277840437905,1,1,en,GIC,Europe
+'38e672b274',extremes,Drought,#edc291,edo,Dryness Gabon,2025-09-22T03:29:00+00:00,Gabon,0.6405232663716117,1,1,en,CAF,Africa
 '84c81d05e3',extremes,Heat Wave,#c40202,wmo,Heat Wave Villa Reynolds y alrededores,2025-10-02T03:11:00+00:00,Argentina,0.6405112364273657,1,1,en,SES,South-America
 '837d89d2bd',extremes,Landslide,#572c03,wmo,Mudslide Lancang Lahu Autonomous County,2025-10-07T03:12:00+00:00,China,0.6405102112812843,0,2,en,EAS,Asia
 '0a142d7af4',extremes,Heat Wave,#c40202,wmo,Heat Wave fuding,2025-09-15T03:29:00+00:00,China,0.6404958462031584,0,2,en,EAS,Asia
