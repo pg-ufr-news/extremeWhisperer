@@ -1,10 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '50eb9e02df',extremes,Storm,#b3b2b1,wmo,Storm Surge Mongolia,2025-11-08T03:25:00+00:00,Mongolia,0.7913971907385741,1,2,en,ESB,Asia
-'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Brazil,2025-11-08T03:25:00+00:00,Brazil,0.7704786399922864,0,2,en,SAM,South-America
 '55688ac94f',extremes,Tropical Cyclone,#4f4f4f,relief,Tropical Cyclone Philippines,2025-11-01T03:31:00+00:00,Philippines,0.7647333081063956,1,2,en,SEA,Asia
-'1856e0de6b',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Hong Kong,2025-11-11T03:35:00+00:00,Hong Kong,0.756941469140475,0,2,en,EAS,Asia
-'54f8af8460',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Macao,2025-11-11T03:35:00+00:00,Macao,0.7560583631867338,0,2,en,EAS,Asia
-'fc7ead17b1',extremes,Drought,#edc291,edo,Lack of Rain Ghana,2025-10-23T03:26:00+00:00,Ghana,0.7557292555349797,0,2,en,WAF,Africa
 '7824c9c2d9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Hong Kong,2025-11-11T03:35:00+00:00,Hong Kong,0.7548825469260747,0,2,en,EAS,Asia
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,Storm Surge Seychelles,2025-11-11T03:35:00+00:00,Seychelles,0.754863974278689,0,2,en,EIO,Africa
 'ee17683783',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Philippines,2025-11-09T03:33:00+00:00,Philippines,0.754781582313601,0,2,en,SEA,Asia
@@ -3353,6 +3349,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd979ae46a4',extremes,Snow&Ice,#d60d2b,wmo,Snow Erstfeld Engelberg,2025-10-03T03:10:00+00:00,Switzerland,0.64340478883715,0,2,en,WCE,Europe
 '30abb8a61d',extremes,Snow&Ice,#d60d2b,wmo,Frost Burke Barnwell,2025-11-01T03:32:00+00:00,United States,0.6434027785876402,0,2,en,CNA,North-America
 '4ae7b6e63c',extremes,Snow&Ice,#d60d2b,wmo,Freezing Ethiopia,2025-11-11T03:35:00+00:00,Ethiopia,0.6434013530958345,1,2,en,NEAF,Africa
+'1856e0de6b',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Hong Kong,2025-11-11T03:35:00+00:00,Hong Kong,0.6434005337694038,1,1,en,EAS,Asia
 '3a98a89169',extremes,Heat Wave,#c40202,wmo,Heat Wave San Salvador De Jujuy y alrededores,2025-10-02T03:11:00+00:00,Argentina,0.6433966560144113,1,1,en,SES,South-America
 '041fab614c',extremes,Tropical Cyclone,#4f4f4f,eonet,Tropical Storm Melissa,2025-10-22T03:32:00+00:00,,0.643381406037857,0,2,en,CAR,North-America
 '3310b944ff',extremes,Storm,#b3b2b1,wmo,Storm Grande Ronde Valley,2025-10-29T03:36:00+00:00,United States,0.6433732874897848,0,2,en,CNA,North-America
@@ -3403,7 +3400,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,Storm Surge Litoral norte e interior,2025-10-24T03:15:00+00:00,Ecuador,0.642734464800514,1,1,en,NWS,South-America
 'c92e958ce4',extremes,Landslide,#572c03,wmo,Mudslide Huayin,2025-10-01T09:06:00+00:00,China,0.6427193253165009,0,2,en,EAS,Asia
 'e9e61e7cb8',extremes,Storm,#b3b2b1,wmo,Storm Aveiro,2025-09-28T03:28:00+00:00,Portugal,0.642671356324201,0,2,en,MED,Europe
+'fc7ead17b1',extremes,Drought,#edc291,edo,Lack of Rain Ghana,2025-10-23T03:26:00+00:00,Ghana,0.6426698972047328,1,2,en,WAF,Africa
 'b046a75667',extremes,Flood,#030ba1,wmo,Flood Pima AZ,2025-10-13T03:31:00+00:00,United States,0.6426637603292934,0,2,en,CNA,North-America
+'54f8af8460',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Macao,2025-11-11T03:35:00+00:00,Macao,0.6426496087087237,1,1,en,EAS,Asia
 'a4b54a6960',extremes,Landslide,#572c03,wmo,Mudslide Menghai County,2025-09-30T03:12:00+00:00,China,0.6426325441682981,0,2,en,EAS,Asia
 '06b63cf36c',extremes,Tsunami,#690191,usgs,Tsunami Beauséjour,2025-10-28T03:31:00+00:00,Guadeloupe,0.6426215561142722,1,1,en,NAO,Atlantic Ocean
 'fdf209ada8',extremes,Thunderstorm,#53785a,wmo,Hail BISKRA,2025-10-20T03:36:00+00:00,Algeria,0.6425913560000258,1,1,en,SAH,Africa
