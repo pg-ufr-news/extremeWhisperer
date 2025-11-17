@@ -11,7 +11,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84a92d2d97',extremes,Precipitation,#d60d2b,wmo,Downpour Thailand,2025-10-23T03:26:00+00:00,Thailand,0.7510191515306077,1,1,en,SEA,Asia
 '5d8eac8c54',extremes,Storm,#b3b2b1,wmo,Storm Czechia,2025-10-26T03:30:00+00:00,Czechia,0.7509366453103992,1,1,en,WCE,Europe
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,Downpour South Africa,2025-11-15T03:29:00+00:00,South Africa,0.7508928650223973,1,1,en,WSAF,Africa
-'997a2e2157',extremes,Earthquake,#870007,usgs,Earthquake Argentina,2025-10-27T03:40:00+00:00,Argentina,0.7499593173312319,0,2,en,SWS,South-America
+'997a2e2157',extremes,Earthquake,#870007,usgs,Earthquake Argentina,2025-10-27T03:40:00+00:00,Argentina,0.7499593173312319,1,1,en,SWS,South-America
 'b0d647e9d3',extremes,Earthquake,#870007,usgs,Earthquake southeast Indian Ridge,2025-10-26T03:30:00+00:00,,0.7499549432764724,0,2,en,SOO,Antarctica
 '9fdafe82e8',extremes,Wildfire,#d60d2b,wmo,Wildfire Republic of Adygea,2025-09-28T03:28:00+00:00,Russia,0.7499531307486713,0,2,en,ESB,Europe
 'a1563770ef',extremes,Earthquake,#870007,usgs,Earthquake Quepos,2025-09-30T03:11:00+00:00,Costa Rica,0.7499507291904222,0,2,en,SCA,South-America
@@ -1018,7 +1018,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e13e239ca',extremes,Snow&Ice,#d60d2b,wmo,Ice Plaine de l'Orbe,2025-10-01T09:06:00+00:00,Switzerland,0.7131234803613623,0,2,en,WCE,Europe
 '2b7d363e43',extremes,Storm,#b3b2b1,wmo,Storm Surge New South Wales Coffs Coast,2025-11-11T03:35:00+00:00,Australia,0.7130235773603145,0,2,en,CAU,Oceania
 '83b19fc8dd',extremes,Flood,#030ba1,relief,Flooding Bolivia Plurinational State of,2025-10-23T03:26:00+00:00,Bolivia (Plurinational State of),0.7129615650539877,0,2,en,SAM,South-America
-'4e85387a91',extremes,Storm,#b3b2b1,wmo,Storm Norway,2025-10-26T03:30:00+00:00,Norway,0.7129547803040127,0,2,en,NEU,Europe
 '0f3c4f294f',extremes,Wildfire,#d60d2b,wmo,Wildfire Antu County,2025-10-04T03:06:00+00:00,China,0.7128839954659824,0,2,en,EAS,Asia
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg Arctis,2025-09-30T03:11:00+00:00,,0.712840765181168,0,2,en,,
 'bddeae448c',extremes,Snow&Ice,#d60d2b,wmo,Frost Moldova,2025-10-15T03:27:00+00:00,Moldova,0.712834918616255,0,2,en,WCE,Europe
@@ -1532,7 +1531,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a82275a898',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Fujin City,2025-10-05T03:26:00+00:00,China,0.6890977852446161,0,2,en,EAS,Asia
 '71d0895ad8',extremes,Tropical Cyclone,#4f4f4f,relief,Cyclone Mexico,2025-10-22T03:32:00+00:00,Mexico,0.6889975978849381,0,2,en,NCA,North-America
 '5cef0ac212',extremes,Wildfire,#d60d2b,wmo,Wildfire Yangshan County,2025-10-01T03:32:00+00:00,China,0.6889144792441867,0,2,en,EAS,Asia
-'68a6fd4212',extremes,Fog,#d60d2b,wmo,Fog Mazowieckie Province Łosicki County,2025-10-08T03:11:00+00:00,Poland,0.6889002481538248,0,2,en,WCE,Europe
+'68a6fd4212',extremes,Fog,#d60d2b,wmo,Fog Mazowieckie Province Łosicki County,2025-10-08T03:11:00+00:00,Poland,0.6889002481538248,1,1,en,WCE,Europe
 '683c34d503',extremes,Flood,#030ba1,relief,Flood Senegal,2025-10-09T03:13:00+00:00,Senegal,0.6888768048461407,0,2,en,SAH,Africa
 '03d25c12b3',extremes,Snow&Ice,#d60d2b,wmo,Frost Burgdorf Limpachtal,2025-10-01T09:06:00+00:00,Switzerland,0.6888404989413879,0,2,en,WCE,Europe
 'd344ea5acf',extremes,Cold Wave,#a7e9fa,wmo,Freezing yakeshi,2025-10-03T03:10:00+00:00,China,0.6888128560637905,0,2,en,EAS,Asia
@@ -9854,7 +9853,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42e6fbf54f',extremes,Storm,#b3b2b1,wmo,Storm yuanjiang city,2025-10-13T03:31:00+00:00,China,0.4710527747790869,0,2,en,EAS,Asia
 'c312abcb67',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Mishan,2025-11-16T03:38:00+00:00,China,0.4710119856744148,0,2,en,EAS,Asia
 '7f05285438',extremes,Storm,#b3b2b1,wmo,Storm Surge Jinsha County,2025-10-01T09:06:00+00:00,China,0.4710039182295948,0,2,en,EAS,Asia
-'a40c3e76ae',extremes,Storm,#b3b2b1,wmo,Storm Qianxian County,2025-10-20T03:36:00+00:00,China,0.4710021461695248,0,2,en,EAS,Asia
+'a40c3e76ae',extremes,Storm,#b3b2b1,wmo,Storm Qianxian County,2025-10-20T03:36:00+00:00,China,0.47100214616952474,1,1,en,EAS,Asia
 '56e5a5a72d',extremes,Storm,#b3b2b1,wmo,Storm Surge Yutian County,2025-10-09T03:14:00+00:00,China,0.4709976993452344,0,2,en,EAS,Asia
 '2a5971f323',extremes,Storm,#b3b2b1,wmo,Storm Surge Wulingyuan District,2025-10-13T03:31:00+00:00,China,0.4709659447668031,0,2,en,EAS,Asia
 'bb15b4ad28',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Yuncheng County,2025-11-15T03:29:00+00:00,China,0.4709127144334565,0,2,en,EAS,Asia
