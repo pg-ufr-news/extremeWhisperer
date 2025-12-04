@@ -607,7 +607,8 @@ def inqRandomNews(maxCount=1):
                         else:
                             print(["---not added"])    
                 #print(["collectedNews: ",collectedNews])            
-                if(foundNew):         
+                if(foundNew):   
+                    maxCount  -= (2 + len(newArticles))       
                     storeCollection()
             else:
               print(response.text)
@@ -665,7 +666,10 @@ print(age)
 if(age>60*60*5*0):
     inqRandomNews()
 '''
-inqRandomNews(4)
+amount = 4
+if(len(termsDF)>5000):
+  amount = 8
+inqRandomNews(amount)
 
 
 
