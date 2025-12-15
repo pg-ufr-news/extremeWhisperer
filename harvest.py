@@ -667,10 +667,12 @@ if(age>60*60*5*0):
     inqRandomNews()
 '''
 amount = 4
+if(len(termsDF)>2000):
+  amount = 6
 if(len(termsDF)>5000):
-  amount = 8
+  amount = 9
 if(len(termsDF)>10000):
-  amount = 12
+  amount = 15
 inqRandomNews(amount)
 
 
