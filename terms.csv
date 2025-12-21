@@ -1,8 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '30e79eda20',extremes,Storm,#b3b2b1,wmo,Storm Southeast Iceland,2025-12-01T04:02:00+00:00,Iceland,0.7950095687921168,1,2,en,GIC,Europe
 '1c4e7fb6c7',extremes,Fog,#d60d2b,wmo,Fog Lithuania,2025-11-30T03:46:00+00:00,Lithuania,0.7947607831684433,1,2,en,WCE,Europe
-'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave Victoria,2025-12-04T03:42:00+00:00,Australia,0.7918627967065897,0,2,en,SAU,Oceania
-'99d338c49c',extremes,Drought,#edc291,edo,Drought Uzbekistan,2025-11-30T03:47:00+00:00,Uzbekistan,0.770128948795993,0,2,en,WCA,Asia
 'c7c16076d3',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Philippines,2025-11-09T03:33:00+00:00,Philippines,0.7621368363664643,1,3,en,SEA,Asia
 '4138b67283',extremes,Wildfire,#d60d2b,wmo,Wildfire Republic of Ingushetia,2025-11-23T03:46:00+00:00,Russia,0.7600436632365879,1,1,en,ESB,Europe
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2025-11-11T03:35:00+00:00,United Kingdom,0.7581961226525241,1,1,en,NEU,Europe
@@ -13,12 +11,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b1942f1fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Eswatini,2025-11-15T03:29:00+00:00,Eswatini,0.7515982486358626,1,1,en,ESAF,Africa
 '3a98a89169',extremes,Heat Wave,#c40202,wmo,Heat Wave San Salvador De Jujuy y alrededores,2025-11-14T03:35:00+00:00,Argentina,0.7515222338620203,1,1,en,SES,South-America
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,Downpour South Africa,2025-11-15T03:29:00+00:00,South Africa,0.7508928650223973,1,1,en,WSAF,Africa
-'a7e8b5d526',extremes,Flood,#030ba1,wmo,Flooding Yakima WA,2025-12-12T03:45:00+00:00,United States,0.7504439949467594,0,2,en,CNA,North-America
-'7dcb16d935',extremes,Earthquake,#870007,usgs,Earthquake North Atlantic Ocean,2025-12-06T03:32:00+00:00,,0.7503908683683658,0,2,en,EAO,Atlantic Ocean
-'76fdf9832d',extremes,Snow&Ice,#d60d2b,wmo,Frost South of Krasnoyarsk Krai,2025-11-26T03:37:00+00:00,Russia,0.7503321717630864,0,2,en,ESB,Europe
-'4e69fb62e2',extremes,Precipitation,#d60d2b,wmo,Downpour Buller,2025-11-27T03:34:00+00:00,New Zealand,0.7503115046342346,0,2,en,NZ,Oceania
-'ebf6e37321',extremes,Flood,#030ba1,wmo,Flood Banská Bystrica,2025-11-26T03:37:00+00:00,Slovakia,0.750296624253897,0,2,en,WCE,Europe
-'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,Hail India,2025-11-03T03:39:00+00:00,India,0.7502552404744403,0,2,en,SAS,Asia
 '2087442b23',extremes,Snow&Ice,#d60d2b,wmo,Snow Old Crow,2025-12-02T03:41:00+00:00,Canada,0.7502409540360204,0,2,en,NEN,North-America
 '575ec472b2',extremes,Cold Wave,#a7e9fa,wmo,Freezing Qitai County,2025-12-12T03:45:00+00:00,China,0.7502278191365328,0,2,en,EAS,Asia
 '2729dfbc77',extremes,Precipitation,#d60d2b,wmo,Precipitation The Otago headwaters,2025-11-26T03:37:00+00:00,New Zealand,0.7502076050437898,0,2,en,NZ,Oceania
@@ -2626,6 +2618,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40a3a2ebfb',extremes,Precipitation,#d60d2b,wmo,Downpour Nakhon Sri Thammarat Krabi Phuket,2025-11-25T03:37:00+00:00,Thailand,0.6546705344594671,0,2,en,SEA,Asia
 'd23b6d94b9',extremes,Storm,#b3b2b1,wmo,Storm Albemarle Sound,2025-12-03T03:40:00+00:00,United States,0.6546493985998703,0,2,en,CNA,North-America
 '1add719f57',extremes,Storm,#b3b2b1,wmo,Storm Traverse,2025-12-18T03:44:00+00:00,United States,0.654638192305417,0,2,en,CNA,North-America
+'99d338c49c',extremes,Drought,#edc291,edo,Drought Uzbekistan,2025-11-30T03:47:00+00:00,Uzbekistan,0.6546097264765941,1,1,en,WCA,Asia
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,Freezing Italy,2025-11-21T03:33:00+00:00,Italy,0.6545645438871417,0,2,en,MED,Europe
 'a5ffc7dead',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Pohjois Pohjanmaan Eteläosa,2025-12-05T03:41:00+00:00,Finland,0.6545614402779971,0,2,en,NEU,Europe
 'd73f5771a1',extremes,Storm,#b3b2b1,wmo,Storm East of Sakha Republic,2025-12-05T03:41:00+00:00,Russia,0.6545488569918592,0,2,en,ESB,Europe
@@ -3597,11 +3590,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84cbd48dfc',extremes,Wildfire,#d60d2b,wmo,Wildfire New South Wales Greater Hunter,2025-11-17T03:38:00+00:00,Australia,0.6379235449002584,1,1,en,CAU,Oceania
 '86bd77153d',extremes,Precipitation,#d60d2b,wmo,Precipitation Minsk Region,2025-11-19T03:34:00+00:00,Belarus,0.6379143956950425,0,2,en,WCE,Europe
 '8e18e1b9ca',extremes,Precipitation,#d60d2b,wmo,Downpour France,2025-11-02T03:34:00+00:00,France,0.6379016656402875,0,2,en,WCE,Europe
+'a7e8b5d526',extremes,Flood,#030ba1,wmo,Flooding Yakima WA,2025-12-12T03:45:00+00:00,United States,0.6378773957047454,1,1,en,CNA,North-America
 '91067d4481',extremes,Drought,#edc291,edo,Lack of Rain Zimbabwe,2025-11-17T03:38:00+00:00,Zimbabwe,0.637864970062882,0,2,en,ESAF,Africa
 'dea2bf92c4',extremes,Storm,#b3b2b1,wmo,Storm Surge Vesteraalsbank,2025-11-12T03:34:00+00:00,Norway,0.6378458888881168,0,2,en,NEU,Europe
+'7dcb16d935',extremes,Earthquake,#870007,usgs,Earthquake North Atlantic Ocean,2025-12-06T03:32:00+00:00,,0.6378322681131109,1,1,en,EAO,Atlantic Ocean
 '371c437162',extremes,Precipitation,#d60d2b,wmo,Downpour Belarus,2025-12-07T03:47:00+00:00,Belarus,0.6378167598008371,0,2,en,WCE,Europe
+'76fdf9832d',extremes,Snow&Ice,#d60d2b,wmo,Frost South of Krasnoyarsk Krai,2025-11-26T03:37:00+00:00,Russia,0.6377823459986235,1,1,en,ESB,Europe
 '99b0b81a3b',extremes,Storm,#b3b2b1,wmo,Storm Surge Costa Sol y Guadalhorce,2025-12-12T03:45:00+00:00,Spain,0.6377814065755156,0,2,en,MED,Europe
 'c216b34e67',extremes,Storm,#b3b2b1,wmo,Storm Surge Costa Este de La Palma,2025-12-12T03:45:00+00:00,Spain,0.6377747922777487,0,2,en,MED,Europe
+'4e69fb62e2',extremes,Precipitation,#d60d2b,wmo,Downpour Buller,2025-11-27T03:34:00+00:00,New Zealand,0.6377647789390993,1,1,en,NZ,Oceania
+'ebf6e37321',extremes,Flood,#030ba1,wmo,Flood Banská Bystrica,2025-11-26T03:37:00+00:00,Slovakia,0.6377521306158124,1,1,en,WCE,Europe
 '705642743d',extremes,Earthquake,#870007,usgs,Earthquake Cyprus,2025-11-13T03:35:00+00:00,Cyprus,0.6377254237841833,0,2,en,MED,Europe
 '1a0bfd41b6',extremes,Snow&Ice,#d60d2b,wmo,Frost Bell Pike,2025-11-10T03:39:00+00:00,United States,0.6376902628030544,0,2,en,CNA,North-America
 '6574db95a5',extremes,Cold Wave,#a7e9fa,wmo,Freezing Bregenz,2025-11-23T03:46:00+00:00,Austria,0.6376819033687107,0,2,en,WCE,Europe
