@@ -631,8 +631,9 @@ def inqRandomNews(maxCount=1):
       termsDF3.loc[termsDF3['index'] == crc, 'ratio'] = -1E9
       termsDF3 = termsDF3.sort_values(by=['ratio'], ascending=False) 
 
-    keywordsNewsDF2.loc[keywordsNewsDF2['index'] == crc, 'ratio'] = -1E9
-    keywordsNewsDF2 = keywordsNewsDF2.sort_values(by=['ratio'], ascending=False) 
+    if(not keywordsNewsDF2.empty):
+      keywordsNewsDF2.loc[keywordsNewsDF2['index'] == crc, 'ratio'] = -1E9
+      keywordsNewsDF2 = keywordsNewsDF2.sort_values(by=['ratio'], ascending=False) 
 
     print(['xxx','crc',crc,'currRatio',currRatio,'ratioNew',ratioNew,'currPage: ',currPage,' limitPages: ',limitPages,' new Limit: ', newLimit])  
 
