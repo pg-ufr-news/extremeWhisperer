@@ -45,7 +45,13 @@ def importTerms():
 
     for index, column in topicsDF.iterrows():
         if(not column['index'] in list(termsDF['index'])):
-          termsDF = termsDF.append(column, ignore_index=True)
+          ## termsDF = termsDF.append(column, ignore_index=True)
+          columnDF = pd.DataFrame.from_records([column], columns=list(column.keys()))
+          #print(columnDF)
+          if(termsDF.empty): 
+            termsDF = columnDF
+          else:
+            termsDF = pd.concat([termsDF,columnDF])
         else:
           idx = termsDF.index[termsDF['index']==column['index']].tolist()[0]
           if(termsDF.at[idx,'ratio']<column['ratio']):
