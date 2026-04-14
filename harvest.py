@@ -627,9 +627,9 @@ def inqRandomNews(maxCount=1):
     unsearchedTerms.loc[unsearchedTerms['index'] == crc, 'ratio'] = -1E9
     unsearchedTerms = unsearchedTerms.sort_values(by=['unsearched'], ascending=False) 
 
-    #    if(not termsDF3.empty):
-    termsDF3.loc[termsDF3['index'] == crc, 'ratio'] = -1E9
-    termsDF3 = termsDF3.sort_values(by=['ratio'], ascending=False) 
+    if(not termsDF3.empty):
+      termsDF3.loc[termsDF3['index'] == crc, 'ratio'] = -1E9
+      termsDF3 = termsDF3.sort_values(by=['ratio'], ascending=False) 
 
     keywordsNewsDF2.loc[keywordsNewsDF2['index'] == crc, 'ratio'] = -1E9
     keywordsNewsDF2 = keywordsNewsDF2.sort_values(by=['ratio'], ascending=False) 
