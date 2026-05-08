@@ -21,6 +21,8 @@ click-plugins==1.1.1.2
 cligj==0.7.2
 connexion==3.2.0
 contourpy==1.1.1
+CreGeoReference==0.0.2
+cryptography==47.0.0
 csvw==3.7.0
 cycler==0.10.0
 datatable==1.1.0
@@ -41,11 +43,18 @@ fastapi-cloud-cli==0.7.0
 fastar==0.11.0
 fastjsonschema==2.21.2
 filelock==3.16.1
-fiona==1.10.1
+fiona==1.9.6
 Flask==3.0.3
 folium==0.18.0
 fonttools==4.57.0
-geopandas==0.6.0
+future==1.0.0
+GDAL==3.0.4
+geocoder==1.38.1
+geographiclib==2.1
+geojsonio==0.0.3
+geopandas==0.13.2
+geopy==2.4.1
+github3.py==4.0.1
 h11==0.16.0
 h5py==2.10.0
 httpcore==1.0.9
@@ -86,7 +95,7 @@ numpy==1.24.4
 opencv-python==4.13.0.92
 openpyxl==3.0.0
 outcome==1.3.0.post0
-packaging==26.1
+packaging==26.2
 pandas==2.0.3
 pandas_flavor==0.7.0
 pandocfilters==1.5.1
@@ -110,6 +119,7 @@ pydantic==2.10.6
 pydantic_core==2.27.2
 Pygments==2.19.2
 PyGObject==3.36.0
+PyJWT==2.9.0
 pyparsing==2.4.6
 pyproj==3.5.0
 pyrsistent==0.15.5
@@ -121,6 +131,7 @@ python-multipart==0.0.20
 pytz==2026.1.post1
 PyYAML==6.0.3
 pyzmq==27.1.0
+ratelim==0.1.6
 rdflib==7.6.0
 referencing==0.35.1
 requests==2.32.4
@@ -141,7 +152,7 @@ scipy==1.10.1
 seaborn==0.13.2
 selenium==4.27.1
 selenium-requests==2.0.4
-sentry-sdk==2.58.0
+sentry-sdk==2.59.0
 shapely==2.0.7
 shellingham==1.5.4
 six==1.14.0
@@ -165,7 +176,7 @@ trio==0.27.0
 trio-websocket==0.12.2
 typer==0.20.1
 typing_extensions==4.13.2
-tzdata==2026.1
+tzdata==2026.2
 tzlocal==5.2
 ufw==0.36
 unattended-upgrades==0.1
