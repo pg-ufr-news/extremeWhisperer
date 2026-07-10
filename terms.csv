@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d306e1819b',extremes,Iceberg,#d60d2b,eonet,Iceberg D33A,2026-06-24T06:29:00+00:00,,0.7943205356163011,0,2,en,EAN,
-'e2082c3612',extremes,Storm,#b3b2b1,wmo,Storm Surge South Iceland,2026-07-09T06:27:00+00:00,Iceland,0.7539638084321059,0,2,en,GIC,Europe
 'ad95215c89',extremes,Iceberg,#d60d2b,eonet,Iceberg B22A,2026-07-09T06:27:00+00:00,Antarctica,0.748518338683055,0,2,en,WAN,Antarctica
 'aab7909052',extremes,Fog,#d60d2b,wmo,Fog Israel,2026-06-09T06:32:00+00:00,Israel,0.7484583945817925,0,2,en,MED,Asia
 'bd7d2db506',extremes,Wildfire,#d60d2b,wmo,Wildfire Republic of Khakassia,2026-06-13T06:38:00+00:00,Russia,0.7483760443081341,0,2,en,ESB,Europe
@@ -2728,6 +2726,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '746e63d711',extremes,Drought,#edc291,edo,Dry Spell Cocos Islands,2026-06-28T06:44:00+00:00,Cocos Islands,0.6409319132935278,0,2,en,SIO,Indian Ocean
 '44d9ac0858',extremes,Earthquake,#870007,usgs,Earthquake Pāpa‘ikou,2026-06-15T08:36:00+00:00,Hawaii,0.6408919181359494,1,1,en,NPO,Pacific Ocean
 '6018dbdbc5',extremes,Flood,#030ba1,wmo,Flashflood Scissor Creek near McAuley,2026-06-13T06:38:00+00:00,Canada,0.6408903507507006,1,1,en,NEN,North-America
+'e2082c3612',extremes,Storm,#b3b2b1,wmo,Storm Surge South Iceland,2026-07-09T06:27:00+00:00,Iceland,0.6408692371672899,1,1,en,GIC,Europe
 '14ccfab368',extremes,Storm,#b3b2b1,wmo,Storm Surge Ona Froeya,2026-06-10T06:49:00+00:00,Norway,0.64086671287348,0,2,en,NEU,Europe
 'aafce152ff',extremes,Storm,#b3b2b1,wmo,Storm Litoral y estribación de cordillera,2026-05-30T06:01:00+00:00,Ecuador,0.6408490579494637,1,1,en,NWS,South-America
 'ecac020f22',extremes,Earthquake,#870007,usgs,Earthquake La Serena,2026-06-02T07:08:00+00:00,Chile,0.6408427713788035,0,2,en,SWS,South-America
@@ -8381,6 +8380,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45445d2f46',extremes,Storm,#b3b2b1,wmo,Storm Surge Xixiu District,2026-06-09T06:32:00+00:00,China,0.4836732618732546,0,2,en,EAS,Asia
 '4c0a153db8',extremes,Thunderstorm,#53785a,wmo,Hail Pirineo de Girona,2026-05-30T06:01:00+00:00,Spain,0.4836495996859534,0,2,en,MED,Europe
 'efcf13e17d',extremes,Thunderstorm,#53785a,wmo,Hail Ibérica riojana,2026-06-15T08:36:00+00:00,Spain,0.4836478009020138,0,2,en,MED,Europe
+'05c635986d',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Beijing,2026-06-16T08:27:00+00:00,China,0.4836376427694071,1,2,en,EAS,Asia
 'f93e1778dd',extremes,Storm,#b3b2b1,wmo,Storm Luanzhou City,2026-06-03T07:23:00+00:00,China,0.4836002758514148,0,2,en,EAS,Asia
 '0de7f7e548',extremes,Drought,#edc291,edo,Drought Kenya,2026-06-07T06:48:00+00:00,Kenya,0.4835641114408266,0,2,en,SEAF,Africa
 '3f1bb5e4b3',extremes,Storm,#b3b2b1,wmo,Storm Show area,2026-06-06T06:08:00+00:00,China,0.4835543106258838,0,2,en,EAS,Asia
@@ -10139,7 +10139,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2b9bb808fd',extremes,Flood,#030ba1,wmo,Flooding Suijiang County,2026-06-07T06:48:00+00:00,China,0.450346414479461,0,2,en,EAS,Asia
 '13287e90f3',extremes,Flood,#030ba1,wmo,Flood Qujiang District,2026-06-24T06:30:00+00:00,China,0.4503446334088219,0,2,en,EAS,Asia
 '890e380e0f',extremes,Precipitation,#d60d2b,wmo,Precipitation Weixi Lisu Autonomous County,2026-07-07T06:30:00+00:00,China,0.4503277680099756,0,2,en,EAS,Asia
-'05c635986d',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Beijing,2026-06-16T08:27:00+00:00,China,0.4502794738463613,0,2,en,EAS,Asia
 'd1a294ec0a',extremes,Drought,#edc291,edo,Drought Guyana,2026-06-01T07:30:00+00:00,Guyana,0.4502677948489048,0,2,en,NSA,South-America
 '818d02816b',extremes,Storm,#b3b2b1,wmo,Storm Yangxin County,2026-07-05T06:25:00+00:00,China,0.4502337026397103,0,2,en,EAS,Asia
 '09d9fbc433',extremes,Precipitation,#d60d2b,wmo,Rain Gengma Dai Wa Autonomous County,2026-06-19T07:39:00+00:00,China,0.4501883052785889,0,2,en,EAS,Asia
