@@ -1,10 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8e164fcef9',extremes,Storm,#b3b2b1,wmo,Storm Surge ALL COASTAL WATERS.,2026-08-02T05:42:00+00:00,Vanuatu,0.7961207093244591,1,2,en,SPO,Oceania
-'8d4343544c',extremes,Precipitation,#d60d2b,wmo,Rain Litoral,2026-08-02T05:42:00+00:00,Ecuador,0.7553191280357632,0,2,en,NWS,South-America
-'5bbe9f422e',extremes,Thunderstorm,#53785a,wmo,Hail Tomsk Region,2026-07-25T05:29:00+00:00,Russia,0.7542417649918269,0,2,en,ESB,Europe
-'4cc7a6f84d',extremes,Storm,#b3b2b1,wmo,Storm Surge Amazonía,2026-08-02T05:42:00+00:00,Ecuador,0.7534632329559838,0,2,en,NWS,South-America
-'954932e1f1',extremes,Precipitation,#d60d2b,wmo,Rain Litoral e Interandina,2026-08-02T05:42:00+00:00,Ecuador,0.7532468873057931,0,2,en,NWS,South-America
-'c8293bc7d1',extremes,Wildfire,#d60d2b,wmo,Wildfire South of Kamchatka Krai,2026-07-29T05:37:00+00:00,Russia,0.7491648387969349,0,2,en,ESB,Europe
 'f486a08b0d',extremes,Precipitation,#d60d2b,wmo,Precipitation Algeria,2026-08-02T05:42:00+00:00,Algeria,0.7489894445910181,0,2,en,SAH,Africa
 '9888bfded3',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Hong Kong,2026-07-02T06:24:00+00:00,Hong Kong,0.7471413136311891,0,2,en,EAS,Asia
 '7df86bf1c9',extremes,Snow&Ice,#d60d2b,wmo,Snow Australia,2026-07-03T06:09:00+00:00,Australia,0.7471195888784011,0,2,en,CAU,Oceania
@@ -101,7 +95,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cc5991a226',extremes,Flood,#030ba1,wmo,Flooding Franklin MO Jefferson MO,2026-07-12T05:43:00+00:00,United States,0.7443783307111078,0,2,en,CNA,North-America
 'e9f196dfee',extremes,Heat Wave,#c40202,wmo,Heat Wave Mendrisiotto,2026-07-09T06:27:00+00:00,Switzerland,0.7443734771670727,0,2,en,WCE,Europe
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-06-29T07:13:00+00:00,United States,0.7443670801707074,0,2,en,CNA,North-America
-'39d8c4a5db',extremes,Wildfire,#d60d2b,wmo,Wildfire Ryazan Region,2026-07-05T06:25:00+00:00,Russia,0.7442725007742979,0,2,en,ESB,Europe
 '2a3bc7ef93',extremes,Wildfire,#d60d2b,wmo,Wildfire Methow Valley,2026-07-24T05:36:00+00:00,United States,0.744236191994651,0,2,en,CNA,North-America
 '63b7db5801',extremes,Fog,#d60d2b,wmo,Fog Sverdlovsk Region,2026-06-13T06:38:00+00:00,Russia,0.7442241988775,0,2,en,ESB,Europe
 '808600b33a',extremes,Earthquake,#870007,usgs,Earthquake Lembar,2026-07-02T06:23:00+00:00,Indonesia,0.7442202085218986,0,2,en,NAU,Oceania
@@ -1090,7 +1083,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-07-03T06:09:00+00:00,New Zealand,0.7044275217732169,0,2,en,NZ,Oceania
 'fa06cd330a',extremes,Landslide,#572c03,wmo,Landslide China,2026-07-04T05:59:00+00:00,China,0.7043462488373,1,2,en,EAS,Asia
 'deebf112c9',extremes,Drought,#edc291,edo,Lack of Rain Colombia,2026-06-24T06:30:00+00:00,Colombia,0.7043131804575659,0,2,en,NWS,South-America
-'d992d46997',extremes,Storm,#b3b2b1,wmo,Storm Surge Germany,2026-06-20T06:47:00+00:00,Germany,0.7042324803737516,0,2,en,WCE,Europe
 'f7493e0a77',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon China,2026-07-01T06:52:00+00:00,China,0.7040784261213907,0,2,en,EAS,Asia
 '08e35d7fd5',extremes,Precipitation,#d60d2b,acwe,precipitation New South Wales,2026-07-04T05:59:00+00:00,Australia,0.7040299888704055,0,2,en,EAU,Oceania
 'a22387ad2e',extremes,Precipitation,#d60d2b,wmo,Rain Poland,2026-07-09T06:27:00+00:00,Poland,0.7040081058907419,0,2,en,WCE,Europe
@@ -1560,6 +1552,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2a1a5777ed',extremes,Drought,#edc291,edo,Drought Western Sahara,2026-06-24T06:30:00+00:00,Western Sahara,0.6767815480599134,0,2,en,SAH,Africa
 'd5f19885f3',extremes,Wildfire,#d60d2b,wmo,Wildfire Khanty Mansi Autonomous District,2026-07-20T05:54:00+00:00,Russia,0.6767806914485072,0,2,en,ESB,Europe
 '15e9f614ed',extremes,Heat Wave,#c40202,wmo,Heat Wave Podlaskie Province Sokólski County,2026-06-28T06:44:00+00:00,Poland,0.6767067301063578,0,2,en,WCE,Europe
+'8e164fcef9',extremes,Storm,#b3b2b1,wmo,Storm Surge ALL COASTAL WATERS.,2026-08-02T05:42:00+00:00,Vanuatu,0.6767026329257902,2,1,en,SPO,Oceania
 'a31121f6f0',extremes,Drought,#edc291,edo,Drought Saint Lucia,2026-07-13T05:53:00+00:00,Saint Lucia,0.676557534538966,0,2,en,CAR,North-America
 '400f93afe1',extremes,Thunderstorm,#53785a,wmo,Severe Weather Kyklades,2026-07-25T05:29:00+00:00,Greece,0.6764924608172925,0,2,en,MED,Europe
 'c05cdc358a',extremes,Precipitation,#d60d2b,wmo,Torrential Rain منطقة منطقة عسير أبها,2026-07-30T05:24:00+00:00,Saudi Arabia,0.6764718593575975,0,2,en,ARP,Asia
@@ -2732,6 +2725,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b93907ee5',extremes,Precipitation,#d60d2b,wmo,Precipitation Bosnia and Herzegovina,2026-07-02T06:24:00+00:00,Bosnia and Herzegovina,0.6411460788194072,0,2,en,MED,Europe
 '35c5babf8a',extremes,Storm,#b3b2b1,wmo,Storm Amazonía y norte de Litoral,2026-07-12T05:43:00+00:00,Ecuador,0.6411332373418872,1,1,en,NWS,South-America
 '7b20d0cfb3',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Suixi County,2026-07-01T06:52:00+00:00,China,0.6411109870326306,0,2,en,EAS,Asia
+'5bbe9f422e',extremes,Thunderstorm,#53785a,wmo,Hail Tomsk Region,2026-07-25T05:29:00+00:00,Russia,0.6411055002430529,1,1,en,ESB,Europe
 '280f90067e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Republic of Bashkortostan,2026-08-01T05:42:00+00:00,Russia,0.6411040926822595,0,2,en,ESB,Europe
 '6382a3f479',extremes,Storm,#b3b2b1,wmo,Storm Coastal Otago,2026-07-31T05:51:00+00:00,New Zealand,0.6410610624986977,1,1,en,NZ,Oceania
 '0639323bb2',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Thessalia,2026-07-25T05:29:00+00:00,Greece,0.6410537383476035,0,2,en,MED,Europe
@@ -2774,6 +2768,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92d0641fae',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Maoming City jurisdiction,2026-07-03T06:09:00+00:00,China,0.640476594726776,0,2,en,EAS,Asia
 'a35c425385',extremes,Storm,#b3b2b1,wmo,Storm Visegrad,2026-06-15T08:36:00+00:00,Bosnia and Herzegovina,0.6404708734336013,0,2,en,MED,Europe
 '9778ee6716',extremes,Earthquake,#870007,usgs,Earthquake Yumare,2026-06-25T06:32:00+00:00,Venezuela,0.6404679601600863,1,1,en,NSA,South-America
+'4cc7a6f84d',extremes,Storm,#b3b2b1,wmo,Storm Surge Amazonía,2026-08-02T05:42:00+00:00,Ecuador,0.6404437480125862,1,1,en,NWS,South-America
 '0308bedb90',extremes,Fog,#d60d2b,wmo,Fog Montenegro,2026-07-23T05:40:00+00:00,Montenegro,0.6404280662782681,1,1,en,MED,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Ice Germany,2026-06-10T06:49:00+00:00,Germany,0.6404050988301357,1,3,en,WCE,Europe
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,Earthquake San Antonio de los Cobres,2026-07-12T05:43:00+00:00,Argentina,0.6403920470331045,0,2,en,SES,South-America
@@ -2781,6 +2776,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '562648db0a',extremes,Flood,#030ba1,wmo,Flashflood Madison TN,2026-07-20T05:54:00+00:00,United States,0.6403781438810525,0,2,en,CNA,North-America
 '3607b79795',extremes,Storm,#b3b2b1,wmo,Storm Surge Koror Palau Coastal Waters,2026-07-09T06:27:00+00:00,United States,0.64031253964009,0,2,en,CNA,North-America
 '199f2cf0e3',extremes,Heat Wave,#c40202,wmo,Heat Wave Banja Luka,2026-07-13T05:53:00+00:00,Bosnia and Herzegovina,0.640284778763196,0,2,en,MED,Europe
+'954932e1f1',extremes,Precipitation,#d60d2b,wmo,Rain Litoral e Interandina,2026-08-02T05:42:00+00:00,Ecuador,0.6402598542099242,1,1,en,NWS,South-America
 '9dd19718e9',extremes,Storm,#b3b2b1,wmo,Storm Bodoe Loedingen,2026-06-20T06:47:00+00:00,Norway,0.6402336885760626,0,2,en,NEU,Europe
 'f7404bf81e',extremes,Storm,#b3b2b1,wmo,Storm Patuxent River to Broomes Island MD,2026-07-22T05:35:00+00:00,United States,0.6402014293036148,0,2,en,CNA,North-America
 'e992908051',extremes,Heat Wave,#c40202,wmo,Heat Wave Tambov Region,2026-07-02T06:24:00+00:00,Russia,0.640177294894315,0,2,en,ESB,Europe
@@ -2891,7 +2887,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '136338a1d6',extremes,Precipitation,#d60d2b,wmo,Torrential Rain COAH NL,2026-07-12T05:43:00+00:00,Mexico,0.6383000740809182,1,1,en,NCA,North-America
 'de5ea0826d',extremes,Heat Wave,#c40202,wmo,Heat Wave Basel,2026-07-12T05:43:00+00:00,Switzerland,0.6382566705648755,1,1,en,WCE,Europe
 'cb5837ff56',extremes,Storm,#b3b2b1,wmo,Storm Surge Śląskie Province Będziński County,2026-07-17T05:27:00+00:00,Poland,0.6382552287407457,0,2,en,WCE,Europe
-'3f340afd02',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Ecuador,2026-07-04T05:59:00+00:00,Ecuador,0.6382217843300183,1,2,en,NWS,South-America
 '22bab77b3f',extremes,Storm,#b3b2b1,wmo,Storm Surge Northern coastal Waters.,2026-06-28T06:44:00+00:00,Vanuatu,0.6381946796117748,1,1,en,SPO,Oceania
 'd7de784867',extremes,Flood,#030ba1,wmo,Flood Philippines,2026-07-21T05:36:00+00:00,Philippines,0.6381904309363055,1,2,en,SEA,Asia
 '065a68d42d',extremes,Storm,#b3b2b1,wmo,Storm Surge Mauritius,2026-07-08T05:37:00+00:00,Mauritius,0.6381774663864204,1,1,en,SIO,Africa
@@ -2986,6 +2981,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da9ff67b4b',extremes,Precipitation,#d60d2b,wmo,Downpour Tuva Republic,2026-07-27T06:05:00+00:00,Russia,0.6368466520028621,0,2,en,ESB,Europe
 '3cfd502555',extremes,Storm,#b3b2b1,wmo,Storm Reg. 3 Cordillera,2026-07-23T05:40:00+00:00,Chile,0.6368124907403235,1,1,en,SWS,South-America
 'c16aa46f44',extremes,Storm,#b3b2b1,wmo,Storm Surge BLIDA,2026-07-22T05:35:00+00:00,Algeria,0.6368003516354863,1,1,en,SAH,Africa
+'c8293bc7d1',extremes,Wildfire,#d60d2b,wmo,Wildfire South of Kamchatka Krai,2026-07-29T05:37:00+00:00,Russia,0.6367901129773946,1,1,en,ESB,Europe
 '2e538bfb03',extremes,Fog,#d60d2b,wmo,Fog Evenkiyskiy m.r.,2026-07-20T05:54:00+00:00,Russia,0.6367836734860106,1,1,en,ESB,Europe
 '0ff4d6144b',extremes,Precipitation,#d60d2b,wmo,Precipitation Krasnodar Krai,2026-07-04T05:59:00+00:00,Russia,0.6367468133308104,0,2,en,ESB,Europe
 '6c26d713f2',extremes,Drought,#edc291,edo,Lack of Rain Eritrea,2026-07-02T06:24:00+00:00,Eritrea,0.6366956594548792,0,2,en,SAH,Africa
@@ -3212,6 +3208,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd957a9afa4',extremes,Storm,#b3b2b1,wmo,Storm Surge Bryansk Region,2026-07-04T05:59:00+00:00,Russia,0.6327370608962644,0,2,en,ESB,Europe
 'a76c313df9',extremes,Heat Wave,#c40202,wmo,Heat Wave Bregenz,2026-07-11T05:27:00+00:00,Austria,0.6326728528735096,0,2,en,WCE,Europe
 'ea53853f86',extremes,Precipitation,#d60d2b,acwe,wet spell Queensland,2026-07-06T06:53:00+00:00,Australia,0.6326557009052372,0,2,en,CAU,Oceania
+'39d8c4a5db',extremes,Wildfire,#d60d2b,wmo,Wildfire Ryazan Region,2026-07-05T06:25:00+00:00,Russia,0.6326316256581531,1,1,en,ESB,Europe
 'ae17b38f3a',extremes,Landslide,#572c03,wmo,Mudslide Bijiang District,2026-06-23T06:33:00+00:00,China,0.6326147437556662,0,2,en,EAS,Asia
 '6f59c0d14e',extremes,Flood,#030ba1,wmo,Flood Bergen NJ Essex NJ Passaic NJ,2026-07-29T05:37:00+00:00,United States,0.6326076973193111,0,2,en,CNA,North-America
 'd56799e6de',extremes,Thunderstorm,#53785a,wmo,Hail Ivanovo Region,2026-06-23T06:33:00+00:00,Russia,0.6326019976465734,0,2,en,ESB,Europe
@@ -4648,6 +4645,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7e368143e7',extremes,Storm,#b3b2b1,wmo,Storm Banat,2026-06-14T07:07:00+00:00,Serbia,0.6002490807671526,0,2,en,MED,Europe
 '620e6e1834',extremes,Flood,#030ba1,wmo,Flood Beidaihe District,2026-07-06T06:52:00+00:00,China,0.6002128910002763,0,2,en,EAS,Asia
 '5164a4efdc',extremes,Storm,#b3b2b1,wmo,Storm Northern Hungary,2026-07-02T06:24:00+00:00,Hungary,0.600211381796076,0,2,en,WCE,Europe
+'d992d46997',extremes,Storm,#b3b2b1,wmo,Storm Surge Germany,2026-06-20T06:47:00+00:00,Germany,0.6000977583176889,1,2,en,WCE,Europe
 'cf5a1adb55',extremes,Heat Wave,#c40202,wmo,Heat Wave Mentougou District,2026-07-16T05:25:00+00:00,China,0.6000886483954279,0,2,en,EAS,Asia
 'b5e0c7bec8',extremes,Storm,#b3b2b1,wmo,Storm Surge Lauterbrunnen Wilderswil,2026-07-17T05:27:00+00:00,Switzerland,0.6000852947129264,0,2,en,WCE,Europe
 '95ce1fcf89',extremes,Precipitation,#d60d2b,wmo,Precipitation Aceh,2026-06-14T07:07:00+00:00,Indonesia,0.6000543302608079,0,2,en,SEA,Asia
@@ -6945,6 +6943,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd01480bffd',extremes,Drought,#edc291,edo,Dry Spell Honduras,2026-07-09T06:27:00+00:00,Honduras,0.5426026142783095,0,2,en,SCA,North-America
 '5bce65d4d6',extremes,Flood,#030ba1,wmo,Flood Black Hawk,2026-07-03T06:09:00+00:00,United States,0.542586130014532,0,2,en,CNA,North-America
 'dfade75d2b',extremes,Heat Wave,#c40202,wmo,Heat Wave Suining County,2026-07-30T05:24:00+00:00,China,0.5425641235256619,0,2,en,EAS,Asia
+'3f340afd02',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Ecuador,2026-07-04T05:59:00+00:00,Ecuador,0.5424885916805156,2,1,en,NWS,South-America
 'b94a7aef84',extremes,Storm,#b3b2b1,wmo,Storm Surge Longyao County,2026-06-16T08:27:00+00:00,China,0.542466870282318,0,2,en,EAS,Asia
 '567cf2b063',extremes,Heat Wave,#c40202,wmo,Heat Wave Ceheng County,2026-07-14T05:14:00+00:00,China,0.5424451945678674,0,2,en,EAS,Asia
 'a0b2de7fca',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Stavropol Krai,2026-07-26T05:46:00+00:00,Russia,0.5424202832948162,0,2,en,ESB,Europe
