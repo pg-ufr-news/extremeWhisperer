@@ -1,13 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '046de84cff',extremes,Wildfire,#d60d2b,effis,Wildfire İzmir Turkey,2026-08-07T09:56:00+00:00,Turkey,0.8299320058452779,1,2,en,MED,Asia
 '42a77b6b7e',extremes,Wildfire,#d60d2b,effis,Wildfire Portugal,2026-08-07T09:56:00+00:00,Portugal,0.800262238299047,1,3,en,MED,Europe
-'8626b81b9b',extremes,Flood,#030ba1,emdat,Flood Zamora Chinchipe,2026-07-21T05:36:00+00:00,Ecuador,0.8000188683091306,0,2,en,NWS,South-America
-'50ab15c1e2',extremes,Wildfire,#d60d2b,effis,Bushfire Eskişehir Turkey,2026-08-07T11:06:00+00:00,Turkey,0.7993898881233876,0,2,en,MED,Asia
-'da1ba9730c',extremes,Wildfire,#d60d2b,effis,Bushfire Syria,2026-08-07T11:06:00+00:00,Syria,0.7993886442695229,0,2,en,MED,Asia
-'1e3db537cb',extremes,Wildfire,#d60d2b,effis,Bushfire Niederösterreich Süd Austria,2026-08-07T11:06:00+00:00,Austria,0.7993885093775592,0,2,en,WCE,Europe
-'38c3444fa0',extremes,Wildfire,#d60d2b,effis,Wild Fire Мачванска област Bosnia and Herzegovina,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.7993884416008448,0,2,en,MED,Europe
-'f3ede15a48',extremes,Wildfire,#d60d2b,effis,Wild Fire Keski Suomi Finland,2026-08-07T09:56:00+00:00,Finland,0.7993879370889325,0,2,en,NEU,Europe
-'71c228acb5',extremes,Wildfire,#d60d2b,effis,Wild Fire Turkey,2026-08-07T09:56:00+00:00,Turkey,0.7993875982198404,0,2,en,MED,Asia
 'b7c7b7d962',extremes,Wildfire,#d60d2b,effis,Bushfire Croatia,2026-08-07T11:06:00+00:00,Croatia,0.7993854086742742,0,2,en,WCE,Europe
 '7942a3c79f',extremes,Wildfire,#d60d2b,effis,Wildfire Turkey,2026-08-07T09:56:00+00:00,Turkey,0.7993851193189839,0,2,en,MED,Asia
 '5ab0a2836b',extremes,Wildfire,#d60d2b,effis,Bushfire Turkey,2026-08-07T09:56:00+00:00,Turkey,0.799384874110802,0,2,en,MED,Asia
@@ -1479,6 +1472,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '420803a9d1',extremes,Heat Wave,#c40202,wmo,Heat Wave Syd og Sønderjylland,2026-06-26T06:36:00+00:00,Denmark,0.6906315290713044,0,2,en,NEU,Europe
 'e98272f3f9',extremes,Storm,#b3b2b1,wmo,Storm Surge Krasnodar Krai,2026-06-30T06:39:00+00:00,Russia,0.6906179362435628,0,2,en,ESB,Europe
 '2820469dd6',extremes,Flood,#030ba1,wmo,Flooding South of Khabarovsk Krai,2026-06-30T06:39:00+00:00,Russia,0.6906157458140145,0,2,en,ESB,Europe
+'71c228acb5',extremes,Wildfire,#d60d2b,effis,Wild Fire Turkey,2026-08-07T09:56:00+00:00,Turkey,0.6905130918201976,1,2,en,MED,Asia
 '476b84cffa',extremes,Heat Wave,#c40202,wmo,Heat Wave Mineral and Southern Lyon Counties,2026-07-30T05:24:00+00:00,United States,0.6904668817043768,0,2,en,CNA,North-America
 '5d75e96690',extremes,Storm,#b3b2b1,wmo,Storm Upper Jefferson,2026-07-22T05:35:00+00:00,United States,0.6904337472714519,0,2,en,CNA,North-America
 'ff3a653560',extremes,Storm,#b3b2b1,wmo,Storm Southern Harrison,2026-07-21T05:36:00+00:00,United States,0.6904212962143863,0,2,en,CNA,North-America
@@ -1727,7 +1721,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3efcf61c61',extremes,Wildfire,#d60d2b,effis,Wildfire Harouf Lebanon,2026-08-07T11:06:00+00:00,Lebanon,0.6794816026607224,1,1,en,MED,Asia
 'b136fb0b82',extremes,Wildfire,#d60d2b,effis,Bushfire Majdel Baana Lebanon,2026-08-07T11:06:00+00:00,Lebanon,0.6794815564581242,1,1,en,MED,Asia
 'e11c66b169',extremes,Wildfire,#d60d2b,effis,Wild Fire N.A. Algeria,2026-08-07T09:56:00+00:00,Algeria,0.6794814426803669,1,1,en,MED,Africa
+'50ab15c1e2',extremes,Wildfire,#d60d2b,effis,Bushfire Eskişehir Turkey,2026-08-07T11:06:00+00:00,Turkey,0.6794814049048795,1,1,en,MED,Asia
 '1ef4ac9bca',extremes,Wildfire,#d60d2b,effis,Wildfire N.A. Algeria,2026-08-07T09:56:00+00:00,Algeria,0.6794813238653378,1,1,en,MED,Africa
+'da1ba9730c',extremes,Wildfire,#d60d2b,effis,Bushfire Syria,2026-08-07T11:06:00+00:00,Syria,0.6794803476290945,1,1,en,MED,Asia
+'1e3db537cb',extremes,Wildfire,#d60d2b,effis,Bushfire Niederösterreich Süd Austria,2026-08-07T11:06:00+00:00,Austria,0.6794802329709253,1,1,en,WCE,Europe
+'38c3444fa0',extremes,Wildfire,#d60d2b,effis,Wild Fire Мачванска област Bosnia and Herzegovina,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.679480175360718,1,1,en,MED,Europe
+'f3ede15a48',extremes,Wildfire,#d60d2b,effis,Wild Fire Keski Suomi Finland,2026-08-07T09:56:00+00:00,Finland,0.6794797465255926,1,1,en,NEU,Europe
 '1397b5f4ed',extremes,Drought,#edc291,edo,Dryness South Africa,2026-08-01T05:42:00+00:00,South Africa,0.6793766348355936,0,2,en,ESAF,Africa
 'ce1135c9b3',extremes,Earthquake,#870007,usgs,Earthquake north of Ascension Island,2026-08-03T05:57:00+00:00,,0.679360014280941,0,2,en,EAO,Atlantic Ocean
 'f2536d75b7',extremes,Thunderstorm,#53785a,wmo,Hail Grand Rapids and Easterville,2026-07-06T06:52:00+00:00,Canada,0.6793465995556183,0,2,en,NEN,North-America
