@@ -1,16 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '046de84cff',extremes,Wildfire,#d60d2b,effis,Wildfire İzmir Turkey,2026-08-07T09:56:00+00:00,Turkey,0.8299320058452779,1,2,en,MED,Asia
 '42a77b6b7e',extremes,Wildfire,#d60d2b,effis,Wildfire Portugal,2026-08-07T09:56:00+00:00,Portugal,0.800262238299047,1,3,en,MED,Europe
-'7b5873a494',extremes,Wildfire,#d60d2b,effis,Wild Fire Hrvatska Dubrovačko neretvanska županija Orebić,2026-08-15T03:13:00+00:00,Croatia,0.7561864495255743,0,2,en,MED,Europe
-'8ae1582ca9',extremes,Snow&Ice,#d60d2b,wmo,Ice Lindis Pass SH8,2026-08-15T03:13:00+00:00,New Zealand,0.7561448476460848,0,2,en,NZ,Oceania
-'3e916b6d8e',extremes,Storm,#b3b2b1,wmo,Storm Surge Guayas Manabí Los Ríos,2026-08-15T03:13:00+00:00,Ecuador,0.7561078838642146,0,2,en,NWS,South-America
-'caea7e2488',extremes,Storm,#b3b2b1,wmo,Storm 04 05 05m 06 07 08a 08b,2026-08-13T04:26:00+00:00,Chile,0.7561034322096097,0,2,en,SWS,South-America
-'27e5411070',extremes,Precipitation,#d60d2b,wmo,Downpour Solomon Islands,2026-08-16T03:28:00+00:00,Solomon Islands,0.7560871493340238,0,2,en,EPO,Oceania
-'fc01b1a28e',extremes,Storm,#b3b2b1,wmo,Storm Loja,2026-08-15T03:13:00+00:00,Ecuador,0.7560209804583847,0,2,en,NWS,South-America
-'4c73f589ad',extremes,Storm,#b3b2b1,wmo,Storm Imbabura Pichincha,2026-08-12T04:23:00+00:00,Ecuador,0.7560131996850893,0,2,en,NWS,South-America
-'0d0c70f1f5',extremes,Storm,#b3b2b1,wmo,Storm Sucumbios Orellana Pastaza,2026-08-14T04:24:00+00:00,Ecuador,0.7557657759422999,0,2,en,NWS,South-America
-'8bc842baf5',extremes,Storm,#b3b2b1,wmo,Storm Surge Quito,2026-08-14T04:24:00+00:00,Ecuador,0.7557300071943369,0,2,en,NWS,South-America
-'d77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-08-15T03:13:00+00:00,Canada,0.7557233930505767,0,2,en,NEN,North-America
 '452a3c5c46',extremes,Storm,#b3b2b1,wmo,Storm Guayas Manabí Los Ríos,2026-08-14T04:24:00+00:00,Ecuador,0.7556545833657503,0,2,en,NWS,South-America
 '1a31b1982f',extremes,Snow&Ice,#d60d2b,wmo,Ice Lewis Pass SH7,2026-08-16T03:28:00+00:00,New Zealand,0.7556431020143314,0,2,en,NZ,Oceania
 '83f66c0c13',extremes,Drought,#edc291,edo,Drought United Kingdom,2026-08-12T04:23:00+00:00,United Kingdom,0.7553002195912337,0,2,en,NEU,Europe
@@ -1896,6 +1886,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3813b9a50b',extremes,Wildfire,#d60d2b,effis,Wildfire Lebanon Harouf N.A.,2026-08-07T11:06:00+00:00,Lebanon,0.6791695559771912,1,1,en,MED,Asia
 '28cc54c711',extremes,Wildfire,#d60d2b,effis,Wild Fire Lebanon Majdel Baana N.A.,2026-08-07T11:06:00+00:00,Lebanon,0.6791666218174875,1,1,en,MED,Asia
 '9b031c92bc',extremes,Fog,#d60d2b,wmo,Fog Oryol Region,2026-07-12T05:43:00+00:00,Russia,0.6791490326065599,0,2,en,ESB,Europe
+'d77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-08-15T03:13:00+00:00,Canada,0.6791352409111721,1,3,en,NEN,North-America
 '0e8eabf410',extremes,Flood,#030ba1,wmo,Flashflood Will IL,2026-08-02T05:42:00+00:00,United States,0.6791304761815637,0,2,en,CNA,North-America
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,cold weather Western Australia,2026-08-12T04:23:00+00:00,Australia,0.6791270483567897,1,2,en,CAU,Oceania
 'f6f5aa8617',extremes,Earthquake,#870007,usgs,Earthquake Topolobampo,2026-07-01T06:52:00+00:00,Mexico,0.6791154834912771,0,2,en,NCA,North-America
@@ -3302,21 +3293,29 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4165a63454',extremes,Heat Wave,#c40202,wmo,Heat Wave Leoben,2026-07-29T05:37:00+00:00,Austria,0.6427355254543224,0,2,en,WCE,Europe
 '1a2c0a270b',extremes,Storm,#b3b2b1,wmo,Storm Surge Eastfjords,2026-07-31T05:51:00+00:00,Iceland,0.6427293531440273,1,1,en,GIC,Europe
 'bc85c67872',extremes,Storm,#b3b2b1,wmo,Storm Kuwait,2026-07-16T05:25:00+00:00,Kuwait,0.6427277965195057,1,1,en,ARP,Asia
+'8ae1582ca9',extremes,Snow&Ice,#d60d2b,wmo,Ice Lindis Pass SH8,2026-08-15T03:13:00+00:00,New Zealand,0.642723120499172,1,1,en,NZ,Oceania
 '0f045e33e1',extremes,Storm,#b3b2b1,wmo,Storm Surge Reg. 4 Cordillera,2026-07-19T05:37:00+00:00,Chile,0.6427228613671658,1,1,en,SWS,South-America
 'c47ab85b05',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Pengze County,2026-08-10T04:14:00+00:00,China,0.6427048220919294,0,2,en,EAS,Asia
+'3e916b6d8e',extremes,Storm,#b3b2b1,wmo,Storm Surge Guayas Manabí Los Ríos,2026-08-15T03:13:00+00:00,Ecuador,0.6426917012845824,1,1,en,NWS,South-America
+'caea7e2488',extremes,Storm,#b3b2b1,wmo,Storm 04 05 05m 06 07 08a 08b,2026-08-13T04:26:00+00:00,Chile,0.6426879173781682,1,1,en,SWS,South-America
+'27e5411070',extremes,Precipitation,#d60d2b,wmo,Downpour Solomon Islands,2026-08-16T03:28:00+00:00,Solomon Islands,0.6426740769339202,1,1,en,EPO,Oceania
 'd335de08b3',extremes,Storm,#b3b2b1,wmo,Storm Surge Guam,2026-08-04T05:32:00+00:00,United States,0.6426699352752723,0,2,en,CNA,North-America
 '52741de976',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Lianshui County,2026-07-11T05:27:00+00:00,China,0.6426645098918266,0,2,en,EAS,Asia
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,Heat Wave Chile,2026-07-04T05:59:00+00:00,Chile,0.6426615876524456,1,2,en,SWS,South-America
 '17a1dc8eb1',extremes,Thunderstorm,#53785a,wmo,Hail Republic of Bashkortostan,2026-08-02T05:42:00+00:00,Russia,0.6426492795673782,0,2,en,ESB,Europe
 '2433af70de',extremes,Storm,#b3b2b1,wmo,Storm Surge Belize,2026-07-07T06:30:00+00:00,Belize,0.6426435828373647,1,1,en,SCA,North-America
+'fc01b1a28e',extremes,Storm,#b3b2b1,wmo,Storm Loja,2026-08-15T03:13:00+00:00,Ecuador,0.642617833389627,1,1,en,NWS,South-America
+'4c73f589ad',extremes,Storm,#b3b2b1,wmo,Storm Imbabura Pichincha,2026-08-12T04:23:00+00:00,Ecuador,0.6426112197323258,1,1,en,NWS,South-America
 'a7859b1ea4',extremes,Wildfire,#d60d2b,effis,Wild Fire Ελλάδα  Λασίθι Τοπική Κοινότητα Ζάκρου,2026-08-11T04:01:00+00:00,Greece,0.6425511273903993,0,2,en,MED,Europe
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2026-08-06T05:33:00+00:00,Canada,0.6425344916163114,1,1,en,NEN,North-America
 '61fcfd817d',extremes,Storm,#b3b2b1,wmo,Storm Ivanovo Region,2026-08-02T05:42:00+00:00,Russia,0.6424907089084555,0,2,en,ESB,Europe
 '5df0d65452',extremes,Storm,#b3b2b1,wmo,Storm Nenets Autonomous District,2026-08-10T04:14:00+00:00,Russia,0.6424826457536086,0,2,en,ESB,Europe
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,Storm Surge Iceland,2026-07-12T05:43:00+00:00,Iceland,0.6424699984927436,1,1,en,GIC,Europe
+'0d0c70f1f5',extremes,Storm,#b3b2b1,wmo,Storm Sucumbios Orellana Pastaza,2026-08-14T04:24:00+00:00,Ecuador,0.6424009095509549,1,1,en,NWS,South-America
 'ac4720587c',extremes,Snow&Ice,#d60d2b,wmo,Freezing Reg. 3 Cordillera,2026-07-15T05:15:00+00:00,Chile,0.6423985016855207,1,1,en,SWS,South-America
 'fb2669902d',extremes,Wildfire,#d60d2b,wmo,Wildfire Samara Region,2026-07-29T05:37:00+00:00,Russia,0.6423890869182873,1,1,en,ESB,Europe
 'de21b3d7b5',extremes,Heat Wave,#c40202,wmo,Heat Wave Wiener Neustadt Stadt,2026-08-04T05:32:00+00:00,Austria,0.6423784565481834,0,2,en,WCE,Europe
+'8bc842baf5',extremes,Storm,#b3b2b1,wmo,Storm Surge Quito,2026-08-14T04:24:00+00:00,Ecuador,0.6423705061151863,1,1,en,NWS,South-America
 '54559d4fe4',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Moosonee,2026-07-14T05:14:00+00:00,Canada,0.6423648217077342,1,1,en,NEN,North-America
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,Storm Surge Uruguay,2026-07-19T05:37:00+00:00,Uruguay,0.6423533058637348,1,1,en,SES,South-America
 'dac860fd6d',extremes,Storm,#b3b2b1,wmo,Storm Surge Madagascar,2026-07-23T05:40:00+00:00,Madagascar,0.6423432281076403,1,1,en,MDG,Africa
