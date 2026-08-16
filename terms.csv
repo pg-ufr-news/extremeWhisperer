@@ -1,13 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '046de84cff',extremes,Wildfire,#d60d2b,effis,Wildfire İzmir Turkey,2026-08-07T09:56:00+00:00,Turkey,0.8299320058452779,1,2,en,MED,Asia
 '42a77b6b7e',extremes,Wildfire,#d60d2b,effis,Wildfire Portugal,2026-08-07T09:56:00+00:00,Portugal,0.800262238299047,1,3,en,MED,Europe
-'7aef40d766',extremes,Wildfire,#d60d2b,effis,Bushfire Morocco,2026-08-07T09:56:00+00:00,Morocco,0.7993762637871225,0,2,en,MED,Africa
-'be647fc7a4',extremes,Storm,#b3b2b1,wmo,Storm Surge Ecuador,2026-08-01T05:42:00+00:00,Ecuador,0.7632974815443735,0,2,en,NWS,South-America
-'c579edc248',extremes,Wildfire,#d60d2b,effis,Wild Fire Eskişehir Turkey,2026-08-15T03:13:00+00:00,Turkey,0.763034962436377,0,2,en,MED,Asia
-'e3d5e66426',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Jiashan County,2026-08-11T04:01:00+00:00,China,0.7628953991704361,0,2,en,EAS,Asia
-'fd92a610c9',extremes,Wildfire,#d60d2b,effis,Wildfire România Mehedinţi Punghina,2026-08-15T03:13:00+00:00,Romania,0.7625141174344644,0,2,en,MED,Europe
-'48c40ce0a5',extremes,Wildfire,#d60d2b,effis,Bushfire Браничевска област Serbia,2026-08-15T03:13:00+00:00,Serbia,0.7624868286387425,0,2,en,MED,Europe
-'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,Ice Chile,2026-08-04T05:32:00+00:00,Chile,0.7620809461164433,0,2,en,SWS,South-America
 '9044bc0335',extremes,Earthquake,#870007,usgs,Earthquake Georgetown,2026-07-28T05:30:00+00:00,Saint Helena,0.7616520582613682,0,2,en,EAO,Atlantic Ocean
 '6cf14ca636',extremes,Drought,#edc291,edo,Lack of Rain Guatemala,2026-08-13T04:26:00+00:00,Guatemala,0.7614704477736881,0,2,en,SCA,North-America
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,Storm Vanuatu,2026-07-27T06:05:00+00:00,Vanuatu,0.7613558394368433,0,2,en,SPO,Oceania
@@ -2774,6 +2767,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fb96ddc2b9',extremes,Wildfire,#d60d2b,effis,Wildfire Italia Potenza Ginestra,2026-08-14T04:24:00+00:00,Italy,0.6527901344377526,0,2,en,MED,Europe
 '16f0fe95ca',extremes,Heat Wave,#c40202,wmo,Heat Wave Stadt Salzgitter,2026-08-04T05:32:00+00:00,Germany,0.6527809566235413,0,2,en,WCE,Europe
 '371c437162',extremes,Precipitation,#d60d2b,wmo,Downpour Belarus,2026-07-01T06:52:00+00:00,Belarus,0.6527248525367073,0,2,en,WCE,Europe
+'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,Ice Chile,2026-08-04T05:32:00+00:00,Chile,0.6527198841989768,1,2,en,SWS,South-America
 '50de04165f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Marche,2026-07-06T06:52:00+00:00,Italy,0.652719161418894,0,2,en,MED,Europe
 '1dda9f1543',extremes,Storm,#b3b2b1,wmo,Storm Moonsund,2026-07-03T06:09:00+00:00,Estonia,0.652654814027115,0,2,en,NEU,Europe
 '4a1aad10f1',extremes,Wildfire,#d60d2b,effis,Wild Fire Italia Pordenone Tramonti di Sotto,2026-08-15T03:13:00+00:00,Italy,0.652647368878707,0,2,en,WCE,Europe
@@ -2951,6 +2945,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '367a55d0c2',extremes,Storm,#b3b2b1,wmo,Storm north of Amur Region,2026-07-14T05:14:00+00:00,Russia,0.6488483592220622,0,2,en,ESB,Europe
 '6896a1cd72',extremes,Storm,#b3b2b1,wmo,Storm Surge Kabardino Balkar Republic,2026-07-22T05:35:00+00:00,Russia,0.6488302144690616,0,2,en,ESB,Europe
 'b997972ccd',extremes,Wildfire,#d60d2b,effis,Wildfire Lebanon EL Khiam N.A.,2026-08-14T04:24:00+00:00,Lebanon,0.6488287328845446,0,2,en,MED,Asia
+'be647fc7a4',extremes,Storm,#b3b2b1,wmo,Storm Surge Ecuador,2026-08-01T05:42:00+00:00,Ecuador,0.6488028893127175,1,1,en,NWS,South-America
 '1613eab3ee',extremes,Drought,#edc291,edo,Lack of Rain Ethiopia,2026-06-29T07:13:00+00:00,Ethiopia,0.6487983962638619,0,2,en,NEAF,Africa
 'c3a6040a94',extremes,Drought,#edc291,edo,Drought Mauritius,2026-07-30T05:24:00+00:00,Mauritius,0.6487557249813506,0,2,en,SIO,Indian Ocean
 '86961d0e79',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Hanjiang District,2026-07-12T05:43:00+00:00,China,0.6487416838714639,0,2,en,EAS,Asia
@@ -2962,8 +2957,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd00f98e533',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Omsk Region,2026-07-22T05:35:00+00:00,Russia,0.6486208631482477,0,2,en,ESB,Europe
 '713c7f59fc',extremes,Wildfire,#d60d2b,effis,Wildfire Italia Latina Itri,2026-08-10T04:13:00+00:00,Italy,0.6486120517535268,0,2,en,MED,Europe
 '6382f7ad07',extremes,Drought,#edc291,edo,Dryness Croatia,2026-08-07T11:06:00+00:00,Croatia,0.6486052023638315,0,2,en,MED,Europe
+'c579edc248',extremes,Wildfire,#d60d2b,effis,Wild Fire Eskişehir Turkey,2026-08-15T03:13:00+00:00,Turkey,0.6485797180709204,1,1,en,MED,Asia
 '5e07575bc3',extremes,Fog,#d60d2b,wmo,Fog Fogang County,2026-07-19T05:37:00+00:00,China,0.6485417905843631,0,2,en,EAS,Asia
 'aab7909052',extremes,Fog,#d60d2b,wmo,Fog Israel,2026-07-24T05:36:00+00:00,Israel,0.6485041554872458,1,2,en,MED,Asia
+'e3d5e66426',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Jiashan County,2026-08-11T04:01:00+00:00,China,0.6484610892948707,1,1,en,EAS,Asia
 'cb3a925e12',extremes,Storm,#b3b2b1,wmo,Storm Surge east up,2026-07-10T06:27:00+00:00,India,0.6484525623802175,0,2,en,SAS,Asia
 '239884a9a3',extremes,Storm,#b3b2b1,wmo,Storm København og Nordsjælland,2026-07-17T05:27:00+00:00,Denmark,0.6483575736183596,0,2,en,NEU,Europe
 '761b0504b3',extremes,Thunderstorm,#53785a,wmo,Severe Weather Yaroslavl Region,2026-07-13T05:53:00+00:00,Russia,0.6483383253088455,0,2,en,ESB,Europe
@@ -2977,8 +2974,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df2ca6986d',extremes,Storm,#b3b2b1,wmo,Storm Surge Loppa North Cape,2026-07-16T05:25:00+00:00,Norway,0.648212782719347,0,2,en,NEU,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,Precipitation Italy,2026-07-25T05:29:00+00:00,Italy,0.6481750559516661,0,2,en,MED,Europe
 'e956e3cb06',extremes,Fog,#d60d2b,wmo,Fog Hailun,2026-07-27T06:05:00+00:00,China,0.6481537540205888,0,2,en,EAS,Asia
+'fd92a610c9',extremes,Wildfire,#d60d2b,effis,Wildfire România Mehedinţi Punghina,2026-08-15T03:13:00+00:00,Romania,0.6481369998192947,1,1,en,MED,Europe
 '7e28328f61',extremes,Wildfire,#d60d2b,effis,Wild Fire Italia Foggia Biccari,2026-08-14T04:24:00+00:00,Italy,0.6481303323495327,0,2,en,MED,Europe
 '3e9a8b8f77',extremes,Storm,#b3b2b1,wmo,Storm Surge Upper St. Charles,2026-07-21T05:36:00+00:00,United States,0.6481235686724445,0,2,en,CNA,North-America
+'48c40ce0a5',extremes,Wildfire,#d60d2b,effis,Bushfire Браничевска област Serbia,2026-08-15T03:13:00+00:00,Serbia,0.6481138043429311,1,1,en,MED,Europe
 'b43a4dc985',extremes,Heat Wave,#c40202,wmo,Heat Wave Wiener Neustadt Land,2026-08-01T05:42:00+00:00,Austria,0.6481070690661789,0,2,en,WCE,Europe
 '671166b8ea',extremes,Storm,#b3b2b1,wmo,Storm Surge Klaipėda county,2026-07-20T05:54:00+00:00,Lithuania,0.6480892755796613,0,2,en,WCE,Europe
 '1ea2d7227e',extremes,Precipitation,#d60d2b,wmo,Rain Maldah district of West Bengal,2026-07-20T05:54:00+00:00,India,0.6480856252770512,0,2,en,SAS,Asia
