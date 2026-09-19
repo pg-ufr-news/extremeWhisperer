@@ -12,15 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e7c250a95',extremes,Earthquake,#870007,usgs,Earthquake Aniso,2026-08-26T03:33:00+00:00,Peru,0.7898033982165447,1,2,en,NWS,South-America
 '7b9635c66a',extremes,Thunderstorm,#53785a,wmo,Hail Nigeria,2026-08-27T13:00:00+00:00,Nigeria,0.7674811530594259,1,2,en,WAF,Africa
 '4ff9a5d897',extremes,Wildfire,#d60d2b,effis,Wildfire Serbia,2026-08-07T09:56:00+00:00,Serbia,0.7526009237117853,1,2,en,MED,Europe
-'0d5725d788',extremes,Snow Avalanche,#deddd5,wmo,Avalanche deler av Vestland fylke,2026-08-09T03:59:00+00:00,Norway,0.7512224747140043,0,2,en,NEU,Europe
-'243cd35b63',extremes,Wildfire,#d60d2b,effis,Bushfire United Kingdom Gwent Valleys Caerphilly,2026-08-28T14:32:00+00:00,United Kingdom,0.7512182967160403,0,2,en,NEU,Europe
-'b97a9088bf',extremes,Flood,#030ba1,wmo,Flashflood Fairfield OH Licking OH,2026-08-21T03:30:00+00:00,United States,0.7512135334940941,0,2,en,CNA,North-America
-'a0fe6991da',extremes,Precipitation,#d60d2b,wmo,Rain Galápagos,2026-08-22T03:22:00+00:00,Ecuador,0.7511976307746276,0,2,en,NWS,South-America
-'0daf635b12',extremes,Storm,#b3b2b1,wmo,Storm Surge Kachemak Bay,2026-08-28T14:32:00+00:00,United States,0.7511483664383236,0,2,en,CNA,North-America
-'88d9076809',extremes,Precipitation,#d60d2b,wmo,Precipitation Temotu province,2026-08-17T03:28:00+00:00,Solomon Islands,0.751123249116909,0,2,en,EPO,Oceania
-'b31b5f41c1',extremes,Fog,#d60d2b,wmo,Fog Ryazan Region,2026-08-18T03:24:00+00:00,Russia,0.7511157617093999,0,2,en,ESB,Europe
-'2030891a8d',extremes,Fog,#d60d2b,wmo,Fog Coastal Washington,2026-08-25T03:27:00+00:00,United States,0.7511142520563434,0,2,en,CNA,North-America
-'515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7511136662827409,0,2,en,NEU,Europe
 'b80e15f835',extremes,Snow&Ice,#d60d2b,wmo,Ice Russia,2026-08-10T04:14:00+00:00,Russia,0.7511078104061002,0,2,en,ESB,Europe
 '5966f3dffc',extremes,Storm,#b3b2b1,wmo,Storm Surge Latvia,2026-08-22T03:22:00+00:00,Latvia,0.7510687319914887,0,2,en,WCE,Europe
 'ff8dcb04ac',extremes,Flood,#030ba1,wmo,Flashflood Delaware IN Madison IN,2026-08-13T04:26:00+00:00,United States,0.7510598107777834,0,2,en,CNA,North-America
@@ -1378,6 +1369,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f31458c08a',extremes,Wildfire,#d60d2b,effis,Wildfire Sivas Turkey,2026-08-20T03:26:00+00:00,Turkey,0.7090157817680776,0,2,en,MED,Asia
 '1db65cb972',extremes,Earthquake,#870007,usgs,Earthquake Cafayate,2026-09-12T07:19:00+00:00,Argentina,0.708991629706918,0,2,en,SES,South-America
 'e70064290d',extremes,Storm,#b3b2b1,wmo,Storm Tasmania East of Flinders Island,2026-08-10T04:14:00+00:00,Australia,0.7088773386204342,0,2,en,CAU,Oceania
+'515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7088725463403297,1,2,en,NEU,Europe
 '05c1dc3c3c',extremes,Storm,#b3b2b1,wmo,Storm Port of Tallinn,2026-08-07T04:37:00+00:00,Estonia,0.7088494753563678,0,2,en,NEU,Europe
 '82144550c5',extremes,Wildfire,#d60d2b,effis,Bushfire Κύπρος  Κύπρος Μαραθούντα,2026-08-21T03:30:00+00:00,Cyprus,0.7087944464484648,0,2,en,MED,Europe
 'acd0e1409b',extremes,Flood,#030ba1,acwe,flooding New South Wales,2026-08-29T09:19:00+00:00,Australia,0.7087382327982815,0,2,en,EAU,Oceania
@@ -4124,8 +4116,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd39daa58c4',extremes,Storm,#b3b2b1,wmo,Storm Surge Southeast Iceland,2026-09-09T07:32:00+00:00,Iceland,0.6385986177071189,1,1,en,GIC,Europe
 '36303cef23',extremes,Wildfire,#d60d2b,effis,Wild Fire Palermo Italy,2026-08-26T03:34:00+00:00,Italy,0.6385712888841744,0,2,en,MED,Europe
 '019c03eed2',extremes,Wildfire,#d60d2b,effis,Wildfire Italia Trapani Alcamo,2026-09-01T07:57:00+00:00,Italy,0.6385701166637647,0,2,en,MED,Europe
+'243cd35b63',extremes,Wildfire,#d60d2b,effis,Bushfire United Kingdom Gwent Valleys Caerphilly,2026-08-28T14:32:00+00:00,United Kingdom,0.6385355522086342,1,1,en,NEU,Europe
+'b97a9088bf',extremes,Flood,#030ba1,wmo,Flashflood Fairfield OH Licking OH,2026-08-21T03:30:00+00:00,United States,0.63853150346998,1,1,en,CNA,North-America
+'a0fe6991da',extremes,Precipitation,#d60d2b,wmo,Rain Galápagos,2026-08-22T03:22:00+00:00,Ecuador,0.6385181061584335,1,1,en,NWS,South-America
 'd5dae6b446',extremes,Heat Wave,#c40202,wmo,Heat Wave Śląskie Province Ruda Śląska County,2026-08-10T04:14:00+00:00,Poland,0.6385101986728549,0,2,en,WCE,Europe
 'c2f36e9173',extremes,Earthquake,#870007,usgs,Earthquake Arthurs Point,2026-09-02T07:16:00+00:00,New Zealand,0.6384926365046374,0,2,en,NZ,Oceania
+'0daf635b12',extremes,Storm,#b3b2b1,wmo,Storm Surge Kachemak Bay,2026-08-28T14:32:00+00:00,United States,0.6384761114725751,1,1,en,CNA,North-America
+'88d9076809',extremes,Precipitation,#d60d2b,wmo,Precipitation Temotu province,2026-08-17T03:28:00+00:00,Solomon Islands,0.6384547617493727,1,1,en,EPO,Oceania
+'b31b5f41c1',extremes,Fog,#d60d2b,wmo,Fog Ryazan Region,2026-08-18T03:24:00+00:00,Russia,0.6384483974529899,1,1,en,ESB,Europe
+'2030891a8d',extremes,Fog,#d60d2b,wmo,Fog Coastal Washington,2026-08-25T03:27:00+00:00,United States,0.6384471292478919,1,1,en,CNA,North-America
 'd56799e6de',extremes,Thunderstorm,#53785a,wmo,Hail Ivanovo Region,2026-08-23T03:30:00+00:00,Russia,0.6384175793611784,0,2,en,ESB,Europe
 '6690573b9a',extremes,Earthquake,#870007,usgs,Earthquake Joshīmath,2026-09-04T07:23:00+00:00,India,0.6384132697360095,0,2,en,TIB,Asia
 '1ccd8c33a5',extremes,Drought,#edc291,edo,Lack of Rain Portugal,2026-08-09T03:59:00+00:00,Portugal,0.6384063220486458,0,2,en,NAO,Atlantic Ocean
