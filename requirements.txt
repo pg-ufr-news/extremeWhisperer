@@ -12,7 +12,7 @@ beautifulsoup4==4.9.0
 bleach==6.1.0
 blinker==1.8.2
 branca==0.8.2
-certifi==2026.10.19
+certifi==2026.10.23
 cffi==1.17.1
 chardet==3.0.4
 charset-normalizer==3.5.2
@@ -128,7 +128,7 @@ python-apt==2.0.1+ubuntu0.20.4.1
 python-dateutil==3.0.0
 python-dotenv==1.0.1
 python-multipart==0.0.20
-pytz==2026.5
+pytz==2026.6
 PyYAML==6.0.3
 pyzmq==27.1.0
 ratelim==0.1.6
@@ -176,7 +176,7 @@ trio==0.27.0
 trio-websocket==0.12.2
 typer==0.20.1
 typing_extensions==4.13.2
-tzdata==2026.5
+tzdata==2026.6
 tzlocal==5.2
 ufw==0.36
 unattended-upgrades==0.1
